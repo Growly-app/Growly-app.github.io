@@ -3,26 +3,90 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GROWLY サポートページ</title>
+    <title>Growly - 忘却曲線に基づいた科学的な英語学習アプリ</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; color: #333; }
-        h1 { color: #1a73e8; }
-        .contact-box { background: #f8f9fa; padding: 15px; border-radius: 8px; margin-top: 20px; }
+        :root {
+            --accent: #2a66ff;
+            --bg: #f4f6fb;
+            --surface: #ffffff;
+            --text: #1f2937;
+            --muted: #6b7280;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        .container {
+            width: min(600px, 90%);
+            background: var(--surface);
+            padding: 40px;
+            border-radius: 24px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+            text-align: center;
+        }
+        h1 {
+            color: var(--accent);
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+        }
+        .tagline {
+            font-size: 1.1rem;
+            color: var(--muted);
+            margin-bottom: 30px;
+        }
+        .support-box {
+            background: #fafbff;
+            border: 1px solid #e5e7eb;
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 30px;
+            text-align: left;
+        }
+        .support-box h2 {
+            font-size: 1.2rem;
+            margin-top: 0;
+        }
+        .email {
+            font-weight: bold;
+            color: var(--accent);
+            text-decoration: none;
+        }
+        .footer-links {
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+        .footer-links a {
+            color: var(--muted);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+        .footer-links a:hover {
+            color: var(--accent);
+        }
     </style>
 </head>
 <body>
-    <h1>GROWLY (英単語コア)</h1>
-    <p>英語は、毎日の積み上げで変わる。学習をサポートするアプリです。</p>
+    <div class="container">
+        <h1>Growly</h1>
+        <p class="tagline">忘却曲線で記憶に定着。科学的な英語学習を、もっと身近に。</p>
 
-    <div class="contact-box">
-        <h2>サポート・お問い合わせ</h2>
-        <p>アプリに関するご質問、不具合の報告、退会処理などは以下のメールアドレスまでお気軽にご連絡ください。</p>
-        <p><strong>Email:</strong> australia.firmlife@gmail.com</p>
+        <div class="support-box">
+            <h2>サポート・お問い合わせ</h2>
+            <p>アプリに関するご質問、不具合の報告などは、以下のメールアドレスまでお気軽にご連絡ください。</p>
+            <p>Email: <a href="mailto:australia.firmlife@gmail.com" class="email">australia.firmlife@gmail.com</a></p>
+        </div>
+
+        <div class="footer-links">
+            <a href="privacy.html">利用規約およびプライバシーポリシー</a>
+        </div>
     </div>
-
-    <h2>法的情報</h2>
-    <ul>
-        <li><a href="privacy.html">利用規約およびプライバシーポリシー</a></li>
-    </ul>
 </body>
 </html>
