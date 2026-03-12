@@ -1,42 +1,277 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>利用規約・プライバシーポリシー | GROWLY</title>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Growly 利用規約・プライバシーポリシー</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; color: #333; }
-        h1, h2 { border-bottom: 1px solid #ccc; padding-bottom: 5px; margin-top: 30px; }
+      :root {
+        --bg: #f4f6fb;
+        --surface: #ffffff;
+        --text: #1f2937;
+        --muted: #6b7280;
+        --accent: #2a66ff;
+        --border: #e5e7eb;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        background: var(--bg);
+        color: var(--text);
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans JP",
+          "Yu Gothic UI", "Meiryo", sans-serif;
+        line-height: 1.9;
+      }
+
+      .wrap {
+        width: min(920px, 100%);
+        margin: 0 auto;
+        padding: 16px;
+      }
+
+      .card {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 20px 16px;
+        box-shadow: 0 8px 24px rgba(31, 41, 55, 0.04);
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: 1.4rem;
+        line-height: 1.4;
+      }
+
+      .lead {
+        margin: 0 0 18px;
+        color: var(--muted);
+        font-size: 0.97rem;
+      }
+
+      nav {
+        margin: 0 0 18px;
+        padding: 12px;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: #fafbff;
+      }
+
+      nav p {
+        margin: 0 0 8px;
+        font-size: 0.85rem;
+        color: var(--muted);
+        font-weight: 600;
+      }
+
+      nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: grid;
+        gap: 8px;
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      a:hover,
+      a:focus-visible {
+        text-decoration: underline;
+      }
+
+      section + section {
+        margin-top: 28px;
+        padding-top: 24px;
+        border-top: 1px solid var(--border);
+      }
+
+      h2 {
+        margin: 0 0 14px;
+        font-size: 1.28rem;
+        color: var(--accent);
+        line-height: 1.5;
+      }
+
+      h3 {
+        margin: 20px 0 8px;
+        font-size: 1.05rem;
+        line-height: 1.6;
+      }
+
+      p {
+        margin: 0 0 12px;
+        font-size: 0.99rem;
+      }
+
+      ol {
+        margin: 0 0 14px;
+        padding-left: 1.2em;
+      }
+
+      li {
+        margin: 0 0 8px;
+      }
+
+      .bullet-lines p {
+        margin-left: 0;
+      }
+
+      .date {
+        margin-top: 18px;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      @media (min-width: 768px) {
+        .wrap {
+          padding: 24px;
+        }
+        .card {
+          padding: 28px 28px;
+          border-radius: 18px;
+        }
+        h1 {
+          font-size: 1.55rem;
+        }
+        h2 {
+          font-size: 1.35rem;
+        }
+        p,
+        li {
+          font-size: 1rem;
+        }
+      }
     </style>
-</head>
-<body>
-    <h1>利用規約</h1>
-    <p>この利用規約（以下、「本規約」といいます）は、スマートフォン向けアプリ「GROWLY（英単語コア）」（以下、「本アプリ」といいます）の利用条件を定めるものです。</p>
-    
-    <h2>1. 免責事項</h2>
-    <p>本アプリの利用により生じたトラブルや損害について、開発者は一切の責任を負わないものとします。本アプリは予告なくサービスの変更、停止、または終了することがあります。</p>
+  </head>
+  <body>
+    <main class="wrap">
+      <article class="card">
+        <h1>Growly 利用規約・プライバシーポリシー</h1>
+        <p class="lead">
+          本ページは、スマートフォンアプリ「Growly」の利用規約およびプライバシーポリシーを記載しています。
+        </p>
 
-    <h2>2. 禁止事項</h2>
-    <p>ユーザーは、本アプリの利用にあたり、法令に違反する行為、公序良俗に反する行為、本アプリの運営を妨害する行為を行ってはなりません。</p>
+        <nav aria-label="目次">
+          <p>目次</p>
+          <ul>
+            <li><a href="#terms">利用規約</a></li>
+            <li><a href="#privacy">プライバシーポリシー</a></li>
+          </ul>
+        </nav>
 
-    <h1>プライバシーポリシー</h1>
-    
-    <h2>1. 取得する情報および利用目的</h2>
-    <p>本アプリでは、広告配信のためにGoogle AdMobを使用しており、以下の情報を自動的に取得する場合があります。</p>
-    <ul>
-        <li>端末のOSバージョン、端末モデル</li>
-        <li>広告識別子（IDFA / AAID）</li>
-        <li>IPアドレス</li>
-    </ul>
-    <p>これらの情報は、適切な広告の配信および効果測定の目的で使用され、個人を特定するものではありません。</p>
+        <section id="terms">
+          <h2>利用規約</h2>
+          <p>
+            この利用規約（以下、「本規約」といいます）は、スマートフォン向け英語学習アプリ「Growly」（以下、「本アプリ」といいます）の利用条件を定めるものです。ユーザーは本アプリをダウンロードおよび利用することにより、本規約に同意したものとみなされます。
+          </p>
 
-    <h2>2. 第三者提供</h2>
-    <p>本アプリは、法令に基づく場合を除き、ユーザーの同意なく個人情報を第三者に提供することはありません。ただし、広告配信モジュール（Google AdMob）を通じて、匿名化された情報が広告配信事業者に送信される場合があります。</p>
+          <h3>第1条（免責事項）</h3>
+          <ol>
+            <li>
+              開発者は、本アプリの利用により生じたトラブルや損害（学習効果の有無、データの消失、端末の不具合などを含みますがこれらに限られません）について、一切の責任を負わないものとします。
+            </li>
+            <li>
+              本アプリは、予告なくサービスの変更、アップデート、停止、または終了することがあります。
+            </li>
+          </ol>
 
-    <h2>3. 規約の変更</h2>
-    <p>本規約およびプライバシーポリシーは、必要に応じて随時変更できるものとします。変更後の内容は本ページに掲載された時点で効力を生じるものとします。</p>
+          <h3>第2条（知的財産権・禁止事項）</h3>
+          <ol>
+            <li>
+              本アプリに含まれるテキスト、音声、画像、プログラム、教材データ等の著作権および知的財産権は、すべて開発者または正当な権利者に帰属します。
+            </li>
+            <li>
+              ユーザーは、本アプリの利用にあたり、以下の行為を行ってはなりません。
+              <div class="bullet-lines">
+                <p>・本アプリのコンテンツを不正に抽出、複製、転載、または二次配布する行為</p>
+                <p>
+                  ・リバースエンジニアリング、逆コンパイル、逆アセンブル等によりソースコードを解析する行為
+                </p>
+                <p>
+                  ・法令に違反する行為、公序良俗に反する行為、または本アプリの運営を妨害する行為
+                </p>
+              </div>
+            </li>
+          </ol>
 
-    <p style="margin-top: 40px; font-size: 0.9em; color: #666;">制定日: 2026年3月9日</p>
-    <p><a href="index.html">← サポートページへ戻る</a></p>
-</body>
+          <h3>第3条（有料サービスおよびサブスクリプション）</h3>
+          <ol>
+            <li>
+              本アプリでは、将来的に一部の機能やオリジナル教材を有料（サブスクリプションを含む）で提供する場合があります。
+            </li>
+            <li>
+              有料サービスの利用料金、支払い方法、および解約手続きについては、アプリ内または別途定める規定に従うものとします。
+            </li>
+            <li>
+              サブスクリプションをご利用の場合、現在の契約期間が終了する24時間前までに自動更新を解除しない限り、契約は自動的に更新されます。
+            </li>
+            <li>
+              理由の如何を問わず、支払い済みの料金の返金（日割り計算を含む）には応じられません。
+            </li>
+          </ol>
+
+          <h3>第4条（規約の変更）</h3>
+          <p>
+            開発者は、必要に応じて随時本規約を変更できるものとします。変更後の内容は、本アプリ内または本ページに掲載された時点で効力を生じるものとします。
+          </p>
+        </section>
+
+        <section id="privacy">
+          <h2>プライバシーポリシー</h2>
+          <p>
+            Growly（以下、「本アプリ」といいます）は、ユーザーのプライバシーを尊重し、個人情報の保護に努めます。
+          </p>
+
+          <h3>第1条（学習データの取り扱いについて）</h3>
+          <p>
+            本アプリ内で記録される学習データ（A/B/Cの定着度評価、My帳のデータ、テストの正答率、学習時間など）は、すべてユーザーのスマートフォン端末内（ローカル）にのみ保存されます。これらのデータが開発者のサーバーや外部の第三者に送信・収集されることは一切ありません。
+          </p>
+
+          <h3>第2条（取得する情報および利用目的）</h3>
+          <p>
+            本アプリでは、広告配信のために「Google AdMob」を使用しており、以下の情報を自動的に取得する場合があります。
+          </p>
+          <div class="bullet-lines">
+            <p>・端末のOSバージョン、端末モデル</p>
+            <p>・広告識別子（IDFA / AAID）</p>
+            <p>・IPアドレス</p>
+          </div>
+          <p>
+            これらの情報は、適切な広告の配信および効果測定の目的でのみ使用され、個人を特定するものではありません。
+          </p>
+
+          <h3>第3条（第三者提供）</h3>
+          <p>
+            本アプリは、法令に基づく場合を除き、ユーザーの同意なく個人情報を第三者に提供することはありません。ただし、前条の通り、広告配信モジュール（Google
+            AdMob）を通じて、匿名化された情報が広告配信事業者に送信される場合があります。各事業者のプライバシーポリシーについては、Googleの公式サイトをご確認ください。
+          </p>
+
+          <h3>第4条（ポリシーの変更）</h3>
+          <p>
+            本プライバシーポリシーは、法令の変更やアプリの機能追加に伴い、随時変更できるものとします。変更後の内容は本ページに掲載された時点で効力を生じるものとします。
+          </p>
+
+          <h3>第5条（お問い合わせ）</h3>
+          <p>
+            本アプリの利用規約やプライバシーポリシーに関するお問い合わせは、以下のメールアドレスまでご連絡ください。<br />
+            連絡先：<a href="mailto:australia.firmlife@gmail.com"
+              >australia.firmlife@gmail.com</a
+            >
+          </p>
+
+          <p class="date">制定日: 2026年3月12日</p>
+        </section>
+      </article>
+    </main>
+  </body>
 </html>
