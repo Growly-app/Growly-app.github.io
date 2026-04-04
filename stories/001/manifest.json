@@ -9,5 +9,6 @@
   "videoFile": "001.mp4",
   "cuesFile": "001.csv",
   "thumbnailFile": "poster.png",
-  "quizTermsFile": "001_quiz.json"
+  "quizTermsFile": "001_quiz.json",
+  "contentBaseUrl": "https://growly-app.github.io/stories/001/"
 }
