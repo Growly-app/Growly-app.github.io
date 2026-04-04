@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "QT001",
+      "lineId": "L002",
+      "termEn": "successful",
+      "correctJa": "成功した",
+      "incorrectJa": [
+        "有名な",
+        "豊かな",
+        "努力した"
+      ]
+    },
+    {
+      "id": "QT002",
+      "lineId": "L005",
+      "termEn": "smooth",
+      "correctJa": "順調な",
+      "incorrectJa": [
+        "静かな",
+        "安全な",
+        "簡単な"
+      ]
+    },
+    {
+      "id": "QT003",
+      "lineId": "L008",
+      "termEn": "moved forward",
+      "correctJa": "前に進んだ",
+      "incorrectJa": [
+        "立ち止まった",
+        "振り返った",
+        "あきらめた"
+      ]
+    },
+    {
+      "id": "QT004",
+      "lineId": "L009",
+      "termEn": "loss",
+      "correctJa": "喪失",
+      "incorrectJa": [
+        "成長",
+        "変化",
+        "希望"
+      ]
+    },
+    {
+      "id": "QT005",
+      "lineId": "L012",
+      "termEn": "drawn to",
+      "correctJa": "ひかれて",
+      "incorrectJa": [
+        "悩まされて",
+        "支えられて",
+        "驚かされて"
+      ]
+    },
+    {
+      "id": "QT006",
+      "lineId": "L015",
+      "termEn": "garage",
+      "correctJa": "ガレージ",
+      "incorrectJa": [
+        "屋根裏部屋",
+        "工場",
+        "研究室"
+      ]
+    },
+    {
+      "id": "QT007",
+      "lineId": "L018",
+      "termEn": "passion",
+      "correctJa": "情熱",
+      "incorrectJa": [
+        "才能",
+        "自信",
+        "経験"
+      ]
+    },
+    {
+      "id": "QT008",
+      "lineId": "L020",
+      "termEn": "challenge",
+      "correctJa": "挑戦",
+      "incorrectJa": [
+        "約束",
+        "計画",
+        "習慣"
+      ]
+    },
+    {
+      "id": "QT009",
+      "lineId": "L024",
+      "termEn": "take shape",
+      "correctJa": "形になり始める",
+      "incorrectJa": [
+        "広く知られる",
+        "完成して終わる",
+        "消えていく"
+      ]
+    },
+    {
+      "id": "QT010",
+      "lineId": "L029",
+      "termEn": "atmosphere",
+      "correctJa": "雰囲気",
+      "incorrectJa": [
+        "制度",
+        "評判",
+        "仕組み"
+      ]
+    },
+    {
+      "id": "QT011",
+      "lineId": "L033",
+      "termEn": "unity",
+      "correctJa": "一体感",
+      "incorrectJa": [
+        "緊張感",
+        "距離感",
+        "安心感"
+      ]
+    },
+    {
+      "id": "QT012",
+      "lineId": "L036",
+      "termEn": "isolated",
+      "correctJa": "孤立した",
+      "incorrectJa": [
+        "歓迎された",
+        "信頼された",
+        "守られた"
+      ]
+    },
+    {
+      "id": "QT013",
+      "lineId": "L047",
+      "termEn": "falling apart",
+      "correctJa": "崩れていく",
+      "incorrectJa": [
+        "広がっていく",
+        "落ち着いていく",
+        "まとまっていく"
+      ]
+    },
+    {
+      "id": "QT014",
+      "lineId": "L052",
+      "termEn": "deeply hurt",
+      "correctJa": "深く傷ついた",
+      "incorrectJa": [
+        "少し安心した",
+        "静かに喜んだ",
+        "強く励まされた"
+      ]
+    },
+    {
+      "id": "QT015",
+      "lineId": "L056",
+      "termEn": "desire",
+      "correctJa": "強い思い",
+      "incorrectJa": [
+        "不安",
+        "才能",
+        "方法"
+      ]
+    },
+    {
+      "id": "QT016",
+      "lineId": "L060",
+      "termEn": "shape the future",
+      "correctJa": "未来を形にする",
+      "incorrectJa": [
+        "過去を振り返る",
+        "現状を守る",
+        "失敗を避ける"
+      ]
+    },
+    {
+      "id": "QT017",
+      "lineId": "L066",
+      "termEn": "strength",
+      "correctJa": "勢い",
+      "incorrectJa": [
+        "人気",
+        "伝統",
+        "安定"
+      ]
+    },
+    {
+      "id": "QT018",
+      "lineId": "L076",
+      "termEn": "struggle",
+      "correctJa": "苦しい時期",
+      "incorrectJa": [
+        "大きな転機",
+        "短い休み",
+        "静かな始まり"
+      ]
+    }
+  ]
+}
