@@ -10,6 +10,18 @@
   "cuesFile": "001.csv",
   "thumbnailFile": "poster.png",
   "quizTermsFile": "001_quiz.json",
+  "reorderListeningLineIds": [
+    "L005",
+    "L010",
+    "L012",
+    "L019",
+    "L024",
+    "L031",
+    "L037",
+    "L041",
+    "L056",
+    "L079"
+  ],
   "contentBaseUrl": "https://growly-app.github.io/stories/001/",
   "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/001/001.mp4"
 }
