@@ -1,0 +1,27 @@
+{
+  "id": "002",
+  "titleJa": "一度に全てを手に入れようとした男の末路｜ガチョウと黄金の卵",
+  "titleEn": "The Fate of the Man Who Tried to Take Everything at Once | The Goose That Laid the Golden Eggs",
+  "tagline": "動画で復習",
+  "description": "",
+  "youtubeUrl": "",
+  "difficulty": "intermediate",
+  "videoFile": "002.mp4",
+  "cuesFile": "002.csv",
+  "thumbnailFile": "poster.png",
+  "quizTermsFile": "002_quiz.json",
+  "reorderListeningLineIds": [
+    "L003",
+    "L007",
+    "L012",
+    "L016",
+    "L020",
+    "L037",
+    "L045",
+    "L048",
+    "L070",
+    "L079"
+  ],
+  "contentBaseUrl": "https://growly-app.github.io/stories/002/",
+  "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/002/002_compressed_100mb.mp4"
+}
