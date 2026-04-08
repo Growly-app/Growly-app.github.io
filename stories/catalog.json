@@ -1,12 +1,15 @@
 {
   "version": 2,
   "stories": [
-    "001"
+    "001",
+    "002"
   ],
   "newArrivalsOrder": [
+    "002",
     "001"
   ],
   "top10Order": [
+    "002",
     "001"
   ]
 }
