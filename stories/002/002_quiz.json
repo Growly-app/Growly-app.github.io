@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "QT001",
+      "lineId": "L001",
+      "termEn": "laid",
+      "correctJa": "産んだ",
+      "incorrectJa": [
+        "見つけた",
+        "運んだ",
+        "隠した"
+      ]
+    },
+    {
+      "id": "QT002",
+      "lineId": "L003",
+      "termEn": "enough",
+      "correctJa": "十分",
+      "incorrectJa": [
+        "必要",
+        "特別",
+        "わずか"
+      ]
+    },
+    {
+      "id": "QT003",
+      "lineId": "L006",
+      "termEn": "lost everything",
+      "correctJa": "すべてを失った",
+      "incorrectJa": [
+        "すべてを手に入れた",
+        "すべてを守った",
+        "すべてを集めた"
+      ]
+    },
+    {
+      "id": "QT004",
+      "lineId": "L010",
+      "termEn": "strange",
+      "correctJa": "不思議な",
+      "incorrectJa": [
+        "高価な",
+        "危険な",
+        "見慣れた"
+      ]
+    },
+    {
+      "id": "QT005",
+      "lineId": "L016",
+      "termEn": "rebuild",
+      "correctJa": "立て直す",
+      "incorrectJa": [
+        "売り払う",
+        "あきらめる",
+        "広げる"
+      ]
+    },
+    {
+      "id": "QT006",
+      "lineId": "L024",
+      "termEn": "uneasy",
+      "correctJa": "落ち着かない",
+      "incorrectJa": [
+        "満足した",
+        "安心した",
+        "誇らしい"
+      ]
+    },
+    {
+      "id": "QT007",
+      "lineId": "L028",
+      "termEn": "grateful for",
+      "correctJa": "ありがたい",
+      "incorrectJa": [
+        "当然の",
+        "危ない",
+        "面倒な"
+      ]
+    },
+    {
+      "id": "QT008",
+      "lineId": "L032",
+      "termEn": "obsessed with",
+      "correctJa": "とりつかれた",
+      "incorrectJa": [
+        "飽きていた",
+        "迷っていた",
+        "支えられた"
+      ]
+    },
+    {
+      "id": "QT009",
+      "lineId": "L040",
+      "termEn": "all at once",
+      "correctJa": "一度に",
+      "incorrectJa": [
+        "少しずつ",
+        "先に",
+        "そのまま"
+      ]
+    },
+    {
+      "id": "QT010",
+      "lineId": "L043",
+      "termEn": "avoid losing out",
+      "correctJa": "損をしないようにする",
+      "incorrectJa": [
+        "得を増やそうとする",
+        "急いで終わらせる",
+        "失敗を忘れる"
+      ]
+    },
+    {
+      "id": "QT011",
+      "lineId": "L052",
+      "termEn": "crossed the line",
+      "correctJa": "一線を越えた",
+      "incorrectJa": [
+        "考え直した",
+        "助けを求めた",
+        "我慢した"
+      ]
+    },
+    {
+      "id": "QT012",
+      "lineId": "L057",
+      "termEn": "hidden treasure",
+      "correctJa": "隠された宝",
+      "incorrectJa": [
+        "古い道具",
+        "大きな秘密",
+        "金の山"
+      ]
+    },
+    {
+      "id": "QT013",
+      "lineId": "L065",
+      "termEn": "kept going",
+      "correctJa": "続いていた",
+      "incorrectJa": [
+        "消えていた",
+        "止まりかけた",
+        "始まっていた"
+      ]
+    },
+    {
+      "id": "QT014",
+      "lineId": "L076",
+      "termEn": "comfort",
+      "correctJa": "安心",
+      "incorrectJa": [
+        "不安",
+        "欲望",
+        "後悔"
+      ]
+    },
+    {
+      "id": "QT015",
+      "lineId": "L077",
+      "termEn": "hope",
+      "correctJa": "希望",
+      "incorrectJa": [
+        "記憶",
+        "計画",
+        "約束"
+      ]
+    },
+    {
+      "id": "QT016",
+      "lineId": "L079",
+      "termEn": "too late",
+      "correctJa": "手遅れ",
+      "incorrectJa": [
+        "ちょうどよい",
+        "間に合う",
+        "まだ早い"
+      ]
+    }
+  ]
+}
