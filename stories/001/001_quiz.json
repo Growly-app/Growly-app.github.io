@@ -10,7 +10,49 @@
         "有名な",
         "豊かな",
         "努力した"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "exitoso",
+          "incorrect": [
+            "famoso",
+            "rico",
+            "esforzado"
+          ]
+        },
+        "pt": {
+          "correct": "bem-sucedido",
+          "incorrect": [
+            "famoso",
+            "rico",
+            "esforçado"
+          ]
+        },
+        "id": {
+          "correct": "berhasil",
+          "incorrect": [
+            "terkenal",
+            "kaya",
+            "rajin berusaha"
+          ]
+        },
+        "ko": {
+          "correct": "성공한",
+          "incorrect": [
+            "유명한",
+            "부유한",
+            "열심히 노력한"
+          ]
+        },
+        "tr": {
+          "correct": "başarılı",
+          "incorrect": [
+            "ünlü",
+            "zengin",
+            "çaba göstermiş"
+          ]
+        }
+      }
     },
     {
       "id": "QT002",
@@ -21,7 +63,49 @@
         "静かな",
         "安全な",
         "簡単な"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "sin problemas",
+          "incorrect": [
+            "tranquilo",
+            "seguro",
+            "fácil"
+          ]
+        },
+        "pt": {
+          "correct": "sem problemas",
+          "incorrect": [
+            "silencioso",
+            "seguro",
+            "fácil"
+          ]
+        },
+        "id": {
+          "correct": "lancar",
+          "incorrect": [
+            "tenang",
+            "aman",
+            "mudah"
+          ]
+        },
+        "ko": {
+          "correct": "순조로운",
+          "incorrect": [
+            "조용한",
+            "안전한",
+            "쉬운"
+          ]
+        },
+        "tr": {
+          "correct": "sorunsuz",
+          "incorrect": [
+            "sessiz",
+            "güvenli",
+            "kolay"
+          ]
+        }
+      }
     },
     {
       "id": "QT003",
@@ -32,7 +116,49 @@
         "立ち止まった",
         "振り返った",
         "あきらめた"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "siguió adelante",
+          "incorrect": [
+            "se detuvo",
+            "miró atrás",
+            "se rindió"
+          ]
+        },
+        "pt": {
+          "correct": "seguiu em frente",
+          "incorrect": [
+            "parou",
+            "olhou para trás",
+            "desistiu"
+          ]
+        },
+        "id": {
+          "correct": "melangkah maju",
+          "incorrect": [
+            "berhenti",
+            "menoleh ke belakang",
+            "menyerah"
+          ]
+        },
+        "ko": {
+          "correct": "앞으로 나아갔다",
+          "incorrect": [
+            "멈춰 섰다",
+            "뒤돌아보았다",
+            "포기했다"
+          ]
+        },
+        "tr": {
+          "correct": "ilerledi",
+          "incorrect": [
+            "durdu",
+            "geriye baktı",
+            "vazgeçti"
+          ]
+        }
+      }
     },
     {
       "id": "QT004",
@@ -43,7 +169,49 @@
         "成長",
         "変化",
         "希望"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "pérdida",
+          "incorrect": [
+            "crecimiento",
+            "cambio",
+            "esperanza"
+          ]
+        },
+        "pt": {
+          "correct": "perda",
+          "incorrect": [
+            "crescimento",
+            "mudança",
+            "esperança"
+          ]
+        },
+        "id": {
+          "correct": "kehilangan",
+          "incorrect": [
+            "pertumbuhan",
+            "perubahan",
+            "harapan"
+          ]
+        },
+        "ko": {
+          "correct": "상실",
+          "incorrect": [
+            "성장",
+            "변화",
+            "희망"
+          ]
+        },
+        "tr": {
+          "correct": "kayıp",
+          "incorrect": [
+            "büyüme",
+            "değişim",
+            "umut"
+          ]
+        }
+      }
     },
     {
       "id": "QT005",
@@ -54,7 +222,49 @@
         "悩まされて",
         "支えられて",
         "驚かされて"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "atraído por",
+          "incorrect": [
+            "atormentado por",
+            "apoyado por",
+            "sorprendido por"
+          ]
+        },
+        "pt": {
+          "correct": "atraído por",
+          "incorrect": [
+            "atormentado por",
+            "apoiado por",
+            "surpreendido por"
+          ]
+        },
+        "id": {
+          "correct": "tertarik pada",
+          "incorrect": [
+            "diganggu oleh",
+            "didukung oleh",
+            "dikejutkan oleh"
+          ]
+        },
+        "ko": {
+          "correct": "끌려",
+          "incorrect": [
+            "시달려",
+            "지지받아",
+            "놀라게 되어"
+          ]
+        },
+        "tr": {
+          "correct": "ilgi duyarak",
+          "incorrect": [
+            "rahatsız olarak",
+            "desteklenerek",
+            "şaşırarak"
+          ]
+        }
+      }
     },
     {
       "id": "QT006",
@@ -65,7 +275,49 @@
         "屋根裏部屋",
         "工場",
         "研究室"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "garaje",
+          "incorrect": [
+            "ático",
+            "fábrica",
+            "laboratorio"
+          ]
+        },
+        "pt": {
+          "correct": "garagem",
+          "incorrect": [
+            "sótão",
+            "fábrica",
+            "laboratório"
+          ]
+        },
+        "id": {
+          "correct": "garasi",
+          "incorrect": [
+            "loteng",
+            "pabrik",
+            "laboratorium"
+          ]
+        },
+        "ko": {
+          "correct": "차고",
+          "incorrect": [
+            "다락방",
+            "공장",
+            "연구실"
+          ]
+        },
+        "tr": {
+          "correct": "garaj",
+          "incorrect": [
+            "çatı katı",
+            "fabrika",
+            "laboratuvar"
+          ]
+        }
+      }
     },
     {
       "id": "QT007",
@@ -76,7 +328,49 @@
         "才能",
         "自信",
         "経験"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "pasión",
+          "incorrect": [
+            "talento",
+            "confianza",
+            "experiencia"
+          ]
+        },
+        "pt": {
+          "correct": "paixão",
+          "incorrect": [
+            "talento",
+            "confiança",
+            "experiência"
+          ]
+        },
+        "id": {
+          "correct": "semangat",
+          "incorrect": [
+            "bakat",
+            "kepercayaan diri",
+            "pengalaman"
+          ]
+        },
+        "ko": {
+          "correct": "열정",
+          "incorrect": [
+            "재능",
+            "자신감",
+            "경험"
+          ]
+        },
+        "tr": {
+          "correct": "tutku",
+          "incorrect": [
+            "yetenek",
+            "özgüven",
+            "deneyim"
+          ]
+        }
+      }
     },
     {
       "id": "QT008",
@@ -87,7 +381,49 @@
         "約束",
         "計画",
         "習慣"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "desafío",
+          "incorrect": [
+            "promesa",
+            "plan",
+            "hábito"
+          ]
+        },
+        "pt": {
+          "correct": "desafio",
+          "incorrect": [
+            "promessa",
+            "plano",
+            "hábito"
+          ]
+        },
+        "id": {
+          "correct": "tantangan",
+          "incorrect": [
+            "janji",
+            "rencana",
+            "kebiasaan"
+          ]
+        },
+        "ko": {
+          "correct": "도전",
+          "incorrect": [
+            "약속",
+            "계획",
+            "습관"
+          ]
+        },
+        "tr": {
+          "correct": "meydan okuma",
+          "incorrect": [
+            "söz",
+            "plan",
+            "alışkanlık"
+          ]
+        }
+      }
     },
     {
       "id": "QT009",
@@ -98,7 +434,49 @@
         "広く知られる",
         "完成して終わる",
         "消えていく"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "empezar a tomar forma",
+          "incorrect": [
+            "llegar a ser ampliamente conocido",
+            "completarse y terminar",
+            "desaparecer"
+          ]
+        },
+        "pt": {
+          "correct": "começar a tomar forma",
+          "incorrect": [
+            "tornar-se amplamente conhecido",
+            "ser concluído e terminar",
+            "desaparecer"
+          ]
+        },
+        "id": {
+          "correct": "mulai terbentuk",
+          "incorrect": [
+            "menjadi dikenal luas",
+            "selesai dan berakhir",
+            "menghilang"
+          ]
+        },
+        "ko": {
+          "correct": "형태를 갖추기 시작하다",
+          "incorrect": [
+            "널리 알려지다",
+            "완성되어 끝나다",
+            "사라져 가다"
+          ]
+        },
+        "tr": {
+          "correct": "şekil almaya başlamak",
+          "incorrect": [
+            "geniş çapta tanınmak",
+            "tamamlanıp sona ermek",
+            "yok olup gitmek"
+          ]
+        }
+      }
     },
     {
       "id": "QT010",
@@ -109,7 +487,49 @@
         "制度",
         "評判",
         "仕組み"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "ambiente",
+          "incorrect": [
+            "sistema",
+            "reputación",
+            "mecanismo"
+          ]
+        },
+        "pt": {
+          "correct": "atmosfera",
+          "incorrect": [
+            "sistema",
+            "reputação",
+            "mecanismo"
+          ]
+        },
+        "id": {
+          "correct": "suasana",
+          "incorrect": [
+            "sistem",
+            "reputasi",
+            "mekanisme"
+          ]
+        },
+        "ko": {
+          "correct": "분위기",
+          "incorrect": [
+            "제도",
+            "평판",
+            "구조"
+          ]
+        },
+        "tr": {
+          "correct": "atmosfer",
+          "incorrect": [
+            "sistem",
+            "itibar",
+            "mekanizma"
+          ]
+        }
+      }
     },
     {
       "id": "QT011",
@@ -120,7 +540,49 @@
         "緊張感",
         "距離感",
         "安心感"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "unidad",
+          "incorrect": [
+            "tensión",
+            "distancia",
+            "sensación de seguridad"
+          ]
+        },
+        "pt": {
+          "correct": "união",
+          "incorrect": [
+            "tensão",
+            "distância",
+            "sensação de segurança"
+          ]
+        },
+        "id": {
+          "correct": "rasa kebersamaan",
+          "incorrect": [
+            "ketegangan",
+            "jarak",
+            "rasa aman"
+          ]
+        },
+        "ko": {
+          "correct": "일체감",
+          "incorrect": [
+            "긴장감",
+            "거리감",
+            "안도감"
+          ]
+        },
+        "tr": {
+          "correct": "birlik duygusu",
+          "incorrect": [
+            "gerginlik",
+            "mesafe duygusu",
+            "güven duygusu"
+          ]
+        }
+      }
     },
     {
       "id": "QT012",
@@ -131,7 +593,49 @@
         "歓迎された",
         "信頼された",
         "守られた"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "aislado",
+          "incorrect": [
+            "bien recibido",
+            "considerado digno de confianza",
+            "protegido"
+          ]
+        },
+        "pt": {
+          "correct": "isolado",
+          "incorrect": [
+            "bem recebido",
+            "considerado confiável",
+            "protegido"
+          ]
+        },
+        "id": {
+          "correct": "terasing",
+          "incorrect": [
+            "disambut",
+            "dipercaya",
+            "dilindungi"
+          ]
+        },
+        "ko": {
+          "correct": "고립된",
+          "incorrect": [
+            "환영받은",
+            "신뢰받은",
+            "보호받은"
+          ]
+        },
+        "tr": {
+          "correct": "yalnızlaşmış",
+          "incorrect": [
+            "hoş karşılanmış",
+            "güvenilmiş",
+            "korunmuş"
+          ]
+        }
+      }
     },
     {
       "id": "QT013",
@@ -142,7 +646,49 @@
         "広がっていく",
         "落ち着いていく",
         "まとまっていく"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "desmoronándose",
+          "incorrect": [
+            "extendiéndose",
+            "tranquilizándose",
+            "uniéndose"
+          ]
+        },
+        "pt": {
+          "correct": "desmoronando",
+          "incorrect": [
+            "se espalhando",
+            "se acalmando",
+            "se unindo"
+          ]
+        },
+        "id": {
+          "correct": "sedang runtuh",
+          "incorrect": [
+            "sedang menyebar",
+            "sedang menjadi tenang",
+            "sedang menyatu"
+          ]
+        },
+        "ko": {
+          "correct": "무너져 가는",
+          "incorrect": [
+            "퍼져 가는",
+            "차분해져 가는",
+            "하나로 모여 가는"
+          ]
+        },
+        "tr": {
+          "correct": "çöküp gitmekte olan",
+          "incorrect": [
+            "yayılmakta olan",
+            "sakinleşmekte olan",
+            "bir araya gelmekte olan"
+          ]
+        }
+      }
     },
     {
       "id": "QT014",
@@ -153,7 +699,49 @@
         "少し安心した",
         "静かに喜んだ",
         "強く励まされた"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "profundamente herido",
+          "incorrect": [
+            "un poco aliviado",
+            "calladamente feliz",
+            "muy animado"
+          ]
+        },
+        "pt": {
+          "correct": "profundamente ferido",
+          "incorrect": [
+            "um pouco aliviado",
+            "feliz em silêncio",
+            "fortemente encorajado"
+          ]
+        },
+        "id": {
+          "correct": "terluka sangat dalam",
+          "incorrect": [
+            "sedikit lega",
+            "diam-diam senang",
+            "sangat dikuatkan"
+          ]
+        },
+        "ko": {
+          "correct": "깊이 상처받은",
+          "incorrect": [
+            "조금 안심한",
+            "조용히 기뻐한",
+            "크게 격려받은"
+          ]
+        },
+        "tr": {
+          "correct": "derinden incinmiş",
+          "incorrect": [
+            "biraz rahatlamış",
+            "sessizce sevinmiş",
+            "güçlü biçimde cesaretlendirilmiş"
+          ]
+        }
+      }
     },
     {
       "id": "QT015",
@@ -164,7 +752,49 @@
         "不安",
         "才能",
         "方法"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "fuerte deseo",
+          "incorrect": [
+            "ansiedad",
+            "talento",
+            "método"
+          ]
+        },
+        "pt": {
+          "correct": "forte desejo",
+          "incorrect": [
+            "ansiedade",
+            "talento",
+            "método"
+          ]
+        },
+        "id": {
+          "correct": "keinginan yang kuat",
+          "incorrect": [
+            "kecemasan",
+            "bakat",
+            "cara"
+          ]
+        },
+        "ko": {
+          "correct": "강한 열망",
+          "incorrect": [
+            "불안",
+            "재능",
+            "방법"
+          ]
+        },
+        "tr": {
+          "correct": "güçlü istek",
+          "incorrect": [
+            "kaygı",
+            "yetenek",
+            "yöntem"
+          ]
+        }
+      }
     },
     {
       "id": "QT016",
@@ -175,7 +805,49 @@
         "過去を振り返る",
         "現状を守る",
         "失敗を避ける"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "dar forma al futuro",
+          "incorrect": [
+            "mirar hacia el pasado",
+            "proteger la situación actual",
+            "evitar el fracaso"
+          ]
+        },
+        "pt": {
+          "correct": "moldar o futuro",
+          "incorrect": [
+            "olhar para o passado",
+            "proteger a situação atual",
+            "evitar o fracasso"
+          ]
+        },
+        "id": {
+          "correct": "membentuk masa depan",
+          "incorrect": [
+            "menoleh ke masa lalu",
+            "menjaga keadaan saat ini",
+            "menghindari kegagalan"
+          ]
+        },
+        "ko": {
+          "correct": "미래를 만들어 가다",
+          "incorrect": [
+            "과거를 돌아보다",
+            "현상을 지키다",
+            "실패를 피하다"
+          ]
+        },
+        "tr": {
+          "correct": "geleceğe şekil vermek",
+          "incorrect": [
+            "geçmişe dönüp bakmak",
+            "mevcut durumu korumak",
+            "başarısızlıktan kaçınmak"
+          ]
+        }
+      }
     },
     {
       "id": "QT017",
@@ -186,7 +858,49 @@
         "人気",
         "伝統",
         "安定"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "ímpetu",
+          "incorrect": [
+            "popularidad",
+            "tradición",
+            "estabilidad"
+          ]
+        },
+        "pt": {
+          "correct": "ímpeto",
+          "incorrect": [
+            "popularidade",
+            "tradição",
+            "estabilidade"
+          ]
+        },
+        "id": {
+          "correct": "momentum",
+          "incorrect": [
+            "popularitas",
+            "tradisi",
+            "stabilitas"
+          ]
+        },
+        "ko": {
+          "correct": "기세",
+          "incorrect": [
+            "인기",
+            "전통",
+            "안정"
+          ]
+        },
+        "tr": {
+          "correct": "ivme",
+          "incorrect": [
+            "popülerlik",
+            "gelenek",
+            "istikrar"
+          ]
+        }
+      }
     },
     {
       "id": "QT018",
@@ -197,7 +911,49 @@
         "大きな転機",
         "短い休み",
         "静かな始まり"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "tiempo difícil",
+          "incorrect": [
+            "gran punto de inflexión",
+            "descanso corto",
+            "comienzo tranquilo"
+          ]
+        },
+        "pt": {
+          "correct": "período difícil",
+          "incorrect": [
+            "grande ponto de virada",
+            "breve descanso",
+            "começo silencioso"
+          ]
+        },
+        "id": {
+          "correct": "masa sulit",
+          "incorrect": [
+            "titik balik besar",
+            "istirahat singkat",
+            "awal yang tenang"
+          ]
+        },
+        "ko": {
+          "correct": "힘든 시기",
+          "incorrect": [
+            "큰 전환점",
+            "짧은 휴식",
+            "조용한 시작"
+          ]
+        },
+        "tr": {
+          "correct": "zor dönem",
+          "incorrect": [
+            "büyük dönüm noktası",
+            "kısa bir tatil",
+            "sessiz bir başlangıç"
+          ]
+        }
+      }
     }
   ]
 }
