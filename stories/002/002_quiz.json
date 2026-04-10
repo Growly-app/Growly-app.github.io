@@ -10,7 +10,49 @@
         "見つけた",
         "運んだ",
         "隠した"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "puso",
+          "incorrect": [
+            "encontró",
+            "llevó",
+            "escondió"
+          ]
+        },
+        "pt": {
+          "correct": "botou",
+          "incorrect": [
+            "encontrou",
+            "carregou",
+            "escondeu"
+          ]
+        },
+        "id": {
+          "correct": "bertelur",
+          "incorrect": [
+            "menemukan",
+            "membawa",
+            "menyembunyikan"
+          ]
+        },
+        "ko": {
+          "correct": "낳았다",
+          "incorrect": [
+            "발견했다",
+            "옮겼다",
+            "숨겼다"
+          ]
+        },
+        "tr": {
+          "correct": "yumurtladı",
+          "incorrect": [
+            "buldu",
+            "taşıdı",
+            "sakladı"
+          ]
+        }
+      }
     },
     {
       "id": "QT002",
@@ -21,7 +63,49 @@
         "必要",
         "特別",
         "わずか"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "suficiente",
+          "incorrect": [
+            "adecuado",
+            "llegar a tiempo",
+            "todavía es temprano"
+          ]
+        },
+        "pt": {
+          "correct": "suficiente",
+          "incorrect": [
+            "necessário",
+            "especial",
+            "escasso"
+          ]
+        },
+        "id": {
+          "correct": "cukup",
+          "incorrect": [
+            "perlu",
+            "istimewa",
+            "sedikit"
+          ]
+        },
+        "ko": {
+          "correct": "충분한",
+          "incorrect": [
+            "필요한",
+            "특별한",
+            "적은"
+          ]
+        },
+        "tr": {
+          "correct": "yeterli",
+          "incorrect": [
+            "gerekli",
+            "özel",
+            "az"
+          ]
+        }
+      }
     },
     {
       "id": "QT003",
@@ -32,7 +116,49 @@
         "すべてを手に入れた",
         "すべてを守った",
         "すべてを集めた"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "lo perdió todo",
+          "incorrect": [
+            "lo consiguió todo",
+            "lo protegió todo",
+            "lo reunió todo"
+          ]
+        },
+        "pt": {
+          "correct": "perdeu tudo",
+          "incorrect": [
+            "conseguiu tudo",
+            "protegeu tudo",
+            "reuniu tudo"
+          ]
+        },
+        "id": {
+          "correct": "kehilangan segalanya",
+          "incorrect": [
+            "mendapatkan segalanya",
+            "melindungi segalanya",
+            "mengumpulkan segalanya"
+          ]
+        },
+        "ko": {
+          "correct": "모든 것을 잃었다",
+          "incorrect": [
+            "모든 것을 손에 넣었다",
+            "모든 것을 지켰다",
+            "모든 것을 모았다"
+          ]
+        },
+        "tr": {
+          "correct": "her şeyini kaybetti",
+          "incorrect": [
+            "her şeyi elde etti",
+            "her şeyi korudu",
+            "her şeyi topladı"
+          ]
+        }
+      }
     },
     {
       "id": "QT004",
@@ -43,7 +169,49 @@
         "高価な",
         "危険な",
         "見慣れた"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "extraño",
+          "incorrect": [
+            "caro",
+            "peligroso",
+            "familiar"
+          ]
+        },
+        "pt": {
+          "correct": "estranho",
+          "incorrect": [
+            "caro",
+            "perigoso",
+            "familiar"
+          ]
+        },
+        "id": {
+          "correct": "aneh",
+          "incorrect": [
+            "mahal",
+            "berbahaya",
+            "sudah biasa dilihat"
+          ]
+        },
+        "ko": {
+          "correct": "이상한",
+          "incorrect": [
+            "비싼",
+            "위험한",
+            "익숙한"
+          ]
+        },
+        "tr": {
+          "correct": "garip",
+          "incorrect": [
+            "pahalı",
+            "tehlikeli",
+            "alışıldık"
+          ]
+        }
+      }
     },
     {
       "id": "QT005",
@@ -54,7 +222,49 @@
         "売り払う",
         "あきらめる",
         "広げる"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "reconstruir",
+          "incorrect": [
+            "venderlo todo",
+            "rendirse",
+            "expandir"
+          ]
+        },
+        "pt": {
+          "correct": "reconstruir",
+          "incorrect": [
+            "vender tudo",
+            "desistir",
+            "expandir"
+          ]
+        },
+        "id": {
+          "correct": "membangun kembali",
+          "incorrect": [
+            "menjual habis",
+            "menyerah",
+            "memperluas"
+          ]
+        },
+        "ko": {
+          "correct": "다시 세우다",
+          "incorrect": [
+            "다 팔아버리다",
+            "포기하다",
+            "넓히다"
+          ]
+        },
+        "tr": {
+          "correct": "yeniden kurmak",
+          "incorrect": [
+            "elden çıkarmak",
+            "vazgeçmek",
+            "genişletmek"
+          ]
+        }
+      }
     },
     {
       "id": "QT006",
@@ -65,7 +275,49 @@
         "満足した",
         "安心した",
         "誇らしい"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "inquieto",
+          "incorrect": [
+            "satisfecho",
+            "tranquilo",
+            "orgulloso"
+          ]
+        },
+        "pt": {
+          "correct": "inquieto",
+          "incorrect": [
+            "satisfeito",
+            "tranquilo",
+            "orgulhoso"
+          ]
+        },
+        "id": {
+          "correct": "gelisah",
+          "incorrect": [
+            "puas",
+            "tenang",
+            "bangga"
+          ]
+        },
+        "ko": {
+          "correct": "불안한",
+          "incorrect": [
+            "만족한",
+            "안심한",
+            "자랑스러운"
+          ]
+        },
+        "tr": {
+          "correct": "huzursuz",
+          "incorrect": [
+            "memnun",
+            "rahatlamış",
+            "gururlu"
+          ]
+        }
+      }
     },
     {
       "id": "QT007",
@@ -76,7 +328,49 @@
         "当然の",
         "危ない",
         "面倒な"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "agradecido por",
+          "incorrect": [
+            "natural",
+            "peligroso",
+            "molesto"
+          ]
+        },
+        "pt": {
+          "correct": "agradecido por",
+          "incorrect": [
+            "natural",
+            "perigoso",
+            "incômodo"
+          ]
+        },
+        "id": {
+          "correct": "patut disyukuri",
+          "incorrect": [
+            "wajar",
+            "berbahaya",
+            "merepotkan"
+          ]
+        },
+        "ko": {
+          "correct": "고마운",
+          "incorrect": [
+            "당연한",
+            "위험한",
+            "귀찮은"
+          ]
+        },
+        "tr": {
+          "correct": "minnettar",
+          "incorrect": [
+            "doğal",
+            "tehlikeli",
+            "zahmetli"
+          ]
+        }
+      }
     },
     {
       "id": "QT008",
@@ -87,7 +381,49 @@
         "飽きていた",
         "迷っていた",
         "支えられた"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "obsesionado con",
+          "incorrect": [
+            "cansado de",
+            "indeciso sobre",
+            "apoyado por"
+          ]
+        },
+        "pt": {
+          "correct": "obcecado por",
+          "incorrect": [
+            "entediado com",
+            "indeciso sobre",
+            "apoiado por"
+          ]
+        },
+        "id": {
+          "correct": "terobsesi pada",
+          "incorrect": [
+            "bosan dengan",
+            "ragu-ragu tentang",
+            "didukung oleh"
+          ]
+        },
+        "ko": {
+          "correct": "사로잡힌",
+          "incorrect": [
+            "질려 있었다",
+            "망설이고 있었다",
+            "지지받았다"
+          ]
+        },
+        "tr": {
+          "correct": "saplantılı",
+          "incorrect": [
+            "sıkılmış",
+            "kararsız",
+            "desteklenmiş"
+          ]
+        }
+      }
     },
     {
       "id": "QT009",
@@ -98,7 +434,49 @@
         "少しずつ",
         "先に",
         "そのまま"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "de una vez",
+          "incorrect": [
+            "poco a poco",
+            "antes",
+            "tal como estaba"
+          ]
+        },
+        "pt": {
+          "correct": "de uma vez",
+          "incorrect": [
+            "aos poucos",
+            "antes",
+            "como estava"
+          ]
+        },
+        "id": {
+          "correct": "sekaligus",
+          "incorrect": [
+            "sedikit demi sedikit",
+            "lebih dulu",
+            "apa adanya"
+          ]
+        },
+        "ko": {
+          "correct": "한꺼번에",
+          "incorrect": [
+            "조금씩",
+            "먼저",
+            "그대로"
+          ]
+        },
+        "tr": {
+          "correct": "bir anda",
+          "incorrect": [
+            "azar azar",
+            "önce",
+            "olduğu gibi"
+          ]
+        }
+      }
     },
     {
       "id": "QT010",
@@ -109,7 +487,49 @@
         "得を増やそうとする",
         "急いで終わらせる",
         "失敗を忘れる"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "evitar salir perdiendo",
+          "incorrect": [
+            "intentar aumentar las ganancias",
+            "apresurarse a terminar",
+            "olvidar el fracaso"
+          ]
+        },
+        "pt": {
+          "correct": "evitar sair perdendo",
+          "incorrect": [
+            "tentar aumentar o lucro",
+            "terminar às pressas",
+            "esquecer o fracasso"
+          ]
+        },
+        "id": {
+          "correct": "agar tidak rugi",
+          "incorrect": [
+            "berusaha menambah keuntungan",
+            "segera mengakhiri",
+            "melupakan kegagalan"
+          ]
+        },
+        "ko": {
+          "correct": "손해를 보지 않도록 하다",
+          "incorrect": [
+            "이익을 더 늘리려 하다",
+            "서둘러 끝내다",
+            "실패를 잊다"
+          ]
+        },
+        "tr": {
+          "correct": "zarar etmemeye çalışmak",
+          "incorrect": [
+            "kazancı artırmaya çalışmak",
+            "aceleyle bitirmek",
+            "başarısızlığı unutmak"
+          ]
+        }
+      }
     },
     {
       "id": "QT011",
@@ -120,7 +540,49 @@
         "考え直した",
         "助けを求めた",
         "我慢した"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "cruzó la línea",
+          "incorrect": [
+            "lo reconsideró",
+            "pidió ayuda",
+            "aguantó"
+          ]
+        },
+        "pt": {
+          "correct": "cruzou a linha",
+          "incorrect": [
+            "pensou de novo",
+            "pediu ajuda",
+            "aguentou"
+          ]
+        },
+        "id": {
+          "correct": "melewati batas",
+          "incorrect": [
+            "memikirkannya kembali",
+            "meminta bantuan",
+            "bertahan"
+          ]
+        },
+        "ko": {
+          "correct": "선을 넘었다",
+          "incorrect": [
+            "다시 생각했다",
+            "도움을 요청했다",
+            "참았다"
+          ]
+        },
+        "tr": {
+          "correct": "çizgiyi aştı",
+          "incorrect": [
+            "yeniden düşündü",
+            "yardım istedi",
+            "dayandı"
+          ]
+        }
+      }
     },
     {
       "id": "QT012",
@@ -131,7 +593,49 @@
         "古い道具",
         "大きな秘密",
         "金の山"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "tesoro escondido",
+          "incorrect": [
+            "herramienta vieja",
+            "gran secreto",
+            "montón de oro"
+          ]
+        },
+        "pt": {
+          "correct": "tesouro escondido",
+          "incorrect": [
+            "ferramenta velha",
+            "grande segredo",
+            "monte de ouro"
+          ]
+        },
+        "id": {
+          "correct": "harta tersembunyi",
+          "incorrect": [
+            "alat lama",
+            "rahasia besar",
+            "tumpukan emas"
+          ]
+        },
+        "ko": {
+          "correct": "숨겨진 보물",
+          "incorrect": [
+            "오래된 도구",
+            "큰 비밀",
+            "금더미"
+          ]
+        },
+        "tr": {
+          "correct": "gizli hazine",
+          "incorrect": [
+            "eski alet",
+            "büyük sır",
+            "altın yığını"
+          ]
+        }
+      }
     },
     {
       "id": "QT013",
@@ -142,7 +646,49 @@
         "消えていた",
         "止まりかけた",
         "始まっていた"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "seguía en marcha",
+          "incorrect": [
+            "había desaparecido",
+            "estaba a punto de detenerse",
+            "había comenzado"
+          ]
+        },
+        "pt": {
+          "correct": "continuava",
+          "incorrect": [
+            "tinha desaparecido",
+            "estava prestes a parar",
+            "tinha começado"
+          ]
+        },
+        "id": {
+          "correct": "terus berlanjut",
+          "incorrect": [
+            "telah menghilang",
+            "hampir berhenti",
+            "telah dimulai"
+          ]
+        },
+        "ko": {
+          "correct": "계속되고 있었다",
+          "incorrect": [
+            "사라져 있었다",
+            "멈추기 직전이었다",
+            "시작되고 있었다"
+          ]
+        },
+        "tr": {
+          "correct": "devam ediyordu",
+          "incorrect": [
+            "yok olmuştu",
+            "durmak üzereydi",
+            "başlamıştı"
+          ]
+        }
+      }
     },
     {
       "id": "QT014",
@@ -153,7 +699,49 @@
         "不安",
         "欲望",
         "後悔"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "tranquilidad",
+          "incorrect": [
+            "inquietud",
+            "deseo",
+            "arrepentimiento"
+          ]
+        },
+        "pt": {
+          "correct": "tranquilidade",
+          "incorrect": [
+            "ansiedade",
+            "desejo",
+            "arrependimento"
+          ]
+        },
+        "id": {
+          "correct": "rasa tenang",
+          "incorrect": [
+            "kecemasan",
+            "keinginan",
+            "penyesalan"
+          ]
+        },
+        "ko": {
+          "correct": "안심",
+          "incorrect": [
+            "불안",
+            "욕망",
+            "후회"
+          ]
+        },
+        "tr": {
+          "correct": "huzur",
+          "incorrect": [
+            "kaygı",
+            "arzu",
+            "pişmanlık"
+          ]
+        }
+      }
     },
     {
       "id": "QT015",
@@ -164,7 +752,49 @@
         "記憶",
         "計画",
         "約束"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "esperanza",
+          "incorrect": [
+            "recuerdo",
+            "plan",
+            "promesa"
+          ]
+        },
+        "pt": {
+          "correct": "esperança",
+          "incorrect": [
+            "memória",
+            "plano",
+            "promessa"
+          ]
+        },
+        "id": {
+          "correct": "harapan",
+          "incorrect": [
+            "ingatan",
+            "rencana",
+            "janji"
+          ]
+        },
+        "ko": {
+          "correct": "희망",
+          "incorrect": [
+            "기억",
+            "계획",
+            "약속"
+          ]
+        },
+        "tr": {
+          "correct": "umut",
+          "incorrect": [
+            "hafıza",
+            "plan",
+            "söz"
+          ]
+        }
+      }
     },
     {
       "id": "QT016",
@@ -175,7 +805,49 @@
         "ちょうどよい",
         "間に合う",
         "まだ早い"
-      ]
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "demasiado tarde",
+          "incorrect": [
+            "adecuado",
+            "llegar a tiempo",
+            "todavía es temprano"
+          ]
+        },
+        "pt": {
+          "correct": "tarde demais",
+          "incorrect": [
+            "na medida certa",
+            "chegar a tempo",
+            "ainda é cedo"
+          ]
+        },
+        "id": {
+          "correct": "sudah terlambat",
+          "incorrect": [
+            "pas sekali",
+            "sempat",
+            "masih terlalu awal"
+          ]
+        },
+        "ko": {
+          "correct": "너무 늦은",
+          "incorrect": [
+            "딱 알맞은",
+            "제시간에 맞는",
+            "아직 이른"
+          ]
+        },
+        "tr": {
+          "correct": "çok geç",
+          "incorrect": [
+            "tam uygun",
+            "zamanında",
+            "henüz erken"
+          ]
+        }
+      }
     }
   ]
 }
