@@ -8,7 +8,7 @@
   "titleKo": "자신이 세운 회사에서 쫓겨난 남자 | 스티브 잡스",
   "titleTr": "Kurduğu şirketten kovulan adam | Steve Jobs",
   "tagline": "ID:001",
-  "description": "自分が設立した会社から、追い出された男",
+  "description": "",
   "youtubeUrl": "https://youtu.be/erWcgB_Of04",
   "difficulty": "intermediate",
   "videoFile": "001.mp4",
@@ -16,6 +16,5 @@
   "thumbnailFile": "poster.png",
   "thumbnailListFile": "001-9_16.png",
   "quizTermsFile": "001_quiz.json",
-  "contentBaseUrl": "https://growly-app.github.io/stories/001/",
-  "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/001/001.mp4"
+  "contentBaseUrl": "https://growly-app.github.io/stories/001/"
 }
