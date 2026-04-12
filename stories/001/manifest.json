@@ -15,5 +15,6 @@
   "cuesFile": "001.csv",
   "thumbnailFile": "poster.png",
   "quizTermsFile": "001_quiz.json",
+  "thumbnailListFile": "001-9_16.png",
   "contentBaseUrl": "https://growly-app.github.io/stories/001/"
 }
