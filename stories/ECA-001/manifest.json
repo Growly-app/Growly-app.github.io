@@ -1,0 +1,33 @@
+{
+  "id": "ECA-001",
+  "titleJa": "早く昼食を要求するお爺さん",
+  "titleEn": "The Old Man Demands Lunch Early",
+  "titleEs": "El viejo exige que le traigan el almuerzo temprano.",
+  "titlePt": "O velho exige o almoço mais cedo.",
+  "titleId": "Pria tua itu menuntut makan siang lebih awal.",
+  "titleKo": "일찍 점심을 달라고 우기는 노인",
+  "titleTr": "Yaşlı adam öğle yemeğini erkenden istiyor.",
+  "tagline": "ID:ECA-001",
+  "description": "",
+  "youtubeUrl": "",
+  "difficulty": "intermediate",
+  "videoFile": "ECA-001.mp4",
+  "cuesFile": "dialogue.csv",
+  "thumbnailFile": "ECA-001.png",
+  "thumbnailListFile": "001_9_16.png",
+  "quizTermsFile": "ECA-001_quiz.json",
+  "reorderListeningLineIds": [
+    "L001",
+    "L006",
+    "L008",
+    "L011",
+    "L015",
+    "L017",
+    "L022",
+    "L029",
+    "L034",
+    "L043"
+  ],
+  "contentBaseUrl": "https://growly-app.github.io/stories/ECA-001/",
+  "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/ECA-001/ECA-001.compressed.mp4"
+}
