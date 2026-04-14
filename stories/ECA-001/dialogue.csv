@@ -1,0 +1,47 @@
+﻿line_id,scene_id,start_ms,end_ms,start_tc,en,ja,es,pt,id,ko,tr
+L001,S001,2700,10267,00:00:02:21,Took you long enough.,遅いな,Ya era hora.,"Demorou, hein.",Lama sekali.,왜 이렇게 늦어.,Epey geciktin.
+L002,S002,10267,12200,00:00:10:08,What is it?,どうされましたか？,¿Qué pasa?,O que foi?,Ada apa?,무슨 일이세요?,Ne oldu?
+L003,S003,12200,16600,00:00:12:06,It is already one o'clock. Where is my lunch?,もう1時だぞ 昼飯はまだか？,Ya es la una. ¿Dónde está mi almuerzo?,Já é uma hora. Cadê o meu almoço?,Sudah jam satu. Mana makan siang saya?,벌써 한 시잖아. 내 점심은 어디 있어?,Saat zaten bir oldu. Öğle yemeğim nerede?
+L004,S004,16600,22100,00:00:16:18,"It is one o'clock, but it is 1 a.m.",1時ですが 午前1時です,"Es la una, pero es la 1 a. m.","É uma hora, mas é 1 da manhã.","Sekarang memang jam satu, tapi ini jam 1 pagi.","한 시는 맞지만, 오전 1시예요.","Saat bir, ama gece 1."
+L005,S005,22100,26133,00:00:22:03,One is one. Bring me my lunch.,1時は1時だ 昼飯を持ってこい,La una es la una. Tráeme mi almuerzo.,Uma é uma. Traga meu almoço.,Jam satu tetap jam satu. Bawakan makan siang saya.,한 시는 한 시지. 내 점심 가져와.,"Bir, birdir. Öğle yemeğimi getir."
+L006,S006,26133,29100,00:00:26:04,It is not lunchtime now.,今は昼ではありません,Ahora no es hora de almorzar.,Agora não é hora de almoço.,Sekarang bukan jam makan siang.,지금은 점심시간이 아니에요.,Şu an öğle yemeği vakti değil.
+L007,S007,29100,33500,00:00:29:03,Then bring it early. I cannot wait.,では先に持ってこい 私は待てん,Entonces tráelo antes. No puedo esperar.,Então traga antes. Eu não posso esperar.,"Kalau begitu, bawakan lebih awal. Saya tidak bisa menunggu.",그럼 미리 가져와. 난 못 기다려.,O zaman erken getir. Bekleyemem.
+L008,S008,33500,36833,00:00:33:15,You already had dinner too.,夕食もすでに食べました,Usted ya cenó también.,Você já jantou também.,Anda juga sudah makan malam.,저녁도 이미 드셨어요.,Akşam yemeğini de zaten yedin.
+L009,S009,36833,39833,00:00:36:25,"No, I did not.",食べておらん,"No, no cené.","Não, não jantei.","Tidak, saya belum.","아니, 안 먹었어.","Hayır, yemedim."
+L010,S010,39833,42200,00:00:39:25,"Yes, you did.",召し上がりました,"Sí, sí cenó.","Sim, jantou.","Ya, sudah.","아니요, 드셨어요.","Evet, yedin."
+L011,S011,42200,44967,00:00:42:06,Someone took mine.,誰かが私の分を持っていったのだ,Alguien se llevó el mío.,Alguém pegou o meu.,Seseorang mengambil punya saya.,누가 내 걸 가져갔어.,Benimkini biri aldı.
+L012,S012,44967,46367,00:00:44:29,Who?,誰がですか？,¿Quién?,Quem?,Siapa?,누가요?,Kim?
+L013,S013,46367,49167,00:00:46:11,I saw you eat it!,お前が食ったのを見たぞ！,¡Te vi comértelo!,Eu vi você comer!,Saya melihat kamu memakannya!,네가 먹는 걸 봤어!,Onu senin yediğini gördüm!
+L014,S014,49167,52967,00:00:49:05,I was not even in the hospital then.,その時間 私はまだ病院にいなかったです。,Yo ni siquiera estaba en el hospital a esa hora.,Eu nem estava no hospital naquela hora.,Saya bahkan belum ada di rumah sakit saat itu.,그때 저는 아직 병원에 없었어요.,O saatte ben hastanede bile değildim.
+L015,S015,52967,56333,00:00:52:29,Then it was someone else.,なら別の者だ,Entonces fue otra persona.,Então foi outra pessoa.,"Kalau begitu, orang lain.",그럼 다른 사람이겠지.,O zaman başka biriydi.
+L016,S016,56333,61000,00:00:56:10,"Anyway, I cannot give you anything now.",とにかく今は出せません,"De todos modos, ahora no puedo darle nada.","De qualquer forma, não posso te dar nada agora.","Bagaimanapun, saya tidak bisa memberi Anda apa pun sekarang.",아무튼 지금은 아무것도 드릴 수 없어요.,"Her neyse, şu anda sana hiçbir şey veremem."
+L017,S017,61000,4033,00:01:01:00,I want something sweet.,甘いものが食べたい,Quiero algo dulce.,Quero alguma coisa doce.,Saya mau sesuatu yang manis.,달콤한 게 먹고 싶어.,Tatlı bir şey istiyorum.
+L018,S018,4033,6700,00:00:04:01,Not at this hour.,この時間は出せません,No a esta hora.,Não a esta hora.,Tidak jam segini.,이 시간에는 안 돼요.,Bu saatte olmaz.
+L019,S019,6700,12500,00:00:06:21,There was no dessert tonight. So give me some.,今日はデザートがなかった だから食わせろ,Esta noche no hubo postre. Así que dame algo.,Hoje à noite não teve sobremesa. Então me dê alguma coisa.,Malam ini tidak ada pencuci mulut. Jadi beri saya sesuatu.,오늘 밤엔 디저트가 없었어. 그러니까 뭐라도 줘.,Bu gece tatlı yoktu. O yüzden bana biraz ver.
+L020,S020,12500,15767,00:00:12:15,You had dessert tonight too.,今日も付いていましたよ,Esta noche también tuvo postre.,Hoje à noite você também teve sobremesa.,Malam ini Anda juga dapat pencuci mulut.,오늘 밤에도 디저트 나오셨어요.,Bu gece tatlın da vardı.
+L021,S021,15767,18767,00:00:15:23,"No, I did not.",なかった,"No, no lo tuve.","Não, não tive.","Tidak, saya tidak dapat.","아니, 없었어.","Hayır, yoktu."
+L022,S022,18767,21600,00:00:18:23,You had ice cream.,アイスが付いていました,Tuvo helado.,Você teve sorvete.,Anda dapat es krim.,아이스크림이 나왔어요.,Dondurman vardı.
+L023,S023,21600,24367,00:00:21:18,I did not eat it.,食べておらん,No me lo comí.,Eu não comi.,Saya tidak memakannya.,난 안 먹었어.,Onu ben yemedim.
+L024,S024,24367,27333,00:00:24:11,You must have eaten it.,召し上がったはずです,Debe de habérselo comido.,Você deve ter comido.,Pasti Anda memakannya.,드셨을 거예요.,Onu yemiş olmalısın.
+L025,S025,27333,31200,00:00:27:10,"I told you, I did not eat it.",だから食べておらんと言っておる,Le digo que no me lo comí.,"Estou te dizendo, eu não comi.","Saya bilang, saya tidak memakannya.",그러니까 안 먹었다고 했잖아.,"Sana söylüyorum, onu ben yemedim."
+L026,S026,31200,35333,00:00:31:06,You have been loud this whole time.,さっきからうるさいよ,Has estado haciendo ruido todo este tiempo.,Você esteve fazendo barulho esse tempo todo.,Dari tadi kamu berisik terus.,아까부터 계속 시끄럽네.,Baştan beri çok gürültü yapıyorsun.
+L027,S027,35333,40000,00:00:35:10,Sorry. We will be done soon.,すみません すぐに終わります,Lo siento. Terminaremos pronto.,Desculpe. Já vamos terminar.,Maaf. Kami akan segera selesai.,죄송합니다. 곧 끝날 거예요.,Özür dilerim. Yakında bitecek.
+L028,S028,40000,43000,00:00:40:00,What is this about?,何の話？,¿De qué se trata esto?,Do que se trata isso?,Ini soal apa?,무슨 일이야?,Bu da neyle ilgili?
+L029,S029,43000,46500,00:00:43:00,My ice cream was stolen.,私のアイスが盗まれた,Me robaron mi helado.,Roubaram o meu sorvete.,Es krim saya dicuri.,내 아이스크림이 도둑맞았어.,Dondurmam çalındı.
+L030,S030,46500,52300,00:00:46:15,His ice cream came with dinner. He probably already ate it.,アイスは夕食に付いていました たぶんもう食べています,Su helado vino con la cena. Probablemente ya se lo comió.,O sorvete dele veio com o jantar. Ele provavelmente já comeu.,Es krimnya datang bersama makan malam. Mungkin dia sudah memakannya.,저분 아이스크림은 저녁이랑 같이 나왔어요. 아마 이미 드셨을 거예요.,Onun dondurması akşam yemeğiyle geldi. Muhtemelen çoktan yemiştir.
+L031,S031,52300,56667,00:00:52:09,I did not eat it. It was stolen.,食べておらん 盗まれたのだ,No me lo comí. Me lo robaron.,Eu não comi. Foi roubado.,Saya tidak memakannya. Itu dicuri.,난 안 먹었어. 도둑맞은 거야.,Ben yemedim. Çalındı.
+L032,S032,56667,59600,00:00:56:20,Was it the white one?,そのアイス 白いやつか？,¿Era el blanco?,Era o branco?,Yang putih itu?,그 하얀 거 말하는 거야?,Beyaz olan mıydı?
+L033,S033,59600,121467,00:00:59:18,Yes.,そうだ,Sí.,Sim.,Ya.,그래.,Evet.
+L034,S034,121467,4767,00:02:01:14,I ate yours too.,お前の分もわしが食べた,Yo también me comí el tuyo.,Eu comi o seu também.,Saya juga makan punyamu.,네 것도 내가 먹었어.,Seninkini de ben yedim.
+L035,S035,4767,6833,00:00:04:23,What?,え？,¿Qué?,O quê?,Apa?,뭐?,Ne?
+L036,S036,6833,8633,00:00:06:25,See?,ほら見ろ！,¿Ves?,Viu?,Lihat?,거 봐!,Gördün mü?
+L037,S037,8633,14967,00:00:08:19,"It was on the table, so I thought you did not want it.",テーブルにあったから いらんのかと思った,"Estaba en la mesa, así que pensé que no lo querías.","Estava na mesa, então achei que você não queria.","Itu ada di meja, jadi saya pikir kamu tidak menginginkannya.","탁자 위에 있길래, 네가 안 먹는 줄 알았지.","Masanın üstündeydi, ben de istemiyorsun sandım."
+L038,S038,14967,19433,00:00:14:29,Do not eat other people's food without asking!,人の物を勝手に食うな！,¡No te comas la comida de los demás sin preguntar!,Não coma a comida dos outros sem perguntar!,Jangan makan makanan orang lain tanpa izin!,남의 음식은 허락 없이 먹지 마!,Başkasının yemeğini sormadan yeme!
+L039,S039,19433,23300,00:00:19:13,No. Stay in bed.,だめです 寝てください,No. Quédese en la cama.,Não. Fique na cama.,Tidak. Tetap di tempat tidur.,안 돼요. 침대에 누워 계세요.,Hayır. Yatakta kal.
+L040,S040,23300,28433,00:00:23:09,"If you do not want it eaten, write your name on it.",食べられたくないなら 名前でも書いておけ,"Si no quieres que se lo coman, ponle tu nombre.","Se não quer que comam, escreva seu nome nele.","Kalau tidak mau dimakan, tulis namamu di situ.",먹히기 싫으면 이름이라도 써 놔.,Yenmesini istemiyorsan üstüne adını yaz.
+L041,S041,28433,32500,00:00:28:13,"Tomorrow, I will eat yours.",明日はお前のを食べてやる,Mañana me comeré el tuyo.,"Amanhã, eu vou comer o seu.","Besok, saya akan makan punyamu.",내일은 네 걸 내가 먹어 주지.,Yarın ben seninkini yiyeceğim.
+L042,S042,32500,36233,00:00:32:15,"Both of you, please sleep.",お二人とも寝てください,"Los dos, por favor, duerman.","Vocês dois, por favor, durmam.","Kalian berdua, tolong tidur.",두 분 다 이제 주무세요.,İkiniz de lütfen uyuyun.
+L043,S043,36233,39333,00:00:36:07,Bring me two tomorrow.,明日は二つ持ってこい,Tráeme dos mañana.,Traga dois para mim amanhã.,Bawakan saya dua besok.,내일은 두 개 가져와.,Yarın bana iki tane getir.
+L044,S044,39333,42533,00:00:39:10,Bring me two too.,わしにも二つだ,Tráeme dos a mí también.,Traga dois para mim também.,Bawakan saya dua juga.,나도 두 개 줘.,Bana da iki tane getir.
+L045,S045,42533,50767,00:00:42:16,Please apologize to him.,おじいさんに謝ってください,"Por favor, discúlpese con él.","Por favor, peça desculpas a ele.",Tolong minta maaf padanya.,저분께 사과하세요.,Lütfen ondan özür dile.
+L046,S046,50767,173133,00:00:50:23,"Good night, then.",では おやすみなさい,"Buenas noches, entonces.","Boa noite, então.","Selamat malam, kalau begitu.","그럼, 안녕히 주무세요.",O zaman iyi geceler.
