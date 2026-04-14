@@ -2,13 +2,16 @@
   "version": 2,
   "stories": [
     "001",
-    "002"
+    "002",
+    "ECA-001"
   ],
   "newArrivalsOrder": [
+    "ECA-001",
     "002",
     "001"
   ],
   "top10Order": [
+    "ECA-001",
     "002",
     "001"
   ]
