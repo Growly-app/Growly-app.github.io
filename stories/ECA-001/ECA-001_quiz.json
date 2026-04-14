@@ -1,0 +1,535 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "QT001",
+      "lineId": "L003",
+      "termEn": "lunch",
+      "correctJa": "昼食",
+      "incorrectJa": [
+        "朝食",
+        "夕食",
+        "間食"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "almuerzo",
+          "incorrect": [
+            "desayuno",
+            "cena",
+            "merienda"
+          ]
+        },
+        "pt": {
+          "correct": "almoço",
+          "incorrect": [
+            "café da manhã",
+            "jantar",
+            "lanche"
+          ]
+        },
+        "id": {
+          "correct": "makan siang",
+          "incorrect": [
+            "sarapan",
+            "makan malam",
+            "camilan"
+          ]
+        },
+        "ko": {
+          "correct": "점심",
+          "incorrect": [
+            "아침 식사",
+            "저녁 식사",
+            "간식"
+          ]
+        },
+        "tr": {
+          "correct": "öğle yemeği",
+          "incorrect": [
+            "kahvaltı",
+            "akşam yemeği",
+            "atıştırmalık"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT002",
+      "lineId": "L008",
+      "termEn": "dinner",
+      "correctJa": "夕食",
+      "incorrectJa": [
+        "朝食",
+        "昼食",
+        "夜食"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "cena",
+          "incorrect": [
+            "desayuno",
+            "almuerzo",
+            "merienda nocturna"
+          ]
+        },
+        "pt": {
+          "correct": "jantar",
+          "incorrect": [
+            "café da manhã",
+            "almoço",
+            "ceia"
+          ]
+        },
+        "id": {
+          "correct": "makan malam",
+          "incorrect": [
+            "sarapan",
+            "makan siang",
+            "makanan larut malam"
+          ]
+        },
+        "ko": {
+          "correct": "저녁 식사",
+          "incorrect": [
+            "아침 식사",
+            "점심",
+            "야식"
+          ]
+        },
+        "tr": {
+          "correct": "akşam yemeği",
+          "incorrect": [
+            "kahvaltı",
+            "öğle yemeği",
+            "gece atıştırması"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT003",
+      "lineId": "L017",
+      "termEn": "sweet",
+      "correctJa": "甘い",
+      "incorrectJa": [
+        "辛い",
+        "すっぱい",
+        "苦い"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "dulce",
+          "incorrect": [
+            "picante",
+            "agrio",
+            "amargo"
+          ]
+        },
+        "pt": {
+          "correct": "doce",
+          "incorrect": [
+            "picante",
+            "azedo",
+            "amargo"
+          ]
+        },
+        "id": {
+          "correct": "manis",
+          "incorrect": [
+            "pedas",
+            "asam",
+            "pahit"
+          ]
+        },
+        "ko": {
+          "correct": "달콤한",
+          "incorrect": [
+            "매운",
+            "신",
+            "쓴"
+          ]
+        },
+        "tr": {
+          "correct": "tatlı",
+          "incorrect": [
+            "baharatlı",
+            "ekşi",
+            "acı"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT004",
+      "lineId": "L019",
+      "termEn": "dessert",
+      "correctJa": "デザート",
+      "incorrectJa": [
+        "前菜",
+        "主食",
+        "飲み物"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "postre",
+          "incorrect": [
+            "entrada",
+            "plato principal",
+            "bebida"
+          ]
+        },
+        "pt": {
+          "correct": "sobremesa",
+          "incorrect": [
+            "entrada",
+            "prato principal",
+            "bebida"
+          ]
+        },
+        "id": {
+          "correct": "pencuci mulut",
+          "incorrect": [
+            "hidangan pembuka",
+            "hidangan utama",
+            "minuman"
+          ]
+        },
+        "ko": {
+          "correct": "디저트",
+          "incorrect": [
+            "전채 요리",
+            "주식",
+            "음료"
+          ]
+        },
+        "tr": {
+          "correct": "tatlı",
+          "incorrect": [
+            "başlangıç",
+            "ana yemek",
+            "içecek"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT005",
+      "lineId": "L022",
+      "termEn": "ice cream",
+      "correctJa": "アイスクリーム",
+      "incorrectJa": [
+        "プリン",
+        "ケーキ",
+        "ヨーグルト"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "helado",
+          "incorrect": [
+            "flan",
+            "pastel",
+            "yogur"
+          ]
+        },
+        "pt": {
+          "correct": "sorvete",
+          "incorrect": [
+            "pudim",
+            "bolo",
+            "iogurte"
+          ]
+        },
+        "id": {
+          "correct": "es krim",
+          "incorrect": [
+            "puding",
+            "kue",
+            "yogurt"
+          ]
+        },
+        "ko": {
+          "correct": "아이스크림",
+          "incorrect": [
+            "푸딩",
+            "케이크",
+            "요거트"
+          ]
+        },
+        "tr": {
+          "correct": "dondurma",
+          "incorrect": [
+            "puding",
+            "pasta",
+            "yoğurt"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT006",
+      "lineId": "L026",
+      "termEn": "loud",
+      "correctJa": "うるさい",
+      "incorrectJa": [
+        "静かな",
+        "穏やかな",
+        "親切な"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "ruidoso",
+          "incorrect": [
+            "silencioso",
+            "tranquilo",
+            "amable"
+          ]
+        },
+        "pt": {
+          "correct": "barulhento",
+          "incorrect": [
+            "silencioso",
+            "calmo",
+            "gentil"
+          ]
+        },
+        "id": {
+          "correct": "berisik",
+          "incorrect": [
+            "sunyi",
+            "tenang",
+            "baik"
+          ]
+        },
+        "ko": {
+          "correct": "시끄러운",
+          "incorrect": [
+            "조용한",
+            "온화한",
+            "친절한"
+          ]
+        },
+        "tr": {
+          "correct": "gürültülü",
+          "incorrect": [
+            "sessiz",
+            "sakin",
+            "yardımsever"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT007",
+      "lineId": "L029",
+      "termEn": "stolen",
+      "correctJa": "盗まれた",
+      "incorrectJa": [
+        "壊れた",
+        "隠された",
+        "忘れられた"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "robado",
+          "incorrect": [
+            "roto",
+            "escondido",
+            "olvidado"
+          ]
+        },
+        "pt": {
+          "correct": "roubado",
+          "incorrect": [
+            "quebrado",
+            "escondido",
+            "esquecido"
+          ]
+        },
+        "id": {
+          "correct": "dicuri",
+          "incorrect": [
+            "rusak",
+            "disembunyikan",
+            "dilupakan"
+          ]
+        },
+        "ko": {
+          "correct": "도둑맞은",
+          "incorrect": [
+            "망가진",
+            "숨겨진",
+            "잊힌"
+          ]
+        },
+        "tr": {
+          "correct": "çalınmış",
+          "incorrect": [
+            "kırılmış",
+            "saklanmış",
+            "unutulmuş"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT008",
+      "lineId": "L030",
+      "termEn": "probably",
+      "correctJa": "たぶん",
+      "incorrectJa": [
+        "絶対に",
+        "すでに",
+        "すぐに"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "probablemente",
+          "incorrect": [
+            "definitivamente",
+            "ya",
+            "enseguida"
+          ]
+        },
+        "pt": {
+          "correct": "provavelmente",
+          "incorrect": [
+            "com certeza",
+            "já",
+            "imediatamente"
+          ]
+        },
+        "id": {
+          "correct": "mungkin",
+          "incorrect": [
+            "pasti",
+            "sudah",
+            "segera"
+          ]
+        },
+        "ko": {
+          "correct": "아마도",
+          "incorrect": [
+            "절대",
+            "이미",
+            "곧"
+          ]
+        },
+        "tr": {
+          "correct": "muhtemelen",
+          "incorrect": [
+            "kesinlikle",
+            "zaten",
+            "hemen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT009",
+      "lineId": "L038",
+      "termEn": "without asking",
+      "correctJa": "断りなく",
+      "incorrectJa": [
+        "急いで",
+        "順番に",
+        "丁寧に"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "sin pedir permiso",
+          "incorrect": [
+            "con prisa",
+            "en orden",
+            "con cortesía"
+          ]
+        },
+        "pt": {
+          "correct": "sem pedir permissão",
+          "incorrect": [
+            "com pressa",
+            "em ordem",
+            "educadamente"
+          ]
+        },
+        "id": {
+          "correct": "tanpa izin",
+          "incorrect": [
+            "dengan tergesa-gesa",
+            "secara berurutan",
+            "dengan sopan"
+          ]
+        },
+        "ko": {
+          "correct": "허락 없이",
+          "incorrect": [
+            "급히",
+            "순서대로",
+            "정중하게"
+          ]
+        },
+        "tr": {
+          "correct": "sormadan",
+          "incorrect": [
+            "aceleyle",
+            "sırayla",
+            "nazikçe"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT010",
+      "lineId": "L045",
+      "termEn": "apologize",
+      "correctJa": "謝る",
+      "incorrectJa": [
+        "説明する",
+        "許す",
+        "手伝う"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "disculparse",
+          "incorrect": [
+            "explicar",
+            "perdonar",
+            "ayudar"
+          ]
+        },
+        "pt": {
+          "correct": "pedir desculpas",
+          "incorrect": [
+            "explicar",
+            "perdoar",
+            "ajudar"
+          ]
+        },
+        "id": {
+          "correct": "meminta maaf",
+          "incorrect": [
+            "menjelaskan",
+            "memaafkan",
+            "membantu"
+          ]
+        },
+        "ko": {
+          "correct": "사과하다",
+          "incorrect": [
+            "설명하다",
+            "용서하다",
+            "도와주다"
+          ]
+        },
+        "tr": {
+          "correct": "özür dilemek",
+          "incorrect": [
+            "açıklamak",
+            "affetmek",
+            "yardım etmek"
+          ]
+        }
+      }
+    }
+  ]
+}
