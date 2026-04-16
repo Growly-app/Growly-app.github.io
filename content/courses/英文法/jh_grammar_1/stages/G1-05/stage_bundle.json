@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_1",
+  "id_prefix": "G1-05",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [],
+  "ja_reorder": [],
+  "fill_blank": []
+}
