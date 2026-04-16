@@ -1,0 +1,913 @@
+{
+  "schema_version": 1,
+  "material_id": "yarinaoshi_basic3",
+  "id_prefix": "G2-05",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G2-05-001",
+      "en": "I like reading in bed.",
+      "ja": "私はベッドで本を読むのが好きです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-002",
+      "en": "I like listening to the rain.",
+      "ja": "私は雨の音を聞くのが好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-003",
+      "en": "I like walking after dinner.",
+      "ja": "私は夕食のあとに散歩するのが好きです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-004",
+      "en": "I like using this notebook.",
+      "ja": "私はこのノートを使うのが好きです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-005",
+      "en": "I like watching the sky at night.",
+      "ja": "私は夜空を見るのが好きです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-006",
+      "en": "I like eating with my family.",
+      "ja": "私は家族と食事をするのが好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-007",
+      "en": "I like drawing small animals.",
+      "ja": "私は小さな動物を描くのが好きです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-008",
+      "en": "I like learning new words.",
+      "ja": "私は新しい単語を覚えるのが好きです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-009",
+      "en": "I like helping my mother cook.",
+      "ja": "私は母の料理を手伝うのが好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-010",
+      "en": "I like looking at old photos.",
+      "ja": "私は古い写真を見るのが好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-011",
+      "en": "I like riding my bike to school.",
+      "ja": "私は自転車で学校へ行くのが好きです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-012",
+      "en": "I like making lunch for myself.",
+      "ja": "私は自分で昼食を作るのが好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-013",
+      "en": "I like talking with my grandfather.",
+      "ja": "私は祖父と話すのが好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-014",
+      "en": "I like writing with a pencil.",
+      "ja": "私はえんぴつで書くのが好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-015",
+      "en": "I like taking the bus alone.",
+      "ja": "私は一人でバスに乗るのが好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-016",
+      "en": "I love making people smile.",
+      "ja": "私は人を笑顔にするのが大好きです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-017",
+      "en": "I love drinking hot tea in winter.",
+      "ja": "私は冬に温かいお茶を飲むのが大好きです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-018",
+      "en": "I love sleeping on rainy days.",
+      "ja": "私は雨の日に寝るのが大好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-019",
+      "en": "I love hearing that song.",
+      "ja": "私はあの歌を聞くのが大好きです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-020",
+      "en": "I love sitting by the window.",
+      "ja": "私は窓ぎわに座るのが大好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-021",
+      "en": "I love cooking for my friends.",
+      "ja": "私は友だちのために料理をするのが大好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-022",
+      "en": "I love taking pictures of flowers.",
+      "ja": "私は花の写真を撮るのが大好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-023",
+      "en": "I love watching my dog run.",
+      "ja": "私は犬が走るのを見るのが大好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-024",
+      "en": "We enjoy eating outside.",
+      "ja": "私たちは外で食べるのを楽しんでいます。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-05-025",
+      "en": "We enjoy talking after class.",
+      "ja": "私たちは授業のあとに話すのを楽しんでいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-026",
+      "en": "We enjoy playing cards together.",
+      "ja": "私たちはいっしょにトランプをするのを楽しんでいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-027",
+      "en": "We enjoy visiting new places.",
+      "ja": "私たちは新しい場所を訪れるのを楽しんでいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-028",
+      "en": "We enjoy walking in quiet streets.",
+      "ja": "私たちは静かな通りを歩くのを楽しんでいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-029",
+      "en": "My brother enjoys building things.",
+      "ja": "私の兄は何かを作るのを楽しんでいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-030",
+      "en": "My sister enjoys writing short stories.",
+      "ja": "私の姉は短い物語を書くのを楽しんでいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-031",
+      "en": "My father enjoys washing his car.",
+      "ja": "私の父は自分の車を洗うのを楽しんでいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-032",
+      "en": "My mother enjoys growing herbs.",
+      "ja": "私の母はハーブを育てるのを楽しんでいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-033",
+      "en": "Emma enjoys talking to new people.",
+      "ja": "エマは初めて会う人と話すのを楽しんでいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-034",
+      "en": "Noah enjoys reading the news online.",
+      "ja": "ノアはネットでニュースを読むのを楽しんでいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-035",
+      "en": "Our teacher enjoys telling stories.",
+      "ja": "私たちの先生はお話をするのを楽しんでいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-036",
+      "en": "I really enjoy studying alone in the library.",
+      "ja": "私は図書館で一人で勉強するのをとても楽しんでいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-037",
+      "en": "I enjoy trying simple recipes.",
+      "ja": "私は簡単なレシピを試すのを楽しんでいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-038",
+      "en": "I enjoy staying home on cold nights.",
+      "ja": "私は寒い夜に家で過ごすのを楽しんでいます。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-039",
+      "en": "I enjoy watching people work together.",
+      "ja": "私は人が協力しているのを見るのを楽しんでいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-040",
+      "en": "I stopped using that app.",
+      "ja": "私はそのアプリを使うのをやめました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-041",
+      "en": "He stopped eating snacks at night.",
+      "ja": "彼は夜におやつを食べるのをやめました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-042",
+      "en": "We stopped talking during the movie.",
+      "ja": "私たちは映画の間に話すのをやめました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-043",
+      "en": "My father stopped smoking last year.",
+      "ja": "私の父は去年たばこを吸うのをやめました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-044",
+      "en": "She stopped waiting for his reply.",
+      "ja": "彼女は彼の返事を待つのをやめました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-045",
+      "en": "They stopped playing in the rain.",
+      "ja": "彼らは雨の中で遊ぶのをやめました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-046",
+      "en": "The baby stopped crying soon.",
+      "ja": "その赤ちゃんはすぐに泣くのをやめました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-047",
+      "en": "We stopped buying bottled water.",
+      "ja": "私たちはペットボトルの水を買うのをやめました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-048",
+      "en": "He stopped making the same excuse.",
+      "ja": "彼は同じ言い訳をするのをやめました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-049",
+      "en": "I finished doing my homework.",
+      "ja": "私は宿題を終えました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-050",
+      "en": "She finished washing the dishes.",
+      "ja": "彼女は皿洗いを終えました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-051",
+      "en": "We finished cleaning the classroom.",
+      "ja": "私たちは教室の掃除を終えました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-052",
+      "en": "He finished reading the report.",
+      "ja": "彼はそのレポートを読み終えました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-053",
+      "en": "My mother finished making dinner.",
+      "ja": "私の母は夕食を作り終えました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-054",
+      "en": "They finished painting the fence.",
+      "ja": "彼らはフェンスを塗り終えました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-055",
+      "en": "I finished writing the email.",
+      "ja": "私はそのメールを書き終えました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-056",
+      "en": "The students finished taking the test.",
+      "ja": "生徒たちはテストを受け終わりました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-057",
+      "en": "Noah finished fixing his bike.",
+      "ja": "ノアは自転車を直し終えました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-058",
+      "en": "I keep forgetting his name.",
+      "ja": "私は彼の名前を何度も忘れてしまいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-059",
+      "en": "She keeps asking the same question.",
+      "ja": "彼女は同じ質問を何度もします。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-060",
+      "en": "He keeps leaving his keys at home.",
+      "ja": "彼は何度も家に鍵を置き忘れます。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-061",
+      "en": "My dog keeps following me.",
+      "ja": "私の犬はずっと私についてきます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-062",
+      "en": "They keep talking about that game.",
+      "ja": "彼らはそのゲームの話をし続けています。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-063",
+      "en": "I keep checking my phone.",
+      "ja": "私は何度もスマホを確認してしまいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-064",
+      "en": "The boy kept looking out the window.",
+      "ja": "その少年はずっと窓の外を見ていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-065",
+      "en": "She kept smiling during the photo.",
+      "ja": "彼女は写真の間ずっとほほえんでいました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-066",
+      "en": "We kept walking in silence.",
+      "ja": "私たちは黙ったまま歩き続けました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-067",
+      "en": "I practice speaking English every day.",
+      "ja": "私は毎日英語を話す練習をします。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-068",
+      "en": "She practices playing the piano after school.",
+      "ja": "彼女は放課後にピアノを弾く練習をします。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-069",
+      "en": "He practices running in the park.",
+      "ja": "彼は公園で走る練習をします。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-070",
+      "en": "We practiced singing together.",
+      "ja": "私たちはいっしょに歌う練習をしました。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-05-071",
+      "en": "My sister practices drawing faces.",
+      "ja": "私の姉は顔を描く練習をします。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-072",
+      "en": "They practiced using the new machine.",
+      "ja": "彼らはその新しい機械を使う練習をしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-073",
+      "en": "Our team practiced passing the ball.",
+      "ja": "私たちのチームはボールを回す練習をしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-074",
+      "en": "The children practiced crossing the street safely.",
+      "ja": "子どもたちは安全に道路を渡る練習をしました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-075",
+      "en": "We practiced listening carefully.",
+      "ja": "私たちは注意して聞く練習をしました。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-05-076",
+      "en": "Wash your hands before eating.",
+      "ja": "食事の前に手を洗いなさい。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-077",
+      "en": "Please read it before answering.",
+      "ja": "答える前にそれを読んでください。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-078",
+      "en": "She checked the time before leaving.",
+      "ja": "彼女は出かける前に時間を確認しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-079",
+      "en": "He drank some water before going out.",
+      "ja": "彼は出かける前に水を飲みました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-080",
+      "en": "Think carefully before choosing one.",
+      "ja": "一つ選ぶ前によく考えなさい。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-081",
+      "en": "I brush my teeth before going to bed.",
+      "ja": "私は寝る前に歯をみがきます。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-082",
+      "en": "I felt better after talking to her.",
+      "ja": "私は彼女と話したあと気分がよくなりました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-083",
+      "en": "We went home after finishing the game.",
+      "ja": "私たちは試合を終えたあと家に帰りました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-084",
+      "en": "He took a shower after playing soccer.",
+      "ja": "彼はサッカーをしたあとシャワーを浴びました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-085",
+      "en": "She smiled after hearing the news.",
+      "ja": "彼女はその知らせを聞いたあとほほえみました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-086",
+      "en": "They cleaned the table after eating.",
+      "ja": "彼らは食事のあとテーブルを片づけました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-087",
+      "en": "I usually get sleepy after studying.",
+      "ja": "私は勉強したあとたいてい眠くなります。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-088",
+      "en": "You can learn a lot by watching others.",
+      "ja": "ほかの人のやり方を見ることで多くを学べます。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-089",
+      "en": "He improved his English by reading aloud.",
+      "ja": "彼は音読することで英語を上達させました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-090",
+      "en": "We solved the problem by working together.",
+      "ja": "私たちは協力することでその問題を解決しました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-091",
+      "en": "My brother made friends by joining the club.",
+      "ja": "私の兄はその部に入ることで友だちを作りました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-092",
+      "en": "They found the house by asking a neighbor.",
+      "ja": "彼らは近所の人にたずねることでその家を見つけました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-093",
+      "en": "I relaxed by listening to soft music.",
+      "ja": "私はやさしい音楽を聞くことで落ち着きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-094",
+      "en": "He left the house without eating breakfast.",
+      "ja": "彼は朝食を食べずに家を出ました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-095",
+      "en": "She went out without saying goodbye.",
+      "ja": "彼女はさよならを言わずに出かけました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-096",
+      "en": "We finished the work without using a computer.",
+      "ja": "私たちはコンピューターを使わずにその作業を終えました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-097",
+      "en": "He finished the test without making any mistakes.",
+      "ja": "彼はまちがえずにそのテストを終えました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-098",
+      "en": "They entered the room without knocking.",
+      "ja": "彼らはノックせずに部屋に入りました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-099",
+      "en": "He sat there without speaking.",
+      "ja": "彼は何も言わずにそこに座っていました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-100",
+      "en": "How about taking a short break?",
+      "ja": "少し休むのはどうですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-101",
+      "en": "How about trying this one first?",
+      "ja": "まずこれを試してみるのはどうですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-102",
+      "en": "How about asking the teacher now?",
+      "ja": "今先生に聞くのはどうですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-103",
+      "en": "How about checking the map first?",
+      "ja": "まず地図を確認するのはどうですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-104",
+      "en": "How about studying together after school?",
+      "ja": "放課後にいっしょに勉強するのはどうですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-105",
+      "en": "How about leaving a little earlier?",
+      "ja": "少し早めに出るのはどうですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-106",
+      "en": "Thank you for helping me yesterday.",
+      "ja": "昨日は手伝ってくれてありがとう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-107",
+      "en": "Thank you for waiting for me.",
+      "ja": "待っていてくれてありがとう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-108",
+      "en": "Thank you for showing me the way.",
+      "ja": "道を教えてくれてありがとう。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-109",
+      "en": "Thank you for listening to me.",
+      "ja": "話を聞いてくれてありがとう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-110",
+      "en": "Thank you for sending the photo.",
+      "ja": "写真を送ってくれてありがとう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-111",
+      "en": "Thank you for teaching me that word.",
+      "ja": "その単語を教えてくれてありがとう。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-112",
+      "en": "I am good at drawing animals.",
+      "ja": "私は動物を描くのが得意です。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-113",
+      "en": "She is good at speaking clearly.",
+      "ja": "彼女ははっきり話すのが得意です。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-114",
+      "en": "We are good at working together.",
+      "ja": "私たちは協力するのが得意です。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-115",
+      "en": "He is good at remembering names.",
+      "ja": "彼は名前を覚えるのが得意です。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-116",
+      "en": "Our teacher is good at explaining things.",
+      "ja": "私たちの先生は説明するのが得意です。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-117",
+      "en": "Are you good at cooking pasta?",
+      "ja": "あなたはパスタを作るのが得意ですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-118",
+      "en": "I am interested in learning Spanish.",
+      "ja": "私はスペイン語を学ぶことに興味があります。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-119",
+      "en": "She is interested in making clothes.",
+      "ja": "彼女は服を作ることに興味があります。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-120",
+      "en": "He is interested in studying space.",
+      "ja": "彼は宇宙を調べることに興味があります。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-121",
+      "en": "We are interested in helping others.",
+      "ja": "私たちは人を助けることに興味があります。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-122",
+      "en": "They are interested in growing vegetables.",
+      "ja": "彼らは野菜を育てることに興味があります。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-123",
+      "en": "Noah is interested in building robots.",
+      "ja": "ノアはロボットを作ることに興味があります。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-124",
+      "en": "I am looking forward to seeing you again.",
+      "ja": "私はまたあなたに会うのを楽しみにしています。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-125",
+      "en": "We are looking forward to going on the trip.",
+      "ja": "私たちはその旅行に行くのを楽しみにしています。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-05-126",
+      "en": "She is looking forward to meeting your family.",
+      "ja": "彼女はあなたの家族に会うのを楽しみにしています。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-127",
+      "en": "My mother is looking forward to visiting Kyoto.",
+      "ja": "私の母は京都を訪れるのを楽しみにしています。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-128",
+      "en": "They are looking forward to hearing the result.",
+      "ja": "彼らは結果を聞くのを楽しみにしています。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-129",
+      "en": "The children are looking forward to meeting the new teacher.",
+      "ja": "子どもたちは新しい先生に会うのを楽しみにしています。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-05-130",
+      "en": "Reading aloud is good practice.",
+      "ja": "声に出して読むことはよい練習です。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-131",
+      "en": "Stretching in the morning is good for you.",
+      "ja": "朝に体を伸ばすことは体によいです。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-05-132",
+      "en": "Listening carefully is important.",
+      "ja": "注意して聞くことは大切です。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-05-133",
+      "en": "Getting up early is hard for me.",
+      "ja": "早起きすることは私には大変です。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-134",
+      "en": "Cooking for my family is fun.",
+      "ja": "家族のために料理することは楽しいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-135",
+      "en": "Making new friends is exciting.",
+      "ja": "新しい友だちを作ることはわくわくします。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-136",
+      "en": "Helping others is a good habit.",
+      "ja": "人を助けることはよい習慣です。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-137",
+      "en": "Running in the rain is dangerous.",
+      "ja": "雨の中を走ることは危険です。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-138",
+      "en": "Taking notes is useful.",
+      "ja": "メモを取ることは役に立ちます。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-05-139",
+      "en": "Making mistakes is natural.",
+      "ja": "間違えることは自然なことです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-05-140",
+      "en": "Traveling alone is a little scary.",
+      "ja": "一人で旅することは少しこわいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-141",
+      "en": "Learning from others is helpful.",
+      "ja": "ほかの人から学ぶことは役に立ちます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-142",
+      "en": "Trying again is sometimes necessary.",
+      "ja": "もう一度やってみることが必要なときもあります。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-143",
+      "en": "My hobby is writing poems.",
+      "ja": "私の趣味は詩を書くことです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-144",
+      "en": "His hobby is collecting postcards.",
+      "ja": "彼の趣味はポストカードを集めることです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-145",
+      "en": "Our job is keeping the classroom clean.",
+      "ja": "私たちの役目は教室をきれいに保つことです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-146",
+      "en": "The best part is meeting new people.",
+      "ja": "いちばんよいところは新しい人に会うことです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-147",
+      "en": "One of his hobbies is collecting stamps.",
+      "ja": "彼の趣味の一つは切手を集めることです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-05-148",
+      "en": "The first step is asking questions.",
+      "ja": "最初の一歩は質問することです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-05-149",
+      "en": "My problem is remembering names.",
+      "ja": "私の悩みは名前を覚えることです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-05-150",
+      "en": "His job at home is washing the dishes.",
+      "ja": "家での彼の役目は皿を洗うことです。",
+      "word_count": 8
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

@@ -1,0 +1,1213 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_3",
+  "id_prefix": "G3-03",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G3-03-001",
+      "en": "I know a boy who runs very fast.",
+      "ja": "私はとても速く走る男の子を知っています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-002",
+      "en": "She has an uncle who lives in Osaka.",
+      "ja": "彼女には大阪に住んでいるおじがいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-003",
+      "en": "We have a teacher who makes math fun.",
+      "ja": "私たちには数学を楽しくしてくれる先生がいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-004",
+      "en": "Do you know the girl who sings well?",
+      "ja": "あなたは歌が上手なその女の子を知っていますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-005",
+      "en": "I met a man who fixes bikes.",
+      "ja": "私は自転車を修理する男性に会いました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-006",
+      "en": "The student who sits by the window is Noah.",
+      "ja": "窓のそばに座っている生徒はノアです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-007",
+      "en": "Emma has a friend who always helps her.",
+      "ja": "エマにはいつも手伝ってくれる友だちがいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-008",
+      "en": "The woman who works there is my aunt.",
+      "ja": "そこで働いている女性は私のおばです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-009",
+      "en": "I like people who speak clearly.",
+      "ja": "私ははっきり話す人が好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-03-010",
+      "en": "We need a captain who stays calm.",
+      "ja": "私たちには落ち着いていられるキャプテンが必要です。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-011",
+      "en": "He is a chef who cooks for children.",
+      "ja": "彼は子どもたちのために料理をする料理人です。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-012",
+      "en": "I saw a boy who was carrying a big box.",
+      "ja": "私は大きな箱を運んでいる男の子を見ました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-013",
+      "en": "She is the student who asks good questions.",
+      "ja": "彼女は良い質問をする生徒です。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-014",
+      "en": "My father knows a doctor who works at night.",
+      "ja": "父は夜に働く医者を知っています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-015",
+      "en": "We met a woman who teaches art.",
+      "ja": "私たちは美術を教える女性に会いました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-016",
+      "en": "The boy who wears glasses is my brother.",
+      "ja": "めがねをかけている男の子は私の弟です。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-017",
+      "en": "I want to thank the man who found my bag.",
+      "ja": "私はかばんを見つけてくれた男性にお礼を言いたいです。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-018",
+      "en": "She talked to a girl who loves animals.",
+      "ja": "彼女は動物が大好きな女の子と話しました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-019",
+      "en": "The man who lives next door is very kind.",
+      "ja": "隣に住んでいる男性はとても親切です。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-020",
+      "en": "He has a grandfather who tells funny stories.",
+      "ja": "彼にはおもしろい話をする祖父がいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-021",
+      "en": "I remember the teacher who smiled at me.",
+      "ja": "私はほほえんでくれた先生を覚えています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-022",
+      "en": "The woman who is on the phone is my mother.",
+      "ja": "電話をしている女性は私の母です。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-023",
+      "en": "She wants a friend who listens to her.",
+      "ja": "彼女は自分の話を聞いてくれる友だちがほしいです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-024",
+      "en": "There is a student who studies before breakfast.",
+      "ja": "朝食の前に勉強する生徒がいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-025",
+      "en": "The girl who won the game looks happy.",
+      "ja": "その試合に勝った女の子はうれしそうです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-026",
+      "en": "We saw a boy who was sleeping on the bus.",
+      "ja": "私たちはバスで眠っている男の子を見ました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-027",
+      "en": "He likes teachers who give clear answers.",
+      "ja": "彼はわかりやすい答えをくれる先生が好きです。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-028",
+      "en": "We have a neighbor who plays the piano.",
+      "ja": "うちの近所にはピアノを弾く人がいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-029",
+      "en": "She met a student who came from Korea.",
+      "ja": "彼女は韓国から来た生徒に会いました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-030",
+      "en": "The boy who always shares his snacks is kind.",
+      "ja": "いつもおやつを分けてくれる男の子は親切です。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-031",
+      "en": "I want to meet people who love books.",
+      "ja": "私は本が好きな人たちに会いたいです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-032",
+      "en": "He is the man who cleans this park.",
+      "ja": "彼はこの公園をそうじしている男性です。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-033",
+      "en": "We know a girl who can speak three languages.",
+      "ja": "私たちは3つの言語を話せる女の子を知っています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-034",
+      "en": "The teacher who called my name was smiling.",
+      "ja": "私の名前を呼んだ先生はほほえんでいました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-035",
+      "en": "She is looking for a person who can drive.",
+      "ja": "彼女は運転できる人を探しています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-036",
+      "en": "I thanked the woman who opened the door for me.",
+      "ja": "私はドアを開けてくれた女性にお礼を言いました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-037",
+      "en": "The bag which is under the chair is mine.",
+      "ja": "いすの下にあるかばんは私のものです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-038",
+      "en": "I found a key which opens this box.",
+      "ja": "私はこの箱を開ける鍵を見つけました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-039",
+      "en": "The dog which sleeps by the door is very old.",
+      "ja": "ドアのそばで眠る犬はとても年を取っています。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-040",
+      "en": "We saw a bird which was sitting on the fence.",
+      "ja": "私たちはさくにとまっていた鳥を見ました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-041",
+      "en": "The book which teaches easy English is useful.",
+      "ja": "やさしい英語を教えてくれるその本は役に立ちます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-042",
+      "en": "She bought a lamp which gives soft light.",
+      "ja": "彼女はやわらかい光を出すランプを買いました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-043",
+      "en": "The train which goes to the airport is full.",
+      "ja": "空港へ行くその電車は満員です。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-044",
+      "en": "I have a cup which keeps tea warm.",
+      "ja": "私はお茶をあたたかく保つカップを持っています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-045",
+      "en": "The watch which stops often needs a new battery.",
+      "ja": "よく止まるその時計は新しい電池が必要です。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-046",
+      "en": "He has a camera which takes clear pictures.",
+      "ja": "彼はきれいな写真を撮るカメラを持っています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-047",
+      "en": "The cat which likes this chair is sleeping now.",
+      "ja": "このいすが好きな猫は今眠っています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-048",
+      "en": "I need a pen which writes smoothly.",
+      "ja": "私はなめらかに書けるペンが必要です。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-049",
+      "en": "The bus which comes at seven is usually late.",
+      "ja": "7時に来るそのバスはたいてい遅れます。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-050",
+      "en": "We found a dog which was shaking in the rain.",
+      "ja": "私たちは雨の中でふるえている犬を見つけました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-051",
+      "en": "The chair which has a broken leg is dangerous.",
+      "ja": "脚が折れているそのいすは危険です。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-052",
+      "en": "She likes songs which make her smile.",
+      "ja": "彼女は笑顔にしてくれる歌が好きです。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-053",
+      "en": "The box which holds old letters is heavy.",
+      "ja": "古い手紙が入っているその箱は重いです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-054",
+      "en": "I want a bike which runs well on this road.",
+      "ja": "私はこの道でよく走る自転車がほしいです。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-055",
+      "en": "The dog which barks at strangers is our pet.",
+      "ja": "知らない人にほえるその犬は私たちのペットです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-056",
+      "en": "We watched a movie which ended happily.",
+      "ja": "私たちは幸せな終わり方をした映画を見ました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-057",
+      "en": "The phone which is on the desk is Noah's.",
+      "ja": "机の上にある電話はノアのものです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-058",
+      "en": "She uses a brush which feels very soft.",
+      "ja": "彼女はとてもやわらかいブラシを使っています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-059",
+      "en": "The bird which sings every morning wakes me up.",
+      "ja": "毎朝鳴くその鳥が私を起こします。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-060",
+      "en": "I bought a clock which makes no sound.",
+      "ja": "私は音を立てない時計を買いました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-061",
+      "en": "The toy which moves by itself surprised the baby.",
+      "ja": "ひとりで動くそのおもちゃは赤ちゃんをびっくりさせました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-062",
+      "en": "We saw a train which was shining in the sun.",
+      "ja": "私たちは日光の中で光っている電車を見ました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-063",
+      "en": "The computer which is in the corner is old.",
+      "ja": "すみっこにあるそのコンピューターは古いです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-064",
+      "en": "He wants shoes which do not get dirty easily.",
+      "ja": "彼は汚れにくい靴をほしがっています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-065",
+      "en": "The book which has many pictures is for children.",
+      "ja": "たくさん絵があるその本は子ども向けです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-066",
+      "en": "I like dogs which wag their tails a lot.",
+      "ja": "私はしっぽをよく振る犬が好きです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-067",
+      "en": "The machine which dries clothes is broken.",
+      "ja": "服をかわかすその機械はこわれています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-068",
+      "en": "We need a map which shows small streets.",
+      "ja": "私たちには細い道までのっている地図が必要です。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-069",
+      "en": "The rabbit which lives in our yard is small.",
+      "ja": "私たちの庭に住んでいるそのうさぎは小さいです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-070",
+      "en": "She picked a flower which smelled sweet.",
+      "ja": "彼女は甘い香りがする花を摘みました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-071",
+      "en": "The woman who I met on the train was reading a map.",
+      "ja": "私が電車で会った女性は地図を読んでいました。",
+      "word_count": 12
+    },
+    {
+      "id": "G3-03-072",
+      "en": "I know a girl who everyone likes.",
+      "ja": "私はみんなが好きな女の子を知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-073",
+      "en": "The woman who my mother called is here now.",
+      "ja": "母が電話した女性は今ここにいます。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-074",
+      "en": "We thanked the teacher who our class invited.",
+      "ja": "私たちはクラスが招待した先生にお礼を言いました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-075",
+      "en": "He is the student who I saw in the library.",
+      "ja": "彼は私が図書館で見かけた生徒です。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-076",
+      "en": "The man who my father knows lives nearby.",
+      "ja": "父が知っている男性は近くに住んでいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-077",
+      "en": "She is talking to the girl who I invited.",
+      "ja": "彼女は私が招待した女の子と話しています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-078",
+      "en": "I remember the boy who Noah helped.",
+      "ja": "私はノアが手伝った男の子を覚えています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-079",
+      "en": "The woman who we met on Sunday was cheerful.",
+      "ja": "私たちが日曜日に会った女性は明るい人でした。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-080",
+      "en": "He is the doctor who my uncle trusts.",
+      "ja": "彼はおじが信頼している医者です。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-081",
+      "en": "I found the student who you were looking for.",
+      "ja": "私はあなたが探していた生徒を見つけました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-082",
+      "en": "The girl who my sister helps after school is cheerful.",
+      "ja": "姉が放課後に手伝っている女の子は明るいです。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-083",
+      "en": "We called the man who she recommended.",
+      "ja": "私たちは彼女がすすめた男性に電話をしました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-084",
+      "en": "The teacher who I asked was very busy.",
+      "ja": "私がたずねた先生はとても忙しかったです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-085",
+      "en": "She is the friend who I told you about.",
+      "ja": "彼女は私があなたに話した友だちです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-086",
+      "en": "The boy who my brother chose is our captain.",
+      "ja": "弟が選んだ男の子が私たちのキャプテンです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-087",
+      "en": "I met a woman who many children love.",
+      "ja": "私は多くの子どもたちに好かれている女性に会いました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-088",
+      "en": "The person who we need is not here yet.",
+      "ja": "私たちが必要としている人はまだここにいません。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-089",
+      "en": "He greeted the teacher who I respect most.",
+      "ja": "彼は私がいちばん尊敬している先生にあいさつしました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-090",
+      "en": "The girl who they welcomed looked nervous.",
+      "ja": "彼らが迎えた女の子は緊張しているようでした。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-091",
+      "en": "I know a man who many students respect.",
+      "ja": "私は多くの生徒が尊敬している男性を知っています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-092",
+      "en": "The student who the coach praised smiled proudly.",
+      "ja": "コーチがほめた生徒は誇らしそうに笑いました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-093",
+      "en": "She likes the singer who her father introduced.",
+      "ja": "彼女は父が紹介した歌手が好きです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-094",
+      "en": "The woman who I visited yesterday works at the library.",
+      "ja": "私が昨日たずねた女性は図書館で働いています。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-095",
+      "en": "We visited the teacher who Noah misses.",
+      "ja": "私たちはノアが会いたがっている先生をたずねました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-096",
+      "en": "The boy who she called first answered quickly.",
+      "ja": "彼女が最初に電話した男の子はすぐに出ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-097",
+      "en": "I saw the man who the police stopped.",
+      "ja": "私は警察が止めた男性を見ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-098",
+      "en": "The girl who my friends admire is humble.",
+      "ja": "私の友だちがあこがれている女の子は謙虚です。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-099",
+      "en": "He found the student who everyone was waiting for.",
+      "ja": "彼はみんなが待っていた生徒を見つけました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-100",
+      "en": "The woman who we invited brought cookies.",
+      "ja": "私たちが招待した女性はクッキーを持ってきました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-101",
+      "en": "I know the teacher who your brother asked for help.",
+      "ja": "私はあなたの弟が助けを求めた先生を知っています。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-102",
+      "en": "The boy who Emma chose for the team runs fast.",
+      "ja": "エマがチームに選んだ男の子は足が速いです。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-103",
+      "en": "The book which I borrowed from the library is very useful.",
+      "ja": "図書館から借りたその本はとても役に立ちます。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-03-104",
+      "en": "The bag which she packed for the trip is blue.",
+      "ja": "彼女が旅行のために荷造りしたそのかばんは青いです。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-105",
+      "en": "The bike which my uncle gave me is still strong.",
+      "ja": "おじが私にくれたその自転車はまだ丈夫です。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-106",
+      "en": "The dog which we found in the park was hungry.",
+      "ja": "私たちが公園で見つけたその犬はおなかをすかせていました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-107",
+      "en": "The camera which he wants is too expensive.",
+      "ja": "彼がほしがっているそのカメラは高すぎます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-108",
+      "en": "The song which Emma likes is playing now.",
+      "ja": "エマが好きなその曲が今流れています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-109",
+      "en": "The hat which my mother chose looks nice on me.",
+      "ja": "母が選んだその帽子は私によく似合います。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-110",
+      "en": "The movie which my brother recommended was funny.",
+      "ja": "弟がすすめたその映画はおもしろかったです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-111",
+      "en": "The pen which Noah lost was on the floor.",
+      "ja": "ノアがなくしたそのペンは床にありました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-112",
+      "en": "The ball which the boy kicked hit the wall.",
+      "ja": "その男の子がけったボールは壁に当たりました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-113",
+      "en": "The cat which my sister loves is very quiet.",
+      "ja": "姉がかわいがっているその猫はとても静かです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-114",
+      "en": "The chair which I moved is by the window now.",
+      "ja": "私が動かしたそのいすは今窓のそばにあります。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-115",
+      "en": "The toy which the baby dropped is under the table.",
+      "ja": "その赤ちゃんが落としたおもちゃはテーブルの下にあります。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-116",
+      "en": "The sandwich which I made this morning is in the fridge.",
+      "ja": "私が今朝作ったそのサンドイッチは冷蔵庫に入っています。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-03-117",
+      "en": "The train which we took this morning was crowded.",
+      "ja": "私たちが今朝乗ったその電車はこんでいました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-118",
+      "en": "The notebook which she opened was full of ideas.",
+      "ja": "彼女が開いたそのノートは考えでいっぱいでした。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-119",
+      "en": "The rabbit which the children saw was very small.",
+      "ja": "子どもたちが見たそのうさぎはとても小さかったです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-120",
+      "en": "The cookie which I made for Emma was too sweet.",
+      "ja": "私がエマのために作ったそのクッキーは甘すぎました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-121",
+      "en": "The map which we found in the drawer was old.",
+      "ja": "私たちが引き出しで見つけたその地図は古かったです。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-122",
+      "en": "The computer which we use at school is slow.",
+      "ja": "私たちが学校で使うそのコンピューターは遅いです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-123",
+      "en": "The flower which she picked smelled nice.",
+      "ja": "彼女が摘んだその花はいい香りがしました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-124",
+      "en": "The lunch box which I carried was still warm.",
+      "ja": "私が運んだそのお弁当箱はまだ温かかったです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-125",
+      "en": "The dog which the girl called ran to her.",
+      "ja": "その女の子が呼んだ犬は彼女のところへ走っていきました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-126",
+      "en": "The cup which he broke was my favorite one.",
+      "ja": "彼が割ったそのカップは私のお気に入りでした。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-127",
+      "en": "The key which the teacher gave me was in my pocket.",
+      "ja": "先生が私にくれたその鍵は私のポケットにありました。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-03-128",
+      "en": "The letter which my grandmother sent made me smile.",
+      "ja": "祖母が送ってくれたその手紙は私を笑顔にしました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-129",
+      "en": "The shoes which my aunt bought are too small.",
+      "ja": "おばが買ってくれたその靴は小さすぎます。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-130",
+      "en": "The fish which the boy caught was very big.",
+      "ja": "その男の子がつった魚はとても大きかったです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-131",
+      "en": "The box which she carried was heavier than it looked.",
+      "ja": "彼女が運んでいたその箱は見た目より重かったです。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-132",
+      "en": "The phone which my father bought is very thin.",
+      "ja": "父が買ったその電話はとても薄いです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-133",
+      "en": "The boy that runs to school is my cousin.",
+      "ja": "学校まで走って行くその男の子は私のいとこです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-134",
+      "en": "I know a girl that sings in the school choir.",
+      "ja": "私は学校の合唱部で歌う女の子を知っています。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-135",
+      "en": "The teacher that helps me with math is very patient.",
+      "ja": "私の数学を手伝ってくれる先生はとても根気強いです。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-136",
+      "en": "We met a man that works at the flower shop.",
+      "ja": "私たちは花屋で働いている男性に会いました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-137",
+      "en": "She has a friend that always remembers birthdays.",
+      "ja": "彼女にはいつも誕生日を覚えている友だちがいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-138",
+      "en": "The woman that called this morning was my aunt.",
+      "ja": "今朝電話してきた女性は私のおばでした。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-139",
+      "en": "He wants a coach that listens to every player.",
+      "ja": "彼は一人ひとりの選手の話を聞くコーチを望んでいます。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-140",
+      "en": "I thanked the student that carried my box.",
+      "ja": "私は私の箱を運んでくれた生徒にお礼を言いました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-141",
+      "en": "The girl that I saw in the hall was Emma.",
+      "ja": "私が廊下で見かけた女の子はエマでした。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-142",
+      "en": "We visited the teacher that Noah talked about.",
+      "ja": "私たちはノアが話していた先生をたずねました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-143",
+      "en": "He is the doctor that my family trusts.",
+      "ja": "彼は私の家族が信頼している医者です。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-144",
+      "en": "The boy that my brother chose is on our team.",
+      "ja": "弟が選んだ男の子は私たちのチームにいます。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-145",
+      "en": "She is the friend that I asked for advice.",
+      "ja": "彼女は私が助言を求めた友だちです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-146",
+      "en": "I found the person that you were waiting for.",
+      "ja": "私はあなたが待っていた人を見つけました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-147",
+      "en": "The singer that my mother likes is on TV now.",
+      "ja": "母が好きな歌手が今テレビに出ています。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-148",
+      "en": "We welcomed the student that came from Canada.",
+      "ja": "私たちはカナダから来た生徒を迎えました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-149",
+      "en": "The man that fixed our door was very friendly.",
+      "ja": "私たちのドアを直してくれた男性はとても感じのよい人でした。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-150",
+      "en": "The book that teaches easy cooking is popular.",
+      "ja": "簡単な料理を教えてくれる本は人気です。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-151",
+      "en": "I need a bag that holds all my books.",
+      "ja": "私は本が全部入るかばんが必要です。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-152",
+      "en": "The dog that barks at the mail carrier is ours.",
+      "ja": "郵便配達の人にほえるその犬は私たちの犬です。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-153",
+      "en": "We saw a train that was shining in the rain.",
+      "ja": "私たちは雨の中で光っている電車を見ました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-154",
+      "en": "The chair that is by the door is broken.",
+      "ja": "ドアのそばにあるそのいすはこわれています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-155",
+      "en": "She bought a lamp that gives warm light.",
+      "ja": "彼女はあたたかい光を出すランプを買いました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-156",
+      "en": "The song that makes me calm is playing now.",
+      "ja": "私を落ち着かせてくれるその曲が今流れています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-157",
+      "en": "I have a watch that shows the date.",
+      "ja": "私は日付が表示される時計を持っています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-158",
+      "en": "The movie that we watched after dinner was sad.",
+      "ja": "私たちが夕食のあとに見た映画は悲しい内容でした。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-159",
+      "en": "He lost the key that opens this cabinet.",
+      "ja": "彼はこの戸だなを開ける鍵をなくしました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-160",
+      "en": "The picture that Emma drew is on the fridge.",
+      "ja": "エマが描いた絵は冷蔵庫に貼ってあります。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-161",
+      "en": "We use a machine that dries our clothes quickly.",
+      "ja": "私たちは服をすぐに乾かす機械を使っています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-162",
+      "en": "The cat that my sister rescued is sleeping here.",
+      "ja": "姉が助けた猫がここで眠っています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-163",
+      "en": "I found the phone that my father was looking for.",
+      "ja": "私は父が探していた電話を見つけました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-164",
+      "en": "The shoes that my mother bought are very warm.",
+      "ja": "母が買ってくれたその靴はとても暖かいです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-165",
+      "en": "She wants a bike that her little brother can ride too.",
+      "ja": "彼女は弟も乗れる自転車をほしがっています。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-03-166",
+      "en": "The game that my brother taught me is fun.",
+      "ja": "弟が教えてくれたそのゲームは楽しいです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-167",
+      "en": "The boy I met at the station was very friendly.",
+      "ja": "私が駅で会った男の子はとても感じのよい子でした。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-168",
+      "en": "The girl my sister invited brought a camera.",
+      "ja": "姉が招待したその女の子はカメラを持ってきました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-169",
+      "en": "The teacher we saw in the hall smiled at us.",
+      "ja": "私たちが廊下で見かけたその先生は私たちにほほえみました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-170",
+      "en": "The man my father knows lives near our school.",
+      "ja": "父が知っているその男性は私たちの学校の近くに住んでいます。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-171",
+      "en": "The woman I helped yesterday thanked me again.",
+      "ja": "私が昨日手伝ったその女性はもう一度お礼を言ってくれました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-172",
+      "en": "The student Noah chose is our new captain.",
+      "ja": "ノアが選んだその生徒が私たちの新しいキャプテンです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-173",
+      "en": "The doctor my mother trusts is very calm.",
+      "ja": "母が信頼しているその医者はとても落ち着いています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-174",
+      "en": "The friend Emma called first answered right away.",
+      "ja": "エマが最初に電話したその友だちはすぐに出ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-175",
+      "en": "The singer we listened to last night has a clear voice.",
+      "ja": "私たちが昨夜聞いたその歌手は澄んだ声をしています。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-03-176",
+      "en": "The person I was waiting for missed the bus.",
+      "ja": "私が待っていたその人はバスに乗りおくれました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-177",
+      "en": "The student the coach praised looked proud.",
+      "ja": "コーチがほめたその生徒は誇らしそうでした。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-178",
+      "en": "The girl my brother walks to school with is kind.",
+      "ja": "弟がいっしょに学校へ行くその女の子は親切です。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-179",
+      "en": "The woman we invited brought a large cake.",
+      "ja": "私たちが招待したその女性は大きなケーキを持ってきました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-180",
+      "en": "The boy you were talking about is my cousin.",
+      "ja": "あなたが話していたその男の子は私のいとこです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-181",
+      "en": "The teacher I asked gave me a simple answer.",
+      "ja": "私がたずねたその先生はわかりやすい答えをくれました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-182",
+      "en": "The book I bought yesterday is very useful.",
+      "ja": "私が昨日買ったその本はとても役に立ちます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-183",
+      "en": "The bag she uses every day is very light.",
+      "ja": "彼女が毎日使っているそのかばんはとても軽いです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-184",
+      "en": "The bike my brother fixed runs smoothly now.",
+      "ja": "弟が直したその自転車は今なめらかに走ります。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-185",
+      "en": "The movie we watched after dinner was funny.",
+      "ja": "私たちが夕食のあとに見たその映画はおもしろかったです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-186",
+      "en": "The song Emma likes is playing on the radio.",
+      "ja": "エマが好きなその曲がラジオで流れています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-187",
+      "en": "The phone I was looking for was under the sofa.",
+      "ja": "私が探していたその電話はソファの下にありました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-188",
+      "en": "The picture he drew is on the wall.",
+      "ja": "彼が描いたその絵は壁にかかっています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-189",
+      "en": "The shoes Noah cleaned look almost new.",
+      "ja": "ノアがきれいにしたその靴はほとんど新品のようです。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-03-190",
+      "en": "The key we needed was in my desk.",
+      "ja": "私たちが必要としていたその鍵は私の机の中にありました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-191",
+      "en": "The cup my mother gave me is still warm.",
+      "ja": "母がくれたそのカップはまだ温かいです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-192",
+      "en": "The cake we made for Emma was too sweet.",
+      "ja": "私たちがエマのために作ったそのケーキは甘すぎました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-193",
+      "en": "The train we took this morning was crowded.",
+      "ja": "私たちが今朝乗ったその電車はこんでいました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-194",
+      "en": "The dog we found in the rain was shaking.",
+      "ja": "私たちが雨の中で見つけたその犬はふるえていました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-195",
+      "en": "The cat my sister rescued sleeps by the window.",
+      "ja": "姉が助けたその猫は窓のそばで眠ります。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-196",
+      "en": "The rabbit the children saw in the yard was small.",
+      "ja": "子どもたちが庭で見たそのうさぎは小さかったです。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-03-197",
+      "en": "The flower I gave my mother smelled sweet.",
+      "ja": "私が母にあげたその花は甘い香りがしました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-03-198",
+      "en": "The map my father showed me was very old.",
+      "ja": "父が私に見せてくれたその地図はとても古かったです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-199",
+      "en": "The chair I moved is by the door now.",
+      "ja": "私が動かしたそのいすは今ドアのそばにあります。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-03-200",
+      "en": "The ball the boy kicked hit the fence.",
+      "ja": "その男の子がけったボールはフェンスに当たりました。",
+      "word_count": 8
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

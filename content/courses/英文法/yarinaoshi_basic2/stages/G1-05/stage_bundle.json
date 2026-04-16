@@ -1,0 +1,1213 @@
+{
+  "schema_version": 1,
+  "material_id": "yarinaoshi_basic2",
+  "id_prefix": "G1-05",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G1-05-001",
+      "en": "I am eating bread.",
+      "ja": "私はパンを食べている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-002",
+      "en": "You are drinking water.",
+      "ja": "あなたは水を飲んでいる。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-003",
+      "en": "He is reading a book.",
+      "ja": "彼は本を読んでいる。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-004",
+      "en": "She is sleeping.",
+      "ja": "彼女は眠っている。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-05-005",
+      "en": "We are clapping.",
+      "ja": "私たちは拍手している。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-05-006",
+      "en": "They are laughing.",
+      "ja": "彼らは笑っている。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-05-007",
+      "en": "The baby is crying.",
+      "ja": "その赤ちゃんは泣いている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-008",
+      "en": "My father is smiling.",
+      "ja": "父はほほえんでいる。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-009",
+      "en": "My mother is waving.",
+      "ja": "母は手を振っている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-010",
+      "en": "The boy is jumping.",
+      "ja": "その男の子は跳んでいる。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-011",
+      "en": "The girl is running.",
+      "ja": "その女の子は走っている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-012",
+      "en": "The dog is barking.",
+      "ja": "その犬はほえている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-013",
+      "en": "The cat is hiding.",
+      "ja": "その猫は隠れている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-014",
+      "en": "The man is sitting.",
+      "ja": "その男性は座っている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-015",
+      "en": "The woman is standing.",
+      "ja": "その女性は立っている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-016",
+      "en": "The teacher is speaking.",
+      "ja": "先生は話している。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-017",
+      "en": "The students are listening.",
+      "ja": "生徒たちは聞いている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-018",
+      "en": "She is opening the window.",
+      "ja": "彼女は窓を開けている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-019",
+      "en": "The bird is flying.",
+      "ja": "その鳥は飛んでいる。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-020",
+      "en": "The child is dancing.",
+      "ja": "その子どもは踊っている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-021",
+      "en": "The boy is kicking a ball.",
+      "ja": "その男の子はボールをけっている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-022",
+      "en": "I am looking at the sky.",
+      "ja": "私は空を見ている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-023",
+      "en": "You are raising your hand.",
+      "ja": "あなたは手を挙げている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-024",
+      "en": "He is writing a letter.",
+      "ja": "彼は手紙を書いている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-025",
+      "en": "She is drawing.",
+      "ja": "彼女は絵を描いている。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-05-026",
+      "en": "They are singing.",
+      "ja": "彼らは歌っている。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-05-027",
+      "en": "My grandfather is walking.",
+      "ja": "祖父は歩いている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-028",
+      "en": "My grandmother is nodding.",
+      "ja": "祖母はうなずいている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-029",
+      "en": "The children are shouting.",
+      "ja": "子どもたちはさけんでいる。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-030",
+      "en": "The girl is closing the door.",
+      "ja": "その女の子はドアを閉めている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-031",
+      "en": "I am washing my hands.",
+      "ja": "私は手を洗っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-032",
+      "en": "You are brushing your teeth.",
+      "ja": "あなたは歯をみがいている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-033",
+      "en": "He is holding a box.",
+      "ja": "彼は箱を持っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-034",
+      "en": "She is carrying a bag.",
+      "ja": "彼女はかばんを持っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-035",
+      "en": "We are looking around.",
+      "ja": "私たちはあたりを見回している。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-036",
+      "en": "They are pointing at the picture.",
+      "ja": "彼らはその絵を指さしている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-037",
+      "en": "The baby is crawling.",
+      "ja": "その赤ちゃんははっている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-038",
+      "en": "The cat is stretching.",
+      "ja": "その猫はのびをしている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-039",
+      "en": "My friend is sneezing.",
+      "ja": "私の友だちはくしゃみをしている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-040",
+      "en": "The boy is coughing.",
+      "ja": "その男の子はせきをしている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-041",
+      "en": "You are closing your eyes.",
+      "ja": "あなたは目を閉じている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-042",
+      "en": "I am doing my homework.",
+      "ja": "私は宿題をしている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-043",
+      "en": "You are cleaning your desk.",
+      "ja": "あなたは机を片づけている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-044",
+      "en": "He is making lunch.",
+      "ja": "彼は昼食を作っている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-045",
+      "en": "She is washing the dishes.",
+      "ja": "彼女は皿を洗っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-046",
+      "en": "We are studying English.",
+      "ja": "私たちは英語を勉強している。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-047",
+      "en": "They are doing a science project.",
+      "ja": "彼らは理科の課題に取り組んでいる。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-048",
+      "en": "My brother is fixing his bike.",
+      "ja": "弟は自転車を直している。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-049",
+      "en": "My sister is practicing the piano.",
+      "ja": "姉はピアノの練習をしている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-050",
+      "en": "The teacher is checking our homework.",
+      "ja": "先生は私たちの宿題を確認している。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-051",
+      "en": "The students are taking notes.",
+      "ja": "生徒たちはノートを取っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-052",
+      "en": "I am writing an email.",
+      "ja": "私はメールを書いている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-053",
+      "en": "You are cutting the paper.",
+      "ja": "あなたは紙を切っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-054",
+      "en": "He is wrapping a box.",
+      "ja": "彼は箱を包んでいる。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-055",
+      "en": "She is arranging the books.",
+      "ja": "彼女は本を並べている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-056",
+      "en": "We are setting the table.",
+      "ja": "私たちは食卓の用意をしている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-057",
+      "en": "They are watering the plants.",
+      "ja": "彼らは植物に水をやっている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-058",
+      "en": "My mother is cooking dinner.",
+      "ja": "母は夕食を作っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-059",
+      "en": "My father is washing the car.",
+      "ja": "父は車を洗っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-060",
+      "en": "The boy is building a model.",
+      "ja": "その男の子は模型を作っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-061",
+      "en": "The girl is solving a math problem.",
+      "ja": "その女の子は数学の問題を解いている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-062",
+      "en": "I am packing my bag.",
+      "ja": "私はかばんに荷物を詰めている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-063",
+      "en": "You are putting the books in order.",
+      "ja": "あなたは本を順番に並べている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-064",
+      "en": "He is painting the fence.",
+      "ja": "彼は柵にペンキをぬっている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-065",
+      "en": "She is cleaning the window.",
+      "ja": "彼女は窓をふいている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-066",
+      "en": "We are preparing breakfast.",
+      "ja": "私たちは朝食の用意をしている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-067",
+      "en": "They are planting flowers.",
+      "ja": "彼らは花を植えている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-068",
+      "en": "My uncle is fixing the shelf.",
+      "ja": "おじは棚を直している。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-069",
+      "en": "My aunt is ironing a shirt.",
+      "ja": "おばはシャツにアイロンをかけている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-070",
+      "en": "The cook is tasting the soup.",
+      "ja": "その料理人はスープの味をみている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-071",
+      "en": "The student is practicing spelling.",
+      "ja": "その生徒はつづりの練習をしている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-072",
+      "en": "I am copying the sentence.",
+      "ja": "私はその文を書き写している。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-073",
+      "en": "You are opening the package.",
+      "ja": "あなたは包みを開けている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-074",
+      "en": "He is tying the rope.",
+      "ja": "彼はロープをしばっている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-075",
+      "en": "She is putting the dishes away.",
+      "ja": "彼女は皿を片づけている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-076",
+      "en": "We are making a poster.",
+      "ja": "私たちはポスターを作っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-077",
+      "en": "I am talking with my friend.",
+      "ja": "私は友だちと話している。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-078",
+      "en": "You are playing cards.",
+      "ja": "あなたはトランプで遊んでいる。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-079",
+      "en": "He is calling his mother.",
+      "ja": "彼は母親に電話している。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-080",
+      "en": "She is sharing her lunch with her sister.",
+      "ja": "彼女は姉と昼食を分け合っている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-081",
+      "en": "We are singing together.",
+      "ja": "私たちはいっしょに歌っている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-082",
+      "en": "They are playing catch.",
+      "ja": "彼らはキャッチボールをしている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-083",
+      "en": "My brother is playing with the dog.",
+      "ja": "弟は犬と遊んでいる。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-084",
+      "en": "My sister is showing me her picture.",
+      "ja": "姉は私に自分の絵を見せている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-085",
+      "en": "The boys are playing soccer.",
+      "ja": "その男の子たちはサッカーをしている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-086",
+      "en": "The girls are dancing together.",
+      "ja": "その女の子たちはいっしょに踊っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-087",
+      "en": "I am listening to your story.",
+      "ja": "私はあなたの話を聞いている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-088",
+      "en": "You are talking to the teacher.",
+      "ja": "あなたは先生と話している。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-089",
+      "en": "She is cheering for her team.",
+      "ja": "彼女は自分のチームを応援している。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-090",
+      "en": "We are watching a funny video.",
+      "ja": "私たちはおもしろい動画を見ている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-091",
+      "en": "They are taking pictures of each other.",
+      "ja": "彼らはたがいに写真を撮っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-092",
+      "en": "My father is talking on the phone.",
+      "ja": "父は電話で話している。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-093",
+      "en": "My mother is laughing with her friend.",
+      "ja": "母は友だちと笑っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-094",
+      "en": "The children are playing in the park.",
+      "ja": "子どもたちは公園で遊んでいる。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-095",
+      "en": "The students are helping each other.",
+      "ja": "生徒たちは助け合っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-096",
+      "en": "I am asking my brother a question.",
+      "ja": "私は弟に質問している。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-097",
+      "en": "You are showing us your new bag.",
+      "ja": "あなたは私たちに新しいかばんを見せている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-098",
+      "en": "He is teaching his friend a song.",
+      "ja": "彼は友だちに歌を教えている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-099",
+      "en": "She is playing the piano for us.",
+      "ja": "彼女は私たちのためにピアノをひいている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-100",
+      "en": "We are clapping for the singer.",
+      "ja": "私たちはその歌い手に拍手している。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-101",
+      "en": "They are taking turns.",
+      "ja": "彼らは順番にやっている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-102",
+      "en": "My friends are waiting for me.",
+      "ja": "私の友だちは私を待っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-103",
+      "en": "The boy is waving to his father.",
+      "ja": "その男の子は父親に手を振っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-104",
+      "en": "The girl is speaking to her classmates.",
+      "ja": "その女の子はクラスメートに話しかけている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-105",
+      "en": "The team is stretching before the game.",
+      "ja": "そのチームは試合前にストレッチをしている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-106",
+      "en": "I am going home.",
+      "ja": "私は家に向かっている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-107",
+      "en": "You are coming with us.",
+      "ja": "あなたは私たちといっしょに来ている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-108",
+      "en": "He is walking to school.",
+      "ja": "彼は学校へ歩いて行っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-109",
+      "en": "She is running to the station.",
+      "ja": "彼女は駅へ走っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-110",
+      "en": "We are leaving the room.",
+      "ja": "私たちは部屋を出ている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-111",
+      "en": "They are crossing the street.",
+      "ja": "彼らは通りを渡っている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-112",
+      "en": "My father is coming back.",
+      "ja": "父は戻ってきている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-113",
+      "en": "My mother is heading upstairs.",
+      "ja": "母は2階へ向かっている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-114",
+      "en": "The boy is turning the corner.",
+      "ja": "その男の子は角を曲がっている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-115",
+      "en": "The girl is walking past the library.",
+      "ja": "その女の子は図書館の前を通っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-116",
+      "en": "I am walking with my friends.",
+      "ja": "私は友だちと歩いている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-117",
+      "en": "You are going to the bus stop.",
+      "ja": "あなたはバス停へ向かっている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-118",
+      "en": "He is getting on the bus.",
+      "ja": "彼はバスに乗っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-119",
+      "en": "She is getting off the train.",
+      "ja": "彼女は電車を降りている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-120",
+      "en": "We are walking across the park.",
+      "ja": "私たちは公園を横切って歩いている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-121",
+      "en": "They are coming down the stairs.",
+      "ja": "彼らは階段を下りてきている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-122",
+      "en": "My brother is going out now.",
+      "ja": "弟は今、出かけている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-123",
+      "en": "My sister is coming home from school.",
+      "ja": "姉は学校から帰ってきている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-124",
+      "en": "The students are going to the gym.",
+      "ja": "生徒たちは体育館へ向かっている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-125",
+      "en": "The teacher is coming into the classroom.",
+      "ja": "先生は教室に入ってきている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-126",
+      "en": "I am moving to the front.",
+      "ja": "私は前へ移動している。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-127",
+      "en": "You are walking behind me.",
+      "ja": "あなたは私のうしろを歩いている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-128",
+      "en": "He is riding his bike to the park.",
+      "ja": "彼は自転車で公園へ向かっている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-129",
+      "en": "She is carrying a box outside.",
+      "ja": "彼女は箱を外へ運んでいる。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-130",
+      "en": "We are moving to the next room.",
+      "ja": "私たちはとなりの部屋へ移っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-131",
+      "en": "They are going back to their seats.",
+      "ja": "彼らは自分の席に戻っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-132",
+      "en": "My uncle is driving to town.",
+      "ja": "おじは町へ車で向かっている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-133",
+      "en": "My aunt is walking toward us.",
+      "ja": "おばは私たちのほうへ歩いてきている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-134",
+      "en": "The dog is running after the ball.",
+      "ja": "その犬はボールを追いかけて走っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-135",
+      "en": "The children are running toward the bus.",
+      "ja": "子どもたちはバスのほうへ走っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-136",
+      "en": "It is raining.",
+      "ja": "雨が降っている。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-05-137",
+      "en": "It is snowing.",
+      "ja": "雪が降っている。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-05-138",
+      "en": "The wind is blowing.",
+      "ja": "風が吹いている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-139",
+      "en": "It is getting dark.",
+      "ja": "暗くなってきている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-140",
+      "en": "It is getting light outside.",
+      "ja": "外が明るくなってきている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-141",
+      "en": "The phone is ringing.",
+      "ja": "電話が鳴っている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-142",
+      "en": "The window is shaking.",
+      "ja": "窓が揺れている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-143",
+      "en": "The alarm is buzzing.",
+      "ja": "アラームが鳴っている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-144",
+      "en": "The baby is waking up.",
+      "ja": "その赤ちゃんは目を覚ましかけている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-145",
+      "en": "The baby is falling asleep.",
+      "ja": "その赤ちゃんは眠りかけている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-146",
+      "en": "The water is boiling.",
+      "ja": "お湯がわいている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-147",
+      "en": "The soup is getting hot.",
+      "ja": "スープが熱くなってきている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-148",
+      "en": "The tea is cooling down.",
+      "ja": "お茶が冷めてきている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-149",
+      "en": "The ice is melting.",
+      "ja": "氷がとけている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-150",
+      "en": "The sun is coming out.",
+      "ja": "日が差してきている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-151",
+      "en": "The smoke is rising.",
+      "ja": "煙が上がっている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-152",
+      "en": "The leaves are falling.",
+      "ja": "葉が落ちている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-153",
+      "en": "The stars are appearing.",
+      "ja": "星が出てきている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-154",
+      "en": "The light is flashing.",
+      "ja": "明かりが点滅している。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-155",
+      "en": "The door is opening.",
+      "ja": "ドアが開き始めている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-156",
+      "en": "The bus is coming.",
+      "ja": "バスが近づいてきている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-157",
+      "en": "The train is stopping.",
+      "ja": "電車が止まろうとしている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-158",
+      "en": "The line is getting longer.",
+      "ja": "列が長くなってきている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-159",
+      "en": "The room is getting warm.",
+      "ja": "部屋があたたかくなってきている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-160",
+      "en": "My fever is going down.",
+      "ja": "私の熱が下がってきている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-161",
+      "en": "The cake is burning.",
+      "ja": "ケーキがこげている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-162",
+      "en": "The music is starting.",
+      "ja": "音楽が始まりかけている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-163",
+      "en": "The rain is stopping.",
+      "ja": "雨がやんできている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-164",
+      "en": "The clouds are moving fast.",
+      "ja": "雲が速く動いている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-165",
+      "en": "The moon is rising.",
+      "ja": "月がのぼってきている。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-05-166",
+      "en": "I am studying hard this week.",
+      "ja": "私は今週、一生けん命勉強している。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-167",
+      "en": "We are meeting in the small room today.",
+      "ja": "私たちは今日は小さい部屋に集まっている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-168",
+      "en": "My brother is staying with us this week.",
+      "ja": "弟は今週、私たちの家に泊まっている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-169",
+      "en": "My sister is working at my desk today.",
+      "ja": "姉は今日、私の机で作業している。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-170",
+      "en": "We are eating in the kitchen for now.",
+      "ja": "私たちは今のところ、台所で食事をしている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-171",
+      "en": "I am reading this book these days.",
+      "ja": "私はこのごろ、この本を読んでいる。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-172",
+      "en": "My father is working from home this month.",
+      "ja": "父は今月、家で仕事をしている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-173",
+      "en": "My mother is taking an online class now.",
+      "ja": "母は今、オンライン授業を受けている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-174",
+      "en": "We are practicing for the school festival this week.",
+      "ja": "私たちは今週、学校祭に向けて練習している。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-05-175",
+      "en": "They are living with their grandparents for now.",
+      "ja": "彼らは今のところ、祖父母の家で暮らしている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-176",
+      "en": "I am using my old phone this week.",
+      "ja": "私は今週、古い携帯電話を使っている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-177",
+      "en": "You are sitting in my seat today.",
+      "ja": "あなたは今日、私の席に座っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-178",
+      "en": "He is staying home today.",
+      "ja": "彼は今日、家で過ごしている。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-05-179",
+      "en": "She is working on her report this week.",
+      "ja": "彼女は今週、レポートに取り組んでいる。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-180",
+      "en": "We are cleaning the house little by little these days.",
+      "ja": "私たちはこのごろ、少しずつ家を片づけている。",
+      "word_count": 10
+    },
+    {
+      "id": "G1-05-181",
+      "en": "They are studying for the test this week.",
+      "ja": "彼らは今週、テスト勉強をしている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-182",
+      "en": "My brother is taking the bus this month.",
+      "ja": "弟は今月、バスで通っている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-183",
+      "en": "My sister is helping my mother after school these days.",
+      "ja": "姉はこのごろ、放課後に母を手伝っている。",
+      "word_count": 10
+    },
+    {
+      "id": "G1-05-184",
+      "en": "I am drinking more water these days.",
+      "ja": "私はこのごろ、前よりたくさん水を飲んでいる。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-185",
+      "en": "You are staying after school today.",
+      "ja": "あなたは今日、放課後に残っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-05-186",
+      "en": "He is helping at his uncle's store this week.",
+      "ja": "彼は今週、おじの店を手伝っている。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-05-187",
+      "en": "She is keeping a diary this month.",
+      "ja": "彼女は今月、日記をつけている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-188",
+      "en": "We are keeping the windows open for now.",
+      "ja": "私たちは今のところ、窓を開けたままにしている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-189",
+      "en": "They are spending more time together these days.",
+      "ja": "彼らはこのごろ、いっしょに過ごす時間が増えている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-190",
+      "en": "My father is eating lunch at home this week.",
+      "ja": "父は今週、家で昼食を食べている。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-05-191",
+      "en": "My mother is looking after my cousin today.",
+      "ja": "母は今日、いとこの世話をしている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-192",
+      "en": "I am learning new words every night this week.",
+      "ja": "私は今週、毎晩新しい単語を覚えている。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-05-193",
+      "en": "You are wearing your glasses these days.",
+      "ja": "あなたはこのごろ、めがねをかけている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-194",
+      "en": "He is sleeping on the sofa for now.",
+      "ja": "彼は今のところ、ソファーで寝ている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-195",
+      "en": "She is using the computer for her project this week.",
+      "ja": "彼女は今週、課題のためにパソコンを使っている。",
+      "word_count": 10
+    },
+    {
+      "id": "G1-05-196",
+      "en": "We are walking to school this month.",
+      "ja": "私たちは今月、歩いて学校に通っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-197",
+      "en": "They are eating simple meals these days.",
+      "ja": "彼らはこのごろ、簡単な食事をしている。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-05-198",
+      "en": "My brother is helping at the store every night this week.",
+      "ja": "弟は今週、毎晩店を手伝っている。",
+      "word_count": 11
+    },
+    {
+      "id": "G1-05-199",
+      "en": "My sister is staying up late these days.",
+      "ja": "姉はこのごろ、夜ふかししている。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-05-200",
+      "en": "I am bringing lunch to school every day this month.",
+      "ja": "私は今月、毎日弁当を学校に持って行っている。",
+      "word_count": 10
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

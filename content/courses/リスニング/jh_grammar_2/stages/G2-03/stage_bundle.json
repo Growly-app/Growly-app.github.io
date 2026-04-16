@@ -1,0 +1,1213 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_2",
+  "id_prefix": "G2-03",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G2-03-001",
+      "en": "I can swim well.",
+      "ja": "私は上手に泳げます。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-002",
+      "en": "I can cook simple meals.",
+      "ja": "私は簡単な料理ができます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-003",
+      "en": "I can speak a little English.",
+      "ja": "私は少し英語を話せます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-004",
+      "en": "I can ride a bike.",
+      "ja": "私は自転車に乗れます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-005",
+      "en": "I can play the piano.",
+      "ja": "私はピアノを弾けます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-006",
+      "en": "I can draw animals.",
+      "ja": "私は動物の絵を描けます。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-007",
+      "en": "I can read this kanji.",
+      "ja": "私はこの漢字を読めます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-008",
+      "en": "I can use a computer.",
+      "ja": "私はパソコンを使えます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-009",
+      "en": "I can make breakfast by myself.",
+      "ja": "私は自分で朝ごはんを作れます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-010",
+      "en": "I can jump rope.",
+      "ja": "私はなわとびができます。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-011",
+      "en": "My sister can dance well.",
+      "ja": "姉は上手に踊れます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-012",
+      "en": "My father can fix bikes.",
+      "ja": "父は自転車を直せます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-013",
+      "en": "My mother can drive.",
+      "ja": "母は車を運転できます。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-014",
+      "en": "My brother can speak French.",
+      "ja": "弟はフランス語を話せます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-015",
+      "en": "Our teacher can play tennis.",
+      "ja": "私たちの先生はテニスができます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-016",
+      "en": "Noah can run fast.",
+      "ja": "ノアは速く走れます。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-017",
+      "en": "Emma can sing beautifully.",
+      "ja": "エマはきれいに歌えます。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-018",
+      "en": "We can make paper flowers.",
+      "ja": "私たちは紙の花を作れます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-019",
+      "en": "They can solve this problem.",
+      "ja": "彼らはこの問題を解けます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-020",
+      "en": "I can't skate.",
+      "ja": "私はスケートができません。",
+      "word_count": 3
+    },
+    {
+      "id": "G2-03-021",
+      "en": "I can't play chess well.",
+      "ja": "私はチェスが上手にできません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-022",
+      "en": "I can't write in English yet.",
+      "ja": "私はまだ英語で書けません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-023",
+      "en": "My grandfather can't hear well.",
+      "ja": "祖父はよく聞こえません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-024",
+      "en": "My little brother can't tie his shoes.",
+      "ja": "弟はまだくつひもを結べません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-025",
+      "en": "She can't play the guitar.",
+      "ja": "彼女はギターを弾けません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-026",
+      "en": "He can't swim at all.",
+      "ja": "彼はまったく泳げません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-027",
+      "en": "We can't remember every word.",
+      "ja": "私たちはすべての単語を覚えられません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-028",
+      "en": "They can't lift that box.",
+      "ja": "彼らはその箱を持ち上げられません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-029",
+      "en": "I can meet you after school.",
+      "ja": "私は放課後にあなたに会えます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-030",
+      "en": "We can use this room now.",
+      "ja": "私たちは今この部屋を使えます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-031",
+      "en": "She can come today.",
+      "ja": "彼女は今日来られます。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-032",
+      "en": "He can join us later.",
+      "ja": "彼はあとで私たちに合流できます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-033",
+      "en": "I can stay a little longer.",
+      "ja": "私はもう少しいられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-034",
+      "en": "We can watch the game at home.",
+      "ja": "私たちは家でその試合を見られます。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-035",
+      "en": "This key can open the door.",
+      "ja": "このかぎでそのドアを開けられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-036",
+      "en": "This bus can take us to the station.",
+      "ja": "このバスで駅まで行けます。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-037",
+      "en": "I can see the mountain from here.",
+      "ja": "私はここからその山が見えます。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-038",
+      "en": "We can buy tickets online.",
+      "ja": "私たちはオンラインでチケットを買えます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-039",
+      "en": "I can get there by noon.",
+      "ja": "私は正午までにそこに着けます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-040",
+      "en": "They can stay with us tonight.",
+      "ja": "彼らは今夜私たちのところに泊まれます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-041",
+      "en": "I can't go out today.",
+      "ja": "私は今日は外出できません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-042",
+      "en": "We can't play outside now.",
+      "ja": "私たちは今外で遊べません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-043",
+      "en": "She can't come to school today.",
+      "ja": "彼女は今日は学校に来られません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-044",
+      "en": "He can't use his phone now.",
+      "ja": "彼は今スマホを使えません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-045",
+      "en": "I can't open this bottle.",
+      "ja": "私はこのびんを開けられません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-046",
+      "en": "We can't hear the music here.",
+      "ja": "私たちはここではその音楽を聞けません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-047",
+      "en": "They can't get on this train.",
+      "ja": "彼らはこの電車には乗れません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-048",
+      "en": "I can't see the board from here.",
+      "ja": "私はここから黒板が見えません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-049",
+      "en": "My father can't drive today.",
+      "ja": "父は今日は運転できません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-050",
+      "en": "We can't cross the road here.",
+      "ja": "私たちはここでは道を渡れません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-051",
+      "en": "Emma can't stay long today.",
+      "ja": "エマは今日は長くいられません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-052",
+      "en": "I can't reach that shelf.",
+      "ja": "私はあの棚に手が届きません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-053",
+      "en": "Can I use your pen?",
+      "ja": "あなたのペンを使ってもいいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-054",
+      "en": "Can I open the window?",
+      "ja": "窓を開けてもいいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-055",
+      "en": "Can I sit here?",
+      "ja": "ここに座ってもいいですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-056",
+      "en": "Can I ask a question?",
+      "ja": "質問してもいいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-057",
+      "en": "Can I take a picture?",
+      "ja": "写真を撮ってもいいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-058",
+      "en": "Can I borrow this book?",
+      "ja": "この本を借りてもいいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-059",
+      "en": "Can I turn on the TV?",
+      "ja": "テレビをつけてもいいですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-060",
+      "en": "Can I leave early today?",
+      "ja": "今日は早く帰ってもいいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-061",
+      "en": "May I come in?",
+      "ja": "入ってもよろしいですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-062",
+      "en": "May I use your phone?",
+      "ja": "あなたの電話を使ってもよろしいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-063",
+      "en": "May I close the door?",
+      "ja": "ドアを閉めてもよろしいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-064",
+      "en": "May I join your team?",
+      "ja": "あなたたちのチームに入ってもよろしいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-065",
+      "en": "You can use my bike.",
+      "ja": "私の自転車を使っていいですよ。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-066",
+      "en": "You can sit by the window.",
+      "ja": "窓ぎわに座っていいですよ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-067",
+      "en": "You can take one cookie.",
+      "ja": "クッキーを1枚取っていいですよ。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-068",
+      "en": "You can open the box now.",
+      "ja": "もうその箱を開けていいですよ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-069",
+      "en": "You can go home now.",
+      "ja": "もう家に帰っていいですよ。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-070",
+      "en": "You can bring your friend.",
+      "ja": "友だちを連れてきていいですよ。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-071",
+      "en": "You can ask me anytime.",
+      "ja": "いつでも私に聞いていいですよ。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-072",
+      "en": "You can start now.",
+      "ja": "もう始めていいですよ。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-073",
+      "en": "You can't use my computer.",
+      "ja": "私のパソコンを使ってはいけません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-074",
+      "en": "You can't go out now.",
+      "ja": "今は外に出てはいけません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-075",
+      "en": "You can't talk during the test.",
+      "ja": "テスト中に話してはいけません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-076",
+      "en": "You can't eat in this room.",
+      "ja": "この部屋で食べてはいけません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-077",
+      "en": "Can you help me with my homework?",
+      "ja": "宿題を手伝ってくれますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-078",
+      "en": "Can you open the door?",
+      "ja": "ドアを開けてくれますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-079",
+      "en": "Can you carry this box?",
+      "ja": "この箱を運んでくれますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-080",
+      "en": "Can you show me the way?",
+      "ja": "道を教えてくれますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-081",
+      "en": "Can you call my mother?",
+      "ja": "母に電話してくれますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-082",
+      "en": "Can you wait a minute?",
+      "ja": "少し待ってくれますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-083",
+      "en": "Can you speak more slowly?",
+      "ja": "もう少しゆっくり話してくれますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-084",
+      "en": "Can you bring me some water?",
+      "ja": "水を持ってきてくれますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-085",
+      "en": "Can you check my answer?",
+      "ja": "私の答えを確認してくれますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-086",
+      "en": "Can you tell me the time?",
+      "ja": "時間を教えてくれますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-087",
+      "en": "Can you take this picture for us?",
+      "ja": "私たちの写真を撮ってくれますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-088",
+      "en": "Can you lend me your eraser?",
+      "ja": "消しゴムを貸してくれますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-089",
+      "en": "I can help you with your bag.",
+      "ja": "かばんを持つのを手伝えますよ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-090",
+      "en": "I can hold the door for you.",
+      "ja": "ドアを押さえておきますよ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-091",
+      "en": "I can show you my notes.",
+      "ja": "私のノートを見せましょうか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-092",
+      "en": "I can clean the table for you.",
+      "ja": "あなたのためにテーブルを片づけましょうか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-093",
+      "en": "I can call him for you now.",
+      "ja": "今、彼に電話しましょうか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-094",
+      "en": "I can get a chair for you.",
+      "ja": "いすを持ってきましょうか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-095",
+      "en": "I can wait for you after class.",
+      "ja": "授業のあとで待てますよ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-096",
+      "en": "I can walk with you to the station.",
+      "ja": "駅までいっしょに歩けますよ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-097",
+      "en": "I can explain this question to you.",
+      "ja": "この問題をあなたに説明できますよ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-098",
+      "en": "I must finish my homework tonight.",
+      "ja": "私は今夜宿題を終えなければなりません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-099",
+      "en": "I must get up early tomorrow.",
+      "ja": "私は明日早く起きなければなりません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-100",
+      "en": "I must call my mother after school.",
+      "ja": "私は放課後に母に電話しなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-101",
+      "en": "We must leave now.",
+      "ja": "私たちは今出発しなければなりません。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-102",
+      "en": "You must be quiet in the library.",
+      "ja": "図書館では静かにしなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-103",
+      "en": "He must take this medicine every day.",
+      "ja": "彼は毎日この薬を飲まなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-104",
+      "en": "She must wear glasses in class.",
+      "ja": "彼女は授業中めがねをかけなければなりません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-105",
+      "en": "I have to study for the test.",
+      "ja": "私はテストのために勉強しなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-106",
+      "en": "I have to clean my room today.",
+      "ja": "私は今日、自分の部屋を掃除しなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-107",
+      "en": "We have to catch the next train.",
+      "ja": "私たちは次の電車に乗らなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-108",
+      "en": "They have to wait here.",
+      "ja": "彼らはここで待たなければなりません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-109",
+      "en": "My father has to work on Sunday.",
+      "ja": "父は日曜日に働かなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-110",
+      "en": "My sister has to practice the piano.",
+      "ja": "姉はピアノを練習しなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-111",
+      "en": "Emma has to bring her lunch.",
+      "ja": "エマはお弁当を持ってこなければなりません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-112",
+      "en": "Noah has to stay home today.",
+      "ja": "ノアは今日は家にいなければなりません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-113",
+      "en": "I have to go to bed early tonight.",
+      "ja": "私は今夜早く寝なければなりません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-114",
+      "en": "You have to write your name here.",
+      "ja": "ここに名前を書かなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-115",
+      "en": "We have to finish this by Friday.",
+      "ja": "私たちは金曜日までにこれを終えなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-116",
+      "en": "She has to take care of her brother.",
+      "ja": "彼女は弟の世話をしなければなりません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-117",
+      "en": "He has to get off at the next stop.",
+      "ja": "彼は次の停留所で降りなければなりません。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-03-118",
+      "en": "I have to buy a new notebook.",
+      "ja": "私は新しいノートを買わなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-119",
+      "en": "We have to be careful on this road.",
+      "ja": "私たちはこの道では気をつけなければなりません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-120",
+      "en": "You have to answer all the questions.",
+      "ja": "あなたはすべての質問に答えなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-121",
+      "en": "Do I have to come early tomorrow?",
+      "ja": "私は明日早く来なければなりませんか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-122",
+      "en": "Do we have to bring our textbooks?",
+      "ja": "私たちは教科書を持ってこなければなりませんか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-123",
+      "en": "Do you have to wear a uniform at school?",
+      "ja": "あなたは学校で制服を着なければなりませんか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-03-124",
+      "en": "Does she have to cook dinner tonight?",
+      "ja": "彼女は今夜夕食を作らなければなりませんか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-125",
+      "en": "Does he have to take the bus?",
+      "ja": "彼はバスに乗らなければなりませんか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-126",
+      "en": "What time do you have to leave?",
+      "ja": "あなたは何時に出発しなければなりませんか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-127",
+      "en": "When do we have to hand in this report?",
+      "ja": "私たちはいつこのレポートを提出しなければなりませんか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-03-128",
+      "en": "Where do I have to put my bag?",
+      "ja": "私はかばんをどこに置かなければなりませんか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-129",
+      "en": "Why does she have to stay after school?",
+      "ja": "彼女はなぜ放課後に残らなければならないのですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-130",
+      "en": "I have to take this book back today.",
+      "ja": "私は今日この本を返さなければなりません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-131",
+      "en": "You don't have to walk there.",
+      "ja": "そこまで歩く必要はありません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-132",
+      "en": "She has to leave before five.",
+      "ja": "彼女は5時前に出発しなければなりません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-133",
+      "en": "He has to wear a name tag.",
+      "ja": "彼は名札をつけなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-134",
+      "en": "I must remember his name.",
+      "ja": "私は彼の名前を覚えておかなければなりません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-135",
+      "en": "We must help each other.",
+      "ja": "私たちはおたがいに助け合わなければなりません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-136",
+      "en": "You must not run in the hallway.",
+      "ja": "廊下を走ってはいけません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-137",
+      "en": "You must not use your phone in class.",
+      "ja": "授業中にスマホを使ってはいけません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-138",
+      "en": "We must not be late for class.",
+      "ja": "私たちは授業に遅れてはいけません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-139",
+      "en": "You must not touch this machine.",
+      "ja": "この機械に触ってはいけません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-140",
+      "en": "Students must not eat in the library.",
+      "ja": "生徒は図書館で食べてはいけません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-141",
+      "en": "You must not open that door.",
+      "ja": "あのドアを開けてはいけません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-142",
+      "en": "I must not forget my homework.",
+      "ja": "私は宿題を忘れてはいけません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-143",
+      "en": "He must not climb that fence.",
+      "ja": "彼はその柵に登ってはいけません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-144",
+      "en": "She must not stay up too late.",
+      "ja": "彼女はあまり夜ふかししてはいけません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-145",
+      "en": "We must not make a lot of noise here.",
+      "ja": "私たちはここで大きな音を立ててはいけません。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-03-146",
+      "en": "You must not take pictures here.",
+      "ja": "ここで写真を撮ってはいけません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-147",
+      "en": "Students must not enter this room.",
+      "ja": "生徒はこの部屋に入ってはいけません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-148",
+      "en": "You must not leave your bag here.",
+      "ja": "ここにかばんを置いたままにしてはいけません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-149",
+      "en": "I must not miss the last bus.",
+      "ja": "私は終バスに乗り遅れてはいけません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-150",
+      "en": "You must not feed the animals.",
+      "ja": "動物にえさをあげてはいけません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-151",
+      "en": "You don't have to come early tomorrow.",
+      "ja": "あなたは明日早く来なくてもいいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-152",
+      "en": "I don't have to cook dinner tonight.",
+      "ja": "私は今夜夕食を作らなくてもいいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-153",
+      "en": "We don't have to wear uniforms today.",
+      "ja": "私たちは今日は制服を着なくてもいいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-154",
+      "en": "He doesn't have to go to school today.",
+      "ja": "彼は今日は学校に行かなくてもいいです。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-155",
+      "en": "She doesn't have to bring her lunch.",
+      "ja": "彼女はお弁当を持ってこなくてもいいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-156",
+      "en": "You don't have to wait for me.",
+      "ja": "私を待たなくてもいいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-157",
+      "en": "I don't have to take this test.",
+      "ja": "私はこのテストを受けなくてもいいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-158",
+      "en": "We don't have to hurry now.",
+      "ja": "私たちは今は急がなくてもいいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-159",
+      "en": "You don't have to clean the room today.",
+      "ja": "あなたは今日は部屋を掃除しなくてもいいです。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-03-160",
+      "en": "They don't have to walk home.",
+      "ja": "彼らは歩いて帰らなくてもいいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-161",
+      "en": "My father doesn't have to work tomorrow.",
+      "ja": "父は明日働かなくてもいいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-162",
+      "en": "Emma doesn't have to study tonight.",
+      "ja": "エマは今夜勉強しなくてもいいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-163",
+      "en": "Noah doesn't have to stay after school.",
+      "ja": "ノアは放課後に残らなくてもいいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-164",
+      "en": "You don't have to answer right now.",
+      "ja": "今すぐ答えなくてもいいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-165",
+      "en": "I don't have to get up early on Sunday.",
+      "ja": "私は日曜日は早く起きなくてもいいです。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-03-166",
+      "en": "You should see a doctor.",
+      "ja": "あなたは医者に診てもらったほうがよいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-167",
+      "en": "You should drink more water.",
+      "ja": "あなたはもっと水を飲んだほうがよいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-168",
+      "en": "You should get some rest.",
+      "ja": "あなたは少し休んだほうがよいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-169",
+      "en": "You should go to bed early tonight.",
+      "ja": "あなたは今夜早く寝たほうがよいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-170",
+      "en": "You should eat breakfast every day.",
+      "ja": "あなたは毎日朝ごはんを食べたほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-171",
+      "en": "You should take an umbrella today.",
+      "ja": "あなたは今日は傘を持っていったほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-172",
+      "en": "You should study a little every day.",
+      "ja": "あなたは毎日少しずつ勉強したほうがよいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-173",
+      "en": "You should ask your teacher.",
+      "ja": "あなたは先生に聞いたほうがよいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-174",
+      "en": "You should check your answer again.",
+      "ja": "あなたはもう一度答えを確認したほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-175",
+      "en": "You should write it down.",
+      "ja": "あなたはそれを書きとめたほうがよいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-176",
+      "en": "You should be kind to others.",
+      "ja": "あなたは人にはやさしくしたほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-177",
+      "en": "We should leave now.",
+      "ja": "私たちはもう出発したほうがよいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-178",
+      "en": "We should start with this question.",
+      "ja": "私たちはこの問題から始めたほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-179",
+      "en": "We should listen to her first.",
+      "ja": "私たちはまず彼女の話を聞いたほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-180",
+      "en": "She should talk to her mother.",
+      "ja": "彼女は母親に話したほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-181",
+      "en": "He should clean his room.",
+      "ja": "彼は部屋を掃除したほうがよいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-182",
+      "en": "I should call her tonight.",
+      "ja": "私は今夜彼女に電話したほうがよいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-183",
+      "en": "I should be more careful.",
+      "ja": "私はもっと気をつけたほうがよいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-184",
+      "en": "You shouldn't stay up so late.",
+      "ja": "あなたはそんなに夜ふかししないほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-185",
+      "en": "You shouldn't eat too much candy.",
+      "ja": "あなたはおかしを食べすぎないほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-186",
+      "en": "You shouldn't run here.",
+      "ja": "あなたはここで走らないほうがよいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-187",
+      "en": "You shouldn't use your phone at dinner.",
+      "ja": "あなたは夕食中にスマホを使わないほうがよいです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-188",
+      "en": "You shouldn't open that email.",
+      "ja": "あなたはそのメールを開かないほうがよいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-189",
+      "en": "We shouldn't waste time.",
+      "ja": "私たちは時間をむだにしないほうがよいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-190",
+      "en": "He shouldn't skip breakfast.",
+      "ja": "彼は朝ごはんを抜かないほうがよいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-191",
+      "en": "She shouldn't carry that heavy bag.",
+      "ja": "彼女はその重いかばんを持たないほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-192",
+      "en": "I shouldn't worry too much.",
+      "ja": "私はあまり心配しないほうがよいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-193",
+      "en": "They shouldn't make fun of him.",
+      "ja": "彼らは彼をからかわないほうがよいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-194",
+      "en": "It may rain tonight.",
+      "ja": "今夜は雨が降るかもしれません。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-195",
+      "en": "She may be busy now.",
+      "ja": "彼女は今忙しいかもしれません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-196",
+      "en": "He may be at the station.",
+      "ja": "彼は駅にいるかもしれません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-03-197",
+      "en": "This answer may be wrong.",
+      "ja": "この答えはまちがっているかもしれません。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-03-198",
+      "en": "We may be late.",
+      "ja": "私たちは遅れるかもしれません。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-03-199",
+      "en": "Your bag may be under the desk.",
+      "ja": "あなたのかばんは机の下にあるかもしれません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-03-200",
+      "en": "He may be right.",
+      "ja": "彼は正しいかもしれません。",
+      "word_count": 4
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

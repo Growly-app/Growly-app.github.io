@@ -1,0 +1,913 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_3",
+  "id_prefix": "G3-06",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G3-06-001",
+      "en": "The crying baby wants milk.",
+      "ja": "泣いている赤ちゃんはミルクをほしがっています。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-002",
+      "en": "A running boy passed me.",
+      "ja": "走っている男の子が私の横を通り過ぎました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-003",
+      "en": "The shining stars looked beautiful.",
+      "ja": "輝いている星はきれいに見えました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-004",
+      "en": "A smiling girl waved to me.",
+      "ja": "ほほえんでいる女の子が私に手を振りました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-005",
+      "en": "The barking dog woke me up.",
+      "ja": "ほえている犬が私を起こしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-006",
+      "en": "A sleeping cat is on the sofa.",
+      "ja": "眠っている猫がソファーの上にいます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-007",
+      "en": "The boiling water is very hot.",
+      "ja": "沸いているお湯はとても熱いです。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-008",
+      "en": "A falling leaf landed on my bag.",
+      "ja": "落ちてきた葉が私のかばんの上に落ちました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-009",
+      "en": "The laughing children ran outside.",
+      "ja": "笑っている子どもたちは外へ走っていきました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-010",
+      "en": "A waiting woman looked at her watch.",
+      "ja": "待っている女性は時計を見ました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-011",
+      "en": "The rising sun filled the room with light.",
+      "ja": "昇っている太陽が部屋を光で満たしました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-012",
+      "en": "A dancing boy is on the stage.",
+      "ja": "踊っている男の子がステージの上にいます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-013",
+      "en": "The dripping tap made a small sound.",
+      "ja": "蛇口からぽたぽた落ちる水が小さな音を立てていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-014",
+      "en": "A crawling ant climbed my shoe.",
+      "ja": "はっているアリが私のくつをのぼりました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-015",
+      "en": "The flashing light caught my eye.",
+      "ja": "点滅している光が目に入りました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-016",
+      "en": "A walking man stopped near the gate.",
+      "ja": "歩いている男性が門の近くで立ち止まりました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-017",
+      "en": "The glowing lamp lit my desk.",
+      "ja": "光っているランプが私の机を照らしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-018",
+      "en": "A singing bird sat by the window.",
+      "ja": "鳴いている鳥が窓のそばにとまっていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-019",
+      "en": "The burning fire kept us warm.",
+      "ja": "燃えている火が私たちを暖かくしてくれました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-020",
+      "en": "A swimming girl touched the wall first.",
+      "ja": "泳いでいる女の子が最初に壁に触れました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-021",
+      "en": "The passing train was very loud.",
+      "ja": "通り過ぎる電車はとても大きな音を立てていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-022",
+      "en": "A shining moon hung over the hill.",
+      "ja": "輝いている月が丘の上に出ていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-023",
+      "en": "The growing plant needs more water.",
+      "ja": "育っている植物にはもっと水が必要です。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-024",
+      "en": "A shaking student raised his hand.",
+      "ja": "震えている生徒が手を挙げました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-025",
+      "en": "The ringing phone was in my bag.",
+      "ja": "鳴っている電話は私のかばんの中にありました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-026",
+      "en": "A jumping dog caught the ball.",
+      "ja": "跳んでいる犬がボールをつかみました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-027",
+      "en": "The melting ice made the table wet.",
+      "ja": "溶けている氷がテーブルをぬらしました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-028",
+      "en": "A burning candle stood by the bed.",
+      "ja": "燃えているろうそくがベッドのそばに置かれていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-029",
+      "en": "The broken cup was on the table.",
+      "ja": "割れたカップがテーブルの上にありました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-030",
+      "en": "A closed window kept the room warm.",
+      "ja": "閉まった窓が部屋を暖かく保っていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-031",
+      "en": "We found a lost wallet near the station.",
+      "ja": "私たちは駅の近くで落とし物の財布を見つけました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-032",
+      "en": "The fallen leaves covered the path.",
+      "ja": "落ちた葉が道をおおっていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-033",
+      "en": "She picked up a torn photo.",
+      "ja": "彼女は破れた写真を拾いました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-034",
+      "en": "He kept a sealed letter in his desk.",
+      "ja": "彼は封のされた手紙を机の中に入れていました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-035",
+      "en": "The written answer was correct.",
+      "ja": "書かれた答えは正しかったです。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-036",
+      "en": "A painted bench stood by the pond.",
+      "ja": "ペンキの塗られたベンチが池のそばにありました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-037",
+      "en": "The broken toy made the child sad.",
+      "ja": "壊れたおもちゃがその子を悲しい気持ちにさせました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-038",
+      "en": "We ate boiled eggs for breakfast.",
+      "ja": "私たちは朝食にゆで卵を食べました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-039",
+      "en": "A frozen road can be dangerous.",
+      "ja": "凍った道は危険なことがあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-040",
+      "en": "The closed gate was hard to open.",
+      "ja": "閉まった門は開けにくかったです。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-041",
+      "en": "I read a folded note in my bag.",
+      "ja": "私はかばんの中の折りたたんだメモを読みました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-042",
+      "en": "The used towel was still wet.",
+      "ja": "使ったタオルはまだぬれていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-043",
+      "en": "A wrapped gift was on the table.",
+      "ja": "包まれたプレゼントがテーブルの上にありました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-044",
+      "en": "The cooked rice smelled good.",
+      "ja": "炊いたご飯はいいにおいがしました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-045",
+      "en": "She wore a knitted sweater.",
+      "ja": "彼女はニットのセーターを着ていました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-046",
+      "en": "The stolen bike was found yesterday.",
+      "ja": "盗まれた自転車は昨日見つかりました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-047",
+      "en": "I kept a printed map in my pocket.",
+      "ja": "私は印刷した地図をポケットに入れていました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-048",
+      "en": "The burned toast was too hard.",
+      "ja": "こげたトーストはかたすぎました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-049",
+      "en": "We cleaned the broken window.",
+      "ja": "私たちは割れた窓を片づけました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-050",
+      "en": "A dried flower fell from the book.",
+      "ja": "乾いた花が本から落ちました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-051",
+      "en": "The locked door would not move.",
+      "ja": "鍵のかかったドアは動きませんでした。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-052",
+      "en": "I put the washed dishes away.",
+      "ja": "私は洗った皿をしまいました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-053",
+      "en": "The injured bird could not fly.",
+      "ja": "傷ついた鳥は飛べませんでした。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-054",
+      "en": "A borrowed book was on my desk.",
+      "ja": "借りた本が私の机の上にありました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-055",
+      "en": "The packed lunch was in the fridge.",
+      "ja": "用意したお弁当が冷蔵庫の中にありました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-056",
+      "en": "We looked at the cracked screen.",
+      "ja": "私たちはひびの入った画面を見ました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-057",
+      "en": "The boy sitting by the window is my friend.",
+      "ja": "窓のそばに座っている男の子は私の友だちです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-058",
+      "en": "I know the girl wearing a red hat.",
+      "ja": "私は赤い帽子をかぶっている女の子を知っています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-059",
+      "en": "The woman talking on the phone looks busy.",
+      "ja": "電話で話している女性は忙しそうです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-060",
+      "en": "We helped the man carrying those boxes.",
+      "ja": "私たちはあの箱を運んでいる男性を手伝いました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-061",
+      "en": "The dog sleeping under the table is old.",
+      "ja": "テーブルの下で眠っている犬は年を取っています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-062",
+      "en": "I saw a bird flying over the river.",
+      "ja": "私は川の上を飛んでいる鳥を見ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-063",
+      "en": "The people waiting for the bus were cold.",
+      "ja": "バスを待っている人たちは寒そうでした。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-064",
+      "en": "Do you know the boy playing the piano?",
+      "ja": "あなたはピアノを弾いている男の子を知っていますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-065",
+      "en": "The girl running in the park is Emma.",
+      "ja": "公園を走っている女の子はエマです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-066",
+      "en": "We watched the children dancing in a circle.",
+      "ja": "私たちは輪になっておどっている子どもたちを見ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-067",
+      "en": "The man standing at the gate is our teacher.",
+      "ja": "門のところに立っている男性は私たちの先生です。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-068",
+      "en": "I spoke to the woman selling flowers.",
+      "ja": "私は花を売っている女性に話しかけました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-069",
+      "en": "The students studying in the library were quiet.",
+      "ja": "図書館で勉強している生徒たちは静かでした。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-070",
+      "en": "There is a cat hiding behind the chair.",
+      "ja": "いすの後ろに隠れている猫がいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-071",
+      "en": "The boy kicking the ball is very fast.",
+      "ja": "ボールをけっている男の子はとても足が速いです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-072",
+      "en": "I watched the snow falling outside the window.",
+      "ja": "私は窓の外に雪が降っているのを見ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-073",
+      "en": "The girl reading that letter looks sad.",
+      "ja": "あの手紙を読んでいる女の子は悲しそうです。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-074",
+      "en": "We heard a baby crying in the next room.",
+      "ja": "私たちはとなりの部屋で泣いている赤ちゃんの声を聞きました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-075",
+      "en": "The train leaving now goes to Osaka.",
+      "ja": "今出発する電車は大阪行きです。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-076",
+      "en": "I thanked the boy holding the door open.",
+      "ja": "私はドアを開けて押さえている男の子にお礼を言いました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-077",
+      "en": "The boy riding that bike is my older brother.",
+      "ja": "あの自転車に乗っている男の子は私の兄です。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-078",
+      "en": "She found a wallet lying on the ground.",
+      "ja": "彼女は地面に落ちている財布を見つけました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-079",
+      "en": "The child holding a balloon is my cousin.",
+      "ja": "風船を持っている子どもは私のいとこです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-080",
+      "en": "We visited a farm raising many cows.",
+      "ja": "私たちはたくさんの牛を育てている農場を訪れました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-081",
+      "en": "The students cleaning the classroom stayed late.",
+      "ja": "教室を掃除している生徒たちは遅くまで残りました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-082",
+      "en": "I talked with the boy drawing that picture.",
+      "ja": "私はあの絵を描いている男の子と話しました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-083",
+      "en": "The people eating lunch on the grass looked happy.",
+      "ja": "芝生の上で昼食を食べている人たちは楽しそうでした。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-084",
+      "en": "There is a girl practicing the violin upstairs.",
+      "ja": "二階でバイオリンを練習している女の子がいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-085",
+      "en": "The man driving the bus was very kind.",
+      "ja": "そのバスを運転している男性はとても親切でした。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-086",
+      "en": "I looked at the fish swimming in the pond.",
+      "ja": "私は池で泳いでいる魚を見ました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-087",
+      "en": "The child standing behind me is Noah.",
+      "ja": "私の後ろに立っている子どもはノアです。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-088",
+      "en": "We saw a plane flying above the clouds.",
+      "ja": "私たちは雲の上を飛んでいる飛行機を見ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-089",
+      "en": "The girl washing the dishes is tired.",
+      "ja": "皿を洗っている女の子は疲れています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-090",
+      "en": "I met a woman teaching English online.",
+      "ja": "私はオンラインで英語を教えている女性に会いました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-091",
+      "en": "The picture taken by Emma is on the wall.",
+      "ja": "エマが撮った写真は壁にあります。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-092",
+      "en": "We ate the cake made this morning.",
+      "ja": "私たちは今朝作ったケーキを食べました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-093",
+      "en": "I read the letter written in English.",
+      "ja": "私は英語で書かれた手紙を読みました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-094",
+      "en": "The bike used by my older brother is old.",
+      "ja": "私の兄が使っている自転車は古いです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-095",
+      "en": "We found the bag left on the bus.",
+      "ja": "私たちはバスに置き忘れられたかばんを見つけました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-096",
+      "en": "The songs sung by the children were beautiful.",
+      "ja": "子どもたちが歌った歌は美しかったです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-097",
+      "en": "I like the table made of wood.",
+      "ja": "私は木で作られたテーブルが好きです。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-098",
+      "en": "The questions asked in class were easy.",
+      "ja": "授業で出された質問はやさしかったです。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-099",
+      "en": "She wore the dress bought last week.",
+      "ja": "彼女は先週買ったドレスを着ていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-100",
+      "en": "We saw the bridge built over the river.",
+      "ja": "私たちは川の上に架けられた橋を見ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-101",
+      "en": "The medicine given by the doctor helped me.",
+      "ja": "医者からもらった薬が私を助けました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-102",
+      "en": "I opened the box kept under the bed.",
+      "ja": "私はベッドの下にしまってあった箱を開けました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-103",
+      "en": "The lunch prepared by my mother was delicious.",
+      "ja": "母が用意した昼食はおいしかったです。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-104",
+      "en": "We looked at the photos taken at the beach.",
+      "ja": "私たちは浜辺で撮った写真を見ました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-105",
+      "en": "The game played after school was exciting.",
+      "ja": "放課後に行われた試合はわくわくするものでした。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-106",
+      "en": "I borrowed the book written for young readers.",
+      "ja": "私は若い読者向けに書かれた本を借りました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-107",
+      "en": "The shoes bought online were too small.",
+      "ja": "ネットで買ったくつは小さすぎました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-108",
+      "en": "We watched the video shared by our teacher.",
+      "ja": "私たちは先生が共有してくれた動画を見ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-109",
+      "en": "The flowers picked this morning are on the table.",
+      "ja": "今朝摘んだ花がテーブルの上にあります。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-110",
+      "en": "I drank the tea served in that cafe.",
+      "ja": "私はあのカフェで出されたお茶を飲みました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-111",
+      "en": "The words used in this song are simple.",
+      "ja": "この歌で使われている言葉は簡単です。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-112",
+      "en": "We visited the house built by his grandfather.",
+      "ja": "私たちは彼の祖父が建てた家を訪れました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-113",
+      "en": "The cards made by hand looked warm.",
+      "ja": "手作りのカードはあたたかみがありました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-114",
+      "en": "I kept the ticket sent by email.",
+      "ja": "私はメールで送られたチケットを取っておきました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-115",
+      "en": "The dinner cooked by Noah smelled great.",
+      "ja": "ノアが作った夕食はとてもいいにおいがしました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-116",
+      "en": "We cleaned the room used for art class.",
+      "ja": "私たちは美術の授業に使われる部屋を掃除しました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-117",
+      "en": "The movie shown at school was funny.",
+      "ja": "学校で上映された映画はおもしろかったです。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-118",
+      "en": "I found the note hidden in the book.",
+      "ja": "私は本の中に隠されたメモを見つけました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-119",
+      "en": "The bike repaired by my father works well now.",
+      "ja": "父が修理した自転車は今はよく動きます。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-120",
+      "en": "We opened the package sent yesterday.",
+      "ja": "私たちは昨日送られた小包を開けました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-121",
+      "en": "The song played on the radio was new to me.",
+      "ja": "ラジオで流れていた歌は私には初めてのものでした。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-06-122",
+      "en": "I thanked the woman invited to our class.",
+      "ja": "私は私たちのクラスに招かれた女性にお礼を言いました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-123",
+      "en": "The pictures drawn by the children made me smile.",
+      "ja": "子どもたちが描いた絵は私を笑顔にしました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-06-124",
+      "en": "We read the report printed yesterday.",
+      "ja": "私たちは昨日印刷されたレポートを読みました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-125",
+      "en": "The movie was exciting.",
+      "ja": "その映画はわくわくするものでした。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-06-126",
+      "en": "I was excited to see the movie.",
+      "ja": "私はその映画を見るのが楽しみでした。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-127",
+      "en": "This book is interesting.",
+      "ja": "この本はおもしろいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-06-128",
+      "en": "I am interested in space.",
+      "ja": "私は宇宙に興味があります。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-129",
+      "en": "The game was boring.",
+      "ja": "その試合は退屈でした。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-06-130",
+      "en": "We were bored during the talk.",
+      "ja": "私たちはその話の間、退屈していました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-131",
+      "en": "This question is confusing.",
+      "ja": "この問題はわかりにくいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-06-132",
+      "en": "She looked confused by the question.",
+      "ja": "彼女はその問題に戸惑っているようでした。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-133",
+      "en": "The news was surprising.",
+      "ja": "その知らせは意外でした。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-06-134",
+      "en": "Everyone was surprised by the news.",
+      "ja": "みんなその知らせに驚きました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-135",
+      "en": "The trip was tiring.",
+      "ja": "その旅行は疲れるものでした。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-06-136",
+      "en": "I felt tired after the trip.",
+      "ja": "私は旅行のあと疲れを感じました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-137",
+      "en": "His story was frightening.",
+      "ja": "彼の話はこわかったです。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-06-138",
+      "en": "The child was frightened by the sound.",
+      "ja": "その子はその音におびえました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-06-139",
+      "en": "The lesson was disappointing.",
+      "ja": "その授業は期待はずれでした。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-06-140",
+      "en": "We were disappointed with the result.",
+      "ja": "私たちはその結果にがっかりしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-141",
+      "en": "The test was challenging.",
+      "ja": "そのテストはやりごたえがありました。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-06-142",
+      "en": "My little brother was worried about the dog.",
+      "ja": "弟はその犬のことを心配していました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-06-143",
+      "en": "The long silence was worrying.",
+      "ja": "その長い沈黙は不安を感じさせるものでした。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-144",
+      "en": "I was pleased with my answer.",
+      "ja": "私は自分の答えに満足しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-145",
+      "en": "The warm bath was relaxing.",
+      "ja": "その温かいお風呂は心が落ち着くものでした。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-146",
+      "en": "The meal was satisfying.",
+      "ja": "その食事は満足できるものでした。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-06-147",
+      "en": "I was satisfied with my work.",
+      "ja": "私は自分の出来に満足していました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-148",
+      "en": "The long wait was annoying.",
+      "ja": "長い待ち時間はいらいらするものでした。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-06-149",
+      "en": "He was annoyed by the noise.",
+      "ja": "彼はその騒音にいらだっていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-06-150",
+      "en": "The ending was moving.",
+      "ja": "その結末は心を動かすものでした。",
+      "word_count": 4
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}
