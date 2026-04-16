@@ -6,7 +6,488 @@
   "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
   "filename_template_en": "{sentence_id}-en.mp3",
   "filename_template_ja": "{sentence_id}-ja.mp3",
-  "rows": [],
+  "rows": [
+    {
+      "id": "G1-07-001",
+      "en": "This pen is nice.",
+      "ja": "このペンはすてきです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-002",
+      "en": "That room is quiet.",
+      "ja": "あの部屋は静かです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-003",
+      "en": "These books are new.",
+      "ja": "この本はどれも新しいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-004",
+      "en": "Those desks are old.",
+      "ja": "あの机はどれも古いです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-005",
+      "en": "I like this song.",
+      "ja": "私はこの歌が好きです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-006",
+      "en": "I need that box.",
+      "ja": "私はその箱が必要です。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-007",
+      "en": "Please open this door.",
+      "ja": "このドアを開けてください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-008",
+      "en": "Do you need those chairs?",
+      "ja": "あのいすが必要ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-009",
+      "en": "Show me this picture.",
+      "ja": "この写真を見せてください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-010",
+      "en": "Can you move that chair?",
+      "ja": "そのいすを動かせますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-011",
+      "en": "These papers are important.",
+      "ja": "この紙はどれも大切です。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-012",
+      "en": "Those cups are dirty.",
+      "ja": "あのコップはよごれています。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-013",
+      "en": "This cake smells good.",
+      "ja": "このケーキはいいにおいがします。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-014",
+      "en": "That bus is full.",
+      "ja": "あのバスはいっぱいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-015",
+      "en": "These shoes are light.",
+      "ja": "このくつは軽いです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-016",
+      "en": "Those children are very busy.",
+      "ja": "あの子どもたちはとてもいそがしいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-017",
+      "en": "We read these books every week.",
+      "ja": "私たちは毎週これらの本を読みます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-018",
+      "en": "Do you know that boy?",
+      "ja": "あなたはあの男の子を知っていますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-019",
+      "en": "I have a pencil.",
+      "ja": "私はえんぴつを1本持っています。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-020",
+      "en": "She has some notebooks.",
+      "ja": "彼女はノートを何冊か持っています。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-021",
+      "en": "A bird sings in the tree.",
+      "ja": "1羽の鳥が木で鳴いています。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-022",
+      "en": "Birds sing every morning.",
+      "ja": "鳥たちは毎朝鳴きます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-023",
+      "en": "He buys an apple.",
+      "ja": "彼はりんごを1個買います。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-024",
+      "en": "We eat apples after lunch.",
+      "ja": "私たちは昼食のあとにりんごを食べます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-025",
+      "en": "My mother makes a cake.",
+      "ja": "母はケーキを1つ作ります。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-026",
+      "en": "My mother makes cakes on Sunday.",
+      "ja": "母は日曜日にケーキを作ります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-027",
+      "en": "There is a cat in the yard.",
+      "ja": "庭にねこが1匹います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-07-028",
+      "en": "There are cats in the yard.",
+      "ja": "庭にねこが何匹かいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-029",
+      "en": "I see a star.",
+      "ja": "私は星が一つ見えます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-030",
+      "en": "I see many stars.",
+      "ja": "私はたくさんの星を見ます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-031",
+      "en": "A student asks a question.",
+      "ja": "1人の生徒が質問をします。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-032",
+      "en": "Students ask many questions.",
+      "ja": "生徒たちはたくさん質問をします。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-033",
+      "en": "He opens a window.",
+      "ja": "彼は窓を1つ開けます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-034",
+      "en": "The room has two windows.",
+      "ja": "その部屋には窓が二つあります。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-035",
+      "en": "It is very small.",
+      "ja": "それはとても小さいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-036",
+      "en": "It is too heavy.",
+      "ja": "それは重すぎます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-037",
+      "en": "It looks good.",
+      "ja": "それはよさそうです。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-07-038",
+      "en": "It tastes sweet.",
+      "ja": "それは甘い味がします。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-07-039",
+      "en": "It is almost ready.",
+      "ja": "それはもうすぐできあがります。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-040",
+      "en": "It is very useful.",
+      "ja": "それはとても役に立ちます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-041",
+      "en": "I put it in my bag.",
+      "ja": "私はそれをかばんに入れます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-042",
+      "en": "I use it every day.",
+      "ja": "私はそれを毎日使います。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-043",
+      "en": "I want it now.",
+      "ja": "私は今それがほしいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-044",
+      "en": "Please close it.",
+      "ja": "それを閉めてください。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-07-045",
+      "en": "Can you carry it?",
+      "ja": "それを運べますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-046",
+      "en": "Can you find it?",
+      "ja": "あなたはそれを見つけられますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-047",
+      "en": "They are on the shelf.",
+      "ja": "それらは棚の上にあります。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-048",
+      "en": "They look nice.",
+      "ja": "それらはよさそうです。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-07-049",
+      "en": "We put them in the box.",
+      "ja": "私たちはそれらを箱に入れます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-050",
+      "en": "Please put them here.",
+      "ja": "それらをここに置いてください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-051",
+      "en": "She sees me every day.",
+      "ja": "彼女は毎日私を見かけます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-052",
+      "en": "I need him today.",
+      "ja": "私は今日、彼を必要としています。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-053",
+      "en": "We call her after school.",
+      "ja": "私たちは放課後に彼女を呼びます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-054",
+      "en": "He sees us from the window.",
+      "ja": "彼は窓から私たちを見ます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-055",
+      "en": "Please wait for them.",
+      "ja": "彼らを待ってください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-056",
+      "en": "Do you like him?",
+      "ja": "あなたは彼が好きですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-057",
+      "en": "I like her.",
+      "ja": "私は彼女が好きです。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-07-058",
+      "en": "Our teacher helps us.",
+      "ja": "私たちの先生は私たちを助けてくれます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-059",
+      "en": "Can you hear me?",
+      "ja": "私の声が聞こえますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-060",
+      "en": "I meet them at the gate.",
+      "ja": "私は門のところで彼らに会います。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-061",
+      "en": "She calls me every night.",
+      "ja": "彼女は毎晩私に電話します。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-062",
+      "en": "We visit him on Sunday.",
+      "ja": "私たちは日曜日に彼をたずねます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-063",
+      "en": "He thanks her.",
+      "ja": "彼は彼女にお礼を言います。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-07-064",
+      "en": "Please show us the picture.",
+      "ja": "私たちにその写真を見せてください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-065",
+      "en": "I visit them sometimes.",
+      "ja": "私はときどき彼らをたずねます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-066",
+      "en": "I help them after school.",
+      "ja": "私は放課後に彼らを手伝います。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-067",
+      "en": "Can you find her?",
+      "ja": "彼女を見つけられますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-068",
+      "en": "My bag is very light.",
+      "ja": "私のかばんはとても軽いです。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-069",
+      "en": "Your pencil is on the desk.",
+      "ja": "あなたのえんぴつは机の上にあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-070",
+      "en": "His room is clean.",
+      "ja": "彼の部屋はきれいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-071",
+      "en": "Her notebook is new.",
+      "ja": "彼女のノートは新しいです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-072",
+      "en": "Our teacher is kind.",
+      "ja": "私たちの先生は親切です。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-073",
+      "en": "Their dog is very cute.",
+      "ja": "彼らの犬はとてもかわいいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-07-074",
+      "en": "I wash my hands before dinner.",
+      "ja": "私は夕食の前に手を洗います。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-075",
+      "en": "You carry your box to the room.",
+      "ja": "あなたは自分の箱を部屋に運びます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-07-076",
+      "en": "He reads his book every night.",
+      "ja": "彼は毎晩自分の本を読みます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-077",
+      "en": "She opens her window in the morning.",
+      "ja": "彼女は朝、窓を開けます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-07-078",
+      "en": "We clean our classroom after school.",
+      "ja": "私たちは放課後に自分たちの教室をそうじします。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-07-079",
+      "en": "They love their school.",
+      "ja": "彼らは自分たちの学校が大好きです。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-07-080",
+      "en": "Our school is near the station.",
+      "ja": "私たちの学校は駅の近くにあります。",
+      "word_count": 6
+    }
+  ],
   "ja_reorder": [],
   "fill_blank": []
 }
