@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-04-16T02:15:14.141466Z",
+  "notes": "このファイルは配信ルート直下に置く。text / audio / courses の相対パスはすべてこの catalog があるフォルダを基準にする。",
+  "text_bundles": [
+    {
+      "version": 1,
+      "relative_path": "text/sentence/sentences_v1.ndjson",
+      "description_ja": "1文サンプル（text/sentence/）"
+    },
+    {
+      "version": 1,
+      "relative_path": "text/vocabulary/コア1000/core1000_v1.json",
+      "description_ja": "英単語・コア1000（text/vocabulary/コア1000/。word/meaning_jp 形式）"
+    },
+    {
+      "version": 1,
+      "relative_path": "text/vocabulary/コア2000/core2000_v1.ndjson",
+      "description_ja": "英単語・コア2000（1行1語 NDJSON）"
+    },
+    {
+      "version": 1,
+      "relative_path": "１文データ/one_sentence/text/one_sentence.csv",
+      "description_ja": "1文教材 CSV（ヘッダ無し: id,英語,日本語,語数）"
+    }
+  ],
+  "courses": [
+    {
+      "course_id": "example_course",
+      "relative_path": "courses/example_course.json",
+      "title_ja": "サンプル（設置確認用）"
+    },
+    {
+      "course_id": "core1000",
+      "relative_path": "courses/core1000_course.json",
+      "title_ja": "コア1000（配信テスト用）"
+    },
+    {
+      "course_id": "yarinaoshi_basic1",
+      "relative_path": "courses/英文法/yarinaoshi_basic1/course.json",
+      "title_ja": "やり直し英文法 基礎①"
+    },
+    {
+      "course_id": "yarinaoshi_basic2",
+      "relative_path": "courses/英文法/yarinaoshi_basic2/course.json",
+      "title_ja": "やり直し英文法 基礎②"
+    },
+    {
+      "course_id": "yarinaoshi_basic3",
+      "relative_path": "courses/英文法/yarinaoshi_basic3/course.json",
+      "title_ja": "やり直し英文法 基礎③"
+    },
+    {
+      "course_id": "jh_grammar_2",
+      "relative_path": "courses/英文法/jh_grammar_2/course.json",
+      "title_ja": "中2英文法"
+    },
+    {
+      "course_id": "jh_grammar_3",
+      "relative_path": "courses/英文法/jh_grammar_3/course.json",
+      "title_ja": "中3英文法"
+    },
+    {
+      "course_id": "listening_yarinaoshi_basic1",
+      "relative_path": "courses/リスニング/yarinaoshi_basic1/course.json",
+      "title_ja": "【リスニング】やり直し英文法 基礎①"
+    },
+    {
+      "course_id": "listening_yarinaoshi_basic2",
+      "relative_path": "courses/リスニング/yarinaoshi_basic2/course.json",
+      "title_ja": "【リスニング】やり直し英文法 基礎②"
+    },
+    {
+      "course_id": "listening_yarinaoshi_basic3",
+      "relative_path": "courses/リスニング/yarinaoshi_basic3/course.json",
+      "title_ja": "【リスニング】やり直し英文法 基礎③"
+    },
+    {
+      "course_id": "listening_jh_grammar_1",
+      "relative_path": "courses/リスニング/jh_grammar_1/course.json",
+      "title_ja": "【リスニング】中1英文法"
+    },
+    {
+      "course_id": "listening_jh_grammar_2",
+      "relative_path": "courses/リスニング/jh_grammar_2/course.json",
+      "title_ja": "【リスニング】中2英文法"
+    },
+    {
+      "course_id": "listening_jh_grammar_3",
+      "relative_path": "courses/リスニング/jh_grammar_3/course.json",
+      "title_ja": "【リスニング】中3英文法"
+    },
+    {
+      "course_id": "jh_grammar_1",
+      "relative_path": "courses/英文法/jh_grammar_1/course.json",
+      "title_ja": "中1英文法"
+    }
+  ]
+}
