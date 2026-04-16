@@ -1,0 +1,1333 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_1",
+  "id_prefix": "G1-02",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G1-02-001",
+      "en": "I get up at six.",
+      "ja": "私は6時に起きます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-002",
+      "en": "I open the window every morning.",
+      "ja": "私は毎朝、窓を開けます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-003",
+      "en": "My father makes coffee at home.",
+      "ja": "父は家でコーヒーを入れます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-004",
+      "en": "We eat dinner together.",
+      "ja": "私たちは一緒に夕食を食べます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-02-005",
+      "en": "I walk to the station.",
+      "ja": "私は駅まで歩きます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-006",
+      "en": "Emma reads the news after breakfast.",
+      "ja": "エマは朝食のあとにニュースを読みます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-007",
+      "en": "Noah checks his bag every night.",
+      "ja": "ノアは毎晩、かばんの中を確かめます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-008",
+      "en": "I brush my teeth after lunch.",
+      "ja": "私は昼食のあとに歯をみがきます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-009",
+      "en": "She writes in her diary before bed.",
+      "ja": "彼女は寝る前に日記を書きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-010",
+      "en": "He takes a bus to work.",
+      "ja": "彼はバスで仕事に行きます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-011",
+      "en": "They visit their grandmother on Sundays.",
+      "ja": "彼らは日曜日に祖母をたずねます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-012",
+      "en": "I call my parents on weekends.",
+      "ja": "私は週末に両親に電話します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-013",
+      "en": "We listen to the radio in the kitchen.",
+      "ja": "私たちは台所でラジオを聞きます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-014",
+      "en": "My brother waters the plants every day.",
+      "ja": "兄は毎日、植物に水をやります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-015",
+      "en": "I feed my dog in the morning.",
+      "ja": "私は朝、犬にえさをあげます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-016",
+      "en": "Emma wears a hat on sunny days.",
+      "ja": "エマは晴れの日には帽子をかぶります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-017",
+      "en": "Noah keeps his keys in this box.",
+      "ja": "ノアは鍵をこの箱に入れておきます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-018",
+      "en": "I wash my face before breakfast.",
+      "ja": "私は朝食の前に顔を洗います。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-019",
+      "en": "She drinks water after her walk.",
+      "ja": "彼女は散歩のあとに水を飲みます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-020",
+      "en": "He stretches every evening.",
+      "ja": "彼は毎晩ストレッチをします。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-02-021",
+      "en": "We watch the stars at night.",
+      "ja": "私たちは夜に星を見ます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-022",
+      "en": "I review my notes after dinner.",
+      "ja": "私は夕食のあとにノートを見直します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-023",
+      "en": "My mother writes a shopping list every Friday.",
+      "ja": "母は毎週金曜日に買い物リストを書きます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-024",
+      "en": "They leave home at seven.",
+      "ja": "彼らは7時に家を出ます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-025",
+      "en": "I take a shower at night.",
+      "ja": "私は夜にシャワーを浴びます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-026",
+      "en": "Emma practices the piano after school.",
+      "ja": "エマは放課後にピアノの練習をします。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-027",
+      "en": "Noah cleans his desk every Saturday.",
+      "ja": "ノアは毎週土曜日に机をそうじします。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-028",
+      "en": "We eat bread for breakfast.",
+      "ja": "私たちは朝食にパンを食べます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-029",
+      "en": "I turn off the light at eleven.",
+      "ja": "私は11時に電気を消します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-030",
+      "en": "He saves some money every month.",
+      "ja": "彼は毎月、少しお金を貯めます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-031",
+      "en": "I study math after school.",
+      "ja": "私は放課後に数学を勉強します。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-032",
+      "en": "We take notes in science class.",
+      "ja": "私たちは理科の授業でノートを取ります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-033",
+      "en": "He reads a story in the library.",
+      "ja": "彼は図書室で物語を読みます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-034",
+      "en": "She writes her answers in pencil.",
+      "ja": "彼女はえんぴつで答えを書きます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-035",
+      "en": "Noah asks the teacher a question.",
+      "ja": "ノアは先生に質問をします。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-036",
+      "en": "Emma shows her picture to the class.",
+      "ja": "エマはクラスのみんなに絵を見せます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-037",
+      "en": "I bring my notebook to school.",
+      "ja": "私はノートを学校に持っていきます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-038",
+      "en": "We practice the new words together.",
+      "ja": "私たちは新しい単語をいっしょに練習します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-039",
+      "en": "He checks his schedule every morning.",
+      "ja": "彼は毎朝、時間割を確かめます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-040",
+      "en": "She hands in her report on Friday.",
+      "ja": "彼女は金曜日にレポートを提出します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-041",
+      "en": "I open my textbook in class.",
+      "ja": "私は授業で教科書を開きます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-042",
+      "en": "They listen to the teacher carefully.",
+      "ja": "彼らは先生の話をよく聞きます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-043",
+      "en": "My brother solves difficult problems.",
+      "ja": "兄は難しい問題を解きます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-044",
+      "en": "We borrow books from the library.",
+      "ja": "私たちは図書室で本を借ります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-045",
+      "en": "I review the lesson at home.",
+      "ja": "私は家で授業の内容を復習します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-046",
+      "en": "Emma uses a ruler in geometry class.",
+      "ja": "エマは図形の授業で定規を使います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-047",
+      "en": "Noah joins the school band.",
+      "ja": "ノアは学校のバンドに入ります。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-048",
+      "en": "She copies the sentence on the board.",
+      "ja": "彼女は黒板の文を書き写します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-049",
+      "en": "He remembers new kanji quickly.",
+      "ja": "彼は新しい漢字をすぐに覚えます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-050",
+      "en": "I look for my worksheet in my bag.",
+      "ja": "私はかばんの中からプリントを探します。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-051",
+      "en": "We talk about the book in class.",
+      "ja": "私たちは授業でその本について話します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-052",
+      "en": "She finishes her homework before dinner.",
+      "ja": "彼女は夕食の前に宿題を終えます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-053",
+      "en": "He studies for the test at night.",
+      "ja": "彼は夜にテスト勉強をします。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-054",
+      "en": "I erase my mistake and try again.",
+      "ja": "私はまちがいを消して、もう一度やります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-055",
+      "en": "They carry their art projects carefully.",
+      "ja": "彼らは作品をていねいに運びます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-056",
+      "en": "Emma chooses a book for her report.",
+      "ja": "エマはレポート用の本を選びます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-057",
+      "en": "Noah answers the first question.",
+      "ja": "ノアは最初の質問に答えます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-058",
+      "en": "We share one dictionary at the desk.",
+      "ja": "私たちは机で辞書を1冊いっしょに使います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-059",
+      "en": "I clean my desk after class.",
+      "ja": "私は授業のあとに机を片づけます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-060",
+      "en": "She studies history on the school bus.",
+      "ja": "彼女はスクールバスで歴史を勉強します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-061",
+      "en": "I make my bed every morning.",
+      "ja": "私は毎朝、ベッドを整えます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-062",
+      "en": "She washes the dishes after dinner.",
+      "ja": "彼女は夕食のあとに皿を洗います。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-063",
+      "en": "He folds his clothes neatly.",
+      "ja": "彼は服をきちんとたたみます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-064",
+      "en": "We set the table before lunch.",
+      "ja": "私たちは昼食の前に食卓を整えます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-065",
+      "en": "I put my shoes by the door.",
+      "ja": "私はくつをドアのそばに置きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-066",
+      "en": "Emma hangs her towel in the bathroom.",
+      "ja": "エマはタオルを浴室にかけます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-067",
+      "en": "Noah carries the boxes to the room.",
+      "ja": "ノアは箱を部屋まで運びます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-068",
+      "en": "She puts the clean plates on the shelf.",
+      "ja": "彼女はきれいな皿を棚にしまいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-069",
+      "en": "She brushes her hair in front of the mirror.",
+      "ja": "彼女は鏡の前で髪をとかします。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-02-070",
+      "en": "He changes his shirt after soccer practice.",
+      "ja": "彼はサッカーの練習のあとにシャツを着替えます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-071",
+      "en": "We keep our cups in this cabinet.",
+      "ja": "私たちはコップをこの戸棚にしまいます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-072",
+      "en": "I help my mother in the kitchen.",
+      "ja": "私は台所で母を手伝います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-073",
+      "en": "My sister waters the flowers on the balcony.",
+      "ja": "姉はベランダで花に水をやります。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-074",
+      "en": "They clear the table after the meal.",
+      "ja": "彼らは食事のあとにテーブルを片づけます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-075",
+      "en": "I pack my bag before bed.",
+      "ja": "私は寝る前にかばんをまとめます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-076",
+      "en": "Emma dries her glass with a cloth.",
+      "ja": "エマはコップをふきんでふきます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-077",
+      "en": "Noah gets his blanket ready before bed.",
+      "ja": "ノアは寝る前に毛布を整えます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-078",
+      "en": "I tie my shoelaces at the door.",
+      "ja": "私は玄関でくつひもを結びます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-079",
+      "en": "I wash my hands before breakfast.",
+      "ja": "私は朝食の前に手を洗います。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-080",
+      "en": "He sweeps the floor in the hall.",
+      "ja": "彼はろうかの床をはきます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-081",
+      "en": "We store rice in a large container.",
+      "ja": "私たちは米を大きな容器に入れておきます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-082",
+      "en": "At night, I choose my clothes for tomorrow.",
+      "ja": "私は夜、明日の服を選びます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-083",
+      "en": "My father repairs small things at home.",
+      "ja": "父は家でちょっとした物を直します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-084",
+      "en": "They move the chairs back after cleaning.",
+      "ja": "彼らはそうじのあとにいすを元に戻します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-085",
+      "en": "I button my coat before I go out.",
+      "ja": "私は出かける前にコートのボタンを留めます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-086",
+      "en": "Emma prepares lunch for her brother.",
+      "ja": "エマは弟のために昼食を用意します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-087",
+      "en": "Noah wipes the window with paper towels.",
+      "ja": "ノアはペーパータオルで窓をふきます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-088",
+      "en": "I return the scissors to the drawer.",
+      "ja": "私ははさみを引き出しに戻します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-089",
+      "en": "She sorts the laundry by color.",
+      "ja": "彼女は洗たく物を色ごとに分けます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-090",
+      "en": "He covers the food with a lid.",
+      "ja": "彼は食べ物にふたをします。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-091",
+      "en": "I leave home at seven thirty.",
+      "ja": "私は7時半に家を出ます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-092",
+      "en": "She walks across the bridge to the station.",
+      "ja": "彼女は橋を渡って駅まで歩きます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-093",
+      "en": "He gets on the bus near the park.",
+      "ja": "彼は公園の近くでバスに乗ります。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-094",
+      "en": "We turn left at the next corner.",
+      "ja": "私たちは次の角を左に曲がります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-095",
+      "en": "I ride my bike to the bakery.",
+      "ja": "私はパン屋まで自転車で行きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-096",
+      "en": "Emma comes to the community center by train.",
+      "ja": "エマは電車でコミュニティセンターに来ます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-097",
+      "en": "Noah goes through the gate with his friends.",
+      "ja": "ノアは友だちといっしょに門を通ります。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-098",
+      "en": "I stop at the mailbox on my way home.",
+      "ja": "私は帰り道にポストのところで立ち止まります。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-02-099",
+      "en": "She returns to the hotel before sunset.",
+      "ja": "彼女は日が沈む前にホテルに戻ります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-100",
+      "en": "He enters the museum with his ticket.",
+      "ja": "彼はチケットを持って博物館に入ります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-101",
+      "en": "We cross the street at the light.",
+      "ja": "私たちは信号のところで道を渡ります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-102",
+      "en": "I head for the library after lunch.",
+      "ja": "私は昼食のあと図書館へ向かいます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-103",
+      "en": "My father drops me off near the shop.",
+      "ja": "父は店の近くで私を降ろします。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-104",
+      "en": "They pass the bank and walk straight.",
+      "ja": "彼らは銀行の前を通って、まっすぐ歩きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-105",
+      "en": "I catch the early train on Mondays.",
+      "ja": "私は月曜日には早い電車に乗ります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-106",
+      "en": "Emma heads back home before dinner.",
+      "ja": "エマは夕食の前に家へ戻ります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-107",
+      "en": "Noah follows this road to the beach.",
+      "ja": "ノアはこの道をたどって海へ行きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-108",
+      "en": "I get off the train at the last stop.",
+      "ja": "私は終点で電車を降ります。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-02-109",
+      "en": "She stops by the flower shop after work.",
+      "ja": "彼女は仕事のあと花屋に立ち寄ります。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-110",
+      "en": "He walks along the river in the evening.",
+      "ja": "彼は夕方に川沿いを歩きます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-111",
+      "en": "We move to the back of the bus.",
+      "ja": "私たちはバスの後ろのほうへ移動します。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-112",
+      "en": "I go out with my umbrella on rainy days.",
+      "ja": "私は雨の日には傘を持って出かけます。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-02-113",
+      "en": "My mother picks up my sister at five.",
+      "ja": "母は5時に妹を迎えに行きます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-114",
+      "en": "They step into the elevator quietly.",
+      "ja": "彼らは静かにエレベーターに乗り込みます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-115",
+      "en": "I walk around the market with my aunt.",
+      "ja": "私はおばと市場を歩いて回ります。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-116",
+      "en": "Emma leaves the café after a short break.",
+      "ja": "エマは少し休んだあとカフェを出ます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-117",
+      "en": "Noah gets to the bus stop just in time.",
+      "ja": "ノアはちょうど間に合ってバス停に着きます。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-02-118",
+      "en": "I carry my bag up the stairs.",
+      "ja": "私はかばんを持って階段を上がります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-119",
+      "en": "She takes the subway to the stadium.",
+      "ja": "彼女は地下鉄でスタジアムへ行きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-120",
+      "en": "He heads home before it gets dark.",
+      "ja": "彼は暗くなる前に家へ向かいます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-121",
+      "en": "I have a small notebook in my bag.",
+      "ja": "私はかばんに小さなノートを入れています。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-122",
+      "en": "She uses this key to open the back door.",
+      "ja": "彼女は裏口を開けるのにこの鍵を使います。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-02-123",
+      "en": "He carries a map in his pocket.",
+      "ja": "彼はポケットに地図を入れて持ち歩きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-124",
+      "en": "We keep extra chopsticks in this drawer.",
+      "ja": "私たちは予備のはしをこの引き出しにしまっています。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-125",
+      "en": "I need my glasses for this book.",
+      "ja": "私はこの本を読むのにめがねがいります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-126",
+      "en": "Emma borrows a pen from her friend.",
+      "ja": "エマは友だちからペンを借ります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-127",
+      "en": "Noah lends his bike to his brother.",
+      "ja": "ノアは弟に自転車を貸します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-128",
+      "en": "I use a timer in the kitchen.",
+      "ja": "私は台所でタイマーを使います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-129",
+      "en": "She brings her camera on every trip.",
+      "ja": "彼女は旅行のたびにカメラを持っていきます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-130",
+      "en": "He keeps his coins in a blue jar.",
+      "ja": "彼はコインを青いびんに入れておきます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-131",
+      "en": "We share one tablet at home.",
+      "ja": "私たちは家でタブレットを1台いっしょに使います。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-132",
+      "en": "I carry my student card every day.",
+      "ja": "私は毎日、生徒証を持ち歩きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-133",
+      "en": "My mother uses this pan for eggs.",
+      "ja": "母は卵料理にこのフライパンを使います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-134",
+      "en": "They store winter coats in that closet.",
+      "ja": "彼らは冬のコートをあのクローゼットにしまいます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-135",
+      "en": "I keep my lunch money in this wallet.",
+      "ja": "私は昼食代をこの財布に入れています。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-136",
+      "en": "Emma needs a dictionary for her homework.",
+      "ja": "エマは宿題に辞書がいります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-137",
+      "en": "Noah takes his umbrella to school.",
+      "ja": "ノアは学校に傘を持っていきます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-138",
+      "en": "She uses my ruler for her chart.",
+      "ja": "彼女は図を書くのに私の定規を使います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-139",
+      "en": "He carries two bags from the store.",
+      "ja": "彼は店から袋を2つ持って帰ります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-140",
+      "en": "We keep fresh towels in the basket.",
+      "ja": "私たちは新しいタオルをかごに入れておきます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-141",
+      "en": "I borrow my sister's scissors sometimes.",
+      "ja": "私はときどき姉のはさみを借ります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-142",
+      "en": "My father uses a flashlight at night.",
+      "ja": "父は夜に懐中電灯を使います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-143",
+      "en": "They take blankets for the picnic.",
+      "ja": "彼らはピクニックに毛布を持っていきます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-144",
+      "en": "I keep your book in my room.",
+      "ja": "私はあなたの本を自分の部屋に置いています。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-145",
+      "en": "Emma keeps her hair ties in a small box.",
+      "ja": "エマはヘアゴムを小さな箱にしまっています。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-02-146",
+      "en": "Noah keeps his watch in his bag during P.E. class.",
+      "ja": "ノアは体育の授業中、腕時計をかばんにしまいます。",
+      "word_count": 11
+    },
+    {
+      "id": "G1-02-147",
+      "en": "She lends me her yellow raincoat.",
+      "ja": "彼女は私に黄色いレインコートを貸します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-148",
+      "en": "He needs a clean towel after practice.",
+      "ja": "彼は練習のあとにきれいなタオルがいります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-149",
+      "en": "We bring our own cups to the park.",
+      "ja": "私たちは公園に自分たちのコップを持っていきます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-150",
+      "en": "I put my passport in a safe place.",
+      "ja": "私はパスポートを安全な場所にしまいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-151",
+      "en": "I like warm milk in winter.",
+      "ja": "私は冬に温かいミルクが好きです。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-152",
+      "en": "She doesn't like spicy food.",
+      "ja": "彼女はからい食べ物が好きではありません。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-153",
+      "en": "We want fruit for dessert.",
+      "ja": "私たちはデザートにフルーツがほしいです。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-154",
+      "en": "I choose the early bus.",
+      "ja": "私は早い方のバスを選びます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-155",
+      "en": "He wants chopsticks for this meal.",
+      "ja": "彼はこの食事には箸がほしいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-156",
+      "en": "Emma chooses a hat for the trip.",
+      "ja": "エマは旅行用の帽子を選びます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-157",
+      "en": "Noah likes cold juice on hot days.",
+      "ja": "ノアは暑い日に冷たいジュースが好きです。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-158",
+      "en": "I choose a seat near the front on the bus.",
+      "ja": "私はバスでは前のほうの席を選びます。",
+      "word_count": 10
+    },
+    {
+      "id": "G1-02-159",
+      "en": "They don't like long lines.",
+      "ja": "彼らは長い列は好きではありません。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-160",
+      "en": "She picks the red shirt for the party.",
+      "ja": "彼女はパーティーに赤いシャツを選びます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-161",
+      "en": "I want noodles for lunch today.",
+      "ja": "私は今日の昼ごはんに麺がほしいです。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-162",
+      "en": "He chooses the short path.",
+      "ja": "彼は短い道を選びます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-163",
+      "en": "Emma doesn't like loud music.",
+      "ja": "エマはうるさい音楽は好きではありません。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-164",
+      "en": "We need a small table for four.",
+      "ja": "私たちは4人がけの小さなテーブルがいります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-165",
+      "en": "I don't like cold drinks at night.",
+      "ja": "私は夜に冷たい飲み物は好きではありません。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-166",
+      "en": "Emma chooses the black umbrella.",
+      "ja": "エマは黒い傘を選びます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-167",
+      "en": "He likes the new teacher.",
+      "ja": "彼は新しい先生が好きです。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-168",
+      "en": "I pick the fish for dinner.",
+      "ja": "私は夕食に魚を選びます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-169",
+      "en": "She uses the back door when it rains.",
+      "ja": "彼女は雨の日は裏口を使います。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-170",
+      "en": "Noah chooses soup for dinner.",
+      "ja": "ノアは夕食にスープを選びます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-171",
+      "en": "I help my grandfather on Sundays.",
+      "ja": "私は日曜日に祖父を手伝います。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-172",
+      "en": "She shows her new watch to her friend.",
+      "ja": "彼女は新しい時計を友だちに見せます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-173",
+      "en": "He asks me my name.",
+      "ja": "彼は私の名前をたずねます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-174",
+      "en": "We thank our teacher after class.",
+      "ja": "私たちは授業のあとに先生にお礼を言います。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-175",
+      "en": "I call my cousin after dinner.",
+      "ja": "私は夕食のあとにいとこに電話します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-176",
+      "en": "Emma sends a birthday card to Noah.",
+      "ja": "エマはノアに誕生日カードを送ります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-177",
+      "en": "Noah answers my question with a smile.",
+      "ja": "ノアは笑顔で私の質問に答えます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-178",
+      "en": "I welcome my guests at the door.",
+      "ja": "私は玄関でお客さんを迎えます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-179",
+      "en": "She introduces her brother to us.",
+      "ja": "彼女は弟を私たちに紹介します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-180",
+      "en": "He waits for his friend after practice.",
+      "ja": "彼は練習のあとに友だちを待ちます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-181",
+      "en": "We visit our aunt in the afternoon.",
+      "ja": "私たちは午後におばをたずねます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-182",
+      "en": "I pass the salt to my father.",
+      "ja": "私は父に塩を取って渡します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-183",
+      "en": "My mother joins us for lunch.",
+      "ja": "母は私たちといっしょに昼食をとります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-184",
+      "en": "They invite me to the game.",
+      "ja": "彼らは私をその試合に誘います。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-185",
+      "en": "I tell my sister the good news.",
+      "ja": "私は姉にそのうれしい知らせを伝えます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-186",
+      "en": "Emma brings soup to her grandmother.",
+      "ja": "エマは祖母にスープを持っていきます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-187",
+      "en": "Noah shares his cookies with his friend.",
+      "ja": "ノアはクッキーを友だちと分けます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-188",
+      "en": "I ask the clerk for a bag.",
+      "ja": "私は店員に袋をお願いします。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-189",
+      "en": "She thanks her mother for the gift.",
+      "ja": "彼女はプレゼントをくれた母にお礼を言います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-190",
+      "en": "He teaches me this card game.",
+      "ja": "彼は私にこのカードゲームを教えます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-191",
+      "en": "We greet our neighbors every morning.",
+      "ja": "私たちは毎朝、近所の人たちにあいさつします。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-192",
+      "en": "I meet my uncle at the station.",
+      "ja": "私は駅でおじに会います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-193",
+      "en": "My brother carries the bags for my grandmother.",
+      "ja": "兄は祖母のために荷物を持ちます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-194",
+      "en": "They answer the phone at once.",
+      "ja": "彼らはすぐに電話に出ます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-195",
+      "en": "I write a note to my teacher.",
+      "ja": "私は先生にメモを書きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-196",
+      "en": "Emma reads the message to her parents.",
+      "ja": "エマはそのメッセージを両親に読んで聞かせます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-197",
+      "en": "Noah asks his father for advice.",
+      "ja": "ノアは父にアドバイスを求めます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-198",
+      "en": "She brings her friend to our house.",
+      "ja": "彼女は友だちを私たちの家に連れてきます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-199",
+      "en": "He supports his team from the stands.",
+      "ja": "彼はスタンドから自分のチームを応援します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-200",
+      "en": "We say goodbye to our guests at the gate.",
+      "ja": "私たちは門のところでお客さんを見送ります。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-02-201",
+      "en": "I know her name.",
+      "ja": "私は彼女の名前を知っています。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-02-202",
+      "en": "She understands this rule.",
+      "ja": "彼女はこのルールを理解しています。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-02-203",
+      "en": "He remembers my birthday.",
+      "ja": "彼は私の誕生日を覚えています。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-02-204",
+      "en": "We know the way to the station.",
+      "ja": "私たちは駅までの道を知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-205",
+      "en": "I recognize that voice.",
+      "ja": "私はその声がわかります。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-02-206",
+      "en": "Emma knows the answer to this question.",
+      "ja": "エマはこの質問の答えを知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-207",
+      "en": "Noah remembers the teacher's advice.",
+      "ja": "ノアは先生のアドバイスを覚えています。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-208",
+      "en": "I understand his message.",
+      "ja": "私は彼の伝えたいことがわかります。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-02-209",
+      "en": "She knows the name of this flower.",
+      "ja": "彼女はこの花の名前を知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-02-210",
+      "en": "He notices a small mistake in the sign.",
+      "ja": "彼はその表示の小さなまちがいに気づきます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-02-211",
+      "en": "We remember that song from school.",
+      "ja": "私たちは学校で聞いたその歌を覚えています。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-212",
+      "en": "I know this place very well.",
+      "ja": "私はこの場所をよく知っています。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-213",
+      "en": "My father understands the problem.",
+      "ja": "父はその問題を理解しています。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-214",
+      "en": "They recognize Noah from the photo.",
+      "ja": "彼らは写真を見てノアだとわかります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-215",
+      "en": "I remember her kind words.",
+      "ja": "私は彼女のやさしい言葉を覚えています。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-216",
+      "en": "Emma knows the bus schedule.",
+      "ja": "エマはバスの時刻を知っています。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-217",
+      "en": "Noah understands the map now.",
+      "ja": "ノアは今、その地図がわかります。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-218",
+      "en": "She notices the difference in color.",
+      "ja": "彼女は色のちがいに気づきます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-02-219",
+      "en": "He knows my favorite snack.",
+      "ja": "彼は私の好きなおやつを知っています。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-02-220",
+      "en": "We remember the number on the door.",
+      "ja": "私たちはドアの番号を覚えています。",
+      "word_count": 7
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

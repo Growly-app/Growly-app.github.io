@@ -1,0 +1,1333 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_1",
+  "id_prefix": "G1-04",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G1-04-001",
+      "en": "What is this?",
+      "ja": "これは何ですか。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-04-002",
+      "en": "What is that?",
+      "ja": "あれは何ですか。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-04-003",
+      "en": "What is this animal?",
+      "ja": "この動物は何ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-004",
+      "en": "What is that sound?",
+      "ja": "あの音は何ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-005",
+      "en": "What is in this box?",
+      "ja": "この箱の中には何がありますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-006",
+      "en": "What is on the table?",
+      "ja": "テーブルの上には何がありますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-007",
+      "en": "What is under your chair?",
+      "ja": "あなたのいすの下には何がありますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-008",
+      "en": "What is in your bag?",
+      "ja": "あなたのかばんの中には何がありますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-009",
+      "en": "What is your name?",
+      "ja": "あなたの名前は何ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-010",
+      "en": "What is his job?",
+      "ja": "彼の仕事は何ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-011",
+      "en": "What is her hobby?",
+      "ja": "彼女の趣味は何ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-012",
+      "en": "What is your favorite subject?",
+      "ja": "あなたの好きな教科は何ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-013",
+      "en": "What is for lunch today?",
+      "ja": "今日のお昼ごはんは何ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-014",
+      "en": "What is your answer?",
+      "ja": "あなたの答えは何ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-015",
+      "en": "What do you want?",
+      "ja": "あなたは何が欲しいですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-016",
+      "en": "What do you need?",
+      "ja": "あなたは何が必要ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-017",
+      "en": "What do you have?",
+      "ja": "あなたは何を持っていますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-018",
+      "en": "What do you like?",
+      "ja": "あなたは何が好きですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-019",
+      "en": "What do you study?",
+      "ja": "あなたは何を勉強しますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-020",
+      "en": "What do you read?",
+      "ja": "あなたは何を読みますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-021",
+      "en": "What do you write?",
+      "ja": "あなたは何を書きますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-022",
+      "en": "What do you eat for breakfast?",
+      "ja": "あなたは朝ごはんに何を食べますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-023",
+      "en": "What do you drink in the morning?",
+      "ja": "あなたは朝に何を飲みますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-024",
+      "en": "What do you cook at home?",
+      "ja": "あなたは家で何を作りますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-025",
+      "en": "What do you carry in your bag?",
+      "ja": "あなたはかばんに何を入れて持ち歩きますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-026",
+      "en": "What do you see from your window?",
+      "ja": "あなたは窓から何が見えますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-027",
+      "en": "What do you hear in the park?",
+      "ja": "あなたは公園で何が聞こえますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-028",
+      "en": "What do you do after school?",
+      "ja": "あなたは放課後に何をしますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-029",
+      "en": "What do you do on Sundays?",
+      "ja": "あなたは日曜日に何をしますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-030",
+      "en": "What do you do in the library?",
+      "ja": "あなたは図書館で何をしますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-031",
+      "en": "What do you want to drink?",
+      "ja": "あなたは何を飲みたいですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-032",
+      "en": "What do you want to eat?",
+      "ja": "あなたは何を食べたいですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-033",
+      "en": "What do you want to buy?",
+      "ja": "あなたは何を買いたいですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-034",
+      "en": "What do you want to know?",
+      "ja": "あなたは何を知りたいですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-035",
+      "en": "What do they do after class?",
+      "ja": "彼らは授業のあとに何をしますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-036",
+      "en": "What do we need for dinner?",
+      "ja": "夕食には何が必要ですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-037",
+      "en": "What do you call this in English?",
+      "ja": "これを英語で何と言いますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-038",
+      "en": "What do you bring to school?",
+      "ja": "あなたは学校に何を持っていきますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-039",
+      "en": "Who is that boy?",
+      "ja": "あの男の子はだれですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-040",
+      "en": "Who is this girl?",
+      "ja": "この女の子はだれですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-041",
+      "en": "Who is your teacher?",
+      "ja": "あなたの先生はだれですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-042",
+      "en": "Who is that man at the door?",
+      "ja": "ドアのところにいるあの男性はだれですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-043",
+      "en": "Who is that woman in the kitchen?",
+      "ja": "台所にいるあの女性はだれですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-044",
+      "en": "Who is your favorite singer?",
+      "ja": "あなたの好きな歌手はだれですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-045",
+      "en": "Who is the captain of your team?",
+      "ja": "あなたのチームのキャプテンはだれですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-046",
+      "en": "Who is in the music room?",
+      "ja": "音楽室にいるのはだれですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-047",
+      "en": "Who is on the phone?",
+      "ja": "電話に出ているのはだれですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-048",
+      "en": "Who is absent today?",
+      "ja": "今日はだれが休んでいますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-049",
+      "en": "Who is ready?",
+      "ja": "だれが準備できていますか。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-04-050",
+      "en": "Who is hungry?",
+      "ja": "だれがおなかをすかせていますか。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-04-051",
+      "en": "Who do you study with?",
+      "ja": "あなたはだれと勉強しますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-052",
+      "en": "Who do you want to see?",
+      "ja": "あなたはだれに会いたいですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-053",
+      "en": "Who do they help after school?",
+      "ja": "彼らは放課後にだれを手伝いますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-054",
+      "en": "Whose bag is this?",
+      "ja": "これはだれのかばんですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-055",
+      "en": "Whose book is on the desk?",
+      "ja": "机の上にあるのはだれの本ですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-056",
+      "en": "Whose shoes are by the door?",
+      "ja": "ドアのそばにあるのはだれのくつですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-057",
+      "en": "Whose pen is under the chair?",
+      "ja": "いすの下にあるのはだれのペンですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-058",
+      "en": "Whose notebook is open?",
+      "ja": "開いているのはだれのノートですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-059",
+      "en": "Whose bike is that?",
+      "ja": "あれはだれの自転車ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-060",
+      "en": "Whose jacket is on the sofa?",
+      "ja": "ソファの上にあるのはだれの上着ですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-061",
+      "en": "Whose lunch is this?",
+      "ja": "これはだれのお昼ごはんですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-062",
+      "en": "Whose water bottle is on the table?",
+      "ja": "テーブルの上にあるのはだれの水筒ですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-063",
+      "en": "Whose dog is in the yard?",
+      "ja": "庭にいるのはだれの犬ですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-064",
+      "en": "Whose picture is this?",
+      "ja": "これはだれの写真ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-065",
+      "en": "Whose room is this?",
+      "ja": "ここはだれの部屋ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-066",
+      "en": "Whose gloves are these?",
+      "ja": "これらはだれの手ぶくろですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-067",
+      "en": "Whose cups are in the sink?",
+      "ja": "流しにあるのはだれのカップですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-068",
+      "en": "Whose umbrella is this?",
+      "ja": "これはだれのかさですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-069",
+      "en": "Which bag is yours?",
+      "ja": "どのかばんがあなたのものですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-070",
+      "en": "Which one do you want?",
+      "ja": "どれがほしいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-071",
+      "en": "Which book do you need?",
+      "ja": "どの本が必要ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-072",
+      "en": "Which picture do you like?",
+      "ja": "どの絵が好きですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-073",
+      "en": "Which desk is mine?",
+      "ja": "どの机が私のですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-074",
+      "en": "Which shoes are hers?",
+      "ja": "どのくつが彼女のものですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-075",
+      "en": "Which cake do you want?",
+      "ja": "どのケーキがほしいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-076",
+      "en": "Which notebook do you use for English?",
+      "ja": "英語にはどのノートを使いますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-077",
+      "en": "Which movie do you want to watch?",
+      "ja": "どの映画を見たいですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-078",
+      "en": "Which door is the front door?",
+      "ja": "どのドアが玄関のドアですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-079",
+      "en": "Which room is your classroom?",
+      "ja": "どの部屋があなたの教室ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-080",
+      "en": "Which ball is Noah's?",
+      "ja": "どのボールがノアのですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-081",
+      "en": "Which game do they play?",
+      "ja": "彼らはどのゲームをしますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-082",
+      "en": "Which cup do you use?",
+      "ja": "あなたはどのカップを使いますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-083",
+      "en": "Which bus goes to the station?",
+      "ja": "どのバスが駅に行きますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-084",
+      "en": "Which song do you know?",
+      "ja": "あなたはどの曲を知っていますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-085",
+      "en": "What color is your bike?",
+      "ja": "あなたの自転車は何色ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-086",
+      "en": "What color are your shoes?",
+      "ja": "あなたのくつは何色ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-087",
+      "en": "What sport do you like?",
+      "ja": "あなたは何のスポーツが好きですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-088",
+      "en": "What subject do you study first?",
+      "ja": "あなたは最初に何の教科を勉強しますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-089",
+      "en": "What food do you want for dinner?",
+      "ja": "夕食には何が食べたいですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-090",
+      "en": "What drink do you want?",
+      "ja": "何の飲みものがほしいですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-091",
+      "en": "What club are you in?",
+      "ja": "あなたは何部ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-092",
+      "en": "What animal do you want to see?",
+      "ja": "あなたは何の動物を見たいですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-093",
+      "en": "What game do you play after school?",
+      "ja": "あなたは放課後に何のゲームをしますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-094",
+      "en": "What music do you listen to?",
+      "ja": "あなたは何の音楽を聞きますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-095",
+      "en": "What fruit do you like?",
+      "ja": "あなたは何のくだものが好きですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-096",
+      "en": "What size do you need?",
+      "ja": "どのサイズが必要ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-097",
+      "en": "What class are you in?",
+      "ja": "あなたは何組ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-098",
+      "en": "What language do they speak at home?",
+      "ja": "彼らは家で何語を話しますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-099",
+      "en": "What color is Emma's bag?",
+      "ja": "エマのかばんは何色ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-100",
+      "en": "What flower is this?",
+      "ja": "これは何の花ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-101",
+      "en": "What bus do you take to school?",
+      "ja": "あなたは学校へ行くのに何番のバスに乗りますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-102",
+      "en": "What kind of books do you read?",
+      "ja": "あなたはどんな本を読みますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-103",
+      "en": "When is your birthday?",
+      "ja": "あなたの誕生日はいつですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-104",
+      "en": "When is the school festival?",
+      "ja": "学校祭はいつですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-105",
+      "en": "When is your piano lesson?",
+      "ja": "あなたのピアノのレッスンはいつですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-106",
+      "en": "When is dinner ready?",
+      "ja": "夕食はいつできあがりますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-107",
+      "en": "When do you do your homework?",
+      "ja": "あなたはいつ宿題をしますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-108",
+      "en": "When do you clean your room?",
+      "ja": "あなたはいつ部屋をそうじしますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-109",
+      "en": "When do they practice soccer?",
+      "ja": "彼らはいつサッカーの練習をしますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-110",
+      "en": "When do we have English class?",
+      "ja": "私たちはいつ英語の授業がありますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-111",
+      "en": "When do you call your grandmother?",
+      "ja": "あなたはいつおばあさんに電話しますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-112",
+      "en": "When does Emma leave home?",
+      "ja": "エマはいつ家を出ますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-113",
+      "en": "What time do you get up?",
+      "ja": "あなたは何時に起きますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-114",
+      "en": "What time do you go to bed?",
+      "ja": "あなたは何時に寝ますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-115",
+      "en": "What time do you leave for school?",
+      "ja": "あなたは何時に学校へ出かけますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-116",
+      "en": "What time does the library open?",
+      "ja": "図書館は何時に開きますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-117",
+      "en": "What time does your father come home?",
+      "ja": "あなたのお父さんは何時に帰ってきますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-118",
+      "en": "What time is lunch?",
+      "ja": "昼食は何時ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-119",
+      "en": "What time is your next class?",
+      "ja": "あなたの次の授業は何時ですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-120",
+      "en": "What time is the meeting?",
+      "ja": "その集まりは何時ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-121",
+      "en": "What day is it today?",
+      "ja": "今日は何曜日ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-122",
+      "en": "What day is your music class?",
+      "ja": "あなたの音楽の授業は何曜日ですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-123",
+      "en": "What day is the test?",
+      "ja": "そのテストは何曜日ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-124",
+      "en": "What day do you go to the gym?",
+      "ja": "あなたは何曜日に体育館へ行きますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-04-125",
+      "en": "What day do they visit their grandparents?",
+      "ja": "彼らは何曜日に祖父母をたずねますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-126",
+      "en": "What day do we clean the classroom?",
+      "ja": "私たちは何曜日に教室をそうじしますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-127",
+      "en": "Where is my pen?",
+      "ja": "私のペンはどこですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-128",
+      "en": "Where is your homeroom teacher?",
+      "ja": "あなたの担任の先生はどこですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-129",
+      "en": "Where is the nurse's office?",
+      "ja": "保健室はどこですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-130",
+      "en": "Where is Emma's bike?",
+      "ja": "エマの自転車はどこですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-131",
+      "en": "Where is your lunch box?",
+      "ja": "あなたのお弁当箱はどこですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-132",
+      "en": "Where are my shoes?",
+      "ja": "私のくつはどこですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-133",
+      "en": "Where are the keys?",
+      "ja": "鍵はどこですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-134",
+      "en": "Where are your parents now?",
+      "ja": "あなたの両親は今どこですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-135",
+      "en": "Where do you play tennis?",
+      "ja": "あなたはどこでテニスをしますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-136",
+      "en": "Where do you study after school?",
+      "ja": "あなたは放課後どこで勉強しますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-137",
+      "en": "Where do they eat lunch?",
+      "ja": "彼らはどこで昼食を食べますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-138",
+      "en": "Where do you keep your notebook?",
+      "ja": "あなたはノートをどこに置いていますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-139",
+      "en": "Where do you buy bread?",
+      "ja": "あなたはどこでパンを買いますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-140",
+      "en": "Where does Noah wait for the bus?",
+      "ja": "ノアはどこでバスを待ちますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-141",
+      "en": "Where does your sister practice the piano?",
+      "ja": "あなたの姉妹はどこでピアノの練習をしますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-142",
+      "en": "Where do we meet after class?",
+      "ja": "私たちは授業のあとどこで会いますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-143",
+      "en": "Why are you busy?",
+      "ja": "あなたはなぜ忙しいのですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-144",
+      "en": "Why are you sad?",
+      "ja": "あなたはなぜ悲しいのですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-145",
+      "en": "Why is he late?",
+      "ja": "彼はなぜ遅れているのですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-146",
+      "en": "Why is your room so cold?",
+      "ja": "あなたの部屋はなぜそんなに寒いのですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-147",
+      "en": "Why is the window open?",
+      "ja": "窓はなぜ開いているのですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-148",
+      "en": "Why is Emma at home today?",
+      "ja": "エマはなぜ今日家にいるのですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-149",
+      "en": "Why do you study English?",
+      "ja": "あなたはなぜ英語を勉強するのですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-150",
+      "en": "Why do you get up so early?",
+      "ja": "あなたはなぜそんなに早く起きるのですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-151",
+      "en": "Why do you like this song?",
+      "ja": "あなたはなぜこの歌が好きなのですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-152",
+      "en": "Why do they run every morning?",
+      "ja": "彼らはなぜ毎朝走るのですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-153",
+      "en": "Why do we need this map?",
+      "ja": "私たちはなぜこの地図が必要なのですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-154",
+      "en": "Why does Noah carry that bag?",
+      "ja": "ノアはなぜそのかばんを持っているのですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-155",
+      "en": "Why does your mother make lunch at home?",
+      "ja": "あなたのお母さんはなぜ家で昼ごはんを作るのですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-04-156",
+      "en": "Why do you sit here?",
+      "ja": "あなたはなぜここに座るのですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-157",
+      "en": "How are you?",
+      "ja": "お元気ですか。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-04-158",
+      "en": "How is your father?",
+      "ja": "あなたのお父さんはお元気ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-159",
+      "en": "How is school?",
+      "ja": "学校はどうですか。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-04-160",
+      "en": "How is your new teacher?",
+      "ja": "あなたの新しい先生はどんな感じですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-161",
+      "en": "How is the weather there?",
+      "ja": "そちらの天気はどうですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-162",
+      "en": "How do you go to school?",
+      "ja": "あなたはどうやって学校へ行きますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-163",
+      "en": "How do you come home?",
+      "ja": "あなたはどうやって家に帰りますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-164",
+      "en": "How do they cross the river?",
+      "ja": "彼らはどうやって川を渡りますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-165",
+      "en": "How does your brother go to work?",
+      "ja": "あなたのお兄さんはどうやって仕事に行きますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-166",
+      "en": "How do you make tea?",
+      "ja": "あなたはどうやってお茶をいれますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-167",
+      "en": "How do you use this app?",
+      "ja": "あなたはこのアプリをどう使いますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-168",
+      "en": "How do you open this box?",
+      "ja": "あなたはこの箱をどう開けますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-169",
+      "en": "How do you spell your name?",
+      "ja": "あなたの名前はどうつづりますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-170",
+      "en": "How do you say this in English?",
+      "ja": "これは英語でどう言いますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-171",
+      "en": "How do you study for tests?",
+      "ja": "あなたはテストに向けてどう勉強しますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-172",
+      "en": "How do you spend your Sunday?",
+      "ja": "あなたは日曜日をどう過ごしますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-173",
+      "en": "How do you clean your shoes?",
+      "ja": "あなたはどうやってくつをきれいにしますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-174",
+      "en": "How do you get to the station?",
+      "ja": "あなたはどうやって駅まで行きますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-175",
+      "en": "How does Emma make breakfast?",
+      "ja": "エマはどうやって朝ごはんを作りますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-176",
+      "en": "How do your parents spend their weekends?",
+      "ja": "あなたの両親は週末をどう過ごしますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-177",
+      "en": "How do you feel today?",
+      "ja": "今日はどんな気分ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-178",
+      "en": "How do you open this bottle?",
+      "ja": "このボトルはどうやって開けますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-179",
+      "en": "How many books do you have?",
+      "ja": "あなたは本を何冊持っていますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-180",
+      "en": "How many people are in your family?",
+      "ja": "あなたの家族は何人ですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-181",
+      "en": "How many eggs do we need?",
+      "ja": "卵は何個必要ですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-182",
+      "en": "How many students are absent today?",
+      "ja": "今日は何人の生徒が休んでいますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-183",
+      "en": "How many cups are on the table?",
+      "ja": "テーブルの上にカップはいくつありますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-184",
+      "en": "How many dogs does Noah have?",
+      "ja": "ノアは犬を何匹飼っていますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-185",
+      "en": "How many pages do you read every day?",
+      "ja": "あなたは毎日何ページ読みますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-04-186",
+      "en": "How many buses go to the station?",
+      "ja": "駅へ行くバスは何本ありますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-187",
+      "en": "How many questions are on this test?",
+      "ja": "このテストには問題がいくつありますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-188",
+      "en": "How many pencils do you carry in your bag?",
+      "ja": "あなたはかばんにえんぴつを何本入れていますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-04-189",
+      "en": "How much is this pen?",
+      "ja": "このペンはいくらですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-190",
+      "en": "How much is that notebook?",
+      "ja": "あのノートはいくらですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-191",
+      "en": "How much is this lunch box?",
+      "ja": "このお弁当箱はいくらですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-192",
+      "en": "How much is the red T-shirt?",
+      "ja": "その赤いTシャツはいくらですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-193",
+      "en": "How much milk do you drink in the morning?",
+      "ja": "あなたは朝に牛乳をどのくらい飲みますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-04-194",
+      "en": "How much water is in the bottle?",
+      "ja": "そのボトルには水がどのくらい入っていますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-195",
+      "en": "How much rice do we have?",
+      "ja": "ごはんはどのくらいありますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-196",
+      "en": "How much homework do you have today?",
+      "ja": "あなたは今日宿題がどのくらいありますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-197",
+      "en": "How old are you?",
+      "ja": "あなたは何歳ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-198",
+      "en": "How old is your brother?",
+      "ja": "あなたの弟は何歳ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-199",
+      "en": "How old is Emma?",
+      "ja": "エマは何歳ですか。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-04-200",
+      "en": "How old is that dog?",
+      "ja": "あの犬は何歳ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-201",
+      "en": "How old is your school?",
+      "ja": "あなたの学校は何年たっていますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-202",
+      "en": "How old is this tree?",
+      "ja": "この木は何年たっていますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-203",
+      "en": "How old is your grandfather?",
+      "ja": "あなたのおじいさんは何歳ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-204",
+      "en": "How old is Noah's sister?",
+      "ja": "ノアの妹は何歳ですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-205",
+      "en": "How long is this rope?",
+      "ja": "このロープはどのくらいの長さですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-206",
+      "en": "How long is the table?",
+      "ja": "そのテーブルはどのくらいの長さですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-207",
+      "en": "How long is the movie?",
+      "ja": "その映画はどのくらいの長さですか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-208",
+      "en": "How long is your summer vacation?",
+      "ja": "あなたの夏休みはどのくらいの長さですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-209",
+      "en": "How long do you study after dinner?",
+      "ja": "あなたは夕食のあとどのくらい勉強しますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-210",
+      "en": "How long do they practice after school?",
+      "ja": "彼らは放課後どのくらい練習しますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-211",
+      "en": "How long do you stay in the library?",
+      "ja": "あなたは図書館にどのくらいいますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-04-212",
+      "en": "How long is the bus ride?",
+      "ja": "バスで行く時間はどのくらいですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-213",
+      "en": "How often do you practice?",
+      "ja": "あなたはどのくらいの頻度で練習しますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-04-214",
+      "en": "How often do you go to the library?",
+      "ja": "あなたはどのくらいの頻度で図書館に行きますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-04-215",
+      "en": "How often does your mother cook curry?",
+      "ja": "あなたのお母さんはどのくらいの頻度でカレーを作りますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-216",
+      "en": "How often do they play soccer?",
+      "ja": "彼らはどのくらいの頻度でサッカーをしますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-04-217",
+      "en": "How often do you clean your room?",
+      "ja": "あなたはどのくらいの頻度で部屋をそうじしますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-218",
+      "en": "How often does Emma call her grandmother?",
+      "ja": "エマはどのくらいの頻度でおばあさんに電話しますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-04-219",
+      "en": "How often do you eat out with your family?",
+      "ja": "あなたは家族とどのくらいの頻度で外食しますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-04-220",
+      "en": "How often do we have music class?",
+      "ja": "私たちはどのくらいの頻度で音楽の授業がありますか。",
+      "word_count": 7
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}
