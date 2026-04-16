@@ -1,0 +1,913 @@
+{
+  "schema_version": 1,
+  "material_id": "yarinaoshi_basic3",
+  "id_prefix": "G2-04",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G2-04-001",
+      "en": "I want to see the sea.",
+      "ja": "海を見たい。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-002",
+      "en": "I want to talk with Emma.",
+      "ja": "エマと話したい。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-003",
+      "en": "We want to help our teacher.",
+      "ja": "先生を手伝いたい。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-004",
+      "en": "She wants to join the art club.",
+      "ja": "彼女は美術部に入りたい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-005",
+      "en": "He wants to study English every day.",
+      "ja": "彼は毎日英語を勉強したい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-006",
+      "en": "My brother wants to be a chef.",
+      "ja": "弟はシェフになりたい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-007",
+      "en": "I need to clean my room.",
+      "ja": "部屋を片づけないといけない。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-008",
+      "en": "We need to leave now.",
+      "ja": "私たちは今出発しないといけない。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-04-009",
+      "en": "She needs to call her mother.",
+      "ja": "彼女は母親に電話する必要がある。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-010",
+      "en": "He needs to buy a notebook.",
+      "ja": "彼はノートを買う必要がある。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-011",
+      "en": "You need to be careful here.",
+      "ja": "ここでは気をつけないといけない。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-012",
+      "en": "I need to finish my homework.",
+      "ja": "宿題を終わらせる必要がある。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-013",
+      "en": "I hope to see you again.",
+      "ja": "また会えたらいいな。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-014",
+      "en": "We hope to win the game.",
+      "ja": "私たちはその試合に勝ちたいと思っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-015",
+      "en": "She hopes to travel abroad someday.",
+      "ja": "彼女はいつか海外に行きたいと思っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-016",
+      "en": "He hopes to get better soon.",
+      "ja": "彼は早くよくなりたいと思っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-017",
+      "en": "I plan to read this book tonight.",
+      "ja": "今夜この本を読むつもりだ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-018",
+      "en": "We plan to visit Kyoto this spring.",
+      "ja": "私たちはこの春、京都を訪れる予定だ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-019",
+      "en": "She plans to start a small garden.",
+      "ja": "彼女は小さな庭を作るつもりだ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-020",
+      "en": "They plan to study together after school.",
+      "ja": "彼らは放課後にいっしょに勉強する予定だ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-021",
+      "en": "I decided to stay home today.",
+      "ja": "今日は家にいることにした。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-022",
+      "en": "We decided to walk to the station.",
+      "ja": "私たちは駅まで歩くことにした。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-023",
+      "en": "She decided to tell the truth.",
+      "ja": "彼女は本当のことを言うと決めた。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-024",
+      "en": "He decided to sell his bike.",
+      "ja": "彼は自転車を売ることにした。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-025",
+      "en": "I tried to open the window.",
+      "ja": "私はその窓を開けようとした。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-026",
+      "en": "We tried to catch the last bus.",
+      "ja": "私たちは終バスに乗ろうとした。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-027",
+      "en": "She tried to answer the question.",
+      "ja": "彼女はその質問に答えようとした。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-028",
+      "en": "He tried to lift the box.",
+      "ja": "彼はその箱を持ち上げようとした。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-029",
+      "en": "I tried to wake up early.",
+      "ja": "私は早く起きようとした。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-030",
+      "en": "Please remember to lock the door.",
+      "ja": "ドアにかぎをかけるのを忘れないで。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-031",
+      "en": "I remembered to bring my lunch today.",
+      "ja": "今日はお弁当を忘れずに持ってきた。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-032",
+      "en": "She remembers to water the plants every morning.",
+      "ja": "彼女は毎朝、忘れずに植物に水をやる。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-033",
+      "en": "Remember to write your name here.",
+      "ja": "ここに名前を書くのを忘れないで。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-034",
+      "en": "I forgot to bring my umbrella.",
+      "ja": "私は傘を持ってくるのを忘れた。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-035",
+      "en": "He forgot to turn off the light.",
+      "ja": "彼は電気を消すのを忘れた。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-036",
+      "en": "Don't forget to call me tonight.",
+      "ja": "今夜、私に電話するのを忘れないで。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-037",
+      "en": "I promise to help you.",
+      "ja": "あなたを手伝うと約束する。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-04-038",
+      "en": "She promised to come on time.",
+      "ja": "彼女は時間どおりに来ると約束した。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-039",
+      "en": "They promised to keep the secret.",
+      "ja": "彼らはその秘密を守ると約束した。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-040",
+      "en": "She learned to ride a bike last year.",
+      "ja": "彼女は去年、自転車に乗れるようになった。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-041",
+      "en": "My little brother learned to tie his shoes.",
+      "ja": "弟はくつひもを結べるようになった。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-042",
+      "en": "I chose to stay silent.",
+      "ja": "私は黙っていることを選んだ。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-04-043",
+      "en": "We chose to wait a little longer.",
+      "ja": "私たちはもう少し待つことを選んだ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-044",
+      "en": "He agreed to help us.",
+      "ja": "彼は私たちを手伝うことに同意した。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-04-045",
+      "en": "My dream is to travel abroad.",
+      "ja": "私の夢は海外に行くことだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-046",
+      "en": "My goal is to speak English well.",
+      "ja": "私の目標は英語を上手に話すことだ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-047",
+      "en": "Our plan is to visit our grandmother this weekend.",
+      "ja": "私たちの予定は今週末に祖母をたずねることだ。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-048",
+      "en": "His job is to answer the phone.",
+      "ja": "彼の仕事は電話に出ることだ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-049",
+      "en": "Her wish is to help people.",
+      "ja": "彼女の願いは人を助けることだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-050",
+      "en": "The first step is to wash your hands.",
+      "ja": "最初の一歩は手を洗うことだ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-051",
+      "en": "The best way is to ask your teacher.",
+      "ja": "いちばんよい方法は先生に聞くことだ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-052",
+      "en": "His plan is to save money this year.",
+      "ja": "彼の計画は今年お金をためることだ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-053",
+      "en": "It is important to listen carefully.",
+      "ja": "注意して聞くことは大切だ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-054",
+      "en": "It is hard to say no sometimes.",
+      "ja": "ときには断るのは難しい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-055",
+      "en": "It is easy to make mistakes.",
+      "ja": "まちがえるのは簡単だ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-056",
+      "en": "It is fun to play cards with friends.",
+      "ja": "友だちとトランプをするのは楽しい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-057",
+      "en": "It is nice to walk in the park.",
+      "ja": "公園を歩くのは気持ちがいい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-058",
+      "en": "It is useful to write new words down.",
+      "ja": "新しい単語を書きとめるのは役に立つ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-059",
+      "en": "It is dangerous to run here.",
+      "ja": "ここで走るのは危ない。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-060",
+      "en": "It is better to leave early.",
+      "ja": "早く出発するほうがよい。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-061",
+      "en": "It is not easy to change habits.",
+      "ja": "習慣を変えるのは簡単ではない。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-062",
+      "en": "It is important to keep your promise.",
+      "ja": "約束を守ることは大切だ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-063",
+      "en": "To read every day is good for you.",
+      "ja": "毎日読むことはあなたのためになる。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-064",
+      "en": "To learn a new language is exciting.",
+      "ja": "新しい言語を学ぶことはわくわくする。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-065",
+      "en": "To get up early is not easy for me.",
+      "ja": "早起きするのは私には簡単ではない。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-066",
+      "en": "To help others is a good habit.",
+      "ja": "人を助けることはよい習慣だ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-067",
+      "en": "To speak clearly takes practice.",
+      "ja": "はっきり話すには練習がいる。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-04-068",
+      "en": "To read aloud is good practice.",
+      "ja": "声に出して読むことはよい練習だ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-069",
+      "en": "To keep your room clean is hard.",
+      "ja": "部屋をきれいに保つのは難しい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-070",
+      "en": "I went to the store to buy milk.",
+      "ja": "私は牛乳を買うために店へ行った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-071",
+      "en": "We came here to study together.",
+      "ja": "私たちはいっしょに勉強するためにここへ来た。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-072",
+      "en": "She got up early to catch the first train.",
+      "ja": "彼女は始発電車に乗るために早く起きた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-073",
+      "en": "He saved money to buy a new bike.",
+      "ja": "彼は新しい自転車を買うためにお金をためた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-074",
+      "en": "I called Emma to thank her.",
+      "ja": "私はエマにお礼を言うために電話した。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-075",
+      "en": "Use this pen to write your name.",
+      "ja": "このペンを使って名前を書いて。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-076",
+      "en": "Turn on the light to read the note.",
+      "ja": "そのメモを読むために電気をつけて。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-077",
+      "en": "Open the door to let the cat in.",
+      "ja": "猫を中に入れるためにドアを開けて。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-078",
+      "en": "We sat down to eat lunch.",
+      "ja": "私たちは昼食を食べようと座った。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-079",
+      "en": "She went outside to get some fresh air.",
+      "ja": "彼女は新鮮な空気を吸うために外へ出た。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-080",
+      "en": "He ran to the station to catch the bus.",
+      "ja": "彼はバスに乗るために駅まで走った。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-081",
+      "en": "I took a notebook to write down the answer.",
+      "ja": "私は答えを書きとめるためにノートを持っていった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-082",
+      "en": "We use this room to study after school.",
+      "ja": "私たちは放課後に勉強するためにこの部屋を使う。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-083",
+      "en": "She practiced every day to improve her English.",
+      "ja": "彼女は英語を上達させるために毎日練習した。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-084",
+      "en": "He stood on a chair to reach the top shelf.",
+      "ja": "彼は上の棚に届くようにいすの上に立った。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-04-085",
+      "en": "I went to bed early to feel better the next day.",
+      "ja": "私は次の日に元気になるために早く寝た。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-04-086",
+      "en": "We wore hats to protect our heads from the sun.",
+      "ja": "私たちは日差しから頭を守るために帽子をかぶった。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-04-087",
+      "en": "She opened her bag to look for her keys.",
+      "ja": "彼女は鍵を探すためにかばんを開けた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-088",
+      "en": "He went to the library to return his book.",
+      "ja": "彼は本を返すために図書館へ行った。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-089",
+      "en": "I moved the chair to open the window.",
+      "ja": "私は窓を開けるためにいすを動かした。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-090",
+      "en": "We left home early to avoid the rain.",
+      "ja": "私たちは雨を避けるために早く家を出た。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-091",
+      "en": "She used her phone to take a picture.",
+      "ja": "彼女は写真を撮るためにスマホを使った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-092",
+      "en": "He raised his hand to ask a question.",
+      "ja": "彼は質問するために手を挙げた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-093",
+      "en": "I went to the kitchen to get a glass of water.",
+      "ja": "私は水を一杯取りに台所へ行った。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-04-094",
+      "en": "We brought a flashlight to see in the dark.",
+      "ja": "私たちは暗い中で見るために懐中電灯を持ってきた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-095",
+      "en": "She went to the library to borrow a book.",
+      "ja": "彼女は本を借りるために図書館へ行った。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-096",
+      "en": "He studied hard to pass the test.",
+      "ja": "彼はそのテストに受かるために一生懸命勉強した。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-097",
+      "en": "I turned down the TV to hear the phone better.",
+      "ja": "私は電話の音をもっとよく聞くためにテレビの音を小さくした。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-04-098",
+      "en": "We went to the park to play badminton.",
+      "ja": "私たちはバドミントンをするために公園へ行った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-099",
+      "en": "She took a bus to visit her aunt.",
+      "ja": "彼女はおばをたずねるためにバスに乗った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-100",
+      "en": "He checked the time to catch the right train.",
+      "ja": "彼は正しい電車に乗るために時間を確認した。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-101",
+      "en": "I wrote her a note to explain everything.",
+      "ja": "私はすべてを説明するために彼女にメモを書いた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-102",
+      "en": "I am happy to see you again.",
+      "ja": "またあなたに会えてうれしい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-103",
+      "en": "We were glad to hear the news.",
+      "ja": "私たちはその知らせを聞いてうれしかった。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-104",
+      "en": "She was surprised to see the long line.",
+      "ja": "彼女は長い列を見て驚いた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-105",
+      "en": "He was sorry to miss the game.",
+      "ja": "彼はその試合に行けなくて残念だった。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-106",
+      "en": "I am glad to help you.",
+      "ja": "あなたを手伝えてうれしい。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-107",
+      "en": "They were happy to get your letter.",
+      "ja": "彼らはあなたの手紙を受け取ってうれしかった。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-108",
+      "en": "My mother was surprised to hear that story.",
+      "ja": "母はその話を聞いて驚いた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-109",
+      "en": "We were sorry to be late.",
+      "ja": "私たちは遅れてしまって申し訳なかった。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-110",
+      "en": "She was happy to pass the test.",
+      "ja": "彼女はそのテストに受かってうれしかった。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-111",
+      "en": "He was glad to find his watch.",
+      "ja": "彼は腕時計が見つかってうれしかった。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-112",
+      "en": "I was surprised to see Noah there.",
+      "ja": "私はそこでノアを見て驚いた。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-113",
+      "en": "They were sorry to leave so soon.",
+      "ja": "彼らはそんなに早く帰るのが残念だった。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-114",
+      "en": "We are happy to welcome you here.",
+      "ja": "ここであなたを迎えられてうれしい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-115",
+      "en": "She was glad to finish her homework early.",
+      "ja": "彼女は宿題を早く終えられてうれしかった。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-116",
+      "en": "He was surprised to get the answer right.",
+      "ja": "彼はその答えが当たって驚いた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-117",
+      "en": "I am sorry to hear that.",
+      "ja": "それを聞いて残念です。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-118",
+      "en": "I need something to drink.",
+      "ja": "何か飲み物がほしい。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-04-119",
+      "en": "Do you have anything to read?",
+      "ja": "何か読むものを持っていますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-120",
+      "en": "She wants a book to read on the train.",
+      "ja": "彼女は電車で読む本をほしがっている。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-121",
+      "en": "He needs a chair to sit on.",
+      "ja": "彼には座るためのいすが必要だ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-122",
+      "en": "We need a bag to carry these books in.",
+      "ja": "私たちにはこれらの本を入れて運ぶためのかばんが必要だ。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-123",
+      "en": "I have some homework to finish tonight.",
+      "ja": "私は今夜終わらせる宿題がある。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-124",
+      "en": "She has a lot of work to do today.",
+      "ja": "彼女には今日やるべき仕事がたくさんある。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-125",
+      "en": "He has no time to rest.",
+      "ja": "彼には休む時間がない。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-126",
+      "en": "We need a place to study.",
+      "ja": "私たちには勉強する場所が必要だ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-127",
+      "en": "I want something to write with.",
+      "ja": "私は何か書くものがほしい。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-128",
+      "en": "Do you have a pen to write with?",
+      "ja": "書くためのペンを持っていますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-129",
+      "en": "This is the best room to practice in.",
+      "ja": "ここは練習するのにいちばんよい部屋だ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-130",
+      "en": "I need a box to keep my letters in.",
+      "ja": "私は手紙を入れておく箱が必要だ。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-131",
+      "en": "She bought a notebook to use in class.",
+      "ja": "彼女は授業で使うノートを買った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-132",
+      "en": "He found a quiet place to eat lunch.",
+      "ja": "彼は昼食を食べる静かな場所を見つけた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-133",
+      "en": "I have a book to return.",
+      "ja": "私は返す本がある。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-134",
+      "en": "I need someone to talk to.",
+      "ja": "私は話し相手がほしい。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-135",
+      "en": "She is looking for a dress to wear to the party.",
+      "ja": "彼女はパーティーで着るドレスを探している。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-04-136",
+      "en": "He wants a new game to play with his friends.",
+      "ja": "彼は友だちと遊ぶ新しいゲームをほしがっている。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-04-137",
+      "en": "There is still a lot to learn.",
+      "ja": "まだ学ぶべきことがたくさんある。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-138",
+      "en": "I have some questions to ask.",
+      "ja": "私は聞きたいことがいくつかある。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-139",
+      "en": "Do you have anything to say?",
+      "ja": "何か言いたいことはありますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-140",
+      "en": "She needs a towel to dry her hair with.",
+      "ja": "彼女は髪をふくタオルが必要だ。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-141",
+      "en": "He has a friend to play soccer with.",
+      "ja": "彼にはいっしょにサッカーをする友だちがいる。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-142",
+      "en": "We need something to cut this paper with.",
+      "ja": "私たちにはこの紙を切るものが必要だ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-143",
+      "en": "I want a song to sing at school.",
+      "ja": "私は学校で歌う歌がほしい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-144",
+      "en": "She found the right words to answer him.",
+      "ja": "彼女は彼に答えるのにぴったりの言葉を見つけた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-04-145",
+      "en": "He needs more time to think.",
+      "ja": "彼にはもっと考える時間が必要だ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-04-146",
+      "en": "I need something to eat.",
+      "ja": "何か食べるものがほしい。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-04-147",
+      "en": "He has a letter to send today.",
+      "ja": "彼には今日送る手紙がある。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-148",
+      "en": "It is polite to say thank you.",
+      "ja": "ありがとうと言うのは礼儀正しいことだ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-04-149",
+      "en": "He opened the window to let fresh air in.",
+      "ja": "彼は新鮮な空気を入れるために窓を開けた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-04-150",
+      "en": "I was sad to leave the town.",
+      "ja": "私はその町を去るのが悲しかった。",
+      "word_count": 7
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

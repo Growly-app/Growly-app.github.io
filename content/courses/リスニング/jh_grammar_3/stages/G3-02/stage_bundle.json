@@ -1,0 +1,913 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_3",
+  "id_prefix": "G3-02",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G3-02-001",
+      "en": "The dishes are washed after dinner.",
+      "ja": "食器は夕食のあとに洗われます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-002",
+      "en": "This room is cleaned every morning.",
+      "ja": "この部屋は毎朝そうじされます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-003",
+      "en": "The windows are opened after breakfast.",
+      "ja": "窓は朝食のあとに開けられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-004",
+      "en": "The door is locked before bed.",
+      "ja": "ドアには寝る前に鍵がかけられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-005",
+      "en": "The mail is delivered every day.",
+      "ja": "郵便は毎日届けられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-006",
+      "en": "These towels are changed every week.",
+      "ja": "これらのタオルは毎週取り替えられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-007",
+      "en": "The floor is swept before class.",
+      "ja": "床は授業の前にはかれます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-008",
+      "en": "The bikes are parked in the garage.",
+      "ja": "自転車はガレージに止められます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-009",
+      "en": "The plants are watered every day.",
+      "ja": "植物には毎日水があげられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-010",
+      "en": "The chairs are set around the table.",
+      "ja": "いすはテーブルのまわりに並べられます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-011",
+      "en": "The lights are turned off at ten.",
+      "ja": "電気は10時に消されます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-012",
+      "en": "The tables are wiped after lunch.",
+      "ja": "テーブルは昼食のあとにふかれます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-013",
+      "en": "The bags are placed by the door.",
+      "ja": "かばんはドアのそばに置かれます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-014",
+      "en": "The toys are put back in the box.",
+      "ja": "おもちゃは箱に戻されます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-015",
+      "en": "The cups are kept in this cabinet.",
+      "ja": "カップはこの戸棚にしまわれます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-016",
+      "en": "The trash is taken out every morning.",
+      "ja": "ごみは毎朝出されます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-017",
+      "en": "The sheets are washed on Sundays.",
+      "ja": "シーツは日曜日に洗われます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-018",
+      "en": "The boxes are carried upstairs one by one.",
+      "ja": "箱は1つずつ2階へ運ばれます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-019",
+      "en": "The clock is set five minutes early.",
+      "ja": "その時計は5分早く合わせられています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-020",
+      "en": "The shoes are left outside.",
+      "ja": "くつは外に置かれます。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-021",
+      "en": "The rice is cooked in this pot.",
+      "ja": "ごはんはこのなべで炊かれます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-022",
+      "en": "The vegetables are cut into small pieces.",
+      "ja": "野菜は小さく切られます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-023",
+      "en": "The umbrellas are stored near the door.",
+      "ja": "かさはドアの近くにしまわれます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-024",
+      "en": "The coats are hung by the window.",
+      "ja": "コートは窓のそばにかけられます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-025",
+      "en": "The books are lined up on the shelf.",
+      "ja": "本は棚に並べられます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-026",
+      "en": "The blankets are folded after use.",
+      "ja": "毛布は使ったあとにたたまれます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-027",
+      "en": "The dishes are dried on this rack.",
+      "ja": "食器はこのラックで乾かされます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-028",
+      "en": "The curtains are closed at night.",
+      "ja": "カーテンは夜に閉められます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-029",
+      "en": "I am often asked that question.",
+      "ja": "私はその質問をよく聞かれます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-030",
+      "en": "She is called every night.",
+      "ja": "彼女は毎晩電話をもらいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-031",
+      "en": "We are invited to his house every summer.",
+      "ja": "私たちは毎年夏に彼の家へ招待されます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-032",
+      "en": "He is given a lot of homework.",
+      "ja": "彼にはたくさんの宿題が出されます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-033",
+      "en": "They are shown the way at the station.",
+      "ja": "彼らは駅で道を案内されます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-034",
+      "en": "I am told to be careful.",
+      "ja": "私は気をつけるように言われます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-035",
+      "en": "She is asked to help her brother.",
+      "ja": "彼女は弟を手伝うように頼まれます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-036",
+      "en": "We are taught English at school.",
+      "ja": "私たちは学校で英語を教えられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-037",
+      "en": "He is given a warm welcome.",
+      "ja": "彼は温かく迎えられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-038",
+      "en": "They are asked many questions.",
+      "ja": "彼らはたくさん質問されます。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-039",
+      "en": "I was told the news this morning.",
+      "ja": "私は今朝その知らせを知らされました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-040",
+      "en": "She was asked to sing at the party.",
+      "ja": "彼女はそのパーティーで歌うように頼まれました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-041",
+      "en": "We were invited to dinner last night.",
+      "ja": "私たちは昨夜夕食に招待されました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-042",
+      "en": "He was given a new bike.",
+      "ja": "彼は新しい自転車をもらいました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-043",
+      "en": "They were shown some old pictures.",
+      "ja": "彼らは何枚かの古い写真を見せられました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-044",
+      "en": "I was taught how to use it.",
+      "ja": "私はその使い方を教えられました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-045",
+      "en": "She was offered a cup of tea.",
+      "ja": "彼女はお茶を一杯すすめられました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-046",
+      "en": "We were asked to wait outside.",
+      "ja": "私たちは外で待つように言われました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-047",
+      "en": "He was sent an email yesterday.",
+      "ja": "彼には昨日メールが送られました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-048",
+      "en": "They were given enough time.",
+      "ja": "彼らには十分な時間が与えられました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-049",
+      "en": "I was asked my name.",
+      "ja": "私は名前を聞かれました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-050",
+      "en": "She was told the answer right away.",
+      "ja": "彼女はすぐに答えを教えられました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-051",
+      "en": "We were shown our seats.",
+      "ja": "私たちは自分たちの席を案内されました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-052",
+      "en": "He was invited to join the team.",
+      "ja": "彼はそのチームに入るよう誘われました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-053",
+      "en": "My bike was found near the station.",
+      "ja": "私の自転車は駅の近くで見つかりました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-054",
+      "en": "The game was canceled because of the rain.",
+      "ja": "その試合は雨のため中止されました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-055",
+      "en": "Our class photo was taken yesterday.",
+      "ja": "私たちのクラス写真は昨日撮られました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-056",
+      "en": "The broken window was fixed this morning.",
+      "ja": "その割れた窓は今朝修理されました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-057",
+      "en": "The meeting was moved to Friday.",
+      "ja": "その会議は金曜日に変更されました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-058",
+      "en": "My bag was left on the bus.",
+      "ja": "私のかばんはバスに置き忘れられました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-059",
+      "en": "The lights were turned off too early.",
+      "ja": "電気はまだ早い時間に消されました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-060",
+      "en": "The wall was painted last summer.",
+      "ja": "その壁は去年の夏に塗られました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-061",
+      "en": "Our lunch was prepared before noon.",
+      "ja": "私たちの昼食は正午前に用意されました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-062",
+      "en": "The answer was written on the board.",
+      "ja": "答えは黒板に書かれました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-063",
+      "en": "The old books were sold last month.",
+      "ja": "その古い本は先月売られました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-064",
+      "en": "My name was called first.",
+      "ja": "私の名前は最初に呼ばれました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-065",
+      "en": "The lost dog was found in the park.",
+      "ja": "その迷子の犬は公園で見つかりました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-066",
+      "en": "The cake was dropped on the floor.",
+      "ja": "そのケーキは床に落とされました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-067",
+      "en": "The wrong file was printed.",
+      "ja": "まちがったファイルが印刷されました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-068",
+      "en": "The bus stop was changed last week.",
+      "ja": "そのバス停は先週変更されました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-069",
+      "en": "The pictures were put on the wall.",
+      "ja": "その写真は壁に貼られました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-070",
+      "en": "Our soccer game was delayed for an hour.",
+      "ja": "私たちのサッカーの試合は1時間延期されました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-071",
+      "en": "The cat was locked inside the room.",
+      "ja": "そのねこは部屋の中に閉じこめられました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-072",
+      "en": "The road was blocked by snow.",
+      "ja": "その道は雪でふさがれました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-073",
+      "en": "The sign was removed yesterday.",
+      "ja": "その看板は昨日取り外されました。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-074",
+      "en": "The homework was finished before dinner.",
+      "ja": "宿題は夕食の前に終えられました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-075",
+      "en": "The new student was chosen as our leader.",
+      "ja": "その新しい生徒が私たちのリーダーに選ばれました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-076",
+      "en": "The shop was opened later than usual today.",
+      "ja": "その店は今日はふだんより遅く開店しました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-077",
+      "en": "This song was written by Emma.",
+      "ja": "この歌はエマによって書かれました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-078",
+      "en": "That picture was painted by Noah.",
+      "ja": "あの絵はノアによって描かれました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-079",
+      "en": "The cake was made by my aunt.",
+      "ja": "そのケーキは私のおばによって作られました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-080",
+      "en": "The fence was built by local people.",
+      "ja": "そのフェンスは地元の人たちによって作られました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-081",
+      "en": "The flowers were planted by the students.",
+      "ja": "その花は生徒たちによって植えられました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-082",
+      "en": "The classroom was cleaned by the soccer team.",
+      "ja": "その教室はサッカー部によって掃除されました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-083",
+      "en": "The boxes were carried by two workers.",
+      "ja": "その箱は二人の作業員によって運ばれました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-084",
+      "en": "The party was planned by her friends.",
+      "ja": "そのパーティーは彼女の友だちによって計画されました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-085",
+      "en": "The English class was taught by a new teacher.",
+      "ja": "その英語の授業は新しい先生によって教えられました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-02-086",
+      "en": "The winner was chosen by the coach.",
+      "ja": "その勝者はコーチによって選ばれました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-087",
+      "en": "The road was repaired by city workers.",
+      "ja": "その道は市の作業員によって修理されました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-088",
+      "en": "The baby was named by her grandmother.",
+      "ja": "その赤ちゃんは祖母によって名づけられました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-089",
+      "en": "The stage was prepared by the class.",
+      "ja": "そのステージはクラスによって準備されました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-090",
+      "en": "The letter was sent by my brother.",
+      "ja": "その手紙は私の兄によって送られました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-091",
+      "en": "The dog was saved by a doctor.",
+      "ja": "その犬は医者によって助けられました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-092",
+      "en": "The problem was solved by Noah.",
+      "ja": "その問題はノアによって解かれました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-093",
+      "en": "The meal was cooked by my father.",
+      "ja": "その食事は父によって作られました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-094",
+      "en": "The door was opened by a student.",
+      "ja": "そのドアは一人の生徒によって開けられました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-095",
+      "en": "The team was led by Emma.",
+      "ja": "そのチームはエマによって率いられました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-096",
+      "en": "The school festival was organized by the teachers.",
+      "ja": "その学校祭は先生たちによって運営されました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-097",
+      "en": "Glass is made from sand.",
+      "ja": "ガラスは砂から作られます。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-098",
+      "en": "Cheese is made from milk.",
+      "ja": "チーズは牛乳から作られます。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-099",
+      "en": "This desk is made of wood.",
+      "ja": "この机は木で作られています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-100",
+      "en": "These plates are made of paper.",
+      "ja": "これらの皿は紙で作られています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-101",
+      "en": "This juice is made from oranges.",
+      "ja": "このジュースはオレンジから作られます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-102",
+      "en": "These bags are made in Japan.",
+      "ja": "これらのかばんは日本で作られています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-103",
+      "en": "Bread is made from wheat.",
+      "ja": "パンは小麦から作られます。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-104",
+      "en": "Rice is grown in many countries.",
+      "ja": "米は多くの国で育てられています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-105",
+      "en": "Tea is grown in warm places.",
+      "ja": "お茶は暖かい場所で育てられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-106",
+      "en": "Corn is grown in this area.",
+      "ja": "とうもろこしはこの地域で育てられています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-107",
+      "en": "English is spoken in Australia.",
+      "ja": "英語はオーストラリアで話されています。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-108",
+      "en": "Spanish is spoken in many countries.",
+      "ja": "スペイン語は多くの国で話されています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-109",
+      "en": "This tool is used for cutting paper.",
+      "ja": "この道具は紙を切るために使われます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-110",
+      "en": "These boxes are used for storage.",
+      "ja": "これらの箱は収納に使われます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-111",
+      "en": "This room is used for art class.",
+      "ja": "この部屋は美術の授業に使われます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-112",
+      "en": "This button is used to start the machine.",
+      "ja": "このボタンは機械を動かすために使われます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-113",
+      "en": "This machine is used to wash bottles.",
+      "ja": "この機械はびんを洗うために使われます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-114",
+      "en": "The gym is used for school events.",
+      "ja": "その体育館は学校行事に使われます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-115",
+      "en": "These cards are used in this game.",
+      "ja": "これらのカードはこのゲームで使われます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-116",
+      "en": "This line is used to mark the center.",
+      "ja": "この線は中央を示すために使われます。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-117",
+      "en": "This medicine is sold at most drugstores.",
+      "ja": "この薬はたいていの薬局で売られています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-118",
+      "en": "Fresh flowers are sold here.",
+      "ja": "ここでは新鮮な花が売られています。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-119",
+      "en": "These notebooks are sold in sets.",
+      "ja": "これらのノートはセットで売られています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-120",
+      "en": "Soup is served hot.",
+      "ja": "スープは温かいまま出されます。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-02-121",
+      "en": "This fish is served with rice.",
+      "ja": "この魚料理はごはんといっしょに出されます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-122",
+      "en": "This plant is called mint.",
+      "ja": "この植物はミントと呼ばれます。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-123",
+      "en": "That flower is called a lily.",
+      "ja": "あの花はユリと呼ばれます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-124",
+      "en": "This game is called tag.",
+      "ja": "この遊びは鬼ごっこと呼ばれます。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-125",
+      "en": "This shape is called a circle.",
+      "ja": "この形は円と呼ばれます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-126",
+      "en": "This animal is called a koala.",
+      "ja": "この動物はコアラと呼ばれます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-127",
+      "en": "Visitors are asked to be quiet here.",
+      "ja": "ここでは来館者に静かにするよう求められます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-128",
+      "en": "Bags are checked at the entrance.",
+      "ja": "かばんは入口で確認されます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-129",
+      "en": "Cell phones are not used in this room.",
+      "ja": "この部屋では携帯電話は使われません。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-02-130",
+      "en": "Tickets are sold at the front desk.",
+      "ja": "チケットは受付で売られます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-131",
+      "en": "Food is not allowed in the library.",
+      "ja": "図書館では食べ物は禁止されています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-132",
+      "en": "Names are written on the list.",
+      "ja": "名前はその一覧に書かれます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-133",
+      "en": "The meeting will be held after school.",
+      "ja": "その会議は放課後に開かれます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-134",
+      "en": "The room will be cleaned this afternoon.",
+      "ja": "その部屋はきょうの午後に掃除されます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-135",
+      "en": "The test papers are handed in at the end.",
+      "ja": "テスト用紙は最後に提出されます。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-02-136",
+      "en": "These forms are used for registration.",
+      "ja": "これらの用紙は登録に使われます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-137",
+      "en": "The gate is closed at six.",
+      "ja": "門は6時に閉められます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-138",
+      "en": "Drinks are not sold in this area.",
+      "ja": "この場所では飲み物は売られていません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-139",
+      "en": "Lost items are kept in this office.",
+      "ja": "落とし物はこの事務室で保管されます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-140",
+      "en": "The new schedule will be posted tomorrow.",
+      "ja": "新しい予定表は明日掲示されます。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-141",
+      "en": "The computer is being used right now.",
+      "ja": "そのコンピューターは今使われています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-142",
+      "en": "English is spoken in this class.",
+      "ja": "この授業では英語が話されます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-143",
+      "en": "The doors are opened at nine.",
+      "ja": "ドアは9時に開けられます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-144",
+      "en": "Homework must be turned in by Friday.",
+      "ja": "宿題は金曜日までに提出されなければなりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-02-145",
+      "en": "These seats are reserved for families.",
+      "ja": "これらの席は家族連れのために取ってあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-146",
+      "en": "The results will be announced soon.",
+      "ja": "結果はまもなく発表されます。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-147",
+      "en": "When will the game be held?",
+      "ja": "その試合はいつ開かれますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-02-148",
+      "en": "Where are the bikes kept?",
+      "ja": "自転車はどこに置かれていますか。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-02-149",
+      "en": "Is lunch served here?",
+      "ja": "ここでは昼食は出されますか。",
+      "word_count": 4
+    },
+    {
+      "id": "G3-02-150",
+      "en": "Are these books returned here?",
+      "ja": "これらの本はここに返されますか。",
+      "word_count": 5
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

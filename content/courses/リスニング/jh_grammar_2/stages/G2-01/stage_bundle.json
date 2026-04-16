@@ -1,0 +1,1213 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_2",
+  "id_prefix": "G2-01",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G2-01-001",
+      "en": "I was very tired yesterday.",
+      "ja": "私は昨日とても疲れていました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-002",
+      "en": "My brother was sick last week.",
+      "ja": "私の兄は先週具合が悪かったです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-003",
+      "en": "We were busy this morning.",
+      "ja": "私たちは今朝忙しかったです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-004",
+      "en": "She was nervous before the test.",
+      "ja": "彼女はテストの前に緊張していました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-005",
+      "en": "The room was quiet after lunch.",
+      "ja": "その部屋は昼食のあと静かでした。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-006",
+      "en": "It was cold last night.",
+      "ja": "昨夜は寒かったです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-007",
+      "en": "The sky was gray this morning.",
+      "ja": "今朝は空が灰色でした。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-008",
+      "en": "Our teacher was absent yesterday.",
+      "ja": "先生は昨日お休みでした。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-009",
+      "en": "I was sleepy in class.",
+      "ja": "私は授業中眠かったです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-010",
+      "en": "He was kind to me.",
+      "ja": "彼は私に親切でした。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-011",
+      "en": "The soup was hot.",
+      "ja": "そのスープは熱かったです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-01-012",
+      "en": "My bag was under the desk.",
+      "ja": "私のかばんは机の下にありました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-013",
+      "en": "The library was empty after school.",
+      "ja": "放課後、図書室は空いていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-014",
+      "en": "We were ready at noon.",
+      "ja": "私たちは正午には準備ができていました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-015",
+      "en": "The box was empty.",
+      "ja": "その箱は空でした。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-01-016",
+      "en": "Emma was happy with the gift.",
+      "ja": "エマはそのプレゼントを喜んでいました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-017",
+      "en": "The park was full of people.",
+      "ja": "その公園は人でいっぱいでした。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-018",
+      "en": "I was late for school.",
+      "ja": "私は学校に遅刻しました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-019",
+      "en": "The math test was easy.",
+      "ja": "その数学のテストはやさしかったです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-020",
+      "en": "Our seats were near the window.",
+      "ja": "私たちの席は窓の近くでした。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-021",
+      "en": "It was sunny all day.",
+      "ja": "一日中晴れていました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-022",
+      "en": "The floor was wet.",
+      "ja": "床がぬれていました。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-01-023",
+      "en": "They were hungry after practice.",
+      "ja": "彼らは練習のあとおなかがすいていました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-024",
+      "en": "My hands were cold.",
+      "ja": "私の手は冷たかったです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-01-025",
+      "en": "The store was closed then.",
+      "ja": "そのとき店は閉まっていました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-026",
+      "en": "The movie was really funny.",
+      "ja": "その映画はとてもおもしろかったです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-027",
+      "en": "Her voice was soft.",
+      "ja": "彼女の声はやわらかかったです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-01-028",
+      "en": "The road was dark last night.",
+      "ja": "その道は昨夜暗かったです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-029",
+      "en": "We were together all day.",
+      "ja": "私たちは一日中いっしょでした。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-030",
+      "en": "The homework was difficult.",
+      "ja": "その宿題は難しかったです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-01-031",
+      "en": "I was free yesterday afternoon.",
+      "ja": "私は昨日の午後ひまでした。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-032",
+      "en": "The classroom was warm.",
+      "ja": "教室は暖かかったです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-01-033",
+      "en": "His answer was right.",
+      "ja": "彼の答えは正しかったです。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-01-034",
+      "en": "The train was crowded this morning.",
+      "ja": "今朝は電車がこんでいました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-035",
+      "en": "Our dog was quiet today.",
+      "ja": "うちの犬は今日はおとなしかったです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-036",
+      "en": "I cleaned my desk after school.",
+      "ja": "私は放課後に机を片づけました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-037",
+      "en": "She washed the dishes after dinner.",
+      "ja": "彼女は夕食のあと皿を洗いました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-038",
+      "en": "We cooked curry at home.",
+      "ja": "私たちは家でカレーを作りました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-039",
+      "en": "He opened the window this morning.",
+      "ja": "彼は今朝窓を開けました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-040",
+      "en": "I closed the door quietly.",
+      "ja": "私は静かにドアを閉めました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-041",
+      "en": "My mother packed my lunch.",
+      "ja": "母は私のお弁当を詰めました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-042",
+      "en": "They started their homework early.",
+      "ja": "彼らは早く宿題を始めました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-043",
+      "en": "I finished my math homework.",
+      "ja": "私は数学の宿題を終えました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-044",
+      "en": "She used my pen in class.",
+      "ja": "彼女は授業で私のペンを使いました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-045",
+      "en": "We cleaned the kitchen together.",
+      "ja": "私たちはいっしょに台所を掃除しました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-046",
+      "en": "He called his grandfather last night.",
+      "ja": "彼は昨夜祖父に電話しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-047",
+      "en": "I answered the question in English.",
+      "ja": "私はその質問に英語で答えました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-048",
+      "en": "My sister folded the laundry.",
+      "ja": "妹は洗濯物をたたみました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-049",
+      "en": "We watered the flowers in the yard.",
+      "ja": "私たちは庭の花に水をやりました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-050",
+      "en": "He carried the box upstairs.",
+      "ja": "彼はその箱を二階へ運びました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-051",
+      "en": "I helped my mother in the kitchen.",
+      "ja": "私は台所で母を手伝いました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-052",
+      "en": "She locked her locker before school.",
+      "ja": "彼女は学校へ行く前にロッカーにかぎをかけました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-053",
+      "en": "They washed their hands before lunch.",
+      "ja": "彼らは昼食の前に手を洗いました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-054",
+      "en": "I brushed my teeth after breakfast.",
+      "ja": "私は朝食のあと歯をみがきました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-055",
+      "en": "He packed his bag before school.",
+      "ja": "彼は学校へ行く前にかばんを用意しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-056",
+      "en": "We changed our clothes after practice.",
+      "ja": "私たちは練習のあと服を着替えました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-057",
+      "en": "My father fixed the chair.",
+      "ja": "父はそのいすを直しました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-058",
+      "en": "I charged my phone last night.",
+      "ja": "私は昨夜スマホを充電しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-059",
+      "en": "She turned off the light.",
+      "ja": "彼女は電気を消しました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-060",
+      "en": "We turned on the fan.",
+      "ja": "私たちは扇風機をつけました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-061",
+      "en": "He dried the cups with a towel.",
+      "ja": "彼はタオルでコップをふきました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-062",
+      "en": "I hung my coat by the door.",
+      "ja": "私はドアのそばに上着をかけました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-063",
+      "en": "My brother tied his shoes.",
+      "ja": "弟はくつひもを結びました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-064",
+      "en": "They painted the wall white.",
+      "ja": "彼らはその壁を白くぬりました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-065",
+      "en": "I used a dictionary in class.",
+      "ja": "私は授業で辞書を使いました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-066",
+      "en": "She checked her email after lunch.",
+      "ja": "彼女は昼食のあとメールを確認しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-067",
+      "en": "We checked the worksheet at school.",
+      "ja": "私たちは学校でそのプリントを確認しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-068",
+      "en": "He copied the answer into his notebook.",
+      "ja": "彼はノートにその答えを書き写しました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-069",
+      "en": "I wrote a short note to my teacher.",
+      "ja": "私は先生に短いメモを書きました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-070",
+      "en": "My friend sent me a message.",
+      "ja": "友だちは私にメッセージを送りました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-071",
+      "en": "We watched a movie after dinner.",
+      "ja": "私たちは夕食のあと映画を見ました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-072",
+      "en": "He listened to music in his room.",
+      "ja": "彼は自分の部屋で音楽を聞きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-073",
+      "en": "I read the first page carefully.",
+      "ja": "私は最初のページをていねいに読みました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-074",
+      "en": "She studied science in the library.",
+      "ja": "彼女は図書室で理科を勉強しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-075",
+      "en": "They practiced English after school.",
+      "ja": "彼らは放課後に英語を練習しました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-076",
+      "en": "I drew a picture of my dog.",
+      "ja": "私はうちの犬の絵をかきました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-077",
+      "en": "My sister cut the paper neatly.",
+      "ja": "姉は紙をきれいに切りました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-078",
+      "en": "We made sandwiches for lunch.",
+      "ja": "私たちは昼食にサンドイッチを作りました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-079",
+      "en": "He baked bread this morning.",
+      "ja": "彼は今朝パンを焼きました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-080",
+      "en": "I poured some tea into the cup.",
+      "ja": "私はカップにお茶を注ぎました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-081",
+      "en": "She mixed the soup well.",
+      "ja": "彼女はスープをよく混ぜました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-082",
+      "en": "They peeled the potatoes in the kitchen.",
+      "ja": "彼らは台所でじゃがいもの皮をむきました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-083",
+      "en": "I lifted the chair with both hands.",
+      "ja": "私は両手でいすを持ち上げました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-084",
+      "en": "My father cleaned the car on Sunday.",
+      "ja": "父は日曜日に車を洗いました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-085",
+      "en": "We folded the map on the table.",
+      "ja": "私たちはテーブルの上で地図をたたみました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-086",
+      "en": "He sorted the cards in the morning.",
+      "ja": "彼は朝、カードを分けました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-087",
+      "en": "I borrowed a pen from my friend.",
+      "ja": "私は友だちからペンを借りました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-088",
+      "en": "She returned the book to me.",
+      "ja": "彼女はその本を私に返しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-089",
+      "en": "They shared the cake after dinner.",
+      "ja": "彼らは夕食のあとケーキを分け合いました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-090",
+      "en": "I took a picture of the sky.",
+      "ja": "私は空の写真を撮りました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-091",
+      "en": "My mother chose a blue towel.",
+      "ja": "母は青いタオルを選びました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-092",
+      "en": "We planted tomato seeds in the yard.",
+      "ja": "私たちは庭にトマトの種を植えました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-093",
+      "en": "He fed the cat before breakfast.",
+      "ja": "彼は朝食の前に猫にえさをやりました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-094",
+      "en": "I cleaned the whiteboard after class.",
+      "ja": "私は授業のあとホワイトボードをきれいにしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-095",
+      "en": "She wrapped the gift with red paper.",
+      "ja": "彼女は赤い紙でそのプレゼントを包みました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-096",
+      "en": "I went to the library after school.",
+      "ja": "私は放課後に図書館へ行きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-097",
+      "en": "She went to the station with her father.",
+      "ja": "彼女は父と駅へ行きました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-098",
+      "en": "We went to the park before lunch.",
+      "ja": "私たちは昼食の前に公園へ行きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-099",
+      "en": "He came to my house in the afternoon.",
+      "ja": "彼は午後に私の家へ来ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-100",
+      "en": "My uncle came to our school yesterday.",
+      "ja": "おじは昨日私たちの学校に来ました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-101",
+      "en": "I visited my grandmother on Sunday.",
+      "ja": "私は日曜日に祖母をたずねました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-102",
+      "en": "She crossed the bridge after school.",
+      "ja": "彼女は放課後に橋を渡りました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-103",
+      "en": "We visited a small museum last week.",
+      "ja": "私たちは先週小さな博物館を見学しました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-104",
+      "en": "He returned home before dark.",
+      "ja": "彼は暗くなる前に家に帰りました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-105",
+      "en": "I left home at seven.",
+      "ja": "私は7時に家を出ました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-106",
+      "en": "She left the classroom early.",
+      "ja": "彼女は早く教室を出ました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-107",
+      "en": "We arrived at the gym on time.",
+      "ja": "私たちは時間どおりに体育館に着きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-108",
+      "en": "He arrived at school first.",
+      "ja": "彼は最初に学校へ着きました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-109",
+      "en": "I entered the room quietly.",
+      "ja": "私は静かに部屋に入りました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-110",
+      "en": "They entered the hall together.",
+      "ja": "彼らはいっしょにホールに入りました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-111",
+      "en": "I met my teacher near the gate.",
+      "ja": "私は門の近くで先生に会いました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-112",
+      "en": "She met Emma at the bus stop.",
+      "ja": "彼女はバス停でエマに会いました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-113",
+      "en": "We met new students at school.",
+      "ja": "私たちは学校で新しい生徒たちに会いました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-114",
+      "en": "He saw a rainbow after the rain.",
+      "ja": "彼は雨のあと虹を見ました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-115",
+      "en": "I climbed the hill before lunch.",
+      "ja": "私は昼食の前に丘に登りました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-116",
+      "en": "She saw a beautiful bird in the park.",
+      "ja": "彼女は公園で美しい鳥を見ました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-117",
+      "en": "We saw many stars that night.",
+      "ja": "私たちはその夜たくさんの星を見ました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-118",
+      "en": "He heard loud music from the street.",
+      "ja": "彼は通りから大きな音楽を聞きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-119",
+      "en": "I heard my name in the crowd.",
+      "ja": "私は人ごみの中で自分の名前を聞きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-120",
+      "en": "She heard a strange sound outside.",
+      "ja": "彼女は外で変な音を聞きました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-121",
+      "en": "We watched a game at the gym.",
+      "ja": "私たちは体育館で試合を見ました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-122",
+      "en": "He watched the sunset from the hill.",
+      "ja": "彼は丘の上から夕日を見ました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-123",
+      "en": "I rode a bus to the mall.",
+      "ja": "私はモールまでバスで行きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-124",
+      "en": "She rode her bike to the park.",
+      "ja": "彼女は公園まで自転車で行きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-125",
+      "en": "We took the train to the city.",
+      "ja": "私たちは街まで電車で行きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-126",
+      "en": "He took a taxi to the hospital.",
+      "ja": "彼は病院までタクシーで行きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-127",
+      "en": "I walked to the river with my dog.",
+      "ja": "私は犬といっしょに川まで歩きました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-128",
+      "en": "She walked around the lake with her mother.",
+      "ja": "彼女は母と湖のまわりを歩きました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-129",
+      "en": "We traveled to Kyoto in spring.",
+      "ja": "私たちは春に京都へ旅行しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-130",
+      "en": "They got lost in the city.",
+      "ja": "彼らは街で道に迷いました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-131",
+      "en": "I lost my key on the way home.",
+      "ja": "私は帰り道でかぎをなくしました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-132",
+      "en": "She found a note in her desk.",
+      "ja": "彼女は机の中でメモを見つけました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-133",
+      "en": "We broke a glass in the kitchen.",
+      "ja": "私たちは台所でコップを割りました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-134",
+      "en": "He forgot his homework at home.",
+      "ja": "彼は宿題を家に忘れました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-135",
+      "en": "I missed the first bus this morning.",
+      "ja": "私は今朝最初のバスに乗り遅れました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-136",
+      "en": "My brother won the game yesterday.",
+      "ja": "弟は昨日その試合に勝ちました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-137",
+      "en": "They finished the project before lunch.",
+      "ja": "彼らは昼食前にその作業を終えました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-138",
+      "en": "We started a new unit today.",
+      "ja": "私たちは今日新しい単元を始めました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-139",
+      "en": "I dropped my phone on the floor.",
+      "ja": "私はスマホを床に落としました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-140",
+      "en": "She spilled juice on the table.",
+      "ja": "彼女はテーブルにジュースをこぼしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-141",
+      "en": "He tore his shirt at school.",
+      "ja": "彼は学校でシャツを破きました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-142",
+      "en": "I cut my finger while cooking.",
+      "ja": "私は料理中に指を切りました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-143",
+      "en": "My father caught a cold last week.",
+      "ja": "父は先週かぜをひきました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-144",
+      "en": "We got wet in the rain.",
+      "ja": "私たちは雨でぬれました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-145",
+      "en": "She passed the test easily.",
+      "ja": "彼女はそのテストに簡単に合格しました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-146",
+      "en": "He failed the math test once.",
+      "ja": "彼は一度その数学のテストに落ちました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-147",
+      "en": "I solved the math problem at last.",
+      "ja": "私はついにその数学の問題を解きました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-148",
+      "en": "They noticed the mistake too late.",
+      "ja": "彼らはその間違いに気づくのが遅すぎました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-149",
+      "en": "We reached the top before noon.",
+      "ja": "私たちは正午前に頂上に着きました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-150",
+      "en": "My sister got a high score in English.",
+      "ja": "妹は英語で高い点を取りました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-151",
+      "en": "I burned the toast this morning.",
+      "ja": "私は今朝トーストをこがしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-152",
+      "en": "She slipped on the stairs.",
+      "ja": "彼女は階段ですべりました。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-01-153",
+      "en": "He left his wallet on the train.",
+      "ja": "彼は電車に財布を置き忘れました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-154",
+      "en": "We ran out of milk yesterday.",
+      "ja": "私たちは昨日牛乳がなくなりました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-155",
+      "en": "I found my earring under the bed.",
+      "ja": "私はベッドの下でイヤリングを見つけました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-156",
+      "en": "My mother made a big mistake.",
+      "ja": "母は大きなまちがいをしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-157",
+      "en": "They completed the poster after school.",
+      "ja": "彼らは放課後にそのポスターを完成させました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-158",
+      "en": "I ruined my shirt with paint.",
+      "ja": "私はペンキでシャツをだめにしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-159",
+      "en": "She dropped the plate by accident.",
+      "ja": "彼女はうっかり皿を落としました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-160",
+      "en": "He fixed the clock last night.",
+      "ja": "彼は昨夜その時計を直しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-161",
+      "en": "We saved enough money for the trip.",
+      "ja": "私たちはその旅行のためのお金を十分ためました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-162",
+      "en": "I forgot my umbrella at school.",
+      "ja": "私は学校にかさを置き忘れました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-163",
+      "en": "My friend missed the last train.",
+      "ja": "友だちは終電に乗り遅れました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-164",
+      "en": "She won first prize in the contest.",
+      "ja": "彼女はそのコンテストで一等賞を取りました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-165",
+      "en": "He finished the race in second place.",
+      "ja": "彼はそのレースを2位で終えました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-166",
+      "en": "We fixed the mistake before class.",
+      "ja": "私たちは授業の前にその間違いを直しました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-167",
+      "en": "I broke my favorite mug yesterday.",
+      "ja": "私は昨日お気に入りのマグカップを割りました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-168",
+      "en": "They started the game without him.",
+      "ja": "彼らは彼なしでゲームを始めました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-169",
+      "en": "My brother hurt his knee during practice.",
+      "ja": "兄は練習中にひざを痛めました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-170",
+      "en": "She reached the finish line first.",
+      "ja": "彼女は一番にゴールしました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-171",
+      "en": "I walked to school every day.",
+      "ja": "私は毎日歩いて学校に通っていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-172",
+      "en": "We played soccer after school every day.",
+      "ja": "私たちは毎日放課後にサッカーをしていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-173",
+      "en": "My father read the newspaper every morning.",
+      "ja": "父は毎朝新聞を読んでいました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-174",
+      "en": "She practiced the piano every night.",
+      "ja": "彼女は毎晩ピアノを練習していました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-175",
+      "en": "I visited my grandmother every Sunday.",
+      "ja": "私は毎週日曜日に祖母をたずねていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-176",
+      "en": "They watched this show every week.",
+      "ja": "彼らは毎週この番組を見ていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-177",
+      "en": "My mother made soup on cold days.",
+      "ja": "母は寒い日にはスープを作っていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-178",
+      "en": "We ate lunch in the park on sunny days.",
+      "ja": "私たちは晴れた日には公園で昼食を食べていました。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-01-179",
+      "en": "He always carried a small notebook.",
+      "ja": "彼はいつも小さなノートを持ち歩いていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-180",
+      "en": "I often helped my brother with homework.",
+      "ja": "私はよく弟の宿題を手伝っていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-181",
+      "en": "She usually came home before six.",
+      "ja": "彼女はたいてい6時前に家に帰っていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-182",
+      "en": "We sometimes studied at the library.",
+      "ja": "私たちはときどき図書館で勉強していました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-183",
+      "en": "My grandfather grew tomatoes in his yard.",
+      "ja": "祖父は庭でトマトを育てていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-184",
+      "en": "I listened to the radio every evening.",
+      "ja": "私は毎晩ラジオを聞いていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-185",
+      "en": "They often played cards after dinner.",
+      "ja": "彼らは夕食のあとによくトランプをしていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-186",
+      "en": "My sister wrote in her diary every night.",
+      "ja": "姉は毎晩日記を書いていました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-187",
+      "en": "We cleaned our classroom every Friday.",
+      "ja": "私たちは毎週金曜日に教室を掃除していました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-188",
+      "en": "He fed the birds every morning.",
+      "ja": "彼は毎朝鳥にえさをやっていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-189",
+      "en": "I drank milk before bed every night.",
+      "ja": "私は毎晩寝る前に牛乳を飲んでいました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-190",
+      "en": "She called her mother every weekend.",
+      "ja": "彼女は毎週末に母へ電話していました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-191",
+      "en": "We rode our bikes along the river in summer.",
+      "ja": "私たちは夏には川ぞいを自転車で走っていました。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-01-192",
+      "en": "My uncle took a long walk after dinner every day.",
+      "ja": "おじは毎日夕食のあとに長い散歩をしていました。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-01-193",
+      "en": "I drew pictures during lunch break every day.",
+      "ja": "私は毎日昼休みに絵をかいていました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-194",
+      "en": "They met at the station every Monday.",
+      "ja": "彼らは毎週月曜日に駅で会っていました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-195",
+      "en": "My teacher gave us short quizzes every week.",
+      "ja": "先生は毎週私たちに小テストを出していました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-196",
+      "en": "We brought our lunch from home every day.",
+      "ja": "私たちは毎日家からお弁当を持ってきていました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-197",
+      "en": "He washed his car on Sundays.",
+      "ja": "彼は日曜日に車を洗っていました。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-01-198",
+      "en": "I read comics before dinner every day.",
+      "ja": "私は毎日夕食の前にまんがを読んでいました。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-01-199",
+      "en": "She set the table before dinner every evening.",
+      "ja": "彼女は毎晩夕食の前に食卓の用意をしていました。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-01-200",
+      "en": "We stayed outside until sunset in summer.",
+      "ja": "私たちは夏には日が沈むまで外で過ごしていました。",
+      "word_count": 7
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

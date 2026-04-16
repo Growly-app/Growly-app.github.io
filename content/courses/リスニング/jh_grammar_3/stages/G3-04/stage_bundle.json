@@ -1,0 +1,913 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_3",
+  "id_prefix": "G3-04",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G3-04-001",
+      "en": "I know what he wants.",
+      "ja": "私は彼が何をほしがっているのか知っています。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-04-002",
+      "en": "We don’t know what this word means.",
+      "ja": "私たちはこの単語が何を意味するのかわかりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-003",
+      "en": "She knows what her mother needs.",
+      "ja": "彼女は母親に何が必要なのか知っています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-004",
+      "en": "They found out what caused the problem.",
+      "ja": "彼らは何がその問題を引き起こしたのかわかりました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-005",
+      "en": "I remember what he said.",
+      "ja": "私は彼が何を言ったのか覚えています。",
+      "word_count": 5
+    },
+    {
+      "id": "G3-04-006",
+      "en": "No one knew what was in the box.",
+      "ja": "だれも箱の中に何が入っているのか知りませんでした。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-007",
+      "en": "I know who broke the glass.",
+      "ja": "私はだれがそのガラスを割ったのか知っています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-008",
+      "en": "She doesn’t know who that boy is.",
+      "ja": "彼女はあの男の子がだれなのかわかりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-009",
+      "en": "We all know who made this cake.",
+      "ja": "私たちはみんな、だれがこのケーキを作ったのか知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-010",
+      "en": "He forgot who called him last night.",
+      "ja": "彼は昨夜だれが自分に電話してきたのか忘れました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-011",
+      "en": "I can't tell who left the window open.",
+      "ja": "私はだれが窓を開けたままにしたのかわかりません。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-012",
+      "en": "I know where my bag is.",
+      "ja": "私は自分のかばんがどこにあるのか知っています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-013",
+      "en": "She doesn’t know where her glasses are.",
+      "ja": "彼女は自分のめがねがどこにあるのかわかりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-014",
+      "en": "We know where the bus stops.",
+      "ja": "私たちはそのバスがどこに止まるのか知っています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-015",
+      "en": "He showed me where he studies every day.",
+      "ja": "彼は毎日どこで勉強しているのか教えてくれました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-016",
+      "en": "They learned where the art room was.",
+      "ja": "彼らは美術室がどこにあるのかを知りました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-017",
+      "en": "I remember where I put the key.",
+      "ja": "私は鍵をどこに置いたのか覚えています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-018",
+      "en": "I know when the library opens.",
+      "ja": "私は図書館がいつ開くのか知っています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-019",
+      "en": "She doesn’t know when her father will come home.",
+      "ja": "彼女は父親がいつ帰宅するのかわかりません。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-020",
+      "en": "We all remember when the rain began.",
+      "ja": "私たちはみんな、雨がいつ降り始めたのか覚えています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-021",
+      "en": "He told us when the shop opened.",
+      "ja": "彼はその店がいつ開いたのかを私たちに教えてくれました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-022",
+      "en": "My mother knows when the train leaves.",
+      "ja": "母はその電車がいつ出発するのか知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-023",
+      "en": "I know why she is absent today.",
+      "ja": "私は彼女が今日休んでいる理由を知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-024",
+      "en": "He doesn’t know why his phone is off.",
+      "ja": "彼はなぜ自分のスマホの電源が切れているのかわかりません。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-025",
+      "en": "We understand why the room is quiet.",
+      "ja": "私たちはなぜその部屋が静かなのかわかります。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-026",
+      "en": "She explained why the road was closed.",
+      "ja": "彼女はなぜその道路が閉鎖されていたのか説明しました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-027",
+      "en": "They know why the baby is crying.",
+      "ja": "彼らはなぜ赤ちゃんが泣いているのか知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-028",
+      "en": "I know how this game works.",
+      "ja": "私はこのゲームがどういうしくみなのか知っています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-029",
+      "en": "She doesn’t know how this machine works.",
+      "ja": "彼女はこの機械がどう動くのかわかりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-030",
+      "en": "We learned how the bird got out.",
+      "ja": "私たちはその鳥がどうやって逃げたのかを知りました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-031",
+      "en": "He knows how his father makes coffee.",
+      "ja": "彼は父親がどうやってコーヒーをいれるのか知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-032",
+      "en": "I understand how this lock works.",
+      "ja": "私はこの鍵がどういうしくみなのかわかります。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-033",
+      "en": "I know which book is mine.",
+      "ja": "私はどの本が自分のものなのか知っています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-034",
+      "en": "She doesn’t know which train goes to the airport.",
+      "ja": "彼女はどの電車が空港へ行くのかわかりません。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-035",
+      "en": "We remember which room was empty.",
+      "ja": "私たちはどの部屋が空いていたのか覚えています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-036",
+      "en": "He found out which team won the game.",
+      "ja": "彼はどのチームがその試合に勝ったのかわかりました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-037",
+      "en": "My teacher knows which student needs help.",
+      "ja": "先生はどの生徒に助けが必要なのか知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-038",
+      "en": "I know whose bike this is.",
+      "ja": "私はこれがだれの自転車なのか知っています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-039",
+      "en": "She doesn’t know whose umbrella was on the floor.",
+      "ja": "彼女は床にあった傘がだれのものだったのかわかりません。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-040",
+      "en": "We found out whose dog was in the park.",
+      "ja": "私たちは公園にいた犬がだれのものなのかわかりました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-041",
+      "en": "He remembers whose idea it was.",
+      "ja": "彼はそれがだれの考えだったのか覚えています。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-042",
+      "en": "They know whose name is on the list.",
+      "ja": "彼らはだれの名前がその一覧にあるのか知っています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-043",
+      "en": "I don't know if it will rain today.",
+      "ja": "私は今日雨が降るかどうかわかりません。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-044",
+      "en": "She asked if I was free after school.",
+      "ja": "彼女は私が放課後ひまかどうかたずねました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-045",
+      "en": "We checked whether the door was locked.",
+      "ja": "私たちはそのドアに鍵がかかっていたかどうか確かめました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-046",
+      "en": "He doesn't know if his father is home.",
+      "ja": "彼は父親が家にいるかどうかわかりません。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-047",
+      "en": "My mother asked whether I had finished my homework.",
+      "ja": "母は私が宿題を終えたかどうかたずねました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-048",
+      "en": "They want to know if the store is open.",
+      "ja": "彼らはその店が開いているかどうか知りたがっています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-049",
+      "en": "We asked whether the game was canceled.",
+      "ja": "私たちはその試合が中止になったかどうかたずねました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-050",
+      "en": "We need to see if the bus is late.",
+      "ja": "私たちはそのバスが遅れているかどうか確かめる必要があります。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-051",
+      "en": "She wondered if Noah was angry.",
+      "ja": "彼女はノアが怒っていたのかどうか気になりました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-052",
+      "en": "He checked whether the window was open.",
+      "ja": "彼はその窓が開いていたかどうか確かめました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-053",
+      "en": "I asked if dinner was ready.",
+      "ja": "私は夕食の準備ができているかどうかたずねました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-054",
+      "en": "They found out whether the bus was late.",
+      "ja": "彼らはそのバスが遅れていたかどうかわかりました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-055",
+      "en": "We don't know if Emma is busy now.",
+      "ja": "私たちはエマが今忙しいかどうかわかりません。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-056",
+      "en": "She wants to know whether her bag is here.",
+      "ja": "彼女は自分のかばんがここにあるかどうか知りたがっています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-057",
+      "en": "I can't remember if the light was on.",
+      "ja": "私は電気がついていたかどうか思い出せません。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-058",
+      "en": "He asked whether the train had already left.",
+      "ja": "彼はその電車がもう出発したのかどうかたずねました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-059",
+      "en": "My brother doesn't know if the test is tomorrow.",
+      "ja": "弟はそのテストが明日かどうかわかりません。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-060",
+      "en": "We checked if the water was hot enough.",
+      "ja": "私たちはお湯が十分に熱いかどうか確かめました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-061",
+      "en": "She didn't know whether the answer was right.",
+      "ja": "彼女はその答えが正しいかどうかわかりませんでした。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-062",
+      "en": "I want to know if this key is mine.",
+      "ja": "私はこの鍵が自分のものかどうか知りたいです。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-063",
+      "en": "They discussed whether the plan was safe.",
+      "ja": "彼らはその計画が安全かどうか話し合いました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-064",
+      "en": "He wasn't sure if the room was empty.",
+      "ja": "彼はその部屋が空いているかどうかはっきりしませんでした。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-065",
+      "en": "We tried to find out whether the shop was still open.",
+      "ja": "私たちはその店がまだ開いているかどうか確かめようとしました。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-04-066",
+      "en": "She asked if I needed any help.",
+      "ja": "彼女は私に何か手伝えることがあるかどうかたずねました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-067",
+      "en": "Can you tell me where the station is?",
+      "ja": "駅がどこにあるか教えてくれますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-068",
+      "en": "Please tell me when the meeting starts.",
+      "ja": "会議がいつ始まるのか教えてください。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-069",
+      "en": "He asked me why I was late.",
+      "ja": "彼は私になぜ遅れたのかたずねました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-070",
+      "en": "She told us where Noah lived.",
+      "ja": "彼女はノアがどこに住んでいたのか私たちに教えてくれました。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-071",
+      "en": "My father asked me what I wanted for dinner.",
+      "ja": "父は私に夕食に何が食べたいのかたずねました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-072",
+      "en": "Can you show me how this camera works?",
+      "ja": "このカメラがどう動くのか見せてくれますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-073",
+      "en": "The teacher told us when the test would begin.",
+      "ja": "先生は私たちにテストがいつ始まるのか教えてくれました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-074",
+      "en": "She asked him who that girl was.",
+      "ja": "彼女は彼にあの女の子がだれなのかたずねました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-075",
+      "en": "Please tell me where the nurse's office is.",
+      "ja": "保健室がどこにあるのか教えてください。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-076",
+      "en": "He showed me how he made the model.",
+      "ja": "彼はその模型をどう作ったのか私に見せてくれました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-077",
+      "en": "My mother asked me where I put the scissors.",
+      "ja": "母は私に、はさみをどこに置いたのかたずねました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-078",
+      "en": "Can you tell us why the shop is closed?",
+      "ja": "その店がなぜ閉まっているのか私たちに教えてくれますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-079",
+      "en": "I asked my brother when he got home.",
+      "ja": "私は兄にいつ帰宅したのかたずねました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-080",
+      "en": "She told me what her son needed.",
+      "ja": "彼女は私に息子に何が必要なのか教えてくれました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-081",
+      "en": "The boy asked his teacher how he should answer the question.",
+      "ja": "その少年は先生にその質問にどう答えるべきかたずねました。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-04-082",
+      "en": "Please show me where I should sit.",
+      "ja": "私がどこに座ればよいのか教えてください。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-083",
+      "en": "He asked us which bus went to the museum.",
+      "ja": "彼は私たちにどのバスが博物館へ行くのかたずねました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-084",
+      "en": "My sister told me why she stayed home.",
+      "ja": "姉は私になぜ家にいたのか教えてくれました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-085",
+      "en": "Can you tell me whose bag this is?",
+      "ja": "これがだれのかばんか教えてくれますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-086",
+      "en": "The clerk showed us where the notebooks were.",
+      "ja": "店員は私たちにノートがどこにあるのか教えてくれました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-087",
+      "en": "The teacher asked us what we had learned.",
+      "ja": "先生は私たちに何を学んだのかたずねました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-088",
+      "en": "Our coach told us when we had to leave.",
+      "ja": "コーチは私たちにいつ出発しなければならないのか教えてくれました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-089",
+      "en": "I asked Noah why he looked tired.",
+      "ja": "私はノアになぜ疲れて見えるのかたずねました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-090",
+      "en": "Please tell me who uses this desk.",
+      "ja": "だれがこの机を使っているのか教えてください。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-091",
+      "en": "He told his son how the machine worked.",
+      "ja": "彼は息子にその機械がどう動くのか教えました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-092",
+      "en": "Can you show me which door we should use?",
+      "ja": "どのドアを使えばよいのか見せてくれますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-093",
+      "en": "She asked the nurse when the doctor would come.",
+      "ja": "彼女は看護師に医者がいつ来るのかたずねました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-094",
+      "en": "My uncle told me where he kept the spare key.",
+      "ja": "おじは私に予備の鍵をどこに置いているのか教えてくれました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-04-095",
+      "en": "The student asked the teacher why the answer was wrong.",
+      "ja": "その生徒は先生になぜその答えが間違っているのかたずねました。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-04-096",
+      "en": "Please tell us how the story ends.",
+      "ja": "その話がどう終わるのか私たちに教えてください。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-097",
+      "en": "I wonder why she is so quiet today.",
+      "ja": "私は彼女が今日どうしてそんなに静かなのか気になります。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-098",
+      "en": "He doesn't know where his keys are.",
+      "ja": "彼は自分の鍵がどこにあるのかわかりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-099",
+      "en": "We found out who wrote this note.",
+      "ja": "私たちはだれがこのメモを書いたのかわかりました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-100",
+      "en": "She remembers where she bought that cup.",
+      "ja": "彼女はそのカップをどこで買ったのか覚えています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-101",
+      "en": "I'm not sure what this sign means.",
+      "ja": "私はこの標識が何を意味するのかはっきりわかりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-102",
+      "en": "They are trying to find out why the computer stopped.",
+      "ja": "彼らはなぜそのコンピューターが止まったのか確かめようとしています。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-04-103",
+      "en": "I still don't know when the rain will stop.",
+      "ja": "私はまだ雨がいつやむのかわかりません。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-104",
+      "en": "I can't remember who gave me this book.",
+      "ja": "私はだれがこの本をくれたのか思い出せません。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-105",
+      "en": "She wondered how the bird got into the room.",
+      "ja": "彼女はその鳥がどうやって部屋に入ったのか不思議に思いました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-106",
+      "en": "We don't know which road is safer.",
+      "ja": "私たちはどの道のほうが安全なのかわかりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-107",
+      "en": "He found out where the sound was coming from.",
+      "ja": "彼はその音がどこから聞こえていたのか突き止めました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-108",
+      "en": "I'm not sure why Emma left so early.",
+      "ja": "私はエマがなぜそんなに早く帰ったのかはっきりしません。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-109",
+      "en": "She knows who needs help the most.",
+      "ja": "彼女はだれがいちばん助けを必要としているのか知っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-110",
+      "en": "I remember when this shop was smaller.",
+      "ja": "私はこの店がもっと小さかったころを覚えています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-111",
+      "en": "They couldn't decide which table was better.",
+      "ja": "彼らはどちらのテーブルのほうがよいのか決められませんでした。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-112",
+      "en": "He is checking how much money he has.",
+      "ja": "彼は自分がいくらお金を持っているのか確かめています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-113",
+      "en": "We want to know why the lights are still on.",
+      "ja": "私たちはなぜまだ電気がついているのか知りたいです。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-04-114",
+      "en": "She forgot where she put her phone.",
+      "ja": "彼女は自分のスマホをどこに置いたのか忘れました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-115",
+      "en": "I'm wondering what Noah is doing now.",
+      "ja": "私はノアが今何をしているのか気になっています。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-116",
+      "en": "She finally understood how the printer worked.",
+      "ja": "彼女はそのプリンターがどう動くのかついにわかりました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-117",
+      "en": "They finally found out whose coat it was.",
+      "ja": "彼らはついにそれがだれのコートなのかわかりました。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-118",
+      "en": "I don't know why my hands are so cold.",
+      "ja": "私はなぜこんなに手が冷たいのかわかりません。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-119",
+      "en": "She is thinking about which dress she should wear.",
+      "ja": "彼女はどのドレスを着るべきか考えています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-120",
+      "en": "We remembered where we had met before.",
+      "ja": "私たちは以前どこで会ったのか思い出しました。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-121",
+      "en": "He isn't sure who sent the message.",
+      "ja": "彼はだれがそのメッセージを送ったのかはっきりしません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-122",
+      "en": "I found out what was wrong with the printer.",
+      "ja": "私はそのプリンターのどこが悪かったのかわかりました。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-123",
+      "en": "She wants to know how her son is doing at school.",
+      "ja": "彼女は息子が学校でどうしているのか知りたがっています。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-04-124",
+      "en": "They are trying to decide when they should leave.",
+      "ja": "彼らはいつ出発すべきか決めようとしています。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-125",
+      "en": "I can't tell which answer is correct.",
+      "ja": "私はどの答えが正しいのかわかりません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-126",
+      "en": "We all know why this rule is important.",
+      "ja": "私たちはみんな、なぜこのルールが大切なのか知っています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-127",
+      "en": "Do you know where Emma is?",
+      "ja": "エマがどこにいるか知っていますか。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-04-128",
+      "en": "Can you tell me if this seat is free?",
+      "ja": "この席が空いているかどうか教えてくれますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-129",
+      "en": "I'm not sure when the store closes.",
+      "ja": "私はその店がいつ閉まるのかはっきりしません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-130",
+      "en": "Let's see whether we have enough time.",
+      "ja": "時間が十分にあるかどうか見てみましょう。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-131",
+      "en": "Do you remember what your teacher told you?",
+      "ja": "先生があなたに何と言ったのか覚えていますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-132",
+      "en": "I wonder why the bus is so late.",
+      "ja": "そのバスがなぜこんなに遅いのか気になります。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-133",
+      "en": "Could you tell me where the restroom is?",
+      "ja": "トイレがどこにあるか教えていただけますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-134",
+      "en": "I'm trying to find out which road leads to the lake.",
+      "ja": "私たちはどの道が湖へ続いているのか確かめようとしています。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-04-135",
+      "en": "Do you know whose notebook this is?",
+      "ja": "これがだれのノートか知っていますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-136",
+      "en": "I'm not sure if Noah is at home.",
+      "ja": "私はノアが家にいるかどうかはっきりしません。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-137",
+      "en": "Let's see whether the soup is ready.",
+      "ja": "スープの準備ができているかどうか見てみましょう。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-138",
+      "en": "Can you tell me how this app works?",
+      "ja": "このアプリがどう動くのか教えてくれますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-139",
+      "en": "Do you know when the bus leaves?",
+      "ja": "そのバスがいつ出発するか知っていますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-140",
+      "en": "I wonder who left this box here.",
+      "ja": "だれがここにこの箱を置いたのか気になります。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-141",
+      "en": "I'm not sure why the room is so dark.",
+      "ja": "私はなぜその部屋がこんなに暗いのかはっきりしません。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-142",
+      "en": "Let's find out where we should wait.",
+      "ja": "どこで待てばよいのか確かめましょう。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-143",
+      "en": "Could you tell me which button I should press?",
+      "ja": "どのボタンを押せばよいのか教えていただけますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-144",
+      "en": "Do you know if the library is open today?",
+      "ja": "図書館が今日開いているかどうか知っていますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-145",
+      "en": "I'm trying to remember where I saw her.",
+      "ja": "私はどこで彼女を見かけたのか思い出そうとしています。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-146",
+      "en": "Let's see if this key is the right one.",
+      "ja": "この鍵が正しいかどうか見てみましょう。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-147",
+      "en": "Can you tell me why the light is on?",
+      "ja": "なぜ電気がついているのか教えてくれますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-04-148",
+      "en": "Do you know what time the game starts?",
+      "ja": "その試合が何時に始まるか知っていますか。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-04-149",
+      "en": "I'm not sure which bag is mine.",
+      "ja": "私はどのかばんが自分のものかはっきりしません。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-04-150",
+      "en": "I wonder whether she got my message.",
+      "ja": "彼女が私のメッセージを受け取ったかどうか気になります。",
+      "word_count": 7
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

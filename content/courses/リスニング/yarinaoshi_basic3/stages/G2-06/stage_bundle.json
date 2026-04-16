@@ -1,0 +1,1213 @@
+{
+  "schema_version": 1,
+  "material_id": "yarinaoshi_basic3",
+  "id_prefix": "G2-06",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G2-06-001",
+      "en": "I opened the window, and fresh air came in.",
+      "ja": "私は窓を開けて、新鮮な空気が入ってきた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-002",
+      "en": "Emma washed the dishes, and Noah dried them.",
+      "ja": "エマが皿を洗い、ノアが皿を拭いた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-003",
+      "en": "I took out my notebook, and the class began.",
+      "ja": "私はノートを出して、授業が始まった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-004",
+      "en": "He smiled at me, and I smiled back.",
+      "ja": "彼が私にほほえみ、私はほほえみ返した。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-005",
+      "en": "The bus stopped, and everyone got off.",
+      "ja": "バスが止まり、みんなが降りた。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-006",
+      "en": "I finished my homework, and then I watched TV.",
+      "ja": "私は宿題を終えて、それからテレビを見た。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-007",
+      "en": "My sister made sandwiches, and I made tea.",
+      "ja": "姉はサンドイッチを作り、私はお茶を入れた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-008",
+      "en": "It was sunny, and the park was full of people.",
+      "ja": "晴れていて、公園は人でいっぱいだった。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-009",
+      "en": "I knocked on the door, and my teacher let me in.",
+      "ja": "私はドアをノックして、先生が中に入れてくれた。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-010",
+      "en": "I found my key, and I left the house.",
+      "ja": "私は鍵を見つけて、家を出た。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-011",
+      "en": "We sat by the river, and the water looked clear.",
+      "ja": "私たちは川のそばに座り、水は澄んで見えた。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-012",
+      "en": "The baby laughed, and everyone looked at her.",
+      "ja": "赤ちゃんが笑い、みんながその子を見た。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-013",
+      "en": "I wrote her a note, and she put it in her bag.",
+      "ja": "私は彼女にメモを書き、彼女はそれをかばんに入れた。",
+      "word_count": 12
+    },
+    {
+      "id": "G2-06-014",
+      "en": "The movie ended, and the lights came on.",
+      "ja": "映画が終わり、明かりがついた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-015",
+      "en": "Noah opened the box, and Emma checked the list.",
+      "ja": "ノアが箱を開け、エマがリストを確認した。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-016",
+      "en": "I cleaned my desk, and it looked much better.",
+      "ja": "私は机を片づけて、だいぶきれいになった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-017",
+      "en": "The dog ran to me, and I touched its head.",
+      "ja": "犬が私のところへ走ってきて、私はその頭をなでた。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-018",
+      "en": "She put on her coat, and we went outside.",
+      "ja": "彼女は上着を着て、私たちは外に出た。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-019",
+      "en": "I was tired, but I kept walking.",
+      "ja": "私は疲れていたが、歩き続けた。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-020",
+      "en": "He is young, but he speaks very clearly.",
+      "ja": "彼は若いが、とてもはっきり話す。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-021",
+      "en": "The soup looks simple, but it tastes great.",
+      "ja": "そのスープは見た目はシンプルだが、とてもおいしい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-022",
+      "en": "I called her, but she did not answer.",
+      "ja": "私は彼女に電話したが、彼女は出なかった。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-023",
+      "en": "It was cold, but the room felt warm.",
+      "ja": "寒かったが、その部屋はあたたかく感じられた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-024",
+      "en": "She knows the answer, but she stayed quiet.",
+      "ja": "彼女は答えを知っているが、黙っていた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-025",
+      "en": "The bag is small, but it holds a lot.",
+      "ja": "そのかばんは小さいが、たくさん入る。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-026",
+      "en": "I like this song, but I cannot sing it well.",
+      "ja": "私はこの歌が好きだが、うまく歌えない。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-027",
+      "en": "He ran fast, but he missed the train.",
+      "ja": "彼は速く走ったが、電車に乗り遅れた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-028",
+      "en": "The question was easy, but I made a mistake.",
+      "ja": "その問題は簡単だったが、私はまちがえた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-029",
+      "en": "My phone is old, but it still works.",
+      "ja": "私のスマホは古いが、まだ使える。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-030",
+      "en": "She was nervous, but her voice was steady.",
+      "ja": "彼女は緊張していたが、声は落ち着いていた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-031",
+      "en": "I wanted to help, but I did not know how.",
+      "ja": "私は手伝いたかったが、どうすればよいかわからなかった。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-032",
+      "en": "The cake looked pretty, but it was too sweet.",
+      "ja": "そのケーキは見た目はきれいだったが、甘すぎた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-033",
+      "en": "He is busy, but he always makes time for his family.",
+      "ja": "彼は忙しいが、いつも家族のための時間を作る。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-034",
+      "en": "We were late, but class had not started yet.",
+      "ja": "私たちは遅れたが、授業はまだ始まっていなかった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-035",
+      "en": "My grandfather is old, but he walks quickly.",
+      "ja": "私の祖父は年を取っているが、歩くのは速い。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-036",
+      "en": "Take this bus, or you will be late.",
+      "ja": "このバスに乗って。そうしないと遅れます。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-037",
+      "en": "Do you want tea, or do you want water?",
+      "ja": "お茶がいいですか、それとも水がいいですか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-038",
+      "en": "We can eat here, or we can go home first.",
+      "ja": "ここで食べてもいいし、先に家に帰ってもいい。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-039",
+      "en": "Call me tonight, or send me a message.",
+      "ja": "今夜電話して。それかメッセージを送って。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-040",
+      "en": "Hurry up, or we will miss the start.",
+      "ja": "急いで。さもないと始まりに間に合わない。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-041",
+      "en": "You can write in pen, or you can use a pencil.",
+      "ja": "ペンで書いてもいいし、えんぴつを使ってもいい。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-042",
+      "en": "Is that Noah, or is it his older brother?",
+      "ja": "あれはノアですか、それとも彼の兄ですか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-043",
+      "en": "Study now, or you will worry later.",
+      "ja": "今勉強して。そうしないとあとで困ります。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-044",
+      "en": "Do you want to stay here, or do you want to walk around?",
+      "ja": "ここにいたいですか、それとも歩き回りたいですか。",
+      "word_count": 13
+    },
+    {
+      "id": "G2-06-045",
+      "en": "We can play cards, or we can just talk.",
+      "ja": "トランプをしてもいいし、ただ話してもいい。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-046",
+      "en": "Put the milk back, or it will get warm.",
+      "ja": "牛乳を戻して。さもないとぬるくなる。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-047",
+      "en": "Should I open the door, or should I keep it closed?",
+      "ja": "私がドアを開けましょうか、それとも閉めたままにしましょうか。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-048",
+      "en": "I stayed home because I had a fever.",
+      "ja": "熱があったので、私は家にいた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-049",
+      "en": "She opened the window because it was hot.",
+      "ja": "暑かったので、彼女は窓を開けた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-050",
+      "en": "We took a taxi because it was raining.",
+      "ja": "雨が降っていたので、私たちはタクシーに乗った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-051",
+      "en": "He wore glasses because he could not see well.",
+      "ja": "よく見えなかったので、彼はめがねをかけた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-052",
+      "en": "I got up early because I had a test.",
+      "ja": "テストがあったので、私は早く起きた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-053",
+      "en": "Emma was happy because her team won.",
+      "ja": "エマは自分のチームが勝ったので、うれしかった。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-054",
+      "en": "Noah was quiet because he was tired.",
+      "ja": "ノアは疲れていたので、静かだった。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-055",
+      "en": "I brought an umbrella because the sky looked dark.",
+      "ja": "空が暗く見えたので、私はかさを持って行った。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-056",
+      "en": "She called her mother because she needed help.",
+      "ja": "助けが必要だったので、彼女は母親に電話した。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-057",
+      "en": "We ate inside because the wind was strong.",
+      "ja": "風が強かったので、私たちは中で食べた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-058",
+      "en": "He ran because he was late.",
+      "ja": "遅れていたので、彼は走った。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-06-059",
+      "en": "I turned on the light because the room was dark.",
+      "ja": "部屋が暗かったので、私は電気をつけた。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-060",
+      "en": "She went to bed early because she felt sick.",
+      "ja": "気分が悪かったので、彼女は早く寝た。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-061",
+      "en": "We used a map because we did not know the way.",
+      "ja": "道がわからなかったので、私たちは地図を使った。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-062",
+      "en": "I washed my hands because they were dirty.",
+      "ja": "手が汚れていたので、私は手を洗った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-063",
+      "en": "He smiled because he saw his dog.",
+      "ja": "自分の犬を見たので、彼はほほえんだ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-064",
+      "en": "She took a picture because the view was beautiful.",
+      "ja": "景色がきれいだったので、彼女は写真を撮った。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-065",
+      "en": "I drank some water because I was thirsty.",
+      "ja": "のどがかわいていたので、私は水を飲んだ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-066",
+      "en": "We closed the door because the baby was sleeping.",
+      "ja": "赤ちゃんが寝ていたので、私たちはドアを閉めた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-067",
+      "en": "He practiced every day because he wanted to improve.",
+      "ja": "上達したかったので、彼は毎日練習した。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-068",
+      "en": "I wrote it down because I did not want to forget it.",
+      "ja": "忘れたくなかったので、私はそれを書き留めた。",
+      "word_count": 12
+    },
+    {
+      "id": "G2-06-069",
+      "en": "It was late, so we went home.",
+      "ja": "遅かったので、私たちは家に帰った。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-070",
+      "en": "I was hungry, so I made a sandwich.",
+      "ja": "おなかがすいていたので、私はサンドイッチを作った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-071",
+      "en": "She missed the bus, so she walked to school.",
+      "ja": "彼女はバスに乗り遅れたので、学校まで歩いた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-072",
+      "en": "The room was cold, so I closed the window.",
+      "ja": "部屋が寒かったので、私は窓を閉めた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-073",
+      "en": "He studied hard, so he passed the test.",
+      "ja": "彼は一生懸命勉強したので、テストに合格した。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-074",
+      "en": "I had some free time, so I cleaned my desk.",
+      "ja": "少し時間があったので、私は机を片づけた。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-075",
+      "en": "It started to rain, so we went inside.",
+      "ja": "雨が降り始めたので、私たちは中に入った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-076",
+      "en": "The floor was wet, so I walked slowly.",
+      "ja": "床がぬれていたので、私はゆっくり歩いた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-077",
+      "en": "She felt sleepy, so she took a short nap.",
+      "ja": "彼女は眠かったので、少し昼寝をした。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-078",
+      "en": "The road was busy, so we waited a little.",
+      "ja": "道が混んでいたので、私たちは少し待った。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-079",
+      "en": "I lost my key, so I called my father.",
+      "ja": "私は鍵をなくしたので、父に電話した。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-080",
+      "en": "He was nervous, so he spoke slowly.",
+      "ja": "彼は緊張していたので、ゆっくり話した。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-081",
+      "en": "The box was heavy, so Noah carried it with both hands.",
+      "ja": "箱が重かったので、ノアは両手で運んだ。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-082",
+      "en": "We were early, so we sat on a bench.",
+      "ja": "私たちは早く着いたので、ベンチに座った。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-083",
+      "en": "I forgot her name, so I looked at the list.",
+      "ja": "私は彼女の名前を忘れたので、リストを見た。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-084",
+      "en": "She did not feel well, so she stayed in bed.",
+      "ja": "彼女は気分がよくなかったので、ベッドにいた。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-085",
+      "en": "The music was loud, so we shut the door.",
+      "ja": "音楽が大きかったので、私たちはドアを閉めた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-086",
+      "en": "My bag was full, so I left one book at home.",
+      "ja": "かばんがいっぱいだったので、私は本を1冊家に置いていった。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-087",
+      "en": "He was kind, so everyone liked him.",
+      "ja": "彼は親切だったので、みんなに好かれていた。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-088",
+      "en": "The water was too hot, so I waited a minute.",
+      "ja": "水が熱すぎたので、私は少し待った。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-089",
+      "en": "I had a question, so I raised my hand.",
+      "ja": "質問があったので、私は手を挙げた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-090",
+      "en": "If it rains, we will stay inside.",
+      "ja": "もし雨が降ったら、私たちは中にいます。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-091",
+      "en": "If you are tired, take a break.",
+      "ja": "もし疲れているなら、少し休んで。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-092",
+      "en": "If she calls me, I will tell you.",
+      "ja": "もし彼女が私に電話してきたら、あなたに伝えます。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-093",
+      "en": "If the bus is late, I will walk.",
+      "ja": "もしバスが遅れたら、私は歩きます。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-094",
+      "en": "If you need help, ask me.",
+      "ja": "もし助けが必要なら、私に聞いてください。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-06-095",
+      "en": "If he studies tonight, he will do better tomorrow.",
+      "ja": "もし彼が今夜勉強すれば、明日はもっとうまくできるでしょう。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-096",
+      "en": "If the room is cold, close the window.",
+      "ja": "もし部屋が寒いなら、窓を閉めて。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-097",
+      "en": "If I have time, I will clean my desk.",
+      "ja": "もし時間があれば、私は机を片づけます。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-098",
+      "en": "If Emma comes early, we can start right away.",
+      "ja": "もしエマが早く来たら、私たちはすぐに始められます。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-099",
+      "en": "If you do not understand this word, check the dictionary.",
+      "ja": "もしこの単語がわからないなら、辞書で調べて。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-100",
+      "en": "If the water is too hot, wait a minute.",
+      "ja": "もし水が熱すぎるなら、少し待って。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-101",
+      "en": "If you miss the train, call me.",
+      "ja": "もし電車に乗り遅れたら、私に電話して。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-102",
+      "en": "If your bag is heavy, I can carry it.",
+      "ja": "もしあなたのかばんが重いなら、私が持てます。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-103",
+      "en": "If we leave now, we will catch the train.",
+      "ja": "もし今出れば、私たちは電車に間に合います。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-104",
+      "en": "If she feels sick, she should go home.",
+      "ja": "もし彼女が気分が悪いなら、家に帰ったほうがよい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-105",
+      "en": "If you are hungry, there is some bread on the table.",
+      "ja": "もしおなかがすいているなら、テーブルの上にパンがあります。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-106",
+      "en": "If the door is locked, use this key.",
+      "ja": "もしドアに鍵がかかっていたら、この鍵を使って。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-107",
+      "en": "If he forgets the key again, we will be in trouble.",
+      "ja": "もし彼がまた鍵を忘れたら、私たちは困ります。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-108",
+      "en": "If the teacher asks, tell the truth.",
+      "ja": "もし先生がたずねたら、本当のことを言って。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-109",
+      "en": "If I finish early, I will help you.",
+      "ja": "もし私が早く終わったら、あなたを手伝います。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-110",
+      "en": "If this answer is wrong, try again.",
+      "ja": "もしこの答えがまちがっていたら、もう一度やってみて。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-111",
+      "en": "If the cake is ready, cut it into six pieces.",
+      "ja": "もしケーキの準備ができていたら、6つに切って。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-112",
+      "en": "If you press this button, the light turns on.",
+      "ja": "もしこのボタンを押すと、電気がつきます。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-113",
+      "en": "If we miss this bus, the next one comes at ten.",
+      "ja": "もしこのバスに乗り遅れると、次のは10時に来ます。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-114",
+      "en": "If her dog hears my voice, it runs to me.",
+      "ja": "もし彼女の犬が私の声を聞くと、その犬は私のところへ走ってきます。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-115",
+      "en": "If you mix blue and yellow, you get green.",
+      "ja": "もし青と黄色を混ぜると、緑になります。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-116",
+      "en": "If I drink coffee at night, I cannot sleep well.",
+      "ja": "もし夜にコーヒーを飲むと、私はよく眠れません。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-117",
+      "en": "If the road is wet, bikes move more slowly.",
+      "ja": "もし道がぬれていると、自転車はもっとゆっくり進みます。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-118",
+      "en": "If he skips breakfast, he gets hungry before noon.",
+      "ja": "もし彼が朝食を抜くと、昼前におなかがすきます。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-119",
+      "en": "If we sit by the window, we can see the river.",
+      "ja": "もし窓ぎわに座れば、川が見えます。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-120",
+      "en": "If your hands are dirty, wash them first.",
+      "ja": "もし手が汚れているなら、まず洗って。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-121",
+      "en": "If the soup tastes bland, add a little salt.",
+      "ja": "もしスープの味がうすいなら、塩を少し足して。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-122",
+      "en": "If she brings her camera, we can take pictures together.",
+      "ja": "もし彼女がカメラを持ってくれば、私たちはいっしょに写真を撮れます。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-123",
+      "en": "If I do not write it down, I will forget it.",
+      "ja": "もし書き留めなければ、私はそれを忘れてしまいます。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-124",
+      "en": "If the store is still open, buy some milk.",
+      "ja": "もし店がまだ開いているなら、牛乳を買って。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-125",
+      "en": "If you look carefully, you can find the answer.",
+      "ja": "もしよく見れば、答えが見つかります。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-126",
+      "en": "When I get home, I take off my shoes.",
+      "ja": "家に帰ると、私はくつをぬぐ。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-127",
+      "en": "When she speaks English, she sounds confident.",
+      "ja": "彼女が英語を話すとき、自信があるように聞こえる。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-128",
+      "en": "When the teacher enters the room, everyone stands up.",
+      "ja": "先生が部屋に入ると、みんな立ち上がる。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-129",
+      "en": "When I open this box, I smell tea leaves.",
+      "ja": "この箱を開けると、お茶の葉の香りがする。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-130",
+      "en": "When Noah laughs, his little sister laughs too.",
+      "ja": "ノアが笑うと、妹も笑う。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-131",
+      "en": "When we eat outside, the food tastes better.",
+      "ja": "外で食べると、食べ物がもっとおいしく感じられる。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-132",
+      "en": "When Emma is nervous, she talks very fast.",
+      "ja": "エマは緊張すると、とても早口になる。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-133",
+      "en": "When the sun goes down, the air gets cooler.",
+      "ja": "日が沈むと、空気は少し涼しくなる。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-134",
+      "en": "When I hear that song, I think of my father.",
+      "ja": "その歌を聞くと、私は父のことを思い出す。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-135",
+      "en": "When the bus is full, I stand near the door.",
+      "ja": "バスが満員のとき、私はドアの近くに立つ。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-136",
+      "en": "When I hear a loud noise at night, I wake up.",
+      "ja": "夜に大きな音を聞くと、私は目が覚める。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-137",
+      "en": "When he cooks, the whole kitchen smells good.",
+      "ja": "彼が料理をすると、キッチン全体がいいにおいになる。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-138",
+      "en": "When we have guests, my mother makes soup.",
+      "ja": "お客さんが来ると、母はスープを作る。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-139",
+      "en": "When I wear these shoes, my feet hurt.",
+      "ja": "このくつをはくと、足が痛くなる。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-140",
+      "en": "When the baby falls asleep, the house gets quiet.",
+      "ja": "赤ちゃんが眠ると、家の中は静かになる。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-141",
+      "en": "When I saw her face, I knew the answer.",
+      "ja": "彼女の顔を見たとき、私は答えがわかった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-142",
+      "en": "When the rain started, we ran to the station.",
+      "ja": "雨が降り始めたとき、私たちは駅まで走った。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-143",
+      "en": "When he opened the door, cold air came in.",
+      "ja": "彼がドアを開けたとき、冷たい空気が入ってきた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-144",
+      "en": "When I got to school, the bell was already ringing.",
+      "ja": "私が学校に着いたとき、もうベルが鳴っていた。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-145",
+      "en": "When Emma called my name, I turned around.",
+      "ja": "エマが私の名前を呼んだとき、私は振り返った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-146",
+      "en": "When we reached the top, the view was amazing.",
+      "ja": "私たちが頂上に着いたとき、景色はすばらしかった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-147",
+      "en": "When I touched the cup, it was still warm.",
+      "ja": "私がそのカップにさわったとき、まだあたたかかった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-148",
+      "en": "When Noah heard the news, he smiled right away.",
+      "ja": "ノアはその知らせを聞いたとき、すぐにほほえんだ。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-149",
+      "en": "When I looked in my bag, my wallet was gone.",
+      "ja": "かばんの中を見たとき、財布がなくなっていた。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-150",
+      "en": "When she came into the room, everyone looked at her.",
+      "ja": "彼女が部屋に入ってきたとき、みんなが彼女を見た。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-151",
+      "en": "When the movie ended, nobody moved for a moment.",
+      "ja": "映画が終わったとき、しばらく誰も動かなかった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-152",
+      "en": "When I read his message, I felt relieved.",
+      "ja": "彼のメッセージを読んだとき、私はほっとした。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-153",
+      "en": "When the light came back, the children cheered.",
+      "ja": "電気が戻ったとき、子どもたちは歓声を上げた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-154",
+      "en": "When I was a child, I was afraid of dogs.",
+      "ja": "子どものころ、私は犬がこわかった。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-155",
+      "en": "When my grandfather was young, he lived by the sea.",
+      "ja": "祖父が若かったころ、海の近くに住んでいた。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-156",
+      "en": "When we were in junior high school, we walked there together.",
+      "ja": "私たちが中学生だったころ、そこへいっしょに歩いて行った。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-06-157",
+      "en": "When she was ten, she wrote her first story.",
+      "ja": "彼女は10歳のころ、初めて物語を書いた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-158",
+      "en": "When I was new at this school, Emma helped me a lot.",
+      "ja": "私がこの学校に来たばかりのころ、エマはたくさん助けてくれた。",
+      "word_count": 12
+    },
+    {
+      "id": "G2-06-159",
+      "en": "When he was sick, his mother stayed by his bed.",
+      "ja": "彼が病気だったとき、母親はベッドのそばにいた。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-160",
+      "en": "I think that this bag is too heavy.",
+      "ja": "このかばんは重すぎると思う。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-161",
+      "en": "She thinks that the movie is too long.",
+      "ja": "彼女はその映画は長すぎると思っている。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-162",
+      "en": "We know that Noah is honest.",
+      "ja": "私たちはノアが正直だと知っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-06-163",
+      "en": "I know that this answer is right.",
+      "ja": "私はこの答えが正しいと知っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-164",
+      "en": "He says that he is busy today.",
+      "ja": "彼は今日は忙しいと言っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-165",
+      "en": "The doctor says that I need more sleep.",
+      "ja": "医者は私にはもっと睡眠が必要だと言っている。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-166",
+      "en": "I heard that your brother moved last month.",
+      "ja": "あなたのお兄さんは先月引っ越したと聞いた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-167",
+      "en": "We heard that the game starts at six.",
+      "ja": "私たちはその試合は6時に始まると聞いた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-168",
+      "en": "My father says that this road is dangerous at night.",
+      "ja": "父はこの道は夜は危ないと言っている。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-06-169",
+      "en": "She knows that I love animals.",
+      "ja": "彼女は私が動物好きだと知っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-06-170",
+      "en": "I think that your idea is good.",
+      "ja": "あなたの考えはよいと思う。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-171",
+      "en": "They say that this shop opens early.",
+      "ja": "彼らはこの店は早く開くと言っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-172",
+      "en": "I hope that you feel better soon.",
+      "ja": "あなたがすぐによくなることを願っています。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-173",
+      "en": "He hopes that the weather stays warm.",
+      "ja": "彼はあたたかい天気が続くことを願っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-174",
+      "en": "I am sure that she can do it.",
+      "ja": "彼女ならそれができると確信している。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-175",
+      "en": "We are happy that you came.",
+      "ja": "私たちはあなたが来てくれてうれしい。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-06-176",
+      "en": "I learned that this button opens the window.",
+      "ja": "私はこのボタンで窓が開くと知った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-177",
+      "en": "She found that the box was empty.",
+      "ja": "彼女はその箱が空だとわかった。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-178",
+      "en": "I saw that the window was open.",
+      "ja": "私は窓が開いているのを見た。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-179",
+      "en": "He noticed that my face was red.",
+      "ja": "彼は私の顔が赤いことに気づいた。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-180",
+      "en": "I believe that this is the best choice.",
+      "ja": "私はこれがいちばんよい選択だと思う。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-181",
+      "en": "My teacher says that practice is important.",
+      "ja": "先生は練習は大切だと言っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-182",
+      "en": "I heard that the road is closed.",
+      "ja": "私はその道が通行止めだと聞いた。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-183",
+      "en": "Noah thinks that his sister is funny.",
+      "ja": "ノアは妹はおもしろいと思っている。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-184",
+      "en": "We know that the library closes at five.",
+      "ja": "私たちは図書館は5時に閉まると知っている。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-185",
+      "en": "She told me that the train was late.",
+      "ja": "彼女はその電車は遅れていたと私に言った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-186",
+      "en": "He told us that the room was ready.",
+      "ja": "彼はその部屋の準備ができていたと私たちに言った。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-187",
+      "en": "I feel that something is wrong.",
+      "ja": "私は何かがおかしいと感じる。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-06-188",
+      "en": "She thinks that the answer is on page ten.",
+      "ja": "彼女は答えは10ページにあると思っている。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-189",
+      "en": "Do you think that this shirt is too bright?",
+      "ja": "このシャツは明るすぎると思いますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-190",
+      "en": "I did not know that he was your cousin.",
+      "ja": "私は彼があなたのいとこだと知らなかった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-191",
+      "en": "She did not know that the store was closed.",
+      "ja": "彼女はその店が閉まっていることを知らなかった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-192",
+      "en": "We were glad that the rain stopped.",
+      "ja": "私たちは雨がやんでうれしかった。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-193",
+      "en": "I am afraid that I forgot my notebook.",
+      "ja": "ノートを忘れた気がして心配だ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-194",
+      "en": "He was surprised that the answer was so easy.",
+      "ja": "彼はその答えがとても簡単で驚いた。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-06-195",
+      "en": "Mom says that dinner is ready.",
+      "ja": "母は夕食の準備ができたと言っている。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-06-196",
+      "en": "I remember that he wore a blue cap.",
+      "ja": "私は彼が青いぼうしをかぶっていたのを覚えている。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-197",
+      "en": "She remembers that her first teacher was kind.",
+      "ja": "彼女は最初の先生が親切だったことを覚えている。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-198",
+      "en": "We found out that the door was locked.",
+      "ja": "私たちはそのドアに鍵がかかっているとわかった。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-06-199",
+      "en": "I guess that this seat is yours.",
+      "ja": "この席はあなたのだと思う。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-06-200",
+      "en": "I know that Emma can keep a secret.",
+      "ja": "私はエマが秘密を守れると知っている。",
+      "word_count": 8
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

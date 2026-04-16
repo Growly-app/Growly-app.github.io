@@ -1,0 +1,613 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_3",
+  "id_prefix": "G3-05",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G3-05-001",
+      "en": "If I had more time, I would read more books.",
+      "ja": "もっと時間があれば、もっと本を読むのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-002",
+      "en": "If it were sunny today, we would go to the park.",
+      "ja": "今日は晴れていたら、公園に行くのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-003",
+      "en": "If I were taller, I would play basketball.",
+      "ja": "もっと背が高ければ、バスケットボールをするのに。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-05-004",
+      "en": "If she were here now, she would know what to do.",
+      "ja": "今ここに彼女がいたら、どうすればいいかわかるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-005",
+      "en": "If I had enough money, I would buy a new desk.",
+      "ja": "十分なお金があれば、新しい机を買うのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-006",
+      "en": "If he studied harder, he would get better grades.",
+      "ja": "彼がもっと一生けんめい勉強すれば、もっといい成績を取るのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-007",
+      "en": "If my room were bigger, I would put a sofa in it.",
+      "ja": "私の部屋がもっと広ければ、そこにソファを置くのに。",
+      "word_count": 12
+    },
+    {
+      "id": "G3-05-008",
+      "en": "If we lived near the station, we would walk there.",
+      "ja": "私たちが駅の近くに住んでいたら、そこまで歩くのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-009",
+      "en": "If I knew her phone number, I would call her.",
+      "ja": "彼女の電話番号を知っていたら、彼女に電話するのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-010",
+      "en": "If this bag were lighter, I would carry it myself.",
+      "ja": "このかばんがもっと軽ければ、自分で持つのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-011",
+      "en": "If I were free tonight, I would join you.",
+      "ja": "今夜ひまだったら、あなたたちに合流するのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-012",
+      "en": "If the water were warmer, I would swim in it.",
+      "ja": "水がもっとあたたかければ、泳ぐのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-013",
+      "en": "If Noah had a bicycle, he would ride to school.",
+      "ja": "ノアが自転車を持っていたら、自転車で学校に行くのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-014",
+      "en": "If Emma were not so busy, she would help us.",
+      "ja": "エマがそんなに忙しくなければ、私たちを手伝うのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-015",
+      "en": "If I had a map, I would take a different road.",
+      "ja": "地図があれば、別の道を行くのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-016",
+      "en": "If the store were open now, I would buy some bread.",
+      "ja": "その店が今開いていたら、パンを買うのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-017",
+      "en": "If we had a little more space, we would eat here.",
+      "ja": "もう少し場所があれば、ここで食べるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-018",
+      "en": "If I were better at cooking, I would make dinner tonight.",
+      "ja": "もっと料理が得意なら、今夜は夕食を作るのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-019",
+      "en": "If he were kinder, more people would talk to him.",
+      "ja": "彼がもっと親切なら、もっと多くの人が彼に話しかけるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-020",
+      "en": "If I had your notebook, I would check the answer.",
+      "ja": "あなたのノートがあれば、答えを確認するのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-021",
+      "en": "If the library were closer, I would go there more often.",
+      "ja": "図書館がもっと近ければ、もっとよくそこへ行くのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-022",
+      "en": "If I were stronger, I would carry this box upstairs.",
+      "ja": "もっと力があれば、この箱を上の階まで運ぶのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-023",
+      "en": "If my phone worked, I would send you a message.",
+      "ja": "私のスマホが使えれば、あなたにメッセージを送るのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-024",
+      "en": "If we had more chairs, everyone would sit down.",
+      "ja": "もっといすがあれば、みんな座るのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-025",
+      "en": "If the classroom were quieter, I would study better.",
+      "ja": "教室がもっと静かなら、もっと集中して勉強できるのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-026",
+      "en": "If I had a camera, I would take a picture of this view.",
+      "ja": "カメラがあれば、この景色の写真を撮るのに。",
+      "word_count": 13
+    },
+    {
+      "id": "G3-05-027",
+      "en": "If she were taller, she would reach that shelf.",
+      "ja": "彼女がもっと背が高ければ、その棚に手が届くのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-028",
+      "en": "If it were not so cold, I would open the window.",
+      "ja": "そんなに寒くなければ、窓を開けるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-029",
+      "en": "If I had more energy, I would clean my room today.",
+      "ja": "もっと元気があれば、今日は部屋をそうじするのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-030",
+      "en": "If he were at home, he would answer the door.",
+      "ja": "彼が家にいたら、ドアに出るのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-031",
+      "en": "If I knew the way, I would go alone.",
+      "ja": "道を知っていたら、一人で行くのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-032",
+      "en": "If this chair were softer, I would sit here longer.",
+      "ja": "このいすがもっとやわらかければ、もっと長くここに座るのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-033",
+      "en": "If we were on the same team, we would practice together.",
+      "ja": "私たちが同じチームなら、いっしょに練習するのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-034",
+      "en": "If I had a little more courage, I would ask that question.",
+      "ja": "もう少し勇気があれば、その質問をするのに。",
+      "word_count": 12
+    },
+    {
+      "id": "G3-05-035",
+      "en": "If the test were easier, I would feel better.",
+      "ja": "そのテストがもっとやさしければ、もっと気が楽なのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-036",
+      "en": "If my hands were clean, I would help you cook.",
+      "ja": "手がきれいなら、料理を手伝うのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-037",
+      "en": "If she had more free time, she would visit her grandmother.",
+      "ja": "彼女にもっと自由な時間があれば、おばあちゃんを訪ねるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-038",
+      "en": "If I were not so tired, I would go for a walk.",
+      "ja": "そんなに疲れていなければ、散歩に行くのに。",
+      "word_count": 12
+    },
+    {
+      "id": "G3-05-039",
+      "en": "If the bus stop were nearer, we would use the bus more often.",
+      "ja": "バス停がもっと近ければ、もっとよくバスを使うのに。",
+      "word_count": 13
+    },
+    {
+      "id": "G3-05-040",
+      "en": "If I had your number, I would invite you.",
+      "ja": "あなたの連絡先があれば、あなたを誘うのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-041",
+      "en": "If this computer were faster, I would use it every day.",
+      "ja": "このパソコンがもっと速ければ、毎日使うのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-042",
+      "en": "If he were more careful, he would make fewer mistakes.",
+      "ja": "彼がもっと注意深ければ、ミスはもっと少ないのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-043",
+      "en": "If I had a quiet place, I would study there.",
+      "ja": "静かな場所があれば、そこで勉強するのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-044",
+      "en": "If I had an extra umbrella, I would lend it to you.",
+      "ja": "予備のかさがあれば、あなたに貸すのに。",
+      "word_count": 12
+    },
+    {
+      "id": "G3-05-045",
+      "en": "If we had a garden, I would grow tomatoes.",
+      "ja": "庭があれば、トマトを育てるのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-046",
+      "en": "If I were good at art, I would draw my own cards.",
+      "ja": "絵が得意なら、自分でカードを描くのに。",
+      "word_count": 12
+    },
+    {
+      "id": "G3-05-047",
+      "en": "If the train were not late, we would arrive on time.",
+      "ja": "電車が遅れていなければ、時間どおりに着くのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-048",
+      "en": "If I got a little more sleep, I would feel fine.",
+      "ja": "もう少し眠れたら、もっと元気になれるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-049",
+      "en": "If I had a ladder, I could clean that window.",
+      "ja": "はしごがあれば、その窓をそうじできるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-050",
+      "en": "If she spoke English, she could help the tourist.",
+      "ja": "彼女が英語を話せたら、その旅行者を助けられるのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-051",
+      "en": "If we had more time, we could visit the museum.",
+      "ja": "もっと時間があれば、その博物館に行けるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-052",
+      "en": "If I had some water, I could take this medicine.",
+      "ja": "水があれば、この薬を飲めるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-053",
+      "en": "If the room were brighter, I could read this map.",
+      "ja": "部屋がもっと明るければ、この地図が読めるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-054",
+      "en": "If he had your number, he could call you.",
+      "ja": "彼があなたの番号を知っていれば、あなたに電話できるのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-055",
+      "en": "If I were calmer, I could answer better.",
+      "ja": "もっと落ち着いていれば、もっとうまく答えられるのに。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-05-056",
+      "en": "If we had a car, we could go to the lake.",
+      "ja": "車があれば、その湖に行けるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-057",
+      "en": "If Emma were here, she could explain it.",
+      "ja": "エマがここにいれば、それを説明できるのに。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-05-058",
+      "en": "If I had a printer, I could print this page.",
+      "ja": "プリンターがあれば、このページを印刷できるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-059",
+      "en": "If the bus were not late, we could catch the train.",
+      "ja": "バスが遅れていなければ、その電車に乗れるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-060",
+      "en": "If Noah knew the answer, he could tell us.",
+      "ja": "ノアが答えを知っていれば、私たちに教えられるのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-061",
+      "en": "If I had a key, I could open the door.",
+      "ja": "鍵があれば、そのドアを開けられるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-062",
+      "en": "If this box were lighter, I could carry it alone.",
+      "ja": "この箱がもっと軽ければ、一人で運べるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-063",
+      "en": "If we were closer to the sea, we could swim every weekend.",
+      "ja": "海がもっと近ければ、毎週末泳げるのに。",
+      "word_count": 12
+    },
+    {
+      "id": "G3-05-064",
+      "en": "If I had your schedule, I could choose a better time.",
+      "ja": "あなたの予定がわかれば、もっとよい時間を選べるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-065",
+      "en": "If she were more careful, she could avoid those mistakes.",
+      "ja": "彼女がもっと注意深ければ、そのミスを防げるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-066",
+      "en": "If I had a little more space, I could put a desk here.",
+      "ja": "もう少し場所があれば、ここに机を置けるのに。",
+      "word_count": 13
+    },
+    {
+      "id": "G3-05-067",
+      "en": "If I had a flashlight, I could look under the bed.",
+      "ja": "懐中電灯があれば、ベッドの下を見られるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-068",
+      "en": "If he had a key card, he could enter the building.",
+      "ja": "彼がカードキーを持っていれば、その建物に入れるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-069",
+      "en": "If I were stronger, I could lift this bag.",
+      "ja": "もっと力があれば、このバッグを持ち上げられるのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-070",
+      "en": "If we had better weather, we could play outside.",
+      "ja": "もっと天気がよければ、外で遊べるのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-071",
+      "en": "If my glasses were here, I could read this sign.",
+      "ja": "めがねがここにあれば、この標識が読めるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-072",
+      "en": "If she had a laptop, she could finish the report.",
+      "ja": "彼女がノートパソコンを持っていれば、そのレポートを終えられるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-073",
+      "en": "If I knew the rule, I could answer this question.",
+      "ja": "そのルールがわかっていれば、この問題に答えられるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-074",
+      "en": "If the road were dry, we could ride our bikes.",
+      "ja": "道が乾いていれば、自転車に乗れるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-075",
+      "en": "If we had a bigger table, everyone could sit together.",
+      "ja": "もっと大きいテーブルがあれば、みんなでいっしょに座れるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-076",
+      "en": "If I were not so tired, I could help you tonight.",
+      "ja": "そんなに疲れていなければ、今夜あなたを手伝えるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-077",
+      "en": "If he listened carefully, he could understand the teacher.",
+      "ja": "彼が注意して聞けば、先生の話を理解できるのに。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-078",
+      "en": "If I had binoculars, I could see the stars better.",
+      "ja": "双眼鏡があれば、もっとよく星が見えるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-079",
+      "en": "If she had a dictionary, she could look up that word.",
+      "ja": "彼女が辞書を持っていれば、その単語を調べられるのに。",
+      "word_count": 11
+    },
+    {
+      "id": "G3-05-080",
+      "en": "If there were two seats left, we could sit together.",
+      "ja": "席が二つ空いていれば、いっしょに座れるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-081",
+      "en": "If I had one more ticket, I could invite you.",
+      "ja": "もう1枚チケットがあれば、あなたを誘えるのに。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-082",
+      "en": "I wish I knew the answer.",
+      "ja": "答えがわかればいいのに。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-05-083",
+      "en": "I wish I had more free time.",
+      "ja": "もっと自由な時間があればいいのに。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-05-084",
+      "en": "I wish I could speak English better.",
+      "ja": "もっと英語を上手に話せたらな。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-05-085",
+      "en": "I wish my room were cleaner.",
+      "ja": "部屋がもっときれいだったらいいのに。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-05-086",
+      "en": "I wish I had a bike.",
+      "ja": "自転車があればな。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-05-087",
+      "en": "I wish it were warmer today.",
+      "ja": "今日はもう少しあたたかければいいのに。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-05-088",
+      "en": "I wish my bag were lighter.",
+      "ja": "かばんがもう少し軽ければな。",
+      "word_count": 6
+    },
+    {
+      "id": "G3-05-089",
+      "en": "I wish I could play the piano.",
+      "ja": "ピアノが弾けたらいいのに。",
+      "word_count": 7
+    },
+    {
+      "id": "G3-05-090",
+      "en": "I wish we were in the same class.",
+      "ja": "同じクラスだったらいいのに。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-05-091",
+      "en": "I wish I had my notebook with me.",
+      "ja": "ノートを今持っていればいいのに。",
+      "word_count": 8
+    },
+    {
+      "id": "G3-05-092",
+      "en": "If I were you, I would talk to her first.",
+      "ja": "私があなただったら、まず彼女に話すよ。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-093",
+      "en": "If I were you, I would ask the teacher.",
+      "ja": "私があなただったら、先生に聞くよ。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-094",
+      "en": "If I were you, I would take a short break.",
+      "ja": "私があなただったら、少し休むよ。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-095",
+      "en": "If I were you, I would not worry too much.",
+      "ja": "私があなただったら、あまり心配しないよ。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-096",
+      "en": "If I were you, I would check the answer again.",
+      "ja": "私があなただったら、もう一度答えを確認するよ。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-097",
+      "en": "If I were you, I would go home early tonight.",
+      "ja": "私があなただったら、今夜は早く帰るよ。",
+      "word_count": 10
+    },
+    {
+      "id": "G3-05-098",
+      "en": "If I were you, I would tell the truth.",
+      "ja": "私があなただったら、本当のことを言うよ。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-099",
+      "en": "If I were you, I would write it down.",
+      "ja": "私があなただったら、それを書いておくよ。",
+      "word_count": 9
+    },
+    {
+      "id": "G3-05-100",
+      "en": "If I were you, I would drink some water.",
+      "ja": "私があなただったら、水を飲むよ。",
+      "word_count": 9
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

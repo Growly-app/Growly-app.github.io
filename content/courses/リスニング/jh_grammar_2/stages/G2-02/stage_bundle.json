@@ -1,0 +1,1213 @@
+{
+  "schema_version": 1,
+  "material_id": "jh_grammar_2",
+  "id_prefix": "G2-02",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G2-02-001",
+      "en": "It will rain this afternoon.",
+      "ja": "今日の午後は雨が降るでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-002",
+      "en": "It will be sunny tomorrow.",
+      "ja": "明日は晴れるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-003",
+      "en": "The sky will clear soon.",
+      "ja": "まもなく空が晴れるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-004",
+      "en": "The room will get dark soon.",
+      "ja": "この部屋はすぐ暗くなるでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-005",
+      "en": "The road will be busy tonight.",
+      "ja": "今夜はこの道が混むでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-006",
+      "en": "The bus will be late again.",
+      "ja": "そのバスはまた遅れるでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-007",
+      "en": "The train will be crowded.",
+      "ja": "その電車は混むでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-008",
+      "en": "Emma will be tired after practice.",
+      "ja": "エマは練習のあと疲れるでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-009",
+      "en": "Noah will feel better tomorrow.",
+      "ja": "ノアは明日には気分がよくなるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-010",
+      "en": "My father will be home soon.",
+      "ja": "父はもうすぐ帰宅するでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-011",
+      "en": "Our teacher will be happy.",
+      "ja": "先生は喜ぶでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-012",
+      "en": "The baby will wake up soon.",
+      "ja": "その赤ちゃんはもうすぐ起きるでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-013",
+      "en": "The soup will be ready soon.",
+      "ja": "スープはもうすぐできるでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-014",
+      "en": "Your tea will be cold soon.",
+      "ja": "あなたのお茶はすぐ冷めるでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-015",
+      "en": "This milk will go bad soon.",
+      "ja": "この牛乳はすぐ悪くなるでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-016",
+      "en": "The ice will melt quickly.",
+      "ja": "その氷はすぐ溶けるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-017",
+      "en": "These flowers will die soon.",
+      "ja": "この花はすぐ枯れるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-018",
+      "en": "The leaves will turn red soon.",
+      "ja": "その葉はもうすぐ赤くなるでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-019",
+      "en": "The tree will grow taller.",
+      "ja": "その木はもっと高く育つでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-020",
+      "en": "This town will change a lot.",
+      "ja": "この町は大きく変わるでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-021",
+      "en": "The store will open at nine.",
+      "ja": "その店は9時に開くでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-022",
+      "en": "The library will close soon.",
+      "ja": "図書館はもうすぐ閉まるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-023",
+      "en": "School will start next week.",
+      "ja": "学校は来週始まるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-024",
+      "en": "The game will begin soon.",
+      "ja": "試合はもうすぐ始まるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-025",
+      "en": "Our team will win the game.",
+      "ja": "私たちのチームはその試合に勝つでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-026",
+      "en": "He will make the team.",
+      "ja": "彼はそのチームに入るでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-027",
+      "en": "She will pass the test.",
+      "ja": "彼女はそのテストに受かるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-028",
+      "en": "This book will help you.",
+      "ja": "この本はあなたの役に立つでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-029",
+      "en": "Your English will improve.",
+      "ja": "あなたの英語は上達するでしょう。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-02-030",
+      "en": "We will need more time.",
+      "ja": "私たちはもっと時間が必要になるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-031",
+      "en": "They will know the answer.",
+      "ja": "彼らはその答えがわかるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-032",
+      "en": "The answer will surprise you.",
+      "ja": "その答えはあなたを驚かせるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-033",
+      "en": "The movie will be interesting.",
+      "ja": "その映画はおもしろいでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-034",
+      "en": "This cake will taste good.",
+      "ja": "このケーキはおいしいでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-035",
+      "en": "The water will be warm soon.",
+      "ja": "そのお湯はもうすぐ温かくなるでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-036",
+      "en": "The trip will be fun.",
+      "ja": "その旅行は楽しいものになるでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-037",
+      "en": "Our class will be smaller next year.",
+      "ja": "私たちのクラスは来年もっと少人数になるでしょう。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-038",
+      "en": "Her idea will work well.",
+      "ja": "彼女の考えはうまくいくでしょう。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-039",
+      "en": "I will do it now.",
+      "ja": "私は今それをします。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-040",
+      "en": "I will help you.",
+      "ja": "私はあなたを手伝います。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-02-041",
+      "en": "I will call her tonight.",
+      "ja": "私は今夜彼女に電話します。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-042",
+      "en": "I will ask the teacher.",
+      "ja": "私は先生に聞きます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-043",
+      "en": "I will open the window.",
+      "ja": "私は窓を開けます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-044",
+      "en": "I will clean my room after lunch.",
+      "ja": "私は昼食のあと自分の部屋を片づけます。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-045",
+      "en": "I will study harder this time.",
+      "ja": "私は今回はもっとしっかり勉強します。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-046",
+      "en": "I will be careful next time.",
+      "ja": "私は次は気をつけます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-047",
+      "en": "I will remember it this time.",
+      "ja": "私は今度はそれを覚えておきます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-048",
+      "en": "I will write it down now.",
+      "ja": "私は今それを書きとめます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-049",
+      "en": "I will check my answer again.",
+      "ja": "私は自分の答えをもう一度確かめます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-050",
+      "en": "I will carry this box.",
+      "ja": "私はこの箱を運びます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-051",
+      "en": "I will make some tea.",
+      "ja": "私はお茶をいれます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-052",
+      "en": "I will wash the dishes today.",
+      "ja": "私は今日皿を洗います。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-053",
+      "en": "I will talk to him later.",
+      "ja": "私はあとで彼に話します。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-054",
+      "en": "I will stay here with you.",
+      "ja": "私はここであなたといっしょにいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-055",
+      "en": "We will try again.",
+      "ja": "私たちはもう一度やってみます。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-02-056",
+      "en": "We will finish it together.",
+      "ja": "私たちはそれをいっしょに終わらせます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-057",
+      "en": "We will leave now.",
+      "ja": "私たちは今出発します。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-02-058",
+      "en": "We will wait for you here.",
+      "ja": "私たちはここであなたを待ちます。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-059",
+      "en": "We will use this room today.",
+      "ja": "私たちは今日この部屋を使います。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-060",
+      "en": "My brother will help me.",
+      "ja": "兄は私を手伝ってくれます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-061",
+      "en": "I will make dinner tonight.",
+      "ja": "私は今夜夕食を作ります。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-062",
+      "en": "I will lock the door.",
+      "ja": "私はドアにかぎをかけます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-063",
+      "en": "I will join you.",
+      "ja": "私はあなたたちに加わります。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-02-064",
+      "en": "Emma will bring some snacks.",
+      "ja": "エマはおやつを少し持ってきます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-065",
+      "en": "I will explain it to you.",
+      "ja": "私はあなたにそれを説明します。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-066",
+      "en": "Noah will set the table.",
+      "ja": "ノアが食卓の用意をします。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-067",
+      "en": "Our teacher will show us the answer.",
+      "ja": "先生が私たちにその答えを見せてくれます。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-068",
+      "en": "We will do our best.",
+      "ja": "私たちは全力を尽くします。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-069",
+      "en": "She will send me a message later.",
+      "ja": "彼女はあとで私にメッセージを送ります。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-070",
+      "en": "I will come with you.",
+      "ja": "私はあなたといっしょに来ます。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-071",
+      "en": "I am going to get up early tomorrow.",
+      "ja": "私は明日早く起きるつもりです。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-072",
+      "en": "I am going to study math tonight.",
+      "ja": "私は今夜数学を勉強するつもりです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-073",
+      "en": "I am going to clean my desk after school.",
+      "ja": "私は放課後に机を片づけるつもりです。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-074",
+      "en": "I am going to visit my grandmother on Sunday.",
+      "ja": "私は日曜日に祖母をたずねるつもりです。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-075",
+      "en": "I am going to buy a new notebook tomorrow.",
+      "ja": "私は明日新しいノートを買うつもりです。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-076",
+      "en": "I am going to practice the piano this evening.",
+      "ja": "私は今夜ピアノを練習するつもりです。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-077",
+      "en": "I am going to read this book during the weekend.",
+      "ja": "私は週末にこの本を読むつもりです。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-02-078",
+      "en": "I am going to make lunch for my family tomorrow.",
+      "ja": "私は明日家族のために昼食を作るつもりです。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-02-079",
+      "en": "I am going to review my notes tonight.",
+      "ja": "私は今夜ノートを見直すつもりです。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-080",
+      "en": "I am going to take pictures at the park.",
+      "ja": "私は公園で写真を撮るつもりです。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-081",
+      "en": "I am going to start a new diary tonight.",
+      "ja": "私は今夜新しい日記をつけ始めるつもりです。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-082",
+      "en": "I am going to stay home this afternoon.",
+      "ja": "私は今日の午後は家にいるつもりです。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-083",
+      "en": "We are going to play basketball after school.",
+      "ja": "私たちは放課後にバスケットボールをするつもりです。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-084",
+      "en": "We are going to have a class meeting tomorrow.",
+      "ja": "私たちは明日学級会を開く予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-085",
+      "en": "We are going to eat out tonight.",
+      "ja": "私たちは今夜外食する予定です。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-086",
+      "en": "We are going to visit the museum next week.",
+      "ja": "私たちは来週その博物館を訪れる予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-087",
+      "en": "We are going to leave at eight tomorrow morning.",
+      "ja": "私たちは明日の朝8時に出発する予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-088",
+      "en": "We are going to practice together on Saturday.",
+      "ja": "私たちは土曜日にいっしょに練習する予定です。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-089",
+      "en": "We are going to watch a movie after dinner.",
+      "ja": "私たちは夕食のあと映画を見る予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-090",
+      "en": "We are going to review the lesson after school.",
+      "ja": "私たちは放課後にその単元を復習する予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-091",
+      "en": "My family is going to move next month.",
+      "ja": "私の家族は来月引っこす予定です。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-092",
+      "en": "My father is going to wash the car on Sunday.",
+      "ja": "父は日曜日に車を洗う予定です。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-02-093",
+      "en": "My mother is going to make curry tonight.",
+      "ja": "母は今夜カレーを作る予定です。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-094",
+      "en": "My sister is going to join the tennis club.",
+      "ja": "姉はテニス部に入る予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-095",
+      "en": "My brother is going to stay with our uncle this weekend.",
+      "ja": "兄は今週末おじの家に泊まる予定です。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-02-096",
+      "en": "Emma is going to bring her guitar tomorrow.",
+      "ja": "エマは明日ギターを持ってくる予定です。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-097",
+      "en": "Emma is going to enter the speech contest.",
+      "ja": "エマはそのスピーチコンテストに出る予定です。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-098",
+      "en": "Noah is going to help at the school festival.",
+      "ja": "ノアは学校祭を手伝う予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-099",
+      "en": "Noah is going to take his lunch to school tomorrow.",
+      "ja": "ノアは明日お弁当を学校に持っていく予定です。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-02-100",
+      "en": "Our teacher is going to give us a test on Friday.",
+      "ja": "先生は金曜日に私たちにテストを出す予定です。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-02-101",
+      "en": "Our class is going to grow vegetables this spring.",
+      "ja": "私たちのクラスはこの春野菜を育てる予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-102",
+      "en": "The store is going to open at ten tomorrow.",
+      "ja": "その店は明日10時に開く予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-103",
+      "en": "The team is going to have special practice tonight.",
+      "ja": "そのチームは今夜特別練習をする予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-104",
+      "en": "The school is going to hold a sports day next month.",
+      "ja": "学校は来月運動会を開く予定です。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-02-105",
+      "en": "She is going to meet her friend after lunch.",
+      "ja": "彼女は昼食のあと友だちに会う予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-106",
+      "en": "He is going to start English lessons next week.",
+      "ja": "彼は来週英語のレッスンを始める予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-107",
+      "en": "They are going to stay at a hotel tonight.",
+      "ja": "彼らは今夜ホテルに泊まる予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-108",
+      "en": "They are going to visit Kyoto during spring break.",
+      "ja": "彼らは春休みに京都を訪れる予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-109",
+      "en": "We are going to make a poster for the event.",
+      "ja": "私たちはその行事のためにポスターを作る予定です。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-02-110",
+      "en": "I am going to write a letter to my friend tonight.",
+      "ja": "私は今夜友だちに手紙を書くつもりです。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-02-111",
+      "en": "She is going to wear her new dress tomorrow.",
+      "ja": "彼女は明日新しいドレスを着る予定です。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-112",
+      "en": "He is going to return the book tomorrow.",
+      "ja": "彼は明日その本を返す予定です。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-113",
+      "en": "It is going to rain soon.",
+      "ja": "もうすぐ雨が降りそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-114",
+      "en": "The cup is going to fall.",
+      "ja": "そのコップは落ちそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-115",
+      "en": "The baby is going to cry.",
+      "ja": "その赤ちゃんは泣きそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-116",
+      "en": "He is going to sneeze.",
+      "ja": "彼はくしゃみをしそうです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-117",
+      "en": "She is going to slip.",
+      "ja": "彼女はすべりそうです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-118",
+      "en": "The ball is going to hit the window.",
+      "ja": "そのボールは窓に当たりそうです。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-119",
+      "en": "The milk is going to spill.",
+      "ja": "その牛乳はこぼれそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-120",
+      "en": "The soup is going to boil over.",
+      "ja": "そのスープはふきこぼれそうです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-121",
+      "en": "The bread is going to burn.",
+      "ja": "そのパンはこげそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-122",
+      "en": "The ice is going to break.",
+      "ja": "その氷は割れそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-123",
+      "en": "The door is going to close.",
+      "ja": "そのドアは閉まりそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-124",
+      "en": "The light is going to go out.",
+      "ja": "その電気は消えそうです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-125",
+      "en": "My phone is going to die.",
+      "ja": "私のスマホはもうすぐ電池が切れそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-126",
+      "en": "The dog is going to bark.",
+      "ja": "その犬はほえそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-127",
+      "en": "The cat is going to jump.",
+      "ja": "その猫は飛びかかりそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-128",
+      "en": "The tree is going to fall.",
+      "ja": "その木は倒れそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-129",
+      "en": "The bus is going to leave.",
+      "ja": "そのバスは出発しそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-130",
+      "en": "The train is going to arrive.",
+      "ja": "その電車はもうすぐ着きそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-131",
+      "en": "The balloon is going to pop.",
+      "ja": "その風船は割れそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-132",
+      "en": "The sky is going to clear up.",
+      "ja": "空は晴れてきそうです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-133",
+      "en": "She is going to trip.",
+      "ja": "彼女はつまずきそうです。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-134",
+      "en": "He is going to miss the bus.",
+      "ja": "彼はバスに乗りおくれそうです。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-135",
+      "en": "The paper is going to tear.",
+      "ja": "その紙は破れそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-136",
+      "en": "The plate is going to fall.",
+      "ja": "その皿は落ちそうです。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-137",
+      "en": "Will it rain tomorrow?",
+      "ja": "明日は雨が降るでしょうか。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-02-138",
+      "en": "Will it be cold tonight?",
+      "ja": "今夜は寒くなるでしょうか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-139",
+      "en": "Will the bus be late again?",
+      "ja": "そのバスはまた遅れるでしょうか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-140",
+      "en": "Will the train be crowded?",
+      "ja": "その電車は混むでしょうか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-141",
+      "en": "Will your team win today?",
+      "ja": "あなたのチームは今日勝つでしょうか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-142",
+      "en": "Will she come to the party?",
+      "ja": "彼女はそのパーティーに来るでしょうか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-143",
+      "en": "Will he join us later?",
+      "ja": "彼はあとで私たちに加わるでしょうか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-144",
+      "en": "Will your father be home soon?",
+      "ja": "あなたのお父さんはもうすぐ帰宅するでしょうか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-145",
+      "en": "Will your mother make dinner tonight?",
+      "ja": "あなたのお母さんは今夜夕食を作るでしょうか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-146",
+      "en": "Will Emma be busy tomorrow?",
+      "ja": "エマは明日忙しいでしょうか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-147",
+      "en": "Will Noah need help?",
+      "ja": "ノアは助けが必要でしょうか。",
+      "word_count": 4
+    },
+    {
+      "id": "G2-02-148",
+      "en": "Will the game start on time?",
+      "ja": "その試合は時間どおりに始まるでしょうか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-149",
+      "en": "Will the teacher give us homework?",
+      "ja": "先生は私たちに宿題を出すでしょうか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-150",
+      "en": "Will this cake taste good?",
+      "ja": "このケーキはおいしいでしょうか。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-02-151",
+      "en": "Are you going to study tonight?",
+      "ja": "あなたは今夜勉強する予定ですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-152",
+      "en": "Are you going to go out this afternoon?",
+      "ja": "あなたは今日の午後出かける予定ですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-153",
+      "en": "Are you going to visit your grandmother this weekend?",
+      "ja": "あなたは今週末祖母をたずねる予定ですか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-154",
+      "en": "Are you going to bring your lunch tomorrow?",
+      "ja": "あなたは明日お弁当を持ってくる予定ですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-155",
+      "en": "Are you going to help your mother after dinner?",
+      "ja": "あなたは夕食のあとお母さんを手伝う予定ですか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-156",
+      "en": "Are you going to finish your homework tonight?",
+      "ja": "あなたは今夜宿題を終える予定ですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-157",
+      "en": "Are you going to practice the piano today?",
+      "ja": "あなたは今日ピアノを練習する予定ですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-158",
+      "en": "Are you going to clean your room this morning?",
+      "ja": "あなたは今朝自分の部屋を片づける予定ですか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-159",
+      "en": "Are you going to watch the game tonight?",
+      "ja": "あなたは今夜その試合を見る予定ですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-160",
+      "en": "Are you going to take pictures there?",
+      "ja": "あなたはそこで写真を撮る予定ですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-161",
+      "en": "Is she going to join the tennis club?",
+      "ja": "彼女はテニス部に入る予定ですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-162",
+      "en": "Is he going to stay home today?",
+      "ja": "彼は今日家にいる予定ですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-163",
+      "en": "Is Emma going to sing at the event?",
+      "ja": "エマはその行事で歌う予定ですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-164",
+      "en": "Is Noah going to come by bus?",
+      "ja": "ノアはバスで来る予定ですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-165",
+      "en": "Is your class going to have a test this week?",
+      "ja": "あなたのクラスは今週テストがありますか。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-02-166",
+      "en": "Is the store going to open soon?",
+      "ja": "その店はもうすぐ開く予定ですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-167",
+      "en": "Are they going to eat out tonight?",
+      "ja": "彼らは今夜外食する予定ですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-168",
+      "en": "Are they going to move next month?",
+      "ja": "彼らは来月引っこす予定ですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-169",
+      "en": "Are we going to meet after school?",
+      "ja": "私たちは放課後に会う予定ですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-170",
+      "en": "Is your brother going to play in the match?",
+      "ja": "あなたのお兄さんはその試合に出る予定ですか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-171",
+      "en": "I will not go out today.",
+      "ja": "私は今日は出かけません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-172",
+      "en": "I will not forget your birthday.",
+      "ja": "私はあなたの誕生日を忘れません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-173",
+      "en": "I will not use my phone during class.",
+      "ja": "私は授業中にスマホを使いません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-174",
+      "en": "I will not be late again.",
+      "ja": "私はもう遅れません。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-175",
+      "en": "I will not tell anyone about it.",
+      "ja": "私はそのことをだれにも話しません。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-176",
+      "en": "I will not need your help this time.",
+      "ja": "私は今回はあなたの助けはいりません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-177",
+      "en": "It will not rain this afternoon.",
+      "ja": "今日の午後は雨が降らないでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-178",
+      "en": "It will not be cold tonight.",
+      "ja": "今夜は寒くならないでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-179",
+      "en": "The bus will not arrive soon.",
+      "ja": "そのバスはすぐには着かないでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-180",
+      "en": "The game will not start on time.",
+      "ja": "その試合は時間どおりには始まらないでしょう。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-181",
+      "en": "She will not be busy tomorrow.",
+      "ja": "彼女は明日忙しくないでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-182",
+      "en": "He will not join us today.",
+      "ja": "彼は今日は私たちに加わらないでしょう。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-02-183",
+      "en": "Our teacher will not give us homework today.",
+      "ja": "先生は今日は私たちに宿題を出さないでしょう。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-184",
+      "en": "This soup will not be enough for everyone.",
+      "ja": "このスープはみんなの分には足りないでしょう。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-185",
+      "en": "My father will not be home tonight.",
+      "ja": "父は今夜家にいないでしょう。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-02-186",
+      "en": "I am not going to watch TV tonight.",
+      "ja": "私は今夜テレビを見るつもりはありません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-187",
+      "en": "I am not going to buy that book today.",
+      "ja": "私は今日その本を買うつもりはありません。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-188",
+      "en": "I am not going to stay up late tonight.",
+      "ja": "私は今夜夜ふかしするつもりはありません。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-189",
+      "en": "I am not going to wear that hat today.",
+      "ja": "私は今日はその帽子をかぶるつもりはありません。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-190",
+      "en": "I am not going to take the bus tomorrow.",
+      "ja": "私は明日バスに乗るつもりはありません。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-191",
+      "en": "We are not going to eat out tonight.",
+      "ja": "私たちは今夜外食する予定はありません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-192",
+      "en": "We are not going to play outside today.",
+      "ja": "私たちは今日は外で遊ぶ予定はありません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-193",
+      "en": "We are not going to leave early tomorrow.",
+      "ja": "私たちは明日早く出発する予定はありません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-194",
+      "en": "My family is not going to travel this summer.",
+      "ja": "私の家族はこの夏旅行する予定はありません。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-195",
+      "en": "My mother is not going to drive today.",
+      "ja": "母は今日は運転する予定はありません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-196",
+      "en": "My brother is not going to join the club.",
+      "ja": "兄はその部に入る予定はありません。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-197",
+      "en": "Emma is not going to come to school today.",
+      "ja": "エマは今日は学校に来る予定はありません。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-198",
+      "en": "Noah is not going to stay up late tonight.",
+      "ja": "ノアは今夜夜ふかしする予定はありません。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-02-199",
+      "en": "The team is not going to practice today.",
+      "ja": "そのチームは今日は練習する予定はありません。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-02-200",
+      "en": "They are not going to move this year.",
+      "ja": "彼らは今年引っこす予定はありません。",
+      "word_count": 8
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

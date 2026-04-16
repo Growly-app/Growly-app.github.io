@@ -1,0 +1,613 @@
+{
+  "schema_version": 1,
+  "material_id": "yarinaoshi_basic2",
+  "id_prefix": "G1-06",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G1-06-001",
+      "en": "I am at home.",
+      "ja": "私は家にいます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-06-002",
+      "en": "She is at school.",
+      "ja": "彼女は学校にいます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-06-003",
+      "en": "My bag is on the chair.",
+      "ja": "私のかばんはいすの上にあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-004",
+      "en": "The picture is on the wall.",
+      "ja": "その絵は壁にかかっています。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-005",
+      "en": "The cat is under the table.",
+      "ja": "そのねこはテーブルの下にいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-006",
+      "en": "My shoes are under the bed.",
+      "ja": "私のくつはベッドの下にあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-007",
+      "en": "The milk is in the fridge.",
+      "ja": "牛乳は冷蔵庫の中にあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-008",
+      "en": "He is in the kitchen.",
+      "ja": "彼は台所にいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-009",
+      "en": "Emma is in her room.",
+      "ja": "エマは自分の部屋にいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-010",
+      "en": "The dog is by the door.",
+      "ja": "その犬はドアのそばにいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-011",
+      "en": "My notebook is by the phone.",
+      "ja": "私のノートは電話のそばにあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-012",
+      "en": "The park is near my house.",
+      "ja": "その公園は私の家の近くにあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-013",
+      "en": "The library is across from the station.",
+      "ja": "その図書館は駅の向かいにあります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-014",
+      "en": "The bike is behind the tree.",
+      "ja": "その自転車は木の後ろにあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-015",
+      "en": "He is behind the door.",
+      "ja": "彼はドアの後ろにいます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-016",
+      "en": "The bus stop is in front of the library.",
+      "ja": "バス停は図書館の前にあります。",
+      "word_count": 9
+    },
+    {
+      "id": "G1-06-017",
+      "en": "A girl is in front of the board.",
+      "ja": "一人の女の子が黒板の前にいます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-06-018",
+      "en": "The desk is between the windows.",
+      "ja": "その机は窓と窓の間にあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-019",
+      "en": "The lamp is above the table.",
+      "ja": "そのランプはテーブルの上にあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-020",
+      "en": "My father works at a hospital.",
+      "ja": "父は病院で働いています。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-021",
+      "en": "The cups are on the table.",
+      "ja": "そのコップはテーブルの上にあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-022",
+      "en": "My keys are in my bag.",
+      "ja": "私のかぎはかばんの中にあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-023",
+      "en": "The station is far from here.",
+      "ja": "その駅はここから遠いです。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-024",
+      "en": "The store is by the bank.",
+      "ja": "その店は銀行のそばにあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-025",
+      "en": "The children are in the park.",
+      "ja": "その子どもたちは公園にいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-026",
+      "en": "Our teacher is at the door.",
+      "ja": "私たちの先生はドアのところにいます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-027",
+      "en": "I go to school.",
+      "ja": "私は学校へ行きます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-06-028",
+      "en": "She walks to the station.",
+      "ja": "彼女は駅まで歩きます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-029",
+      "en": "The boy walks across the bridge.",
+      "ja": "その男の子は橋を渡って歩きます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-030",
+      "en": "He comes to my house.",
+      "ja": "彼は私の家に来ます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-031",
+      "en": "My father drives to work.",
+      "ja": "父は車で仕事に行きます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-032",
+      "en": "The train goes through the tunnel.",
+      "ja": "その電車はトンネルを通り抜けます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-033",
+      "en": "Emma takes the dog to the park.",
+      "ja": "エマは犬を公園へ連れて行きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-034",
+      "en": "We move to a new room.",
+      "ja": "私たちは新しい部屋に移ります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-035",
+      "en": "My father comes home from work.",
+      "ja": "父は仕事から帰ってきます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-036",
+      "en": "The bus comes from the airport.",
+      "ja": "そのバスは空港から来ます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-037",
+      "en": "We leave from the station.",
+      "ja": "私たちは駅を出発します。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-038",
+      "en": "She walks home from school.",
+      "ja": "彼女は学校から歩いて帰ります。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-039",
+      "en": "He takes the key from the drawer.",
+      "ja": "彼は引き出しからかぎを取り出します。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-040",
+      "en": "The picture falls off the wall.",
+      "ja": "その絵は壁から落ちます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-041",
+      "en": "The dog runs into the room.",
+      "ja": "その犬は部屋の中へ走って入ります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-042",
+      "en": "She puts the book into her bag.",
+      "ja": "彼女はその本をかばんの中に入れます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-043",
+      "en": "The ball rolls into the box.",
+      "ja": "そのボールは箱の中へ転がって入ります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-044",
+      "en": "We get into the car.",
+      "ja": "私たちは車に乗り込みます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-045",
+      "en": "The cat comes out of the box.",
+      "ja": "そのねこは箱の中から出てきます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-046",
+      "en": "He takes his notebook out of his bag.",
+      "ja": "彼はかばんからノートを取り出します。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-06-047",
+      "en": "She walks out of the room.",
+      "ja": "彼女は部屋から出ていきます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-048",
+      "en": "The boy jumps out of bed.",
+      "ja": "その男の子はベッドから飛び起きます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-049",
+      "en": "I get up at six.",
+      "ja": "私は6時に起きます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-050",
+      "en": "Our class starts at nine.",
+      "ja": "私たちの授業は9時に始まります。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-051",
+      "en": "She goes to bed at ten.",
+      "ja": "彼女は10時に寝ます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-052",
+      "en": "We play tennis on Sunday.",
+      "ja": "私たちは日曜日にテニスをします。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-053",
+      "en": "My father has a meeting on Monday.",
+      "ja": "父は月曜日に会議があります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-054",
+      "en": "I have a music class on Friday.",
+      "ja": "私は金曜日に音楽の授業があります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-055",
+      "en": "The school trip is in May.",
+      "ja": "修学旅行は5月にあります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-056",
+      "en": "It gets cold in winter.",
+      "ja": "冬になると寒くなります。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-057",
+      "en": "We study English in the morning.",
+      "ja": "私たちは朝に英語を勉強します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-058",
+      "en": "My mother cooks in the evening.",
+      "ja": "母は夕方に料理をします。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-059",
+      "en": "I wash my hands before lunch.",
+      "ja": "私は昼食の前に手を洗います。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-060",
+      "en": "He checks his bag before school.",
+      "ja": "彼は学校へ行く前にかばんを確かめます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-061",
+      "en": "We do our homework after dinner.",
+      "ja": "私たちは夕食のあとに宿題をします。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-062",
+      "en": "She takes a shower after practice.",
+      "ja": "彼女は練習のあとにシャワーをあびます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-063",
+      "en": "I read a book before bed.",
+      "ja": "私は寝る前に本を読みます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-064",
+      "en": "We eat lunch at noon.",
+      "ja": "私たちは正午に昼食を食べます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-065",
+      "en": "We clean the room on Saturday.",
+      "ja": "私たちは土曜日に部屋をそうじします。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-066",
+      "en": "The flowers bloom in spring.",
+      "ja": "その花は春に咲きます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-067",
+      "en": "He drinks milk after breakfast.",
+      "ja": "彼は朝食のあとに牛乳を飲みます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-068",
+      "en": "I call my friend at night.",
+      "ja": "私は夜に友だちに電話します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-069",
+      "en": "I go to school by bus.",
+      "ja": "私はバスで学校に行きます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-070",
+      "en": "My father goes to work by train.",
+      "ja": "父は電車で仕事に行きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-071",
+      "en": "We go to the park by car.",
+      "ja": "私たちは車で公園へ行きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-072",
+      "en": "She goes to the store by bike.",
+      "ja": "彼女は自転車で店に行きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-073",
+      "en": "He sends the letter by mail.",
+      "ja": "彼はその手紙を郵便で送ります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-074",
+      "en": "I write with a pen.",
+      "ja": "私はペンで書きます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-075",
+      "en": "She eats with chopsticks.",
+      "ja": "彼女ははしで食べます。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-06-076",
+      "en": "He cuts the paper with scissors.",
+      "ja": "彼ははさみで紙を切ります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-077",
+      "en": "My mother opens the box with a knife.",
+      "ja": "母はナイフで箱を開けます。",
+      "word_count": 8
+    },
+    {
+      "id": "G1-06-078",
+      "en": "We draw with colored pencils.",
+      "ja": "私たちは色えんぴつで絵をかきます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-079",
+      "en": "I play with my brother after school.",
+      "ja": "私は放課後に兄と遊びます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-080",
+      "en": "She ties the box with string.",
+      "ja": "彼女はひもで箱をしばります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-081",
+      "en": "He studies with his friend.",
+      "ja": "彼は友だちと勉強します。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-082",
+      "en": "We cover the box with paper.",
+      "ja": "私たちは箱を紙で包みます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-083",
+      "en": "Emma lives with her family.",
+      "ja": "エマは家族と暮らしています。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-084",
+      "en": "I talk with my mother.",
+      "ja": "私は母と話します。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-085",
+      "en": "He writes with his right hand.",
+      "ja": "彼は右手で書きます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-086",
+      "en": "We sing with our classmates.",
+      "ja": "私たちはクラスメートと歌います。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-087",
+      "en": "This bag is for school.",
+      "ja": "このかばんは学校用です。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-088",
+      "en": "I buy this notebook for my sister.",
+      "ja": "私はこのノートを妹のために買います。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-089",
+      "en": "My mother makes lunch for me.",
+      "ja": "母は私のために昼食を作ってくれます。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-090",
+      "en": "This room is for music class.",
+      "ja": "この部屋は音楽の授業用です。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-091",
+      "en": "He saves a seat for his friend.",
+      "ja": "彼は友だちのために席を取っておきます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-092",
+      "en": "We make a card for our teacher.",
+      "ja": "私たちは先生のためにカードを作ります。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-093",
+      "en": "This gift is for you.",
+      "ja": "この贈り物はあなたのためです。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-094",
+      "en": "I have a question for you.",
+      "ja": "あなたに質問があります。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-095",
+      "en": "This book is about animals.",
+      "ja": "この本は動物についての本です。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-096",
+      "en": "We talk about the test.",
+      "ja": "私たちはそのテストについて話します。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-097",
+      "en": "He tells me about the trip.",
+      "ja": "彼は私にその旅行のことを話します。",
+      "word_count": 6
+    },
+    {
+      "id": "G1-06-098",
+      "en": "She writes a report about the park.",
+      "ja": "彼女はその公園についてのレポートを書きます。",
+      "word_count": 7
+    },
+    {
+      "id": "G1-06-099",
+      "en": "Our class learns about space.",
+      "ja": "私たちのクラスは宇宙について学びます。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-06-100",
+      "en": "He asks me about my homework.",
+      "ja": "彼は私に宿題のことをたずねます。",
+      "word_count": 6
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

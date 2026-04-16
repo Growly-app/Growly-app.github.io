@@ -1,0 +1,913 @@
+{
+  "schema_version": 1,
+  "material_id": "yarinaoshi_basic3",
+  "id_prefix": "G2-07",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G2-07-001",
+      "en": "This box is bigger than that one.",
+      "ja": "この箱はあの箱より大きい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-002",
+      "en": "My bag is lighter than yours.",
+      "ja": "私のかばんはあなたのものより軽い。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-003",
+      "en": "This road is wider than that street.",
+      "ja": "この道はあの通りより広い。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-004",
+      "en": "Your desk is cleaner than mine.",
+      "ja": "あなたの机は私の机よりきれいだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-005",
+      "en": "This chair is more comfortable than that one.",
+      "ja": "このいすはあのいすより座り心地がよい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-006",
+      "en": "Math is easier than science.",
+      "ja": "数学は理科よりやさしい。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-07-007",
+      "en": "This question is harder than the last one.",
+      "ja": "この問題は前の問題より難しい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-008",
+      "en": "Today's test was shorter than yesterday's.",
+      "ja": "今日のテストは昨日のものより短かった。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-009",
+      "en": "This movie is more interesting than the book.",
+      "ja": "この映画はその本よりおもしろい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-010",
+      "en": "The red cup is smaller than the blue one.",
+      "ja": "赤いカップは青いカップより小さい。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-011",
+      "en": "Summer is hotter than spring.",
+      "ja": "夏は春より暑い。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-07-012",
+      "en": "Fall is cooler than summer.",
+      "ja": "秋は夏より涼しい。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-07-013",
+      "en": "My new phone is thinner than my old one.",
+      "ja": "私の新しいスマホは前のものより薄い。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-014",
+      "en": "The library is quieter than the gym.",
+      "ja": "図書館は体育館より静かだ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-015",
+      "en": "This room is brighter than the kitchen.",
+      "ja": "この部屋は台所より明るい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-016",
+      "en": "This sofa is softer than that chair.",
+      "ja": "このソファはあのいすよりやわらかい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-017",
+      "en": "This river is deeper than that stream.",
+      "ja": "この川はあの小川より深い。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-018",
+      "en": "Noah is younger than Emma.",
+      "ja": "ノアはエマより年下だ。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-07-019",
+      "en": "The boy is taller than the girl.",
+      "ja": "その男の子はその女の子より背が高い。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-020",
+      "en": "This puppy is friendlier than that dog.",
+      "ja": "この子犬はあの犬より人なつっこい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-021",
+      "en": "This plan is better than the first one.",
+      "ja": "この案は最初の案よりよい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-022",
+      "en": "This song is more popular than that one.",
+      "ja": "この歌はあの歌より人気がある。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-023",
+      "en": "This rope is longer than that one.",
+      "ja": "このロープはあのロープより長い。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-024",
+      "en": "The north side is colder than the south side.",
+      "ja": "北側は南側より寒い。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-025",
+      "en": "This wall is higher than that one.",
+      "ja": "この壁はあの壁より高い。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-026",
+      "en": "My coat is warmer than this jacket.",
+      "ja": "私のコートはこのジャケットより暖かい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-027",
+      "en": "This book is more useful than that magazine.",
+      "ja": "この本はあの雑誌より役に立つ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-028",
+      "en": "This answer is more natural than mine.",
+      "ja": "この答えは私のものより自然だ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-029",
+      "en": "This map is clearer than the old one.",
+      "ja": "この地図は古いものよりわかりやすい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-030",
+      "en": "Her voice is softer than mine.",
+      "ja": "彼女の声は私の声よりやわらかい。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-031",
+      "en": "My room is messier than yours.",
+      "ja": "私の部屋はあなたの部屋より散らかっている。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-032",
+      "en": "This rule is more important than that one.",
+      "ja": "このルールはあのルールより重要だ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-033",
+      "en": "This jacket is newer than that one.",
+      "ja": "このジャケットはあのジャケットより新しい。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-034",
+      "en": "This path is safer than that road.",
+      "ja": "この小道はあの道路より安全だ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-035",
+      "en": "She runs faster than I do.",
+      "ja": "彼女は私より速く走る。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-036",
+      "en": "My father gets up earlier than my mother.",
+      "ja": "父は母より早く起きる。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-037",
+      "en": "Ken studies harder than I do.",
+      "ja": "ケンは私より熱心に勉強する。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-038",
+      "en": "My sister speaks English better than I do.",
+      "ja": "姉は私より英語を上手に話す。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-039",
+      "en": "This bus comes later than that train.",
+      "ja": "このバスはあの電車より遅く来る。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-040",
+      "en": "He walks more slowly than his friends.",
+      "ja": "彼は友だちよりゆっくり歩く。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-041",
+      "en": "Emma sings better than Noah.",
+      "ja": "エマはノアより上手に歌う。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-07-042",
+      "en": "My mother drives more carefully than my father.",
+      "ja": "母は父よりていねいに運転する。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-043",
+      "en": "I listen more carefully in English class than in math class.",
+      "ja": "私は数学の授業より英語の授業で、もっと注意して聞く。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-07-044",
+      "en": "My brother eats more quickly than I do.",
+      "ja": "兄は私より速く食べる。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-045",
+      "en": "She answered more politely than I expected.",
+      "ja": "彼女は私が思っていたよりていねいに答えた。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-046",
+      "en": "We finished the work earlier than they did.",
+      "ja": "私たちは彼らより早くその作業を終えた。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-047",
+      "en": "I like tennis better than soccer.",
+      "ja": "私はサッカーよりテニスのほうが好きだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-048",
+      "en": "My brother likes apples better than oranges.",
+      "ja": "弟はオレンジよりりんごのほうが好きだ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-049",
+      "en": "We like summer better than winter.",
+      "ja": "私たちは冬より夏のほうが好きだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-050",
+      "en": "I like dogs better than cats.",
+      "ja": "私は猫より犬のほうが好きだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-051",
+      "en": "She likes science better than math.",
+      "ja": "彼女は数学より理科のほうが好きだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-052",
+      "en": "My father likes tea better than coffee.",
+      "ja": "父はコーヒーより紅茶のほうが好きだ。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-053",
+      "en": "I can swim better than my sister.",
+      "ja": "私は姉より上手に泳げる。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-054",
+      "en": "He plays the guitar better than I do.",
+      "ja": "彼は私より上手にギターを弾く。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-055",
+      "en": "My grandmother cooks better than anyone in my family.",
+      "ja": "祖母は家族のだれよりも料理が上手だ。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-056",
+      "en": "This printer works more quietly than the old one.",
+      "ja": "このプリンターは古いものより静かに動く。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-057",
+      "en": "My teacher explains things more clearly than the book does.",
+      "ja": "先生はその本よりわかりやすく説明する。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-07-058",
+      "en": "The new student smiled more warmly than I expected.",
+      "ja": "その新しい生徒は私が思っていたよりやさしくほほえんだ。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-059",
+      "en": "Emma is the tallest in her class.",
+      "ja": "エマはクラスでいちばん背が高い。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-060",
+      "en": "This lake is the deepest in this park.",
+      "ja": "この湖はこの公園でいちばん深い。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-061",
+      "en": "January is the coldest month of the year.",
+      "ja": "1月は1年でいちばん寒い月だ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-062",
+      "en": "This road is the widest in our town.",
+      "ja": "この道路は私たちの町でいちばん広い。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-063",
+      "en": "My brother is the youngest in my family.",
+      "ja": "弟は家族でいちばん年下だ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-064",
+      "en": "This box is the heaviest of the three.",
+      "ja": "この箱は3つの中でいちばん重い。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-065",
+      "en": "That mountain is the highest in this area.",
+      "ja": "あの山はこの地域でいちばん高い。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-066",
+      "en": "This room is the brightest in our house.",
+      "ja": "この部屋は家の中でいちばん明るい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-067",
+      "en": "Friday is the busiest day at this store.",
+      "ja": "金曜日はこの店でいちばん忙しい日だ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-068",
+      "en": "This chair is the most comfortable in the room.",
+      "ja": "このいすは部屋の中でいちばん座り心地がよい。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-069",
+      "en": "This book is the most interesting of the four.",
+      "ja": "この本は4冊の中でいちばんおもしろい。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-070",
+      "en": "Her answer was the most natural in the class.",
+      "ja": "彼女の答えはクラスでいちばん自然だった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-071",
+      "en": "This map is the most useful in this room.",
+      "ja": "この地図はこの部屋の中でいちばん役に立つ。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-072",
+      "en": "The road by the station is the safest at night.",
+      "ja": "駅の近くの道は夜にいちばん安全だ。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-07-073",
+      "en": "This lesson was the most important for me.",
+      "ja": "このレッスンは私にとっていちばん大切だった。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-074",
+      "en": "This question is the most difficult on the test.",
+      "ja": "この問題はそのテストでいちばん難しい。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-075",
+      "en": "My grandmother is the kindest person in my family.",
+      "ja": "祖母は家族の中でいちばん親切な人だ。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-076",
+      "en": "This street is the narrowest in our town.",
+      "ja": "この通りは私たちの町でいちばんせまい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-077",
+      "en": "Ken runs the fastest on the team.",
+      "ja": "ケンはチームでいちばん速く走る。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-078",
+      "en": "My mother gets up the earliest in my family.",
+      "ja": "母は家族の中でいちばん早く起きる。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-079",
+      "en": "Emma speaks the most clearly in our group.",
+      "ja": "エマはグループの中でいちばんはっきり話す。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-080",
+      "en": "My father drives the most carefully in our family.",
+      "ja": "父は家族の中でいちばん注意して運転する。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-081",
+      "en": "That student answered the most politely.",
+      "ja": "あの生徒がいちばんていねいに答えた。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-082",
+      "en": "This machine works the most quietly of the three.",
+      "ja": "この機械は3台の中でいちばん静かに動く。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-083",
+      "en": "Noah finished the work the fastest.",
+      "ja": "ノアがいちばん速くその作業を終えた。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-084",
+      "en": "She sings the best in our class.",
+      "ja": "彼女はクラスでいちばん上手に歌う。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-085",
+      "en": "I like spring the best.",
+      "ja": "私は春がいちばん好きだ。",
+      "word_count": 5
+    },
+    {
+      "id": "G2-07-086",
+      "en": "My sister likes dogs the best.",
+      "ja": "姉は犬がいちばん好きだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-087",
+      "en": "We like this park the best.",
+      "ja": "私たちはこの公園がいちばん好きだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-088",
+      "en": "He likes math the best of all subjects.",
+      "ja": "彼はすべての教科の中で数学がいちばん好きだ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-089",
+      "en": "I like rainy days the best.",
+      "ja": "私は雨の日がいちばん好きだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-090",
+      "en": "My father likes Sundays the best.",
+      "ja": "父は日曜日がいちばん好きだ。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-091",
+      "en": "This is the best seat in the room.",
+      "ja": "これは部屋の中でいちばんよい席だ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-092",
+      "en": "Today was the best day of the week.",
+      "ja": "今日は今週でいちばんよい日だった。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-093",
+      "en": "My bag is as heavy as yours.",
+      "ja": "私のかばんはあなたのものと同じくらい重い。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-094",
+      "en": "This room is as bright as the kitchen.",
+      "ja": "この部屋は台所と同じくらい明るい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-095",
+      "en": "Ken is as tall as Noah.",
+      "ja": "ケンはノアと同じくらい背が高い。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-096",
+      "en": "This book is as interesting as that one.",
+      "ja": "この本はあの本と同じくらいおもしろい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-097",
+      "en": "My new phone is as thin as my old one.",
+      "ja": "私の新しいスマホは前のものと同じくらい薄い。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-07-098",
+      "en": "Winter is as busy as summer for my father.",
+      "ja": "父にとって冬は夏と同じくらい忙しい。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-099",
+      "en": "This road is as safe as that one.",
+      "ja": "この道はあの道と同じくらい安全だ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-100",
+      "en": "Her voice is as soft as her mother's.",
+      "ja": "彼女の声は母親の声と同じくらいやわらかい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-101",
+      "en": "The red cup is as clean as the blue one.",
+      "ja": "赤いカップは青いカップと同じくらいきれいだ。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-07-102",
+      "en": "This sofa is as comfortable as that chair.",
+      "ja": "このソファはあのいすと同じくらい座り心地がよい。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-103",
+      "en": "My brother runs as fast as I do.",
+      "ja": "弟は私と同じくらい速く走る。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-104",
+      "en": "She speaks as clearly as her teacher.",
+      "ja": "彼女は先生と同じくらいはっきり話す。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-105",
+      "en": "My mother drives as carefully as my father.",
+      "ja": "母は父と同じくらい注意して運転する。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-106",
+      "en": "We finished as early as they did.",
+      "ja": "私たちは彼らと同じくらい早く終えた。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-107",
+      "en": "He can swim as well as his sister.",
+      "ja": "彼は姉と同じくらいうまく泳げる。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-108",
+      "en": "The new student smiled as warmly as Emma.",
+      "ja": "その新しい生徒はエマと同じくらいあたたかくほほえんだ。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-109",
+      "en": "My room is not as large as yours.",
+      "ja": "私の部屋はあなたの部屋ほど広くない。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-110",
+      "en": "Today's test was not as hard as yesterday's.",
+      "ja": "今日のテストは昨日のものほど難しくなかった。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-111",
+      "en": "This chair is not as comfortable as that one.",
+      "ja": "このいすはあのいすほど快適ではない。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-112",
+      "en": "Spring is not as hot as summer.",
+      "ja": "春は夏ほど暑くない。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-113",
+      "en": "My old phone is not as light as this one.",
+      "ja": "私の古いスマホはこれほど軽くない。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-07-114",
+      "en": "This movie is not as interesting as the book.",
+      "ja": "この映画はその本ほどおもしろくない。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-115",
+      "en": "The library is not as noisy as the gym.",
+      "ja": "図書館は体育館ほど騒がしくない。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-116",
+      "en": "His answer was not as natural as hers.",
+      "ja": "彼の答えは彼女の答えほど自然ではなかった。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-117",
+      "en": "This map is not as useful as the new one.",
+      "ja": "この地図は新しいものほど役に立たない。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-07-118",
+      "en": "My coat is not as warm as yours.",
+      "ja": "私のコートはあなたのものほど暖かくない。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-119",
+      "en": "I cannot run as fast as Ken.",
+      "ja": "私はケンほど速く走れない。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-120",
+      "en": "My father does not cook as well as my mother.",
+      "ja": "父は母ほどじょうずに料理をしない。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-07-121",
+      "en": "She does not speak as slowly as her grandfather.",
+      "ja": "彼女は祖父ほどゆっくり話さない。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-122",
+      "en": "We did not arrive as early as they did.",
+      "ja": "私たちは彼らほど早く着かなかった。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-123",
+      "en": "He cannot sing as well as Emma.",
+      "ja": "彼はエマほど上手に歌えない。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-124",
+      "en": "This printer does not work as quietly as the old one.",
+      "ja": "このプリンターは古いものほど静かに動かない。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-07-125",
+      "en": "Which is bigger, this box or that one?",
+      "ja": "こちらの箱とあちらの箱では、どちらが大きいですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-126",
+      "en": "Which bag is lighter, yours or mine?",
+      "ja": "あなたのかばんと私のかばんでは、どちらが軽いですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-127",
+      "en": "Which road is wider, this one or that one?",
+      "ja": "この道とあの道では、どちらが広いですか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-128",
+      "en": "Which chair is more comfortable, this one or that one?",
+      "ja": "このいすとあのいすでは、どちらのほうが座り心地がよいですか。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-07-129",
+      "en": "Which subject is easier, math or science?",
+      "ja": "数学と理科では、どちらがやさしいですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-130",
+      "en": "Which season is hotter, summer or spring?",
+      "ja": "夏と春では、どちらが暑いですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-131",
+      "en": "Which room is quieter, the library or the music room?",
+      "ja": "図書館と音楽室では、どちらが静かですか。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-07-132",
+      "en": "Which phone is thinner, the new one or the old one?",
+      "ja": "新しいスマホと古いスマホでは、どちらが薄いですか。",
+      "word_count": 11
+    },
+    {
+      "id": "G2-07-133",
+      "en": "Who is taller, Noah or Ken?",
+      "ja": "ノアとケンでは、どちらが背が高いですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-134",
+      "en": "Who is younger, Emma or Noah?",
+      "ja": "エマとノアでは、どちらが年下ですか。",
+      "word_count": 6
+    },
+    {
+      "id": "G2-07-135",
+      "en": "Who runs faster, you or your brother?",
+      "ja": "あなたと弟では、どちらが速く走りますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-136",
+      "en": "Who speaks English better, Emma or Ken?",
+      "ja": "エマとケンでは、どちらが英語を上手に話しますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-137",
+      "en": "Who gets up earlier, your father or your mother?",
+      "ja": "あなたのお父さんとお母さんでは、どちらが早く起きますか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-138",
+      "en": "Who sings better, you or your sister?",
+      "ja": "あなたとお姉さんでは、どちらが上手に歌いますか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-139",
+      "en": "Which do you like better, dogs or cats?",
+      "ja": "犬と猫では、どちらのほうが好きですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-140",
+      "en": "Which do you like better, tea or coffee?",
+      "ja": "紅茶とコーヒーでは、どちらのほうが好きですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-141",
+      "en": "Which do you like better, summer or winter?",
+      "ja": "夏と冬では、どちらのほうが好きですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-142",
+      "en": "Which do you like better, rice or bread?",
+      "ja": "ごはんとパンでは、どちらのほうが好きですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-143",
+      "en": "Which subject do you like better, English or math?",
+      "ja": "英語と数学では、どちらの教科のほうが好きですか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-144",
+      "en": "What is the most popular sport in your school?",
+      "ja": "あなたの学校でいちばん人気のあるスポーツは何ですか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-145",
+      "en": "What is the most interesting subject for you?",
+      "ja": "あなたにとっていちばんおもしろい教科は何ですか。",
+      "word_count": 8
+    },
+    {
+      "id": "G2-07-146",
+      "en": "What is the most useful thing in your bag?",
+      "ja": "あなたのかばんの中でいちばん役に立つものは何ですか。",
+      "word_count": 9
+    },
+    {
+      "id": "G2-07-147",
+      "en": "What is the best day of the week for you?",
+      "ja": "あなたにとって一週間の中でいちばんよい日は何曜日ですか。",
+      "word_count": 10
+    },
+    {
+      "id": "G2-07-148",
+      "en": "Who is the tallest in your family?",
+      "ja": "あなたの家族でいちばん背が高いのはだれですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-149",
+      "en": "Who studies the hardest in your class?",
+      "ja": "あなたのクラスでいちばん熱心に勉強するのはだれですか。",
+      "word_count": 7
+    },
+    {
+      "id": "G2-07-150",
+      "en": "Which seat is the best in this room?",
+      "ja": "この部屋でいちばんよい席はどれですか。",
+      "word_count": 8
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}

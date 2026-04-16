@@ -1,0 +1,1213 @@
+{
+  "schema_version": 1,
+  "material_id": "yarinaoshi_basic2",
+  "id_prefix": "G1-03",
+  "audio_en_dir_relative": "１文データ/one_sentence/audio/en",
+  "audio_ja_dir_relative": "１文データ/one_sentence/audio/ja",
+  "filename_template_en": "{sentence_id}-en.mp3",
+  "filename_template_ja": "{sentence_id}-ja.mp3",
+  "rows": [
+    {
+      "id": "G1-03-001",
+      "en": "Open your book.",
+      "ja": "本を開いて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-002",
+      "en": "Close the door.",
+      "ja": "ドアを閉めて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-003",
+      "en": "Look at this picture.",
+      "ja": "この絵を見て。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-004",
+      "en": "Listen to the teacher.",
+      "ja": "先生の話を聞いて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-005",
+      "en": "Read this sentence.",
+      "ja": "この文を読んで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-006",
+      "en": "Write your name.",
+      "ja": "名前を書いて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-007",
+      "en": "Answer the question.",
+      "ja": "質問に答えて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-008",
+      "en": "Check your homework.",
+      "ja": "宿題を確認して。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-009",
+      "en": "Show me your notebook.",
+      "ja": "ノートを見せて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-010",
+      "en": "Turn the page.",
+      "ja": "ページをめくって。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-011",
+      "en": "Wash your hands.",
+      "ja": "手を洗って。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-012",
+      "en": "Cut the paper.",
+      "ja": "紙を切って。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-013",
+      "en": "Help your friend.",
+      "ja": "友だちを手伝って。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-014",
+      "en": "Feed the dog.",
+      "ja": "犬にえさをあげて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-015",
+      "en": "Water the flowers.",
+      "ja": "花に水をあげて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-016",
+      "en": "Clean your desk.",
+      "ja": "机をきれいにして。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-017",
+      "en": "Spell your name.",
+      "ja": "名前のつづりを言って。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-018",
+      "en": "Count to ten.",
+      "ja": "10まで数えて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-019",
+      "en": "Copy this word.",
+      "ja": "この単語を書き写して。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-020",
+      "en": "Draw a circle.",
+      "ja": "丸をかいて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-021",
+      "en": "Give me the key.",
+      "ja": "かぎを渡して。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-022",
+      "en": "Bring me a pen.",
+      "ja": "ペンを持ってきて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-023",
+      "en": "Wait a minute.",
+      "ja": "ちょっと待って。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-024",
+      "en": "Hurry up.",
+      "ja": "急いで。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-025",
+      "en": "Put the book here.",
+      "ja": "本をここに置いて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-026",
+      "en": "Point to the map.",
+      "ja": "地図を指さして。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-027",
+      "en": "Brush your teeth.",
+      "ja": "歯をみがいて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-028",
+      "en": "Tie your shoes.",
+      "ja": "靴ひもを結んで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-029",
+      "en": "Throw the ball.",
+      "ja": "ボールを投げて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-030",
+      "en": "Catch the ball.",
+      "ja": "ボールを受けて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-031",
+      "en": "Push the button.",
+      "ja": "ボタンを押して。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-032",
+      "en": "Pull the rope.",
+      "ja": "ロープを引いて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-033",
+      "en": "Open this box.",
+      "ja": "この箱を開けて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-034",
+      "en": "Take off your hat.",
+      "ja": "帽子をぬいで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-035",
+      "en": "Turn the handle.",
+      "ja": "取っ手を回して。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-036",
+      "en": "Circle the answer.",
+      "ja": "答えを丸で囲って。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-037",
+      "en": "Pick up this box.",
+      "ja": "この箱を持ち上げて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-038",
+      "en": "Lock the door.",
+      "ja": "ドアにかぎをかけて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-039",
+      "en": "Move this chair.",
+      "ja": "このいすを動かして。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-040",
+      "en": "Wipe the table.",
+      "ja": "テーブルをふいて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-041",
+      "en": "Raise your hand.",
+      "ja": "手を挙げて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-042",
+      "en": "Hang up your coat.",
+      "ja": "上着をかけて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-043",
+      "en": "Turn on the light.",
+      "ja": "電気をつけて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-044",
+      "en": "Turn off the light.",
+      "ja": "電気を消して。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-045",
+      "en": "Try again.",
+      "ja": "もう一度やって。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-046",
+      "en": "Erase this line.",
+      "ja": "この線を消して。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-047",
+      "en": "Knock on the door.",
+      "ja": "ドアをノックして。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-048",
+      "en": "Clap your hands.",
+      "ja": "手をたたいて。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-049",
+      "en": "Come here.",
+      "ja": "ここに来て。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-050",
+      "en": "Go there.",
+      "ja": "そこへ行って。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-051",
+      "en": "Come in.",
+      "ja": "中に入って。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-052",
+      "en": "Go out.",
+      "ja": "外に出て。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-053",
+      "en": "Sit down.",
+      "ja": "座って。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-054",
+      "en": "Stand up.",
+      "ja": "立って。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-055",
+      "en": "Turn left.",
+      "ja": "左に曲がって。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-056",
+      "en": "Turn right.",
+      "ja": "右に曲がって。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-057",
+      "en": "Go straight.",
+      "ja": "まっすぐ進んで。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-058",
+      "en": "Come closer.",
+      "ja": "もっと近くに来て。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-059",
+      "en": "Step back.",
+      "ja": "少し下がって。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-060",
+      "en": "Move forward.",
+      "ja": "前に進んで。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-061",
+      "en": "Turn around.",
+      "ja": "振り向いて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-062",
+      "en": "Face forward.",
+      "ja": "前を向いて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-063",
+      "en": "Come upstairs.",
+      "ja": "上の階に来て。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-064",
+      "en": "Go downstairs.",
+      "ja": "下の階に行って。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-065",
+      "en": "Stop here.",
+      "ja": "ここで止まって。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-066",
+      "en": "Stay outside.",
+      "ja": "外にいて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-067",
+      "en": "Stand by the wall.",
+      "ja": "壁のそばに立って。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-068",
+      "en": "Sit in the front.",
+      "ja": "前のほうに座って。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-069",
+      "en": "Walk along this road.",
+      "ja": "この道に沿って歩いて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-070",
+      "en": "Cross the street.",
+      "ja": "通りを渡って。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-071",
+      "en": "Go to your seat.",
+      "ja": "自分の席に行って。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-072",
+      "en": "Line up here.",
+      "ja": "ここに並んで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-073",
+      "en": "Move to the side.",
+      "ja": "横に寄って。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-074",
+      "en": "Get on the bus.",
+      "ja": "バスに乗って。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-075",
+      "en": "Get off the bus.",
+      "ja": "バスを降りて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-076",
+      "en": "Come back.",
+      "ja": "戻ってきて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-077",
+      "en": "Follow me.",
+      "ja": "ついてきて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-078",
+      "en": "Keep going.",
+      "ja": "そのまま進んで。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-079",
+      "en": "Stand still.",
+      "ja": "じっとしていて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-080",
+      "en": "Walk slowly.",
+      "ja": "ゆっくり歩いて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-081",
+      "en": "Make a circle.",
+      "ja": "輪になって。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-082",
+      "en": "Wait there.",
+      "ja": "そこで待って。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-083",
+      "en": "Help me, please.",
+      "ja": "手伝ってください。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-084",
+      "en": "Wait a moment, please.",
+      "ja": "少し待ってください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-085",
+      "en": "Come with me, please.",
+      "ja": "いっしょに来てください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-086",
+      "en": "Sign here, please.",
+      "ja": "ここにサインしてください。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-087",
+      "en": "Show me the way, please.",
+      "ja": "道を教えてください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-088",
+      "en": "Open the window, please.",
+      "ja": "窓を開けてください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-089",
+      "en": "Hold the door, please.",
+      "ja": "ドアを押さえてください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-090",
+      "en": "Bring me some water, please.",
+      "ja": "水を持ってきてください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-091",
+      "en": "Give me a pen, please.",
+      "ja": "ペンを1本ください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-092",
+      "en": "Hand me that box, please.",
+      "ja": "その箱を渡してください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-093",
+      "en": "Carry this bag, please.",
+      "ja": "このかばんを運んでください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-094",
+      "en": "Repeat after me, please.",
+      "ja": "私のあとに続いて言ってください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-095",
+      "en": "Read this aloud, please.",
+      "ja": "これを声に出して読んでください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-096",
+      "en": "Say it again, please.",
+      "ja": "もう一度言ってください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-097",
+      "en": "Speak more slowly, please.",
+      "ja": "もう少しゆっくり話してください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-098",
+      "en": "Write it here, please.",
+      "ja": "ここに書いてください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-099",
+      "en": "Fill in this form, please.",
+      "ja": "この用紙に記入してください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-100",
+      "en": "Tell me the time, please.",
+      "ja": "時間を教えてください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-101",
+      "en": "Tell me your name, please.",
+      "ja": "名前を教えてください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-102",
+      "en": "Show me your ticket, please.",
+      "ja": "チケットを見せてください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-103",
+      "en": "Call a taxi, please.",
+      "ja": "タクシーを呼んでください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-104",
+      "en": "Turn off the TV, please.",
+      "ja": "テレビを消してください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-105",
+      "en": "Wash these cups, please.",
+      "ja": "このカップを洗ってください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-106",
+      "en": "Show me the menu, please.",
+      "ja": "メニューを見せてください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-107",
+      "en": "Send me the photo, please.",
+      "ja": "その写真を送ってください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-108",
+      "en": "Take a picture, please.",
+      "ja": "写真を撮ってください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-109",
+      "en": "Try this one, please.",
+      "ja": "こちらを試してください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-110",
+      "en": "Wait for me, please.",
+      "ja": "私を待っていてください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-111",
+      "en": "Sit here, please.",
+      "ja": "ここに座ってください。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-112",
+      "en": "Look at this map, please.",
+      "ja": "この地図を見てください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-113",
+      "en": "Look at me, please.",
+      "ja": "私を見てください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-114",
+      "en": "Listen carefully, please.",
+      "ja": "よく聞いてください。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-115",
+      "en": "Take me there, please.",
+      "ja": "そこへ連れていってください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-116",
+      "en": "Check the schedule, please.",
+      "ja": "予定を確認してください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-117",
+      "en": "Show me your answer, please.",
+      "ja": "あなたの答えを見せてください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-118",
+      "en": "Say your answer, please.",
+      "ja": "答えを言ってください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-119",
+      "en": "Bring a chair, please.",
+      "ja": "いすを持ってきてください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-120",
+      "en": "Write your phone number, please.",
+      "ja": "電話番号を書いてください。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-121",
+      "en": "Open the gate, please.",
+      "ja": "門を開けてください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-122",
+      "en": "Call the doctor, please.",
+      "ja": "お医者さんを呼んでください。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-123",
+      "en": "Don't run here.",
+      "ja": "ここで走らないで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-124",
+      "en": "Don't touch that.",
+      "ja": "それにさわらないで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-125",
+      "en": "Don't open this box.",
+      "ja": "この箱を開けないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-126",
+      "en": "Don't close the window.",
+      "ja": "窓を閉めないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-127",
+      "en": "Don't forget your bag.",
+      "ja": "かばんを忘れないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-128",
+      "en": "Don't hurry.",
+      "ja": "急がないで。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-129",
+      "en": "Don't shout.",
+      "ja": "大声を出さないで。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-130",
+      "en": "Don't laugh at him.",
+      "ja": "彼のことを笑わないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-131",
+      "en": "Don't make a mess.",
+      "ja": "散らかさないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-132",
+      "en": "Don't leave the door open.",
+      "ja": "ドアを開けたままにしないで。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-133",
+      "en": "Don't be late.",
+      "ja": "遅れないで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-134",
+      "en": "Don't be noisy.",
+      "ja": "うるさくしないで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-135",
+      "en": "Don't be rude.",
+      "ja": "失礼なことをしないで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-136",
+      "en": "Don't lean on the door.",
+      "ja": "ドアにもたれないで。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-137",
+      "en": "Don't stop here.",
+      "ja": "ここで止まらないで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-138",
+      "en": "Don't stand there.",
+      "ja": "そこに立たないで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-139",
+      "en": "Don't sit on the floor.",
+      "ja": "床に座らないで。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-140",
+      "en": "Don't go outside.",
+      "ja": "外に出ないで。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-141",
+      "en": "Don't come in yet.",
+      "ja": "まだ入ってこないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-142",
+      "en": "Don't move the chair.",
+      "ja": "そのいすを動かさないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-143",
+      "en": "Don't turn off the light.",
+      "ja": "電気を消さないで。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-144",
+      "en": "Don't use my pen.",
+      "ja": "私のペンを使わないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-145",
+      "en": "Don't break the glass.",
+      "ja": "そのコップを割らないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-146",
+      "en": "Don't drop the plate.",
+      "ja": "その皿を落とさないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-147",
+      "en": "Don't push the door.",
+      "ja": "そのドアを押さないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-148",
+      "en": "Don't pull the rope.",
+      "ja": "そのロープを引かないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-149",
+      "en": "Don't throw the ball here.",
+      "ja": "ここでボールを投げないで。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-150",
+      "en": "Don't kick the desk.",
+      "ja": "机をけらないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-151",
+      "en": "Don't feed the dog now.",
+      "ja": "今は犬にえさをあげないで。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-152",
+      "en": "Don't wake the baby.",
+      "ja": "赤ちゃんを起こさないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-153",
+      "en": "Don't talk during class.",
+      "ja": "授業中に話さないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-154",
+      "en": "Don't look at my phone.",
+      "ja": "私のスマホを見ないで。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-155",
+      "en": "Don't read my diary.",
+      "ja": "私の日記を読まないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-156",
+      "en": "Don't copy my answer.",
+      "ja": "私の答えを書き写さないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-157",
+      "en": "Don't leave your books here.",
+      "ja": "ここに本を置いたままにしないで。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-158",
+      "en": "Don't play with the knife.",
+      "ja": "そのナイフで遊ばないで。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-159",
+      "en": "Don't write on the desk.",
+      "ja": "机に書かないで。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-160",
+      "en": "Don't leave your seat.",
+      "ja": "席を離れないで。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-161",
+      "en": "Be quiet.",
+      "ja": "静かにして。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-162",
+      "en": "Be careful.",
+      "ja": "気をつけて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-163",
+      "en": "Be kind.",
+      "ja": "親切にして。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-164",
+      "en": "Be honest.",
+      "ja": "正直でいて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-165",
+      "en": "Be polite.",
+      "ja": "礼儀正しくして。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-166",
+      "en": "Be patient.",
+      "ja": "落ち着いて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-167",
+      "en": "Be ready.",
+      "ja": "準備しておいて。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-168",
+      "en": "Be on time.",
+      "ja": "時間どおりに来て。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-169",
+      "en": "Be serious now.",
+      "ja": "今はちゃんとして。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-170",
+      "en": "Be brave.",
+      "ja": "勇気を出して。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-171",
+      "en": "Be strong.",
+      "ja": "しっかりして。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-172",
+      "en": "Be gentle.",
+      "ja": "やさしくして。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-173",
+      "en": "Be nice to each other.",
+      "ja": "おたがいにやさしくして。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-174",
+      "en": "Be careful with fire.",
+      "ja": "火には気をつけて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-175",
+      "en": "Be quiet during class.",
+      "ja": "授業中は静かにして。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-176",
+      "en": "Be kind to animals.",
+      "ja": "動物に親切にして。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-177",
+      "en": "Be honest with me.",
+      "ja": "私には正直に話して。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-178",
+      "en": "Be polite to your teacher.",
+      "ja": "先生には礼儀正しくして。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-179",
+      "en": "Be ready to leave.",
+      "ja": "出かける準備をしておいて。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-180",
+      "en": "Be gentle with the baby.",
+      "ja": "赤ちゃんにはやさしくして。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-181",
+      "en": "Be helpful.",
+      "ja": "進んで手伝って。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-182",
+      "en": "Be patient with him.",
+      "ja": "彼には落ち着いて接して。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-183",
+      "en": "Be careful on the stairs.",
+      "ja": "階段では気をつけて。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-184",
+      "en": "Be quiet for a moment.",
+      "ja": "少しのあいだ静かにして。",
+      "word_count": 5
+    },
+    {
+      "id": "G1-03-185",
+      "en": "Be neat.",
+      "ja": "きちんとして。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-186",
+      "en": "Be fair.",
+      "ja": "公平にして。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-187",
+      "en": "Let's go.",
+      "ja": "行こう。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-188",
+      "en": "Let's start.",
+      "ja": "始めよう。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-189",
+      "en": "Let's eat.",
+      "ja": "食べよう。",
+      "word_count": 2
+    },
+    {
+      "id": "G1-03-190",
+      "en": "Let's go home.",
+      "ja": "家に帰ろう。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-191",
+      "en": "Let's play outside.",
+      "ja": "外で遊ぼう。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-192",
+      "en": "Let's study English.",
+      "ja": "英語を勉強しよう。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-193",
+      "en": "Let's take a break.",
+      "ja": "少し休もう。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-194",
+      "en": "Let's ask the teacher.",
+      "ja": "先生に聞いてみよう。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-195",
+      "en": "Let's write it down.",
+      "ja": "それを書いておこう。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-196",
+      "en": "Let's help each other.",
+      "ja": "おたがいに助け合おう。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-197",
+      "en": "Let's clean the room.",
+      "ja": "部屋を片づけよう。",
+      "word_count": 4
+    },
+    {
+      "id": "G1-03-198",
+      "en": "Let's call Emma.",
+      "ja": "エマに電話しよう。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-199",
+      "en": "Let's go together.",
+      "ja": "いっしょに行こう。",
+      "word_count": 3
+    },
+    {
+      "id": "G1-03-200",
+      "en": "Let's stop for now.",
+      "ja": "今はここでやめよう。",
+      "word_count": 4
+    }
+  ],
+  "ja_reorder": [],
+  "fill_blank": []
+}
