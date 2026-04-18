@@ -18,8 +18,9 @@
     "filename_template_ja": "{sentence_id}-ja.mp3"
   },
   "material_id": "yarinaoshi_basic3",
-  "title_ja": "やり直し英文法 基礎③",
-  "subtitle_ja": "大人のやり直し・基礎英語",
+  "title_ja": "やり直しリスニング 基礎③",
+  "level_id": "adult_restart",
+  "description_ja": "大人になって英語を基礎からやり直したい人のためのリスニング教材です。やり直し英文法 基礎③に対応。"
   "notes_ja": "大人のやり直し向け（basic1〜3）と中学向け（jh_grammar_1〜3）の教材定義。ステージは CSV の文 id 接頭辞（例 G1-01）に対応。 【リスニング用】教材名・ステージ・sentence_ids は英文法の同名教材と同一。正本は英文法側。差分を避けるため更新時は英文法を直し、本ファイルを再コピーする運用を推奨。",
   "stages": [
     {
