@@ -20,7 +20,7 @@
   "material_id": "jh_grammar_2",
   "title_ja": "中2英文法",
   "level_id": "high_school_exam",
-  "description_ja": "中2英文法に対応した内容を、リスニングで練習できる教材です。"
+  "description_ja": "中2英文法に対応した内容を、リスニングで練習できる教材です。",
   "notes_ja": "大人のやり直し向け（basic1〜3）と中学向け（jh_grammar_1〜3）の教材定義。ステージは CSV の文 id 接頭辞（例 G1-01）に対応。 【リスニング用】教材名・ステージ・sentence_ids は英文法の同名教材と同一。正本は英文法側。差分を避けるため更新時は英文法を直し、本ファイルを再コピーする運用を推奨。",
   "stages": [
     {
