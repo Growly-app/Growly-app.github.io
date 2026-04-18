@@ -4,7 +4,7 @@
   "material_id": "jh_grammar_1",
   "title_ja": "中1英文法",
   "level_id": "high_school_exam",
-  "description_ja": "中学1年の英文法を使った問題に取り組める教材です。"
+  "description_ja": "中学1年の英文法を使った問題に取り組める教材です。",
   "notes_ja": "大人のやり直し向け（basic1〜3）と中学向け（jh_grammar_1〜3）の教材定義。ステージは CSV の文 id 接頭辞（例 G1-01）に対応。",
   "sentence_text": {
     "relative_path": "１文データ/one_sentence/text/one_sentence.csv",
