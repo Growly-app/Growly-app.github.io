@@ -15,19 +15,7 @@
   "cuesFile": "dialogue.csv",
   "thumbnailFile": "ECA-002.png",
   "thumbnailListFile": "eca002_9_16.png",
-  "quizTermsFile": "ECA-002_quiz.json",
-  "reorderListeningLineIds": [
-    "L001",
-    "L004",
-    "L008",
-    "L013",
-    "L015",
-    "L018",
-    "L024",
-    "L033",
-    "L048",
-    "L063"
-  ],
-  "contentBaseUrl": "https://growly-app.github.io/stories/ECA-002/",
-  "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/ECA-002/ECA-002.mp4"
+  "quizTermsFile": "quiz.json",
+  "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/ECA-002/ECA-002.mp4",
+  "contentBaseUrl": "https://growly-app.github.io/stories/ECA-002/"
 }
