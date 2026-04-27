@@ -1,0 +1,747 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "QT001",
+      "lineId": "L005",
+      "termEn": "trains",
+      "correctJa": "電車",
+      "incorrectJa": [
+        "バス",
+        "路線",
+        "タクシー"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "tren",
+          "incorrect": [
+            "autobús",
+            "línea",
+            "taxi"
+          ]
+        },
+        "pt": {
+          "correct": "trem",
+          "incorrect": [
+            "ônibus",
+            "linha",
+            "táxi"
+          ]
+        },
+        "id": {
+          "correct": "kereta",
+          "incorrect": [
+            "bus",
+            "jalur",
+            "taksi"
+          ]
+        },
+        "ko": {
+          "correct": "전철",
+          "incorrect": [
+            "버스",
+            "노선",
+            "택시"
+          ]
+        },
+        "tr": {
+          "correct": "tren",
+          "incorrect": [
+            "otobüs",
+            "hat",
+            "taksi"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT002",
+      "lineId": "L009",
+      "termEn": "closest",
+      "correctJa": "最寄りの",
+      "incorrectJa": [
+        "一番遠い",
+        "終点の",
+        "反対側の"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "la más cercana",
+          "incorrect": [
+            "la más lejana",
+            "la terminal",
+            "la del lado opuesto"
+          ]
+        },
+        "pt": {
+          "correct": "o mais próximo",
+          "incorrect": [
+            "o mais distante",
+            "o terminal",
+            "o do lado oposto"
+          ]
+        },
+        "id": {
+          "correct": "yang paling dekat",
+          "incorrect": [
+            "yang paling jauh",
+            "yang di ujung",
+            "yang di seberang"
+          ]
+        },
+        "ko": {
+          "correct": "가장 가까운",
+          "incorrect": [
+            "가장 먼",
+            "종착역의",
+            "반대편의"
+          ]
+        },
+        "tr": {
+          "correct": "en yakın",
+          "incorrect": [
+            "en uzak",
+            "son duraktaki",
+            "karşı taraftaki"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT003",
+      "lineId": "L013",
+      "termEn": "remember",
+      "correctJa": "覚えている",
+      "incorrectJa": [
+        "忘れている",
+        "探している",
+        "選んでいる"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "recordar",
+          "incorrect": [
+            "olvidar",
+            "buscar",
+            "elegir"
+          ]
+        },
+        "pt": {
+          "correct": "lembrar",
+          "incorrect": [
+            "esquecer",
+            "procurar",
+            "escolher"
+          ]
+        },
+        "id": {
+          "correct": "ingat",
+          "incorrect": [
+            "lupa",
+            "mencari",
+            "memilih"
+          ]
+        },
+        "ko": {
+          "correct": "기억하고 있다",
+          "incorrect": [
+            "잊고 있다",
+            "찾고 있다",
+            "고르고 있다"
+          ]
+        },
+        "tr": {
+          "correct": "hatırlıyor",
+          "incorrect": [
+            "unutuyor",
+            "arıyor",
+            "seçiyor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT004",
+      "lineId": "L015",
+      "termEn": "address",
+      "correctJa": "住所",
+      "incorrectJa": [
+        "電話番号",
+        "名前",
+        "行き先"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "dirección",
+          "incorrect": [
+            "número de teléfono",
+            "nombre",
+            "destino"
+          ]
+        },
+        "pt": {
+          "correct": "endereço",
+          "incorrect": [
+            "número de telefone",
+            "nome",
+            "destino"
+          ]
+        },
+        "id": {
+          "correct": "alamat",
+          "incorrect": [
+            "nomor telepon",
+            "nama",
+            "tujuan"
+          ]
+        },
+        "ko": {
+          "correct": "주소",
+          "incorrect": [
+            "전화번호",
+            "이름",
+            "행선지"
+          ]
+        },
+        "tr": {
+          "correct": "adres",
+          "incorrect": [
+            "telefon numarası",
+            "isim",
+            "gidilecek yer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT005",
+      "lineId": "L017",
+      "termEn": "guide",
+      "correctJa": "案内する",
+      "incorrectJa": [
+        "説明する",
+        "確認する",
+        "連絡する"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "guiar",
+          "incorrect": [
+            "explicar",
+            "confirmar",
+            "contactar"
+          ]
+        },
+        "pt": {
+          "correct": "guiar",
+          "incorrect": [
+            "explicar",
+            "confirmar",
+            "entrar em contato"
+          ]
+        },
+        "id": {
+          "correct": "memandu",
+          "incorrect": [
+            "menjelaskan",
+            "memastikan",
+            "menghubungi"
+          ]
+        },
+        "ko": {
+          "correct": "안내하다",
+          "incorrect": [
+            "설명하다",
+            "확인하다",
+            "연락하다"
+          ]
+        },
+        "tr": {
+          "correct": "yol göstermek",
+          "incorrect": [
+            "açıklamak",
+            "doğrulamak",
+            "iletişime geçmek"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT006",
+      "lineId": "L018",
+      "termEn": "private information",
+      "correctJa": "個人情報",
+      "incorrectJa": [
+        "交通情報",
+        "業務情報",
+        "公開情報"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "información personal",
+          "incorrect": [
+            "información de tráfico",
+            "información laboral",
+            "información pública"
+          ]
+        },
+        "pt": {
+          "correct": "informação pessoal",
+          "incorrect": [
+            "informação de trânsito",
+            "informação de trabalho",
+            "informação pública"
+          ]
+        },
+        "id": {
+          "correct": "informasi pribadi",
+          "incorrect": [
+            "informasi lalu lintas",
+            "informasi kerja",
+            "informasi publik"
+          ]
+        },
+        "ko": {
+          "correct": "개인정보",
+          "incorrect": [
+            "교통정보",
+            "업무정보",
+            "공개정보"
+          ]
+        },
+        "tr": {
+          "correct": "kişisel bilgi",
+          "incorrect": [
+            "trafik bilgisi",
+            "iş bilgisi",
+            "açık bilgi"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT007",
+      "lineId": "L024",
+      "termEn": "forgot",
+      "correctJa": "忘れた",
+      "incorrectJa": [
+        "気づいた",
+        "思い出した",
+        "間違えた"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "olvidé",
+          "incorrect": [
+            "me di cuenta",
+            "recordé",
+            "me equivoqué"
+          ]
+        },
+        "pt": {
+          "correct": "esqueci",
+          "incorrect": [
+            "percebi",
+            "lembrei",
+            "errei"
+          ]
+        },
+        "id": {
+          "correct": "lupa",
+          "incorrect": [
+            "sadar",
+            "teringat",
+            "salah"
+          ]
+        },
+        "ko": {
+          "correct": "잊었다",
+          "incorrect": [
+            "알아차렸다",
+            "생각났다",
+            "틀렸다"
+          ]
+        },
+        "tr": {
+          "correct": "unuttum",
+          "incorrect": [
+            "fark ettim",
+            "hatırladım",
+            "yanlış yaptım"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT008",
+      "lineId": "L031",
+      "termEn": "on purpose",
+      "correctJa": "わざと",
+      "incorrectJa": [
+        "たまたま",
+        "こっそり",
+        "急いで"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "a propósito",
+          "incorrect": [
+            "por casualidad",
+            "en secreto",
+            "con prisa"
+          ]
+        },
+        "pt": {
+          "correct": "de propósito",
+          "incorrect": [
+            "por acaso",
+            "em segredo",
+            "com pressa"
+          ]
+        },
+        "id": {
+          "correct": "sengaja",
+          "incorrect": [
+            "kebetulan",
+            "diam-diam",
+            "dengan tergesa-gesa"
+          ]
+        },
+        "ko": {
+          "correct": "일부러",
+          "incorrect": [
+            "우연히",
+            "몰래",
+            "급하게"
+          ]
+        },
+        "tr": {
+          "correct": "bilerek",
+          "incorrect": [
+            "tesadüfen",
+            "gizlice",
+            "aceleyle"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT009",
+      "lineId": "L034",
+      "termEn": "station worker",
+      "correctJa": "駅員",
+      "incorrectJa": [
+        "警察官",
+        "運転手",
+        "乗客"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "empleado de la estación",
+          "incorrect": [
+            "policía",
+            "conductor",
+            "pasajero"
+          ]
+        },
+        "pt": {
+          "correct": "funcionário da estação",
+          "incorrect": [
+            "policial",
+            "motorista",
+            "passageiro"
+          ]
+        },
+        "id": {
+          "correct": "petugas stasiun",
+          "incorrect": [
+            "polisi",
+            "sopir",
+            "penumpang"
+          ]
+        },
+        "ko": {
+          "correct": "역무원",
+          "incorrect": [
+            "경찰관",
+            "운전기사",
+            "승객"
+          ]
+        },
+        "tr": {
+          "correct": "istasyon görevlisi",
+          "incorrect": [
+            "polis",
+            "şoför",
+            "yolcu"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT010",
+      "lineId": "L040",
+      "termEn": "destination",
+      "correctJa": "目的地",
+      "incorrectJa": [
+        "出発地",
+        "経由地",
+        "時刻"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "destino",
+          "incorrect": [
+            "punto de partida",
+            "parada intermedia",
+            "hora"
+          ]
+        },
+        "pt": {
+          "correct": "destino",
+          "incorrect": [
+            "ponto de partida",
+            "parada intermediária",
+            "horário"
+          ]
+        },
+        "id": {
+          "correct": "tujuan",
+          "incorrect": [
+            "titik keberangkatan",
+            "tempat singgah",
+            "waktu"
+          ]
+        },
+        "ko": {
+          "correct": "목적지",
+          "incorrect": [
+            "출발지",
+            "경유지",
+            "시각"
+          ]
+        },
+        "tr": {
+          "correct": "varış yeri",
+          "incorrect": [
+            "hareket noktası",
+            "ara durak",
+            "saat"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT011",
+      "lineId": "L042",
+      "termEn": "call",
+      "correctJa": "連絡する",
+      "incorrectJa": [
+        "訪ねる",
+        "探す",
+        "迎えに行く"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "contactar",
+          "incorrect": [
+            "visitar",
+            "buscar",
+            "ir a recoger"
+          ]
+        },
+        "pt": {
+          "correct": "entrar em contato",
+          "incorrect": [
+            "visitar",
+            "procurar",
+            "ir buscar"
+          ]
+        },
+        "id": {
+          "correct": "menghubungi",
+          "incorrect": [
+            "mengunjungi",
+            "mencari",
+            "menjemput"
+          ]
+        },
+        "ko": {
+          "correct": "연락하다",
+          "incorrect": [
+            "찾아가다",
+            "찾다",
+            "데리러 가다"
+          ]
+        },
+        "tr": {
+          "correct": "iletişime geçmek",
+          "incorrect": [
+            "ziyaret etmek",
+            "aramak",
+            "almaya gitmek"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT012",
+      "lineId": "L049",
+      "termEn": "contact",
+      "correctJa": "連絡先",
+      "incorrectJa": [
+        "住所",
+        "切符",
+        "名前"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "contacto",
+          "incorrect": [
+            "dirección",
+            "boleto",
+            "nombre"
+          ]
+        },
+        "pt": {
+          "correct": "contato",
+          "incorrect": [
+            "endereço",
+            "bilhete",
+            "nome"
+          ]
+        },
+        "id": {
+          "correct": "kontak",
+          "incorrect": [
+            "alamat",
+            "tiket",
+            "nama"
+          ]
+        },
+        "ko": {
+          "correct": "연락처",
+          "incorrect": [
+            "주소",
+            "표",
+            "이름"
+          ]
+        },
+        "tr": {
+          "correct": "iletişim bilgisi",
+          "incorrect": [
+            "adres",
+            "bilet",
+            "isim"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT013",
+      "lineId": "L053",
+      "termEn": "police box",
+      "correctJa": "交番",
+      "incorrectJa": [
+        "案内所",
+        "消防署",
+        "病院"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "koban",
+          "incorrect": [
+            "mostrador de información",
+            "estación de bomberos",
+            "hospital"
+          ]
+        },
+        "pt": {
+          "correct": "posto policial",
+          "incorrect": [
+            "balcão de informações",
+            "corpo de bombeiros",
+            "hospital"
+          ]
+        },
+        "id": {
+          "correct": "pos polisi",
+          "incorrect": [
+            "tempat informasi",
+            "stasiun pemadam kebakaran",
+            "rumah sakit"
+          ]
+        },
+        "ko": {
+          "correct": "파출소",
+          "incorrect": [
+            "안내소",
+            "소방서",
+            "병원"
+          ]
+        },
+        "tr": {
+          "correct": "karakol",
+          "incorrect": [
+            "danışma merkezi",
+            "itfaiye",
+            "hastane"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT014",
+      "lineId": "L059",
+      "termEn": "criminal",
+      "correctJa": "犯人",
+      "incorrectJa": [
+        "警察官",
+        "被害者",
+        "目撃者"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "criminal",
+          "incorrect": [
+            "policía",
+            "víctima",
+            "testigo"
+          ]
+        },
+        "pt": {
+          "correct": "criminoso",
+          "incorrect": [
+            "policial",
+            "vítima",
+            "testemunha"
+          ]
+        },
+        "id": {
+          "correct": "penjahat",
+          "incorrect": [
+            "polisi",
+            "korban",
+            "saksi"
+          ]
+        },
+        "ko": {
+          "correct": "범인",
+          "incorrect": [
+            "경찰관",
+            "피해자",
+            "목격자"
+          ]
+        },
+        "tr": {
+          "correct": "suçlu",
+          "incorrect": [
+            "polis",
+            "mağdur",
+            "tanık"
+          ]
+        }
+      }
+    }
+  ]
+}
