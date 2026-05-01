@@ -1,0 +1,33 @@
+{
+  "id": "ECA-004",
+  "titleJa": "金の斧を量産しようとした男の末路",
+  "titleEn": "The Man Who Tried to Mass-Produce Golden Axes",
+  "titleEs": "El final del hombre que intentó producir hachas de oro en masa.",
+  "titlePt": "O fim do homem que tentou produzir machados de ouro em massa.",
+  "titleId": "Akhir Pria yang Mencoba Memproduksi Kapak Emas Secara Massal.",
+  "titleKo": "금도끼를 대량 생산하려 한 남자의 최후.",
+  "titleTr": "Altın Baltaları Seri Üretmeye Çalışan Adamın Sonu.",
+  "tagline": "ID:ECA-004",
+  "description": "",
+  "youtubeUrl": "https://youtu.be/WQcxGIgdI2Q",
+  "difficulty": "intermediate",
+  "videoFile": "ECA-004.mp4",
+  "cuesFile": "dialogue.csv",
+  "thumbnailFile": "ECA-004.png",
+  "thumbnailListFile": "eca004_9_16.png",
+  "quizTermsFile": "ECA-004_quiz.json",
+  "reorderListeningLineIds": [
+    "L008",
+    "L019",
+    "L021",
+    "L025",
+    "L039",
+    "L053",
+    "L070",
+    "L076",
+    "L098",
+    "L153"
+  ],
+  "contentBaseUrl": "https://growly-app.github.io/stories/ECA-004/",
+  "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/ECA-004/ECA-004.mp4"
+}
