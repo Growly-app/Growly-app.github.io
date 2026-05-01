@@ -1,0 +1,67 @@
+line_id,scene_id,start_ms,end_ms,start_tc,en,ja,es,pt,id,ko,tr
+L001,S001,5000,8167,00:00:05:00,"George, wake up.",ジョージ 起きなさい,"George, despierta.","George, acorda.","George, bangun.","조지, 일어나.","George, uyan."
+L002,S002,8167,12167,00:00:08:05,Wake up now. You have work today.,早く起きなさい 今日はバイトでしょ,Despierta ya. Hoy trabajas.,Acorda logo. Você trabalha hoje.,Cepat bangun. Hari ini kamu kerja.,빨리 일어나. 오늘 알바 있잖아.,Hemen uyan. Bugün işin var.
+L003,S003,12167,14933,00:00:12:05,"No, I don’t.",違う,"No, no trabajo.","Não, eu não trabalho.","Nggak, aku nggak kerja.","아니, 없어.","Hayır, yok."
+L004,S004,14933,19400,00:00:14:28,"Yes, you do. You said it starts at nine.",違わないでしょ 9時からって言ってたじゃない,"Sí, sí trabajas. Dijiste que empieza a las nueve.",Trabalha sim. Você disse que começa às nove.,"Iya, kerja. Kamu bilang mulainya jam sembilan.",아니긴 뭐가 아니야. 9시부터라고 했잖아.,Var tabii. Saat dokuzda başladığını söylemiştin.
+L005,S005,19400,21900,00:00:19:12,Today is different.,今日は違う,Hoy es diferente.,Hoje é diferente.,Hari ini beda.,오늘은 달라.,Bugün farklı.
+L006,S006,21900,24033,00:00:21:27,What is different?,何が違うのよ,¿Qué es diferente?,O que é diferente?,Apa yang beda?,뭐가 다른데?,Ne farklı?
+L007,S007,24033,27000,00:00:24:01,Today is my day off.,今日は休みの日,Hoy es mi día libre.,Hoje é meu dia de folga.,Hari ini hari liburku.,오늘은 쉬는 날이야.,Bugün benim izin günüm.
+L008,S008,27000,30167,00:00:27:00,"Yesterday was your day off, too.",昨日も休みだったでしょ,Ayer también fue tu día libre.,Ontem também foi seu dia de folga.,Kemarin juga hari liburmu.,어제도 쉬는 날이었잖아.,Dün de izin günündü.
+L009,S009,30167,33500,00:00:30:05,Yesterday was yesterday.,昨日は昨日の休み,Ayer fue el día libre de ayer.,Ontem foi a folga de ontem.,Kemarin itu libur yang kemarin.,어제는 어제의 휴일이야.,"Dün, dündü."
+L010,S010,33500,37800,00:00:33:15,Just wake up. You’re going to be late.,いいから起きなさい 遅れるわよ,Solo despierta. Vas a llegar tarde.,Só levanta. Você vai se atrasar.,Pokoknya bangun. Kamu bakal telat.,됐고 일어나. 늦겠어.,Hadi artık uyan. Geç kalacaksın.
+L011,S011,37800,40300,00:00:37:24,I’m not late.,遅れてない,No voy tarde.,Não estou atrasado.,Aku tidak telat.,안 늦었어.,Geç kalmadım.
+L012,S012,40300,42567,00:00:40:09,You’re about to be late.,もう遅れそうなの,Estás a punto de llegar tarde.,Você está quase se atrasando.,Kamu sudah mau telat.,이제 곧 늦게 생겼어.,Geç kalmak üzeresin.
+L013,S013,42567,45867,00:00:42:17,It shouldn’t be morning already.,もう朝になる世界がおかしいんだ,El problema es que ya sea de mañana.,O estranho é já ser de manhã.,Yang aneh itu dunia sudah jadi pagi.,벌써 아침이 되는 세상이 이상한 거야.,"Asıl garip olan, çoktan sabah olmuş olması."
+L014,S014,45867,48600,00:00:45:26,You’re the one who’s wrong.,おかしいのはあんたよ,El que está mal eres tú.,Quem está errado é você.,Yang aneh itu kamu.,이상한 건 너야.,Garip olan sensin.
+L015,S015,48600,51000,00:00:48:18,Let me sleep a little longer.,もうちょっと寝る,Déjame dormir un poco más.,Me deixa dormir mais um pouco.,Biar aku tidur sedikit lagi.,조금만 더 잘래.,Biraz daha uyumama izin ver.
+L016,S016,51000,54233,00:00:51:00,You slept for eleven hours.,11時間寝たでしょ,Dormiste once horas.,Você dormiu onze horas.,Kamu tidur sebelas jam.,열한 시간 잤잖아.,On bir saat uyudun.
+L017,S017,54233,57000,00:00:54:07,I need one more hour.,あと1時間必要,Necesito una hora más.,Eu preciso de mais uma hora.,Aku butuh satu jam lagi.,한 시간만 더 필요해.,Bir saat daha lazım.
+L018,S018,57000,59133,00:00:57:00,Get out of bed.,布団から出なさい,Sal de la cama.,Sai da cama.,Keluar dari tempat tidur.,이불에서 나와.,Yataktan çık.
+L019,S019,59133,61767,00:00:59:04,I’m already out.,もう出てる,Ya salí.,Eu já saí.,Aku sudah keluar.,이미 나왔어.,Zaten çıktım.
+L020,S020,61767,64267,00:01:01:23,"No, you’re not.",出てないでしょ,"No, no has salido.","Não, não saiu.",Belum tuh.,안 나왔잖아.,"Hayır, çıkmadın."
+L021,S021,64267,67133,00:01:04:08,"Mentally, I’m out.",気持ちは出てる,"Mentalmente, ya salí.","Mentalmente, eu já saí.","Secara mental, aku sudah keluar.",마음은 이미 나왔어.,Zihnen çıktım.
+L022,S022,67133,69267,00:01:07:04,I’m opening the curtains.,カーテン開けるわよ,Voy a abrir las cortinas.,Vou abrir as cortinas.,Aku buka gordennya.,커튼 연다.,Perdeleri açıyorum.
+L023,S023,69267,70600,00:01:09:08,Don’t!,やめろ,¡No!,Não!,Jangan!,안 돼!,Yapma!
+L024,S024,70600,72600,00:01:10:18,I’m opening them.,カーテンを開けます,Las voy a abrir.,Vou abrir.,Aku buka ya.,커튼 열게.,Açıyorum.
+L025,S025,72600,75733,00:01:12:18,Aaaah! It’s too bright!,ぎゃあああ まぶしい,¡Aaaah! ¡Está demasiado brillante!,Aaaah! Está claro demais!,Aaaah! Terang banget!,으아아아! 너무 눈부셔!,Aaaah! Çok parlak!
+L026,S026,75733,77600,00:01:15:22,It’s just sunlight.,ただの朝日よ,Es solo la luz del sol.,É só a luz do sol.,Itu cuma sinar matahari.,그냥 아침 햇빛이야.,Bu sadece güneş ışığı.
+L027,S027,77600,80433,00:01:17:18,My eyes are burning!,目が焼けた,¡Se me están quemando los ojos!,Meus olhos estão queimando!,Mataku terbakar!,내 눈이 타 버렸어!,Gözlerim yanıyor!
+L028,S028,80433,82900,00:01:20:13,"No, they’re not.",焼けてないわよ,"No, no se te están quemando.","Não, não estão.",Nggak kok.,안 탔거든.,"Hayır, yanmıyor."
+L029,S029,82900,85067,00:01:22:27,This is abuse!,これは家庭内の暴力だ,¡Esto es abuso!,Isso é abuso!,Ini kekerasan!,이건 가정폭력이야!,Bu istismar!
+L030,S030,85067,87967,00:01:25:02,I only opened the curtains.,ただカーテンを開けただけでしょ,Solo abrí las cortinas.,Eu só abri as cortinas.,Aku cuma buka gorden.,난 그냥 커튼만 열었어.,Ben sadece perdeleri açtım.
+L031,S031,87967,90967,00:01:27:29,You destroyed my peace.,俺の平和を壊した,Destruiste mi paz.,Você destruiu a minha paz.,Kamu menghancurkan kedamaianku.,내 평화를 부쉈어.,Benim huzurumu mahvettin.
+L032,S032,90967,94467,00:01:30:29,This isn’t peace. You’re about to be late.,平和じゃないわよ 遅刻寸前よ,Esto no es paz. Estás a punto de llegar tarde.,Isso não é paz. Você está quase se atrasando.,Ini bukan kedamaian. Kamu sudah mau telat.,이건 평화가 아니야. 지각 직전이거든.,Bu huzur değil. Geç kalmak üzeresin.
+L033,S033,94467,97733,00:01:34:14,They should change the time for me.,バイト先が俺に合わせればいい,Ellos deberían cambiar la hora por mí.,Eles deviam mudar o horário por minha causa.,Mereka yang harus menyesuaikan jamnya denganku.,알바하는 데서 나한테 맞춰야지.,Onlar saati bana göre değiştirmeli.
+L034,S034,97733,100733,00:01:37:22,Why should they change it for you?,なんであんたに合わせるのよ,¿Por qué tendrían que cambiarla por ti?,Por que eles mudariam por sua causa?,Kenapa mereka harus menyesuaikannya untukmu?,왜 너한테 맞춰야 하는데?,Neden senin için değiştirsinler?
+L035,S035,100733,102733,00:01:40:22,I’m older.,俺は年上だぞ,Soy mayor.,Eu sou mais velho.,Aku lebih tua.,내가 더 나이 많잖아.,Ben daha yaşlıyım.
+L036,S036,102733,104433,00:01:42:22,You’re new there.,新人バイトでしょ,Eres nuevo allí.,Você é novato lá.,Kamu pegawai baru di sana.,너 거기 신입 알바잖아.,Sen orada yenisin.
+L037,S037,104433,107300,00:01:44:13,I’m a veteran in life.,人生ではベテランだ,Soy un veterano en la vida.,"Na vida, eu sou veterano.","Dalam hidup, aku veteran.",인생에서는 베테랑이야.,Hayatta veteranım.
+L038,S038,107300,109567,00:01:47:09,You’re still new at work.,仕事では新人よ,Pero en el trabajo sigues siendo nuevo.,"No trabalho, você ainda é novato.","Kalau dalam kerjaan, kamu masih baru.",일에서는 아직 신입이야.,İşte ise hâlâ yenisin.
+L039,S039,109567,112000,00:01:49:17,Please don’t say that.,それは言わないでくれ,"Por favor, no digas eso.","Por favor, não diga isso.",Tolong jangan bilang begitu.,그 말은 하지 말아 줘.,Lütfen öyle söyleme.
+L040,S040,112000,114267,00:01:52:00,Hurry up and get dressed.,早く着替えなさい,Date prisa y vístete.,Anda logo e vai se vestir.,Cepat ganti baju.,빨리 옷 갈아입어.,Hadi çabuk giyin.
+L041,S041,114267,117100,00:01:54:08,I feel sick today.,今日は体調が悪い,Hoy me siento mal.,Hoje eu estou me sentindo mal.,Hari ini aku merasa sakit.,오늘은 몸 상태가 안 좋아.,Bugün kendimi hasta hissediyorum.
+L042,S042,117100,119000,00:01:57:03,What’s wrong?,どこが悪いの,¿Qué te pasa?,O que você tem?,Apa yang sakit?,어디가 안 좋은데?,Neyin var?
+L043,S043,119000,122233,00:01:59:00,My will to work is dying.,働く気持ちが弱ってる,Mis ganas de trabajar se están muriendo.,Minha vontade de trabalhar está morrendo.,Semangat kerjaku sedang sekarat.,일할 마음이 죽어 가고 있어.,Çalışma isteğim ölüyor.
+L044,S044,122233,124567,00:02:02:07,That’s not an illness.,それは病気じゃないわよ,Eso no es una enfermedad.,Isso não é doença.,Itu bukan penyakit.,그건 병이 아니야.,Bu hastalık değil.
+L045,S045,124567,126833,00:02:04:17,It’s a serious condition.,重症だ,Es una condición grave.,É um problema grave.,Itu kondisi yang serius.,중증이야.,Bu ciddi bir durum.
+L046,S046,126833,129167,00:02:06:25,You have no money.,お金ないでしょ,No tienes dinero.,Você não tem dinheiro.,Kamu tidak punya uang.,돈 없잖아.,Hiç paran yok.
+L047,S047,129167,131000,00:02:09:05,"Yes, I do.",ある,"Sí, sí tengo.",Tenho sim.,Punya kok.,있거든.,Var.
+L048,S048,131000,133233,00:02:11:00,How much do you have?,いくらあるの,¿Cuánto tienes?,Quanto você tem?,Berapa?,얼마나 있는데?,Ne kadar var?
+L049,S049,133233,135800,00:02:13:07,I have some coins.,小銭ならある,Tengo algunas monedas.,Eu tenho algumas moedas.,Aku punya beberapa koin.,잔돈 정도는 있어.,Biraz bozuk param var.
+L050,S050,135800,137533,00:02:15:24,How much?,いくら,¿Cuánto?,Quanto?,Berapa?,얼마?,Ne kadar?
+L051,S051,137533,140067,00:02:17:16,Three dollars.,3ドル,Tres dólares.,Três dólares.,Tiga dolar.,3달러.,Üç dolar.
+L052,S052,140067,142600,00:02:20:02,How are you going to live on that?,それでどうやって暮らすのよ,¿Y cómo vas a vivir con eso?,Como é que você vai viver com isso?,Memangnya kamu mau hidup dari itu?,그걸로 어떻게 살 건데?,Onunla nasıl yaşayacaksın?
+L053,S053,142600,145067,00:02:22:18,I’ll live on hope.,希望を持って暮らす,Viviré de la esperanza.,Vou viver de esperança.,Aku akan hidup dengan harapan.,희망을 가지고 살 거야.,Umutla yaşayacağım.
+L054,S054,145067,147533,00:02:25:02,Hope won’t pay the rent.,希望じゃ家賃は払えないわよ,La esperanza no paga la renta.,Esperança não paga o aluguel.,Harapan tidak bisa bayar sewa.,희망으로는 월세 못 내.,Umut kirayı ödemez.
+L055,S055,147533,150067,00:02:27:16,Then hope isn’t worth much.,じゃあ希望の価値が低すぎる,Entonces la esperanza vale muy poco.,Então a esperança não vale muita coisa.,Kalau begitu nilai harapan terlalu rendah.,그럼 희망의 가치가 너무 낮네.,O zaman umudun pek değeri yokmuş.
+L056,S056,150067,152100,00:02:30:02,Just get up.,いいから起きなさい,Solo levántate.,Só levanta.,Pokoknya bangun.,됐고 일어나.,Hadi kalk artık.
+L057,S057,152100,155067,00:02:32:03,Fine. I’ll get up.,わかった 起きる,Está bien. Me levantaré.,Tá bom. Eu vou levantar.,Baiklah. Aku bangun.,알았어. 일어날게.,Tamam. Kalkacağım.
+L058,S058,155067,158033,00:02:35:02,"But first, breakfast.",その前に朝ごはん,"Pero primero, el desayuno.","Mas antes, café da manhã.","Tapi pertama, sarapan.",그전에 아침밥.,Ama önce kahvaltı.
+L059,S059,158033,160633,00:02:38:01,Wash your face first.,先に顔を洗いなさい,Primero lávate la cara.,Primeiro vai lavar o rosto.,Cuci muka dulu.,먼저 세수부터 해.,Önce yüzünü yıka.
+L060,S060,160633,163833,00:02:40:19,Bring my breakfast to my bed.,朝ごはんをベッドまで持ってきてくれ,Tráeme el desayuno a la cama.,Traga meu café da manhã até a cama.,Bawa sarapanku ke tempat tidur.,아침밥을 침대까지 가져다줘.,Kahvaltımı yatağıma getir.
+L061,S061,163833,166000,00:02:43:25,You’re sixty-three.,あんたは63歳でしょ,Tienes sesenta y tres años.,Você tem sessenta e três anos.,Umurmu enam puluh tiga.,너 예순셋이잖아.,Altmış üç yaşındasın.
+L062,S062,166000,168800,00:02:46:00,Then people should carry me.,だから運ぶ側じゃなくて 運ばれる側だ,Entonces la gente debería cargarme a mí.,Então as pessoas é que deviam me carregar.,Jadi orang-orang seharusnya mengangkatku.,그러니까 내가 들고 가는 쪽이 아니라 들려 가는 쪽이지.,O zaman beni insanların taşıması gerekir.
+L063,S063,168800,171000,00:02:48:24,Go downstairs.,階段を降りなさい,Baja las escaleras.,Desce as escadas.,Turun ke bawah.,계단 내려가.,Aşağı in.
+L064,S064,171000,174367,00:02:51:00,This house has terrible service.,この家はサービスが悪いな,Esta casa tiene un servicio terrible.,Esta casa tem um serviço horrível.,Rumah ini pelayanannya buruk sekali.,이 집은 서비스가 너무 별로야.,Bu evin hizmeti berbat.
+L065,S065,174367,176400,00:02:54:11,Then move out.,じゃあ出て行けばいいでしょ,Entonces múdate.,Então vai embora daqui.,Kalau begitu pindah saja.,그럼 나가서 살아.,O zaman taşın git.
+L066,S066,176400,179400,00:02:56:12,That’s a different matter.,それはまた別の話だ,Ese es otro asunto.,Isso é outra história.,Itu urusan lain.,그건 또 다른 문제야.,O başka mesele.
