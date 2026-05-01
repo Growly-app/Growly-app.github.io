@@ -1,0 +1,33 @@
+{
+  "id": "ECA-005",
+  "titleJa": "起きるのを拒否するジジイ",
+  "titleEn": "The Old Man Who Refuses to Wake Up",
+  "titleEs": "El viejo que se niega a despertarse",
+  "titlePt": "O Velho que se Recusa a Acordar",
+  "titleId": "Lelaki Tua yang Menolak Bangun",
+  "titleKo": "일어나기를 거부하는 지지이",
+  "titleTr": "Uyanmayı Reddeden Yaşlı Adam",
+  "tagline": "ID:ECA-005",
+  "description": "",
+  "youtubeUrl": "https://youtu.be/pr3-jL4Pr80",
+  "difficulty": "intermediate",
+  "videoFile": "ECA-005.mp4",
+  "cuesFile": "dialogue.csv",
+  "thumbnailFile": "ECA-005.png",
+  "thumbnailListFile": "eca005_9_16.png",
+  "quizTermsFile": "ECA-005_quiz.json",
+  "reorderListeningLineIds": [
+    "L007",
+    "L012",
+    "L018",
+    "L021",
+    "L026",
+    "L031",
+    "L037",
+    "L041",
+    "L054",
+    "L064"
+  ],
+  "contentBaseUrl": "https://growly-app.github.io/stories/ECA-005/",
+  "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/ECA-005/ECA-005.mp4"
+}
