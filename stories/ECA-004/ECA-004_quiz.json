@@ -1,0 +1,1065 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "QT001",
+      "lineId": "L005",
+      "termEn": "take good care of",
+      "correctJa": "大切に扱う",
+      "incorrectJa": [
+        "修理する",
+        "持ち上げる",
+        "失くす"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "cuidar bien",
+          "incorrect": [
+            "reparar",
+            "levantar",
+            "perder"
+          ]
+        },
+        "pt": {
+          "correct": "cuidar bem",
+          "incorrect": [
+            "consertar",
+            "levantar",
+            "perder"
+          ]
+        },
+        "id": {
+          "correct": "merawat dengan baik",
+          "incorrect": [
+            "memperbaiki",
+            "mengangkat",
+            "kehilangan"
+          ]
+        },
+        "ko": {
+          "correct": "소중히 다루다",
+          "incorrect": [
+            "수리하다",
+            "들어 올리다",
+            "잃어버리다"
+          ]
+        },
+        "tr": {
+          "correct": "iyi bakmak",
+          "incorrect": [
+            "tamir etmek",
+            "kaldırmak",
+            "kaybetmek"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT002",
+      "lineId": "L008",
+      "termEn": "slipped",
+      "correctJa": "すべった",
+      "incorrectJa": [
+        "転んだ",
+        "落ちた",
+        "飛んだ"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "resbaló",
+          "incorrect": [
+            "se cayó",
+            "cayó",
+            "voló"
+          ]
+        },
+        "pt": {
+          "correct": "escorregou",
+          "incorrect": [
+            "tropeçou",
+            "caiu",
+            "voou"
+          ]
+        },
+        "id": {
+          "correct": "terpeleset",
+          "incorrect": [
+            "terjatuh",
+            "jatuh",
+            "terbang"
+          ]
+        },
+        "ko": {
+          "correct": "미끄러졌다",
+          "incorrect": [
+            "넘어졌다",
+            "떨어졌다",
+            "날아갔다"
+          ]
+        },
+        "tr": {
+          "correct": "kaydı",
+          "incorrect": [
+            "devrildi",
+            "düştü",
+            "uçtu"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT003",
+      "lineId": "L011",
+      "termEn": "sank",
+      "correctJa": "沈んだ",
+      "incorrectJa": [
+        "浮かんだ",
+        "落ちた",
+        "流れた"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "se hundió",
+          "incorrect": [
+            "flotó",
+            "cayó",
+            "fluyó"
+          ]
+        },
+        "pt": {
+          "correct": "afundou",
+          "incorrect": [
+            "flutuou",
+            "caiu",
+            "fluiu"
+          ]
+        },
+        "id": {
+          "correct": "tenggelam",
+          "incorrect": [
+            "mengapung",
+            "jatuh",
+            "mengalir"
+          ]
+        },
+        "ko": {
+          "correct": "가라앉았다",
+          "incorrect": [
+            "떠올랐다",
+            "떨어졌다",
+            "흘러갔다"
+          ]
+        },
+        "tr": {
+          "correct": "battı",
+          "incorrect": [
+            "yüzdü",
+            "düştü",
+            "aktı"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT004",
+      "lineId": "L019",
+      "termEn": "glow",
+      "correctJa": "光る",
+      "incorrectJa": [
+        "揺れる",
+        "沈む",
+        "響く"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "brillar",
+          "incorrect": [
+            "moverse",
+            "hundirse",
+            "resonar"
+          ]
+        },
+        "pt": {
+          "correct": "brilhar",
+          "incorrect": [
+            "balançar",
+            "afundar",
+            "ecoar"
+          ]
+        },
+        "id": {
+          "correct": "bersinar",
+          "incorrect": [
+            "bergoyang",
+            "tenggelam",
+            "bergema"
+          ]
+        },
+        "ko": {
+          "correct": "빛나다",
+          "incorrect": [
+            "흔들리다",
+            "가라앉다",
+            "울리다"
+          ]
+        },
+        "tr": {
+          "correct": "parlamak",
+          "incorrect": [
+            "sallanmak",
+            "batmak",
+            "yankılanmak"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT005",
+      "lineId": "L021",
+      "termEn": "fairy",
+      "correctJa": "妖精",
+      "incorrectJa": [
+        "魔女",
+        "女王",
+        "王女"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "hada",
+          "incorrect": [
+            "bruja",
+            "reina",
+            "princesa"
+          ]
+        },
+        "pt": {
+          "correct": "fada",
+          "incorrect": [
+            "bruxa",
+            "rainha",
+            "princesa"
+          ]
+        },
+        "id": {
+          "correct": "peri",
+          "incorrect": [
+            "penyihir",
+            "ratu",
+            "putri"
+          ]
+        },
+        "ko": {
+          "correct": "요정",
+          "incorrect": [
+            "마녀",
+            "여왕",
+            "공주"
+          ]
+        },
+        "tr": {
+          "correct": "peri",
+          "incorrect": [
+            "cadı",
+            "kraliçe",
+            "prenses"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT006",
+      "lineId": "L025",
+      "termEn": "shook his head",
+      "correctJa": "首を横に振った",
+      "incorrectJa": [
+        "うなずいた",
+        "手を振った",
+        "顔を上げた"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "negó con la cabeza",
+          "incorrect": [
+            "asintió",
+            "saludó con la mano",
+            "levantó la cara"
+          ]
+        },
+        "pt": {
+          "correct": "negou com a cabeça",
+          "incorrect": [
+            "assentiu",
+            "acenou com a mão",
+            "levantou o rosto"
+          ]
+        },
+        "id": {
+          "correct": "menggelengkan kepala",
+          "incorrect": [
+            "mengangguk",
+            "melambaikan tangan",
+            "mengangkat wajah"
+          ]
+        },
+        "ko": {
+          "correct": "고개를 저었다",
+          "incorrect": [
+            "고개를 끄덕였다",
+            "손을 흔들었다",
+            "고개를 들었다"
+          ]
+        },
+        "tr": {
+          "correct": "başını iki yana salladı",
+          "incorrect": [
+            "başını onaylarcasına salladı",
+            "el salladı",
+            "başını kaldırdı"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT007",
+      "lineId": "L028",
+      "termEn": "held his breath",
+      "correctJa": "息を殺した",
+      "incorrectJa": [
+        "深呼吸した",
+        "ため息をついた",
+        "声を上げた"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "contuvo la respiración",
+          "incorrect": [
+            "respiró hondo",
+            "suspiró",
+            "levantó la voz"
+          ]
+        },
+        "pt": {
+          "correct": "prendeu a respiração",
+          "incorrect": [
+            "respirou fundo",
+            "suspirou",
+            "levantou a voz"
+          ]
+        },
+        "id": {
+          "correct": "menahan napas",
+          "incorrect": [
+            "menarik napas dalam-dalam",
+            "menghela napas",
+            "meninggikan suara"
+          ]
+        },
+        "ko": {
+          "correct": "숨을 죽였다",
+          "incorrect": [
+            "깊게 숨을 들이쉬었다",
+            "한숨을 쉬었다",
+            "목소리를 높였다"
+          ]
+        },
+        "tr": {
+          "correct": "nefesini tuttu",
+          "incorrect": [
+            "derin nefes aldı",
+            "iç çekti",
+            "sesini yükseltti"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT008",
+      "lineId": "L039",
+      "termEn": "honest",
+      "correctJa": "正直な",
+      "incorrectJa": [
+        "親切な",
+        "真面目な",
+        "静かな"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "honesto",
+          "incorrect": [
+            "amable",
+            "serio",
+            "tranquilo"
+          ]
+        },
+        "pt": {
+          "correct": "honesto",
+          "incorrect": [
+            "gentil",
+            "sério",
+            "quieto"
+          ]
+        },
+        "id": {
+          "correct": "jujur",
+          "incorrect": [
+            "baik hati",
+            "serius",
+            "tenang"
+          ]
+        },
+        "ko": {
+          "correct": "정직한",
+          "incorrect": [
+            "친절한",
+            "성실한",
+            "조용한"
+          ]
+        },
+        "tr": {
+          "correct": "dürüst",
+          "incorrect": [
+            "nazik",
+            "ciddi",
+            "sessiz"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT009",
+      "lineId": "L041",
+      "termEn": "received",
+      "correctJa": "受け取った",
+      "incorrectJa": [
+        "渡した",
+        "失った",
+        "選んだ"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "recibió",
+          "incorrect": [
+            "entregó",
+            "perdió",
+            "eligió"
+          ]
+        },
+        "pt": {
+          "correct": "recebeu",
+          "incorrect": [
+            "entregou",
+            "perdeu",
+            "escolheu"
+          ]
+        },
+        "id": {
+          "correct": "menerima",
+          "incorrect": [
+            "menyerahkan",
+            "kehilangan",
+            "memilih"
+          ]
+        },
+        "ko": {
+          "correct": "받았다",
+          "incorrect": [
+            "건넸다",
+            "잃었다",
+            "골랐다"
+          ]
+        },
+        "tr": {
+          "correct": "aldı",
+          "incorrect": [
+            "verdi",
+            "kaybetti",
+            "seçti"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT010",
+      "lineId": "L053",
+      "termEn": "practice",
+      "correctJa": "練習する",
+      "incorrectJa": [
+        "確認する",
+        "休む",
+        "準備する"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "practicar",
+          "incorrect": [
+            "confirmar",
+            "descansar",
+            "preparar"
+          ]
+        },
+        "pt": {
+          "correct": "praticar",
+          "incorrect": [
+            "confirmar",
+            "descansar",
+            "preparar"
+          ]
+        },
+        "id": {
+          "correct": "berlatih",
+          "incorrect": [
+            "memastikan",
+            "beristirahat",
+            "bersiap"
+          ]
+        },
+        "ko": {
+          "correct": "연습하다",
+          "incorrect": [
+            "확인하다",
+            "쉬다",
+            "준비하다"
+          ]
+        },
+        "tr": {
+          "correct": "pratik yapmak",
+          "incorrect": [
+            "kontrol etmek",
+            "dinlenmek",
+            "hazırlanmak"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT011",
+      "lineId": "L069",
+      "termEn": "on purpose",
+      "correctJa": "わざと",
+      "incorrectJa": [
+        "偶然に",
+        "静かに",
+        "すぐに"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "a propósito",
+          "incorrect": [
+            "por casualidad",
+            "en silencio",
+            "enseguida"
+          ]
+        },
+        "pt": {
+          "correct": "de propósito",
+          "incorrect": [
+            "por acaso",
+            "em silêncio",
+            "imediatamente"
+          ]
+        },
+        "id": {
+          "correct": "sengaja",
+          "incorrect": [
+            "kebetulan",
+            "dengan tenang",
+            "segera"
+          ]
+        },
+        "ko": {
+          "correct": "일부러",
+          "incorrect": [
+            "우연히",
+            "조용히",
+            "바로"
+          ]
+        },
+        "tr": {
+          "correct": "bilerek",
+          "incorrect": [
+            "tesadüfen",
+            "sessizce",
+            "hemen"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT012",
+      "lineId": "L070",
+      "termEn": "pretend",
+      "correctJa": "ふりをする",
+      "incorrectJa": [
+        "信じる",
+        "選ぶ",
+        "探す"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "fingir",
+          "incorrect": [
+            "creer",
+            "elegir",
+            "buscar"
+          ]
+        },
+        "pt": {
+          "correct": "fingir",
+          "incorrect": [
+            "acreditar",
+            "escolher",
+            "procurar"
+          ]
+        },
+        "id": {
+          "correct": "berpura-pura",
+          "incorrect": [
+            "percaya",
+            "memilih",
+            "mencari"
+          ]
+        },
+        "ko": {
+          "correct": "척하다",
+          "incorrect": [
+            "믿다",
+            "고르다",
+            "찾다"
+          ]
+        },
+        "tr": {
+          "correct": "numara yapmak",
+          "incorrect": [
+            "inanmak",
+            "seçmek",
+            "aramak"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT013",
+      "lineId": "L076",
+      "termEn": "precious",
+      "correctJa": "大切な",
+      "incorrectJa": [
+        "古い",
+        "重い",
+        "危険な"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "preciado",
+          "incorrect": [
+            "viejo",
+            "pesado",
+            "peligroso"
+          ]
+        },
+        "pt": {
+          "correct": "precioso",
+          "incorrect": [
+            "velho",
+            "pesado",
+            "perigoso"
+          ]
+        },
+        "id": {
+          "correct": "berharga",
+          "incorrect": [
+            "tua",
+            "berat",
+            "berbahaya"
+          ]
+        },
+        "ko": {
+          "correct": "소중한",
+          "incorrect": [
+            "낡은",
+            "무거운",
+            "위험한"
+          ]
+        },
+        "tr": {
+          "correct": "değerli",
+          "incorrect": [
+            "eski",
+            "ağır",
+            "tehlikeli"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT014",
+      "lineId": "L091",
+      "termEn": "offered",
+      "correctJa": "差し出した",
+      "incorrectJa": [
+        "受け取った",
+        "見せた",
+        "隠した"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "ofreció",
+          "incorrect": [
+            "recibió",
+            "mostró",
+            "escondió"
+          ]
+        },
+        "pt": {
+          "correct": "ofereceu",
+          "incorrect": [
+            "recebeu",
+            "mostrou",
+            "escondeu"
+          ]
+        },
+        "id": {
+          "correct": "menawarkan",
+          "incorrect": [
+            "menerima",
+            "menunjukkan",
+            "menyembunyikan"
+          ]
+        },
+        "ko": {
+          "correct": "내밀었다",
+          "incorrect": [
+            "받았다",
+            "보여 주었다",
+            "숨겼다"
+          ]
+        },
+        "tr": {
+          "correct": "sundu",
+          "incorrect": [
+            "aldı",
+            "gösterdi",
+            "sakladı"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT015",
+      "lineId": "L098",
+      "termEn": "rich",
+      "correctJa": "金持ちの",
+      "incorrectJa": [
+        "貧しい",
+        "有名な",
+        "忙しい"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "rico",
+          "incorrect": [
+            "pobre",
+            "famoso",
+            "ocupado"
+          ]
+        },
+        "pt": {
+          "correct": "rico",
+          "incorrect": [
+            "pobre",
+            "famoso",
+            "ocupado"
+          ]
+        },
+        "id": {
+          "correct": "kaya",
+          "incorrect": [
+            "miskin",
+            "terkenal",
+            "sibuk"
+          ]
+        },
+        "ko": {
+          "correct": "부유한",
+          "incorrect": [
+            "가난한",
+            "유명한",
+            "바쁜"
+          ]
+        },
+        "tr": {
+          "correct": "zengin",
+          "incorrect": [
+            "fakir",
+            "ünlü",
+            "meşgul"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT016",
+      "lineId": "L107",
+      "termEn": "investment",
+      "correctJa": "投資",
+      "incorrectJa": [
+        "貯金",
+        "借金",
+        "報酬"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "inversión",
+          "incorrect": [
+            "ahorro",
+            "deuda",
+            "recompensa"
+          ]
+        },
+        "pt": {
+          "correct": "investimento",
+          "incorrect": [
+            "poupança",
+            "dívida",
+            "recompensa"
+          ]
+        },
+        "id": {
+          "correct": "investasi",
+          "incorrect": [
+            "tabungan",
+            "utang",
+            "hadiah"
+          ]
+        },
+        "ko": {
+          "correct": "투자",
+          "incorrect": [
+            "저금",
+            "빚",
+            "보상"
+          ]
+        },
+        "tr": {
+          "correct": "yatırım",
+          "incorrect": [
+            "birikim",
+            "borç",
+            "ödül"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT017",
+      "lineId": "L108",
+      "termEn": "piled",
+      "correctJa": "積まれた",
+      "incorrectJa": [
+        "並べられた",
+        "隠された",
+        "運ばれた"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "apiladas",
+          "incorrect": [
+            "alineadas",
+            "escondidas",
+            "transportadas"
+          ]
+        },
+        "pt": {
+          "correct": "empilhadas",
+          "incorrect": [
+            "alinhadas",
+            "escondidas",
+            "transportadas"
+          ]
+        },
+        "id": {
+          "correct": "ditumpuk",
+          "incorrect": [
+            "disusun",
+            "disembunyikan",
+            "diangkut"
+          ]
+        },
+        "ko": {
+          "correct": "쌓였다",
+          "incorrect": [
+            "나란히 놓였다",
+            "숨겨졌다",
+            "운반되었다"
+          ]
+        },
+        "tr": {
+          "correct": "yığılmış",
+          "incorrect": [
+            "sıralanmış",
+            "saklanmış",
+            "taşınmış"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT018",
+      "lineId": "L113",
+      "termEn": "too much work",
+      "correctJa": "手間がかかりすぎる",
+      "incorrectJa": [
+        "簡単すぎる",
+        "お金がかかりすぎる",
+        "危険すぎる"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "demasiado trabajo",
+          "incorrect": [
+            "demasiado fácil",
+            "demasiado caro",
+            "demasiado peligroso"
+          ]
+        },
+        "pt": {
+          "correct": "dá trabalho demais",
+          "incorrect": [
+            "fácil demais",
+            "caro demais",
+            "perigoso demais"
+          ]
+        },
+        "id": {
+          "correct": "terlalu merepotkan",
+          "incorrect": [
+            "terlalu mudah",
+            "terlalu mahal",
+            "terlalu berbahaya"
+          ]
+        },
+        "ko": {
+          "correct": "손이 너무 많이 간다",
+          "incorrect": [
+            "너무 쉽다",
+            "돈이 너무 많이 든다",
+            "너무 위험하다"
+          ]
+        },
+        "tr": {
+          "correct": "çok zahmetli",
+          "incorrect": [
+            "çok kolay",
+            "çok pahalı",
+            "çok tehlikeli"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT019",
+      "lineId": "L115",
+      "termEn": "one after another",
+      "correctJa": "次々と",
+      "incorrectJa": [
+        "一度だけ",
+        "ゆっくりと",
+        "静かに"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "una tras otra",
+          "incorrect": [
+            "solo una vez",
+            "lentamente",
+            "en silencio"
+          ]
+        },
+        "pt": {
+          "correct": "um após o outro",
+          "incorrect": [
+            "apenas uma vez",
+            "devagar",
+            "em silêncio"
+          ]
+        },
+        "id": {
+          "correct": "satu demi satu",
+          "incorrect": [
+            "hanya sekali",
+            "perlahan",
+            "dengan tenang"
+          ]
+        },
+        "ko": {
+          "correct": "차례차례",
+          "incorrect": [
+            "한 번만",
+            "천천히",
+            "조용히"
+          ]
+        },
+        "tr": {
+          "correct": "arka arkaya",
+          "incorrect": [
+            "sadece bir kez",
+            "yavaşça",
+            "sessizce"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT020",
+      "lineId": "L129",
+      "termEn": "spent",
+      "correctJa": "使った",
+      "incorrectJa": [
+        "貯めた",
+        "借りた",
+        "受け取った"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "gastó",
+          "incorrect": [
+            "ahorró",
+            "pidió prestado",
+            "recibió"
+          ]
+        },
+        "pt": {
+          "correct": "gastou",
+          "incorrect": [
+            "economizou",
+            "pegou emprestado",
+            "recebeu"
+          ]
+        },
+        "id": {
+          "correct": "menghabiskan",
+          "incorrect": [
+            "menabung",
+            "meminjam",
+            "menerima"
+          ]
+        },
+        "ko": {
+          "correct": "썼다",
+          "incorrect": [
+            "모았다",
+            "빌렸다",
+            "받았다"
+          ]
+        },
+        "tr": {
+          "correct": "harcadı",
+          "incorrect": [
+            "biriktirdi",
+            "ödünç aldı",
+            "aldı"
+          ]
+        }
+      }
+    }
+  ]
+}
