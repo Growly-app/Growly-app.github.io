@@ -15,7 +15,7 @@
   "cuesFile": "dialogue.csv",
   "thumbnailFile": "ECA-004.png",
   "thumbnailListFile": "eca004_9_16.png",
-  "quizTermsFile": "ECA-004_quiz.json",
+  "quizTermsFile": "quiz.json",
   "reorderListeningLineIds": [
     "L008",
     "L019",
