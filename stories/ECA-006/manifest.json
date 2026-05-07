@@ -1,0 +1,33 @@
+{
+  "id": "ECA-006",
+  "titleJa": "朝食に文句しか言わないジジイ",
+  "titleEn": "The Old Man Who Does Nothing but Complain About Breakfast",
+  "titleEs": "El viejo que no hace más que quejarse del desayuno",
+  "titlePt": "O Velho que Só Reclama do Café da Manhã",
+  "titleId": "Lelaki Tua yang Hanya Mengeluh tentang Sarapan",
+  "titleKo": "아침밥에 불평만 하는 지지이",
+  "titleTr": "Kahvaltıya Sürekli Şikâyet Eden Yaşlı Adam",
+  "tagline": "ID:ECA-006",
+  "description": "",
+  "youtubeUrl": "https://youtu.be/Xv4L6FT-3tg",
+  "difficulty": "intermediate",
+  "videoFile": "ECA-006.mp4",
+  "cuesFile": "dialogue.csv",
+  "thumbnailFile": "ECA-006.png",
+  "thumbnailListFile": "eca006_9_16.png",
+  "quizTermsFile": "ECA-006_quiz.json",
+  "reorderListeningLineIds": [
+    "L005",
+    "L006",
+    "L012",
+    "L019",
+    "L020",
+    "L026",
+    "L037",
+    "L045",
+    "L056",
+    "L065"
+  ],
+  "contentBaseUrl": "https://growly-app.github.io/stories/ECA-006/",
+  "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/ECA-006/ECA-006.mp4"
+}
