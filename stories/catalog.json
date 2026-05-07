@@ -7,9 +7,11 @@
     "ECA-002",
     "ECA-003",
     "ECA-004",
-    "ECA-005"
+    "ECA-005",
+    "ECA-006"
   ],
   "newArrivalsOrder": [
+    "ECA-006",
     "ECA-005",
     "ECA-004",
     "ECA-003",
@@ -19,6 +21,7 @@
     "001"
   ],
   "top10Order": [
+    "ECA-006",
     "ECA-005",
     "ECA-004",
     "ECA-003",
