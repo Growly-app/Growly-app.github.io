@@ -1,71 +1,71 @@
 ﻿line_id,scene_id,start_ms,end_ms,start_tc,en,ja,es,pt,id,ko,tr
-L001,S001,2000,5433,00:00:02:00,I'm so hungry I could die.,お腹が減った死にそうだ
-L002,S002,5433,9433,00:00:05:13,I'm making it now. Wait a little longer.,今作ってるからもう少し待って
-L003,S003,9433,14400,00:00:09:13,I can't wait. I'll pass out in ten seconds.,もう待てない あと10秒で倒れる
-L004,S004,14400,17400,00:00:14:12,Then pass out and be quiet.,じゃあ倒れて静かにしてて
-L005,S005,17400,20967,00:00:17:12,The service here is slow.,この店はサービスが遅いな
-L006,S006,20967,23733,00:00:20:29,This is not a restaurant.,ここはレストランじゃないわよ
-L007,S007,23733,29067,00:00:23:22,"If you make me wait too long, I'll leave a review.",長い時間待たされるとレビューを書いてやる
-L008,S008,29067,32667,00:00:29:02,Be quiet. You still haven't passed out.,うるさいわ なかなか倒れないわね
-L009,S009,32667,35500,00:00:32:20,Zero stars.,星ゼロだ
-L010,S010,35500,37867,00:00:35:15,You still look fine.,まだ元気そうね
-L011,S011,37867,40467,00:00:37:26,I want coffee.,コーヒーが飲みたい
-L012,S012,40467,43200,00:00:40:14,We have instant coffee.,インスタントコーヒーならあるわよ
-L013,S013,43200,48000,00:00:43:06,Instant? I want freshly ground coffee!,インスタント？豆から挽いたコーヒーが飲みたい
-L014,S014,48000,50800,00:00:48:00,This is not a cafe.,ここはカフェじゃないのよ
-L015,S015,50800,54967,00:00:50:24,Then you should turn this place into a cafe.,じゃあカフェにするべきだ
-L016,S016,54967,57367,00:00:54:29,Who's going to do that?,誰がやるのよ
-L017,S017,57367,60433,00:00:57:11,"You, of course.",もちろん君だ
-L018,S018,60433,62900,00:01:00:13,I'm not doing that.,やらないわよ
-L019,S019,62900,66000,00:01:02:27,The service here is terrible.,サービスの質が低すぎる
-L020,S020,66000,68733,00:01:06:00,All you do is complain.,文句ばっかりね
-L021,S021,68733,71600,00:01:08:22,Mornings are important.,朝は大事なんだ
-L022,S022,71600,73967,00:01:11:18,Then make your own.,じゃあ自分で淹れなさい
-L023,S023,73967,77800,00:01:13:29,You want a customer to make his own coffee?,客にコーヒーを淹れさせるのか
-L024,S024,77800,80600,00:01:17:24,You are not a customer.,あなたは客じゃないわ
-L025,S025,80600,83667,00:01:20:18,What kind of place is this?,信じられない店だ
-L026,S026,83667,86900,00:01:23:20,"By the way, what are you making?",ところで 今何を作っている
-L027,S027,86900,88900,00:01:26:27,Breakfast.,朝ごはんよ
-L028,S028,88900,91467,00:01:28:27,I can see that.,それは見ればわかる
-L029,S029,91467,93700,00:01:31:14,Then don't ask.,じゃあ聞かないで
-L030,S030,93700,96933,00:01:33:21,I'm asking what you're cooking.,なんの料理を作っているか聞いている
-L031,S031,96933,99167,00:01:36:28,Scrambled eggs.,スクランブルエッグよ
-L032,S032,99167,101000,00:01:39:05,That's it?,それだけか
-L033,S033,101000,103000,00:01:41:00,That's it.,それだけよ
-L034,S034,103000,106667,00:01:43:00,How many eggs are you using?,卵は何個使ってる
-L035,S035,106667,108300,00:01:46:20,One.,一つよ
-L036,S036,108300,111033,00:01:48:09,One? I need two.,一つ？二つ必要だ
-L037,S037,111033,114200,00:01:51:01,One is enough.,一つで十分
-L038,S038,114200,117000,00:01:54:06,I need energy to work.,働くにはエネルギーがいる
-L039,S039,117000,119667,00:01:57:00,Say that after you work.,まず働いてから言いなさい
-L040,S040,119667,124100,00:01:59:20,"So, what time does my shift start today?",それにしても 今日のバイトは何時からだ
-L041,S041,124100,126867,00:02:04:03,"At nine, remember?",9時からでしょ
-L042,S042,126867,130900,00:02:06:26,Nine on my first day is too much.,初日から9時は厳しすぎる
-L043,S043,130900,133333,00:02:10:27,It's not that hard.,厳しいことはないでしょ
-L044,S044,133333,136700,00:02:13:10,You should be kind to new workers.,新人には優しさが必要だ
-L045,S045,136700,139467,00:02:16:21,"First, get there on time.",まず時間通りに行きなさい
-L046,S046,139467,142600,00:02:19:14,"So, where am I working?",それで 俺はどこで働くんだ
-L047,S047,142600,145433,00:02:22:18,At a fast-food restaurant.,ファストフード店でしょ
-L048,S048,145433,147833,00:02:25:13,Not bad.,悪くないな
-L049,S049,147833,150567,00:02:27:25,You're suddenly positive.,急に前向きね
-L050,S050,150567,155600,00:02:30:17,"If I work around food, I won't go hungry.",飲食店なら腹が減っても困らない
-L051,S051,155600,158533,00:02:35:18,Don't just eat the food.,勝手に食べちゃだめよ
-L052,S052,158533,161600,00:02:38:16,I'll just taste it a little.,少し確認するだけだ
-L053,S053,161600,163600,00:02:41:18,Check what?,何を確認するのよ
-L054,S054,163600,165967,00:02:43:18,The taste.,味だ
-L055,S055,165967,168700,00:02:45:29,That's sneaking bites.,それはつまみ食いよ
-L056,S056,168700,171733,00:02:48:21,It's quality control.,品質チェックだ
-L057,S057,171733,174567,00:02:51:22,A new worker doesn't do that.,新人がやることじゃないわ
-L058,S058,174567,178233,00:02:54:17,I understand how customers feel.,俺は客の気持ちがわかる
-L059,S059,178233,180767,00:02:58:07,You just want to eat.,食べたいだけでしょ
-L060,S060,180767,184133,00:03:00:23,"First, learn how to make toast at home.",まず家のトーストを焼けるようになりなさい
-L061,S061,184133,186800,00:03:04:04,Toast is easy.,トーストくらい簡単だ
-L062,S062,186800,189267,00:03:06:24,Don't set it too high.,強くしすぎないでね
-L063,S063,189267,192300,00:03:09:08,Higher means faster.,強い方が早い
-L064,S064,192300,194333,00:03:12:09,Don't do that.,やめなさい
-L065,S065,194333,196933,00:03:14:10,I'm saving time.,時間を節約しているんだ
-L066,S066,196933,202000,00:03:16:28,It will burn.,焦げるわよ
-L067,S067,202000,205233,00:03:22:00,Is this toaster broken?,このトースター壊れてるんじゃないか
-L068,S068,205233,209067,00:03:25:07,The toaster isn't broken. Your head is.,壊れているのはあなたの頭のほうね
-L069,S069,209067,212500,00:03:29:02,I'm hurt. I don't think I can work today.,傷ついた 今日は働けそうにない
-L070,S070,212500,215367,00:03:32:15,Just eat quickly and get ready.,いいから早く食べて準備しなさい
+L001,S001,2000,5433,00:00:02:00,I'm so hungry I could die.,お腹が減った死にそうだ,Tengo tanta hambre que podría morir.,Estou com tanta fome que posso morrer.,Aku lapar sekali sampai rasanya bisa mati.,배가 너무 고파서 죽을 것 같아.,Açlıktan ölebilirim.
+L002,S002,5433,9433,00:00:05:13,I'm making it now. Wait a little longer.,今作ってるからもう少し待って,Lo estoy preparando ahora. Espera un poco más.,Estou fazendo agora. Espera só mais um pouco.,Aku sedang membuatnya sekarang. Tunggu sebentar lagi.,지금 만들고 있으니까 조금만 더 기다려.,Şimdi yapıyorum. Biraz daha bekle.
+L003,S003,9433,14400,00:00:09:13,I can't wait. I'll pass out in ten seconds.,もう待てない あと10秒で倒れる,No puedo esperar. Me voy a desmayar en diez segundos.,Não posso esperar. Vou desmaiar em dez segundos.,Aku tidak bisa menunggu. Sepuluh detik lagi aku akan pingsan.,더는 못 기다리겠어. 10초 안에 쓰러질 것 같아.,Bekleyemem. On saniye içinde bayılacağım.
+L004,S004,14400,17400,00:00:14:12,Then pass out and be quiet.,じゃあ倒れて静かにしてて,Entonces desmáyate y quédate callado.,Então desmaia e fica quieto.,Kalau begitu pingsan saja dan diamlah.,그럼 쓰러져서 조용히 있어.,O zaman bayıl ve sessiz ol.
+L005,S005,17400,20967,00:00:17:12,The service here is slow.,この店はサービスが遅いな,El servicio aquí es lento.,O serviço aqui é lento.,Pelayanan di sini lambat sekali.,이 집은 서비스가 느리네.,Buradaki servis yavaş.
+L006,S006,20967,23733,00:00:20:29,This is not a restaurant.,ここはレストランじゃないわよ,Esto no es un restaurante.,Aqui não é restaurante.,Ini bukan restoran.,여긴 레스토랑이 아니야.,Burası restoran değil.
+L007,S007,23733,29067,00:00:23:22,"If you make me wait too long, I'll leave a review.",長い時間待たされるとレビューを書いてやる,"Si me haces esperar demasiado, voy a dejar una reseña.","Se me fizer esperar muito, vou deixar uma avaliação.","Kalau kamu membuatku menunggu terlalu lama, akan kutulis ulasan.",너무 오래 기다리게 하면 리뷰를 써 주겠어.,"Beni çok uzun süre beklersen, bir yorum yazarım."
+L008,S008,29067,32667,00:00:29:02,Be quiet. You still haven't passed out.,うるさいわ なかなか倒れないわね,Cállate. Todavía no te has desmayado.,Fica quieto. Você ainda nem desmaiou.,Diam. Kamu saja masih belum pingsan.,시끄러워. 아직도 안 쓰러지잖아.,Sessiz ol. Hâlâ bayılmadın.
+L009,S009,32667,35500,00:00:32:20,Zero stars.,星ゼロだ,Cero estrellas.,Zero estrelas.,Bintang nol.,별점 0점이다.,Sıfır yıldız.
+L010,S010,35500,37867,00:00:35:15,You still look fine.,まだ元気そうね,Todavía te ves bien.,Você ainda parece bem.,Kamu masih kelihatan baik-baik saja.,아직 멀쩡해 보이는데.,Hâlâ iyi görünüyorsun.
+L011,S011,37867,40467,00:00:37:26,I want coffee.,コーヒーが飲みたい,Quiero café.,Quero café.,Aku mau kopi.,커피가 마시고 싶어.,Kahve istiyorum.
+L012,S012,40467,43200,00:00:40:14,We have instant coffee.,インスタントコーヒーならあるわよ,Tenemos café instantáneo.,"Se for café instantâneo, tem.","Kalau kopi instan, ada.",인스턴트커피라면 있어.,Hazır kahvemiz var.
+L013,S013,43200,48000,00:00:43:06,Instant? I want freshly ground coffee!,インスタント？豆から挽いたコーヒーが飲みたい,¿Instantáneo? ¡Quiero café recién molido!,Instantâneo? Eu quero café moído na hora!,Instan? Aku mau kopi yang baru digiling!,인스턴트? 난 원두를 갓 갈아 만든 커피가 마시고 싶어!,Hazır mı? Ben taze çekilmiş kahve istiyorum!
+L014,S014,48000,50800,00:00:48:00,This is not a cafe.,ここはカフェじゃないのよ,Esto no es una cafetería.,Aqui não é cafeteria.,Ini bukan kafe.,여긴 카페가 아니거든.,Burası kafe değil.
+L015,S015,50800,54967,00:00:50:24,Then you should turn this place into a cafe.,じゃあカフェにするべきだ,Entonces deberías convertir este lugar en una cafetería.,Então você devia transformar este lugar numa cafeteria.,Kalau begitu kamu seharusnya mengubah tempat ini menjadi kafe.,그럼 여길 카페로 바꿔야지.,O zaman burayı kafeye çevirmelisin.
+L016,S016,54967,57367,00:00:54:29,Who's going to do that?,誰がやるのよ,¿Y quién va a hacer eso?,E quem vai fazer isso?,Siapa yang akan melakukan itu?,누가 그걸 하는데?,Bunu kim yapacak?
+L017,S017,57367,60433,00:00:57:11,"You, of course.",もちろん君だ,"Tú, por supuesto.","Você, é claro.",Tentu saja kamu.,물론 너지.,Tabii ki sen.
+L018,S018,60433,62900,00:01:00:13,I'm not doing that.,やらないわよ,No voy a hacer eso.,Não vou fazer isso.,Aku tidak akan melakukan itu.,난 안 해.,Ben bunu yapmam.
+L019,S019,62900,66000,00:01:02:27,The service here is terrible.,サービスの質が低すぎる,El servicio aquí es terrible.,O serviço aqui é péssimo.,Pelayanan di sini parah sekali.,여긴 서비스 수준이 너무 낮아.,Buradaki servis berbat.
+L020,S020,66000,68733,00:01:06:00,All you do is complain.,文句ばっかりね,Lo único que haces es quejarte.,Você só faz reclamar.,Kerjamu cuma mengeluh.,넌 불평만 하네.,Tek yaptığın şikâyet etmek.
+L021,S021,68733,71600,00:01:08:22,Mornings are important.,朝は大事なんだ,Las mañanas son importantes.,As manhãs são importantes.,Pagi hari itu penting.,아침은 중요하다고.,Sabahlar önemlidir.
+L022,S022,71600,73967,00:01:11:18,Then make your own.,じゃあ自分で淹れなさい,Entonces hazlo tú mismo.,Então faz o seu.,Kalau begitu buat sendiri.,그럼 직접 타 마셔.,O zaman kendin yap.
+L023,S023,73967,77800,00:01:13:29,You want a customer to make his own coffee?,客にコーヒーを淹れさせるのか,¿Quieres que un cliente prepare su propio café?,Você quer que um cliente faça o próprio café?,Kamu mau pelanggan membuat kopinya sendiri?,손님한테 직접 커피를 타게 하겠다는 거야?,Bir müşterinin kendi kahvesini yapmasını mı istiyorsun?
+L024,S024,77800,80600,00:01:17:24,You are not a customer.,あなたは客じゃないわ,Tú no eres un cliente.,Você não é cliente.,Kamu bukan pelanggan.,넌 손님이 아니야.,Sen müşteri değilsin.
+L025,S025,80600,83667,00:01:20:18,What kind of place is this?,信じられない店だ,¿Qué clase de lugar es este?,Que tipo de lugar é este?,Tempat macam apa ini?,여긴 대체 무슨 곳이야?,Burası nasıl bir yer böyle?
+L026,S026,83667,86900,00:01:23:20,"By the way, what are you making?",ところで 今何を作っている,"Por cierto, ¿qué estás preparando?","Aliás, o que você está fazendo?","Ngomong-ngomong, kamu sedang membuat apa?",그런데 지금 뭐 만들고 있어?,"Bu arada, ne yapıyorsun?"
+L027,S027,86900,88900,00:01:26:27,Breakfast.,朝ごはんよ,El desayuno.,Café da manhã.,Sarapan.,아침밥.,Kahvaltı.
+L028,S028,88900,91467,00:01:28:27,I can see that.,それは見ればわかる,Eso ya lo veo.,Isso eu já vi.,Itu sih aku juga bisa lihat.,그건 보면 알아.,Onu görebiliyorum.
+L029,S029,91467,93700,00:01:31:14,Then don't ask.,じゃあ聞かないで,Entonces no preguntes.,Então não pergunta.,Kalau begitu jangan tanya.,그럼 묻지 마.,O zaman sorma.
+L030,S030,93700,96933,00:01:33:21,I'm asking what you're cooking.,なんの料理を作っているか聞いている,Estoy preguntando qué estás cocinando.,Estou perguntando o que você está cozinhando.,Aku sedang bertanya kamu sedang masak apa.,무슨 요리를 만드는지 묻는 거야.,Ne pişirdiğini soruyorum.
+L031,S031,96933,99167,00:01:36:28,Scrambled eggs.,スクランブルエッグよ,Huevos revueltos.,Ovos mexidos.,Telur orak-arik.,스크램블에그.,Çırpılmış yumurta.
+L032,S032,99167,101000,00:01:39:05,That's it?,それだけか,¿Eso es todo?,Só isso?,Cuma itu?,그게 다야?,Hepsi bu mu?
+L033,S033,101000,103000,00:01:41:00,That's it.,それだけよ,Eso es todo.,Só isso.,Cuma itu.,그게 다야.,Hepsi bu.
+L034,S034,103000,106667,00:01:43:00,How many eggs are you using?,卵は何個使ってる,¿Cuántos huevos estás usando?,Quantos ovos você está usando?,Kamu pakai berapa telur?,달걀 몇 개 쓰고 있어?,Kaç yumurta kullanıyorsun?
+L035,S035,106667,108300,00:01:46:20,One.,一つよ,Uno.,Um.,Satu.,하나.,Bir.
+L036,S036,108300,111033,00:01:48:09,One? I need two.,一つ？二つ必要だ,¿Uno? Yo necesito dos.,Um? Eu preciso de dois.,Satu? Aku butuh dua.,하나? 난 두 개가 필요해.,Bir mi? Benim ikiye ihtiyacım var.
+L037,S037,111033,114200,00:01:51:01,One is enough.,一つで十分,Uno es suficiente.,Um é suficiente.,Satu sudah cukup.,하나면 충분해.,Bir tane yeter.
+L038,S038,114200,117000,00:01:54:06,I need energy to work.,働くにはエネルギーがいる,Necesito energía para trabajar.,Eu preciso de energia para trabalhar.,Aku butuh energi untuk bekerja.,일하려면 에너지가 필요하다고.,Çalışmak için enerjiye ihtiyacım var.
+L039,S039,117000,119667,00:01:57:00,Say that after you work.,まず働いてから言いなさい,Di eso después de trabajar.,Fala isso depois de trabalhar.,Bilang begitu setelah kamu bekerja.,먼저 일부터 하고 그런 말 해.,Bunu çalıştıktan sonra söyle.
+L040,S040,119667,124100,00:01:59:20,"So, what time does my shift start today?",それにしても 今日のバイトは何時からだ,"Entonces, ¿a qué hora empieza mi turno hoy?","Então, que horas começa meu turno hoje?","Jadi, hari ini shifku mulai jam berapa?",그런데 오늘 내 알바는 몇 시부터야?,"Peki, bugün vardiyam saat kaçta başlıyor?"
+L041,S041,124100,126867,00:02:04:03,"At nine, remember?",9時からでしょ,"A las nueve, ¿recuerdas?","Às nove, lembra?","Jam sembilan, ingat?","9시부터잖아, 기억 안 나?","Saat dokuzda, hatırlıyor musun?"
+L042,S042,126867,130900,00:02:06:26,Nine on my first day is too much.,初日から9時は厳しすぎる,Las nueve en mi primer día es demasiado.,Nove horas no meu primeiro dia é demais.,Jam sembilan di hari pertamaku itu terlalu berat.,첫날부터 9시는 너무 빡세.,İlk günümde saat dokuz çok fazla.
+L043,S043,130900,133333,00:02:10:27,It's not that hard.,厳しいことはないでしょ,No es tan difícil.,Não é tão difícil assim.,Tidak sesulit itu.,그렇게 빡센 것도 아니잖아.,O kadar da zor değil.
+L044,S044,133333,136700,00:02:13:10,You should be kind to new workers.,新人には優しさが必要だ,Deberías ser amable con los trabajadores nuevos.,Você devia ser gentil com os novatos.,Kamu seharusnya baik kepada pekerja baru.,신입한테는 친절이 필요해.,Yeni çalışanlara karşı nazik olmalısın.
+L045,S045,136700,139467,00:02:16:21,"First, get there on time.",まず時間通りに行きなさい,"Primero, llega a tiempo.","Primeiro, chegue lá no horário.","Pertama, datanglah tepat waktu.",먼저 제시간에 가.,Önce oraya zamanında git.
+L046,S046,139467,142600,00:02:19:14,"So, where am I working?",それで 俺はどこで働くんだ,"Entonces, ¿dónde voy a trabajar?","Então, onde eu vou trabalhar?","Jadi, aku akan bekerja di mana?",그래서 내가 어디서 일하는 건데?,"Peki, ben nerede çalışıyorum?"
+L047,S047,142600,145433,00:02:22:18,At a fast-food restaurant.,ファストフード店でしょ,En un restaurante de comida rápida.,Numa lanchonete de fast-food.,Di restoran fast-food.,패스트푸드점이잖아.,Bir fast-food restoranında.
+L048,S048,145433,147833,00:02:25:13,Not bad.,悪くないな,No está mal.,Nada mal.,Lumayan juga.,나쁘지 않네.,Fena değil.
+L049,S049,147833,150567,00:02:27:25,You're suddenly positive.,急に前向きね,De repente estás siendo positivo.,De repente você ficou positivo.,Tiba-tiba kamu jadi positif.,갑자기 긍정적이네.,Birden olumlu oldun.
+L050,S050,150567,155600,00:02:30:17,"If I work around food, I won't go hungry.",飲食店なら腹が減っても困らない,"Si trabajo rodeado de comida, no pasaré hambre.","Se eu trabalhar cercado de comida, não vou passar fome.","Kalau aku bekerja di dekat makanan, aku tidak akan kelaparan.",음식점에서 일하면 배고파도 곤란하지 않지.,Yemeklerin arasında çalışırsam aç kalmam.
+L051,S051,155600,158533,00:02:35:18,Don't just eat the food.,勝手に食べちゃだめよ,No te pongas a comer la comida.,Não vá comer a comida.,Jangan malah makan makanannya.,마음대로 먹으면 안 돼.,Sakın yemekleri yeme.
+L052,S052,158533,161600,00:02:38:16,I'll just taste it a little.,少し確認するだけだ,Solo la probaré un poco.,Só vou provar um pouquinho.,Aku cuma akan mencicipinya sedikit.,조금만 맛보는 거야.,Sadece biraz tadına bakacağım.
+L053,S053,161600,163600,00:02:41:18,Check what?,何を確認するのよ,¿Probar qué?,Provar o quê?,Mengecek apa?,뭘 확인하는데?,Neyi kontrol edeceksin?
+L054,S054,163600,165967,00:02:43:18,The taste.,味だ,El sabor.,O sabor.,Rasanya.,맛.,Tadını.
+L055,S055,165967,168700,00:02:45:29,That's sneaking bites.,それはつまみ食いよ,Eso es picar a escondidas.,Isso é beliscar escondido.,Itu namanya nyolong-nyolong makan.,그건 몰래 집어먹는 거야.,Bu gizlice atıştırmak.
+L056,S056,168700,171733,00:02:48:21,It's quality control.,品質チェックだ,Es control de calidad.,É controle de qualidade.,Itu kontrol kualitas.,품질 체크야.,Bu kalite kontrolü.
+L057,S057,171733,174567,00:02:51:22,A new worker doesn't do that.,新人がやることじゃないわ,Eso no lo hace un trabajador nuevo.,Novato não faz isso.,Bukan itu yang dilakukan pekerja baru.,신입이 할 일이 아니야.,Yeni çalışan bunu yapmaz.
+L058,S058,174567,178233,00:02:54:17,I understand how customers feel.,俺は客の気持ちがわかる,Entiendo cómo se sienten los clientes.,Eu entendo como os clientes se sentem.,Aku mengerti perasaan pelanggan.,난 손님의 마음을 이해해.,Müşterilerin ne hissettiğini anlıyorum.
+L059,S059,178233,180767,00:02:58:07,You just want to eat.,食べたいだけでしょ,Solo quieres comer.,Você só quer comer.,Kamu cuma mau makan.,넌 그냥 먹고 싶은 거잖아.,Sen sadece yemek istiyorsun.
+L060,S060,180767,184133,00:03:00:23,"First, learn how to make toast at home.",まず家のトーストを焼けるようになりなさい,"Primero, aprende a hacer tostadas en casa.","Primeiro, aprenda a fazer torrada em casa.","Pertama, belajarlah membuat roti panggang di rumah.",먼저 집에서 토스트부터 제대로 굽는 법을 배워.,Önce evde tost yapmayı öğren.
+L061,S061,184133,186800,00:03:04:04,Toast is easy.,トーストくらい簡単だ,Las tostadas son fáciles.,Torrada é fácil.,Roti panggang itu gampang.,토스트 정도는 쉽지.,Tost kolaydır.
+L062,S062,186800,189267,00:03:06:24,Don't set it too high.,強くしすぎないでね,No lo pongas demasiado alto.,Não coloca alto demais.,Jangan atur terlalu tinggi.,너무 세게 맞추지 마.,Ayarını çok yükseğe getirme.
+L063,S063,189267,192300,00:03:09:08,Higher means faster.,強い方が早い,Más alto significa más rápido.,Mais alto é mais rápido.,"Semakin tinggi, semakin cepat.",세게 하면 더 빠르잖아.,Daha yüksek olursa daha hızlı olur.
+L064,S064,192300,194333,00:03:12:09,Don't do that.,やめなさい,No hagas eso.,Não faça isso.,Jangan lakukan itu.,그러지 마.,Bunu yapma.
+L065,S065,194333,196933,00:03:14:10,I'm saving time.,時間を節約しているんだ,Estoy ahorrando tiempo.,Estou economizando tempo.,Aku sedang menghemat waktu.,시간을 절약하고 있는 거야.,Zaman kazanıyorum.
+L066,S066,196933,202000,00:03:16:28,It will burn.,焦げるわよ,Se va a quemar.,Vai queimar.,Nanti gosong.,타 버릴 거야.,Yanacak.
+L067,S067,202000,205233,00:03:22:00,Is this toaster broken?,このトースター壊れてるんじゃないか,¿Está rota esta tostadora?,Será que essa torradeira está quebrada?,Apa pemanggang roti ini rusak?,이 토스터 고장 난 거 아니야?,Bu tost makinesi bozuk mu?
+L068,S068,205233,209067,00:03:25:07,The toaster isn't broken. Your head is.,壊れているのはあなたの頭のほうね,La tostadora no está rota. El que está roto es tu cabeza.,A torradeira não está quebrada. Quem está quebrado é você.,Yang rusak bukan pemanggang rotinya. Kepalamu yang rusak.,고장 난 건 토스터가 아니라 네 머리야.,Bozuk olan tost makinesi değil. Senin kafan.
+L069,S069,209067,212500,00:03:29:02,I'm hurt. I don't think I can work today.,傷ついた 今日は働けそうにない,Estoy herido. No creo que hoy pueda trabajar.,Fiquei magoado. Acho que hoje não vou conseguir trabalhar.,Aku tersinggung. Kurasa hari ini aku tidak bisa bekerja.,상처받았어. 오늘은 일 못 할 것 같아.,Kırıldım. Sanırım bugün çalışamayacağım.
+L070,S070,212500,215367,00:03:32:15,Just eat quickly and get ready.,いいから早く食べて準備しなさい,Solo come rápido y prepárate.,Só come logo e vai se arrumar.,Pokoknya cepat makan lalu bersiap.,됐고 빨리 먹고 준비해.,"Hadi, çabuk ye ve hazırlan."
