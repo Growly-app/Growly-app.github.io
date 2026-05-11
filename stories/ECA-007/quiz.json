@@ -1,0 +1,853 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "QT001",
+      "lineId": "L004",
+      "termEn": "shift",
+      "correctJa": "勤務",
+      "incorrectJa": [
+        "休憩",
+        "休日",
+        "給料"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "turno",
+          "incorrect": [
+            "descanso",
+            "día libre",
+            "sueldo"
+          ]
+        },
+        "pt": {
+          "correct": "turno",
+          "incorrect": [
+            "descanso",
+            "dia de folga",
+            "salário"
+          ]
+        },
+        "id": {
+          "correct": "giliran kerja",
+          "incorrect": [
+            "istirahat",
+            "hari libur",
+            "gaji"
+          ]
+        },
+        "ko": {
+          "correct": "근무",
+          "incorrect": [
+            "휴식",
+            "휴일",
+            "급여"
+          ]
+        },
+        "tr": {
+          "correct": "vardiya",
+          "incorrect": [
+            "mola",
+            "tatil günü",
+            "maaş"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT002",
+      "lineId": "L006",
+      "termEn": "fault",
+      "correctJa": "責任",
+      "incorrectJa": [
+        "理由",
+        "許可",
+        "予定"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "culpa",
+          "incorrect": [
+            "razón",
+            "permiso",
+            "plan"
+          ]
+        },
+        "pt": {
+          "correct": "culpa",
+          "incorrect": [
+            "motivo",
+            "permissão",
+            "plano"
+          ]
+        },
+        "id": {
+          "correct": "kesalahan",
+          "incorrect": [
+            "alasan",
+            "izin",
+            "jadwal"
+          ]
+        },
+        "ko": {
+          "correct": "책임",
+          "incorrect": [
+            "이유",
+            "허가",
+            "예정"
+          ]
+        },
+        "tr": {
+          "correct": "sorumluluk",
+          "incorrect": [
+            "neden",
+            "izin",
+            "plan"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT003",
+      "lineId": "L011",
+      "termEn": "right on time",
+      "correctJa": "時間ぴったりに",
+      "incorrectJa": [
+        "少し遅れて",
+        "かなり早く",
+        "急いで"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "justo a tiempo",
+          "incorrect": [
+            "un poco tarde",
+            "bastante temprano",
+            "con prisa"
+          ]
+        },
+        "pt": {
+          "correct": "bem na hora",
+          "incorrect": [
+            "um pouco atrasado",
+            "bem cedo",
+            "com pressa"
+          ]
+        },
+        "id": {
+          "correct": "tepat waktu",
+          "incorrect": [
+            "sedikit terlambat",
+            "jauh lebih awal",
+            "terburu-buru"
+          ]
+        },
+        "ko": {
+          "correct": "시간 딱 맞게",
+          "incorrect": [
+            "조금 늦게",
+            "꽤 일찍",
+            "서둘러서"
+          ]
+        },
+        "tr": {
+          "correct": "tam zamanında",
+          "incorrect": [
+            "biraz geç",
+            "oldukça erken",
+            "aceleyle"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT004",
+      "lineId": "L014",
+      "termEn": "bus stop",
+      "correctJa": "バス停",
+      "incorrectJa": [
+        "駅",
+        "駐車場",
+        "交差点"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "parada de autobús",
+          "incorrect": [
+            "estación",
+            "estacionamiento",
+            "cruce"
+          ]
+        },
+        "pt": {
+          "correct": "ponto de ônibus",
+          "incorrect": [
+            "estação",
+            "estacionamento",
+            "cruzamento"
+          ]
+        },
+        "id": {
+          "correct": "halte bus",
+          "incorrect": [
+            "stasiun",
+            "tempat parkir",
+            "persimpangan"
+          ]
+        },
+        "ko": {
+          "correct": "버스 정류장",
+          "incorrect": [
+            "역",
+            "주차장",
+            "교차로"
+          ]
+        },
+        "tr": {
+          "correct": "otobüs durağı",
+          "incorrect": [
+            "istasyon",
+            "otopark",
+            "kavşak"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT005",
+      "lineId": "L015",
+      "termEn": "take a seat",
+      "correctJa": "席に座る",
+      "incorrectJa": [
+        "席を立つ",
+        "外に出る",
+        "手を上げる"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "sentarse",
+          "incorrect": [
+            "levantarse del asiento",
+            "salir",
+            "levantar la mano"
+          ]
+        },
+        "pt": {
+          "correct": "sentar-se",
+          "incorrect": [
+            "levantar-se do assento",
+            "sair",
+            "levantar a mão"
+          ]
+        },
+        "id": {
+          "correct": "duduk di kursi",
+          "incorrect": [
+            "berdiri dari kursi",
+            "keluar",
+            "mengangkat tangan"
+          ]
+        },
+        "ko": {
+          "correct": "자리에 앉다",
+          "incorrect": [
+            "자리에서 일어나다",
+            "밖으로 나가다",
+            "손을 들다"
+          ]
+        },
+        "tr": {
+          "correct": "yerine oturmak",
+          "incorrect": [
+            "yerinden kalkmak",
+            "dışarı çıkmak",
+            "elini kaldırmak"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT006",
+      "lineId": "L018",
+      "termEn": "respect",
+      "correctJa": "配慮",
+      "incorrectJa": [
+        "命令",
+        "苦情",
+        "危険"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "consideración",
+          "incorrect": [
+            "orden",
+            "queja",
+            "peligro"
+          ]
+        },
+        "pt": {
+          "correct": "consideração",
+          "incorrect": [
+            "ordem",
+            "reclamação",
+            "perigo"
+          ]
+        },
+        "id": {
+          "correct": "perhatian",
+          "incorrect": [
+            "perintah",
+            "keluhan",
+            "bahaya"
+          ]
+        },
+        "ko": {
+          "correct": "배려",
+          "incorrect": [
+            "명령",
+            "불평",
+            "위험"
+          ]
+        },
+        "tr": {
+          "correct": "saygı",
+          "incorrect": [
+            "emir",
+            "şikayet",
+            "tehlike"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT007",
+      "lineId": "L024",
+      "termEn": "stare at",
+      "correctJa": "じろじろ見る",
+      "incorrectJa": [
+        "少し話す",
+        "手を振る",
+        "通り過ぎる"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "mirar fijamente",
+          "incorrect": [
+            "hablar un poco",
+            "saludar con la mano",
+            "pasar de largo"
+          ]
+        },
+        "pt": {
+          "correct": "encarar",
+          "incorrect": [
+            "falar um pouco",
+            "acenar com a mão",
+            "passar direto"
+          ]
+        },
+        "id": {
+          "correct": "menatap tajam",
+          "incorrect": [
+            "berbicara sedikit",
+            "melambaikan tangan",
+            "lewat begitu saja"
+          ]
+        },
+        "ko": {
+          "correct": "빤히 쳐다보다",
+          "incorrect": [
+            "조금 이야기하다",
+            "손을 흔들다",
+            "지나가다"
+          ]
+        },
+        "tr": {
+          "correct": "dik dik bakmak",
+          "incorrect": [
+            "biraz konuşmak",
+            "el sallamak",
+            "geçip gitmek"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT008",
+      "lineId": "L025",
+      "termEn": "complain",
+      "correctJa": "文句を言う",
+      "incorrectJa": [
+        "謝る",
+        "説明する",
+        "笑う"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "quejarse",
+          "incorrect": [
+            "disculparse",
+            "explicar",
+            "reír"
+          ]
+        },
+        "pt": {
+          "correct": "reclamar",
+          "incorrect": [
+            "pedir desculpas",
+            "explicar",
+            "rir"
+          ]
+        },
+        "id": {
+          "correct": "mengeluh",
+          "incorrect": [
+            "meminta maaf",
+            "menjelaskan",
+            "tertawa"
+          ]
+        },
+        "ko": {
+          "correct": "불평하다",
+          "incorrect": [
+            "사과하다",
+            "설명하다",
+            "웃다"
+          ]
+        },
+        "tr": {
+          "correct": "şikayet etmek",
+          "incorrect": [
+            "özür dilemek",
+            "açıklamak",
+            "gülmek"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT009",
+      "lineId": "L027",
+      "termEn": "solve",
+      "correctJa": "解決する",
+      "incorrectJa": [
+        "壊す",
+        "隠す",
+        "選ぶ"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "resolver",
+          "incorrect": [
+            "romper",
+            "esconder",
+            "elegir"
+          ]
+        },
+        "pt": {
+          "correct": "resolver",
+          "incorrect": [
+            "quebrar",
+            "esconder",
+            "escolher"
+          ]
+        },
+        "id": {
+          "correct": "menyelesaikan",
+          "incorrect": [
+            "merusak",
+            "menyembunyikan",
+            "memilih"
+          ]
+        },
+        "ko": {
+          "correct": "해결하다",
+          "incorrect": [
+            "망가뜨리다",
+            "숨기다",
+            "고르다"
+          ]
+        },
+        "tr": {
+          "correct": "çözmek",
+          "incorrect": [
+            "kırmak",
+            "saklamak",
+            "seçmek"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT010",
+      "lineId": "L029",
+      "termEn": "naive",
+      "correctJa": "甘い",
+      "incorrectJa": [
+        "厳しい",
+        "静かな",
+        "忙しい"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "ingenuo",
+          "incorrect": [
+            "estricto",
+            "silencioso",
+            "ocupado"
+          ]
+        },
+        "pt": {
+          "correct": "ingênuo",
+          "incorrect": [
+            "rígido",
+            "silencioso",
+            "ocupado"
+          ]
+        },
+        "id": {
+          "correct": "naif",
+          "incorrect": [
+            "ketat",
+            "tenang",
+            "sibuk"
+          ]
+        },
+        "ko": {
+          "correct": "순진한",
+          "incorrect": [
+            "엄격한",
+            "조용한",
+            "바쁜"
+          ]
+        },
+        "tr": {
+          "correct": "saf",
+          "incorrect": [
+            "sert",
+            "sessiz",
+            "meşgul"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT011",
+      "lineId": "L036",
+      "termEn": "lost control",
+      "correctJa": "取り乱した",
+      "incorrectJa": [
+        "落ち着いた",
+        "黙っていた",
+        "急いだ"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "perdió el control",
+          "incorrect": [
+            "se calmó",
+            "se quedó callado",
+            "se apresuró"
+          ]
+        },
+        "pt": {
+          "correct": "perdeu o controle",
+          "incorrect": [
+            "se acalmou",
+            "ficou calado",
+            "se apressou"
+          ]
+        },
+        "id": {
+          "correct": "kehilangan kendali",
+          "incorrect": [
+            "menjadi tenang",
+            "tetap diam",
+            "terburu-buru"
+          ]
+        },
+        "ko": {
+          "correct": "감정을 주체하지 못했다",
+          "incorrect": [
+            "차분해졌다",
+            "가만히 있었다",
+            "서둘렀다"
+          ]
+        },
+        "tr": {
+          "correct": "kontrolünü kaybetti",
+          "incorrect": [
+            "sakinleşti",
+            "sessiz kaldı",
+            "acele etti"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT012",
+      "lineId": "L037",
+      "termEn": "lesson",
+      "correctJa": "教訓",
+      "incorrectJa": [
+        "約束",
+        "質問",
+        "冗談"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "lección",
+          "incorrect": [
+            "promesa",
+            "pregunta",
+            "broma"
+          ]
+        },
+        "pt": {
+          "correct": "lição",
+          "incorrect": [
+            "promessa",
+            "pergunta",
+            "brincadeira"
+          ]
+        },
+        "id": {
+          "correct": "pelajaran",
+          "incorrect": [
+            "janji",
+            "pertanyaan",
+            "lelucon"
+          ]
+        },
+        "ko": {
+          "correct": "교훈",
+          "incorrect": [
+            "약속",
+            "질문",
+            "농담"
+          ]
+        },
+        "tr": {
+          "correct": "ders",
+          "incorrect": [
+            "söz",
+            "soru",
+            "şaka"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT013",
+      "lineId": "L043",
+      "termEn": "get off",
+      "correctJa": "降りる",
+      "incorrectJa": [
+        "乗る",
+        "止まる",
+        "待つ"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "bajarse",
+          "incorrect": [
+            "subirse",
+            "detenerse",
+            "esperar"
+          ]
+        },
+        "pt": {
+          "correct": "descer",
+          "incorrect": [
+            "entrar",
+            "parar",
+            "esperar"
+          ]
+        },
+        "id": {
+          "correct": "turun",
+          "incorrect": [
+            "naik",
+            "berhenti",
+            "menunggu"
+          ]
+        },
+        "ko": {
+          "correct": "내리다",
+          "incorrect": [
+            "타다",
+            "멈추다",
+            "기다리다"
+          ]
+        },
+        "tr": {
+          "correct": "inmek",
+          "incorrect": [
+            "binmek",
+            "durmak",
+            "beklemek"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT014",
+      "lineId": "L054",
+      "termEn": "bothering",
+      "correctJa": "迷惑をかけている",
+      "incorrectJa": [
+        "助けている",
+        "案内している",
+        "見守っている"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "está molestando",
+          "incorrect": [
+            "está ayudando",
+            "está guiando",
+            "está vigilando"
+          ]
+        },
+        "pt": {
+          "correct": "está incomodando",
+          "incorrect": [
+            "está ajudando",
+            "está orientando",
+            "está observando"
+          ]
+        },
+        "id": {
+          "correct": "mengganggu",
+          "incorrect": [
+            "membantu",
+            "memandu",
+            "mengawasi"
+          ]
+        },
+        "ko": {
+          "correct": "폐를 끼치고 있다",
+          "incorrect": [
+            "도와주고 있다",
+            "안내하고 있다",
+            "지켜보고 있다"
+          ]
+        },
+        "tr": {
+          "correct": "rahatsız ediyor",
+          "incorrect": [
+            "yardım ediyor",
+            "yol gösteriyor",
+            "izliyor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT015",
+      "lineId": "L058",
+      "termEn": "careful",
+      "correctJa": "慎重な",
+      "incorrectJa": [
+        "乱暴な",
+        "退屈な",
+        "有名な"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "cuidadoso",
+          "incorrect": [
+            "brusco",
+            "aburrido",
+            "famoso"
+          ]
+        },
+        "pt": {
+          "correct": "cuidadoso",
+          "incorrect": [
+            "grosseiro",
+            "entediante",
+            "famoso"
+          ]
+        },
+        "id": {
+          "correct": "hati-hati",
+          "incorrect": [
+            "kasar",
+            "membosankan",
+            "terkenal"
+          ]
+        },
+        "ko": {
+          "correct": "신중한",
+          "incorrect": [
+            "난폭한",
+            "지루한",
+            "유명한"
+          ]
+        },
+        "tr": {
+          "correct": "dikkatli",
+          "incorrect": [
+            "kaba",
+            "sıkıcı",
+            "ünlü"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT016",
+      "lineId": "L062",
+      "termEn": "stay out of my way",
+      "correctJa": "邪魔をするな",
+      "incorrectJa": [
+        "手伝ってくれ",
+        "道を教えてくれ",
+        "席に座れ"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "no te metas en mi camino",
+          "incorrect": [
+            "ayúdame",
+            "enséñame el camino",
+            "siéntate"
+          ]
+        },
+        "pt": {
+          "correct": "não fique no meu caminho",
+          "incorrect": [
+            "me ajude",
+            "me mostre o caminho",
+            "sente-se"
+          ]
+        },
+        "id": {
+          "correct": "jangan menghalangiku",
+          "incorrect": [
+            "bantu aku",
+            "tunjukkan jalannya",
+            "duduklah"
+          ]
+        },
+        "ko": {
+          "correct": "방해하지 마",
+          "incorrect": [
+            "도와줘",
+            "길을 알려줘",
+            "자리에 앉아"
+          ]
+        },
+        "tr": {
+          "correct": "yolumdan çekil",
+          "incorrect": [
+            "bana yardım et",
+            "yolu göster",
+            "yerine otur"
+          ]
+        }
+      }
+    }
+  ]
+}
