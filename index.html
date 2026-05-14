@@ -1,345 +1,1481 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Growly | 忘却曲線に基づく英語学習アプリ</title>
-  <meta
-    name="description"
-    content="Growlyは、忘却曲線に基づいて英単語・リスニング・TOEIC学習を続けやすくする英語学習アプリです。"
-  />
-  <style>
-    :root {
-      --bg: #f3f6fc;
-      --bg-accent: #e6eeff;
-      --surface: rgba(255, 255, 255, 0.88);
-      --surface-strong: #ffffff;
-      --text: #162033;
-      --muted: #61708a;
-      --line: #dbe4f2;
-      --accent: #2a66ff;
-      --accent-deep: #1747c9;
-      --shadow: 0 24px 70px rgba(32, 61, 120, 0.12);
-      --radius-xl: 28px;
-      --radius-lg: 20px;
-      --radius-md: 14px;
-    }
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Growly | 忘却曲線ベースの英語学習アプリ</title>
+    <meta
+      name="description"
+      content="Growlyは、忘却曲線に基づく復習設計で英単語・リスニング・TOEIC学習を習慣化する英語学習アプリです。"
+    />
+    <meta property="og:title" content="Growly | 英語学習を毎日の習慣に" />
+    <meta
+      property="og:description"
+      content="英単語・リスニング・TOEIC学習を、忘れにくい復習設計でサポート。"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://growly-app.github.io/" />
+    <meta name="theme-color" content="#f6f8ff" />
+    <style>
+      :root {
+        --bg: #eef4ff;
+        --bg-strong: #e4edff;
+        --surface: rgba(255, 255, 255, 0.8);
+        --surface-strong: #ffffff;
+        --surface-deep: #16203f;
+        --text: #0f1c3f;
+        --muted: #5f6f98;
+        --line: rgba(114, 138, 201, 0.18);
+        --accent: #315efb;
+        --accent-strong: #1b43db;
+        --accent-soft: #dfe7ff;
+        --success: #16a34a;
+        --shadow-lg: 0 32px 80px rgba(55, 84, 170, 0.18);
+        --shadow-md: 0 18px 40px rgba(45, 77, 168, 0.12);
+        --radius-xl: 32px;
+        --radius-lg: 24px;
+        --radius-md: 18px;
+        --radius-sm: 14px;
+        --content-width: min(1180px, calc(100vw - 32px));
+      }
 
-    * {
-      box-sizing: border-box;
-    }
+      * {
+        box-sizing: border-box;
+      }
 
-    html {
-      scroll-behavior: smooth;
-    }
+      html {
+        scroll-behavior: smooth;
+      }
 
-    body {
-      margin: 0;
-      min-height: 100vh;
-      font-family: "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", sans-serif;
-      color: var(--text);
-      background:
-        radial-gradient(circle at top left, #ffffff 0%, transparent 34%),
-        radial-gradient(circle at top right, #dfe9ff 0%, transparent 26%),
-        linear-gradient(180deg, #eef3ff 0%, #f7f9fd 42%, #eef3f9 100%);
-    }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        color: var(--text);
+        font-family: "Avenir Next", "Hiragino Sans", "Noto Sans JP",
+          "Yu Gothic UI", sans-serif;
+        background:
+          radial-gradient(circle at top left, rgba(255, 255, 255, 0.9) 0, rgba(255, 255, 255, 0) 30%),
+          radial-gradient(circle at 85% 10%, rgba(197, 214, 255, 0.9) 0, rgba(197, 214, 255, 0) 20%),
+          linear-gradient(180deg, #f8fbff 0%, #edf3ff 45%, #eaf1ff 100%);
+      }
 
-    a {
-      color: inherit;
-    }
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
 
-    .page {
-      width: min(1120px, calc(100% - 32px));
-      margin: 0 auto;
-      padding: 32px 0 56px;
-    }
+      img {
+        max-width: 100%;
+        display: block;
+      }
 
-    .hero {
-      position: relative;
-      overflow: hidden;
-      padding: 56px;
-      border: 1px solid rgba(255, 255, 255, 0.7);
-      border-radius: var(--radius-xl);
-      background: linear-gradient(145deg, rgba(255,255,255,0.92), rgba(245,249,255,0.82));
-      backdrop-filter: blur(14px);
-      box-shadow: var(--shadow);
-    }
+      .page-shell {
+        position: relative;
+        overflow: hidden;
+      }
 
-    .hero::before,
-    .hero::after {
-      content: "";
-      position: absolute;
-      border-radius: 999px;
-      z-index: 0;
-      pointer-events: none;
-    }
+      .page-shell::before,
+      .page-shell::after {
+        content: "";
+        position: fixed;
+        inset: auto;
+        border-radius: 50%;
+        pointer-events: none;
+        filter: blur(10px);
+        opacity: 0.7;
+      }
 
-    .hero::before {
-      width: 260px;
-      height: 260px;
-      top: -100px;
-      right: -80px;
-      background: radial-gradient(circle, rgba(42,102,255,0.20), rgba(42,102,255,0));
-    }
+      .page-shell::before {
+        width: 320px;
+        height: 320px;
+        top: -80px;
+        right: -90px;
+        background: rgba(187, 206, 255, 0.55);
+      }
 
-    .hero::after {
-      width: 220px;
-      height: 220px;
-      bottom: -90px;
-      left: -80px;
-      background: radial-gradient(circle, rgba(93,151,255,0.18), rgba(93,151,255,0));
-    }
+      .page-shell::after {
+        width: 280px;
+        height: 280px;
+        left: -120px;
+        bottom: 5%;
+        background: rgba(220, 231, 255, 0.9);
+      }
 
-    .hero-inner {
-      position: relative;
-      z-index: 1;
-      display: grid;
-      grid-template-columns: 1.3fr 0.9fr;
-      gap: 28px;
-      align-items: center;
-    }
+      .site-header {
+        position: sticky;
+        top: 0;
+        z-index: 30;
+        backdrop-filter: blur(18px);
+        background: rgba(246, 249, 255, 0.76);
+        border-bottom: 1px solid rgba(129, 152, 213, 0.14);
+      }
 
-    .eyebrow {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 8px 12px;
-      margin-bottom: 18px;
-      border-radius: 999px;
-      background: var(--bg-accent);
-      color: var(--accent-deep);
-      font-size: 0.9rem;
-      font-weight: 700;
-      letter-spacing: 0.02em;
-    }
+      .header-inner,
+      .section-inner,
+      .footer-inner {
+        width: var(--content-width);
+        margin: 0 auto;
+      }
 
-    h1 {
-      margin: 0 0 16px;
-      font-size: clamp(2.6rem, 6vw, 4.5rem);
-      line-height: 1.02;
-      letter-spacing: -0.03em;
-    }
+      .header-inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 24px;
+        padding: 18px 0;
+      }
 
-    .lead {
-      margin: 0;
-      max-width: 620px;
-      font-size: 1.08rem;
-      line-height: 1.9;
-      color: var(--muted);
-    }
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+      }
 
-    .chip-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin-top: 24px;
-    }
+      .brand-mark {
+        width: 44px;
+        height: 44px;
+        display: grid;
+        place-items: center;
+        border-radius: 14px;
+        color: #fff;
+        font-weight: 800;
+        font-size: 1.15rem;
+        letter-spacing: 0.03em;
+        background: linear-gradient(135deg, #4e7bff 0%, #2444d4 100%);
+        box-shadow: 0 12px 24px rgba(49, 94, 251, 0.28);
+      }
 
-    .chip {
-      padding: 10px 14px;
-      border: 1px solid var(--line);
-      border-radius: 999px;
-      background: rgba(255, 255, 255, 0.72);
-      color: #334155;
-      font-size: 0.95rem;
-      font-weight: 600;
-    }
+      .brand-copy strong {
+        display: block;
+        font-size: 1rem;
+      }
 
-    .panel {
-      padding: 24px;
-      border: 1px solid var(--line);
-      border-radius: var(--radius-lg);
-      background: rgba(255, 255, 255, 0.9);
-    }
+      .brand-copy span {
+        display: block;
+        margin-top: 3px;
+        color: var(--muted);
+        font-size: 0.82rem;
+      }
 
-    .panel h2 {
-      margin: 0 0 12px;
-      font-size: 1.1rem;
-    }
+      .header-nav {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        flex-wrap: wrap;
+      }
 
-    .panel p {
-      margin: 0;
-      color: var(--muted);
-      line-height: 1.8;
-    }
+      .header-nav a {
+        color: var(--muted);
+        font-size: 0.95rem;
+        font-weight: 600;
+      }
 
-    .mail {
-      display: inline-block;
-      margin-top: 14px;
-      color: var(--accent);
-      font-weight: 800;
-      text-decoration: none;
-      word-break: break-all;
-    }
+      .header-cta {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 12px 18px;
+        border-radius: 999px;
+        color: #fff;
+        background: linear-gradient(135deg, #315efb 0%, #173dc7 100%);
+        box-shadow: 0 18px 32px rgba(49, 94, 251, 0.28);
+      }
 
-    .mail:hover {
-      text-decoration: underline;
-    }
+      .section {
+        position: relative;
+        padding: 28px 0;
+      }
 
-    .section {
-      margin-top: 28px;
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 18px;
-    }
-
-    .card {
-      padding: 22px;
-      border: 1px solid var(--line);
-      border-radius: var(--radius-lg);
-      background: var(--surface-strong);
-      box-shadow: 0 12px 30px rgba(28, 52, 96, 0.05);
-    }
-
-    .card-number {
-      display: inline-flex;
-      width: 36px;
-      height: 36px;
-      align-items: center;
-      justify-content: center;
-      margin-bottom: 14px;
-      border-radius: 50%;
-      background: #edf3ff;
-      color: var(--accent-deep);
-      font-weight: 800;
-    }
-
-    .card h3 {
-      margin: 0 0 10px;
-      font-size: 1.05rem;
-    }
-
-    .card p {
-      margin: 0;
-      color: var(--muted);
-      line-height: 1.8;
-      font-size: 0.96rem;
-    }
-
-    .footer {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 16px;
-      margin-top: 26px;
-      padding: 20px 6px 0;
-      border-top: 1px solid rgba(203, 213, 225, 0.8);
-      color: var(--muted);
-      font-size: 0.95rem;
-    }
-
-    .footer a {
-      color: var(--accent-deep);
-      font-weight: 700;
-      text-decoration: none;
-    }
-
-    .footer a:hover {
-      text-decoration: underline;
-    }
-
-    @media (max-width: 900px) {
       .hero {
+        padding-top: 42px;
+      }
+
+      .hero-card,
+      .section-card,
+      .cta-panel,
+      .footer-panel {
+        position: relative;
+        border: 1px solid rgba(129, 152, 213, 0.16);
+        border-radius: var(--radius-xl);
+        background:
+          linear-gradient(180deg, rgba(255, 255, 255, 0.88) 0%, rgba(251, 253, 255, 0.92) 100%);
+        box-shadow: var(--shadow-lg);
+        overflow: hidden;
+      }
+
+      .hero-card::before,
+      .section-card::before,
+      .cta-panel::before,
+      .footer-panel::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background:
+          radial-gradient(circle at top right, rgba(213, 225, 255, 0.7) 0, rgba(213, 225, 255, 0) 28%),
+          radial-gradient(circle at bottom left, rgba(226, 234, 255, 0.8) 0, rgba(226, 234, 255, 0) 22%);
+        pointer-events: none;
+      }
+
+      .hero-grid {
+        position: relative;
+        display: grid;
+        grid-template-columns: minmax(0, 1.08fr) minmax(320px, 0.92fr);
+        gap: 36px;
+        padding: 38px;
+      }
+
+      .eyebrow,
+      .mini-badge,
+      .tag {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        width: fit-content;
+        border-radius: 999px;
+        font-weight: 700;
+      }
+
+      .eyebrow {
+        padding: 10px 16px;
+        color: var(--accent-strong);
+        background: rgba(49, 94, 251, 0.12);
+      }
+
+      h1,
+      h2,
+      h3,
+      p {
+        margin: 0;
+      }
+
+      .hero h1 {
+        margin-top: 18px;
+        font-size: clamp(3.6rem, 8vw, 6rem);
+        line-height: 0.92;
+        letter-spacing: -0.05em;
+      }
+
+      .hero-copy {
+        margin-top: 24px;
+        max-width: 720px;
+        color: var(--muted);
+        font-size: clamp(1.05rem, 1.4vw, 1.42rem);
+        line-height: 1.9;
+      }
+
+      .hero-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 14px;
+        margin-top: 28px;
+      }
+
+      .button-primary,
+      .button-secondary,
+      .social-link,
+      .news-link,
+      .faq-link {
+        transition:
+          transform 0.22s ease,
+          box-shadow 0.22s ease,
+          background-color 0.22s ease;
+      }
+
+      .button-primary:hover,
+      .button-secondary:hover,
+      .social-link:hover,
+      .news-link:hover,
+      .faq-link:hover,
+      .header-cta:hover {
+        transform: translateY(-2px);
+      }
+
+      .button-primary,
+      .button-secondary {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        min-height: 58px;
+        padding: 14px 22px;
+        border-radius: 18px;
+        font-size: 0.98rem;
+        font-weight: 700;
+      }
+
+      .button-primary {
+        color: #fff;
+        background: linear-gradient(135deg, #315efb 0%, #173dc7 100%);
+        box-shadow: 0 18px 36px rgba(49, 94, 251, 0.3);
+      }
+
+      .button-secondary {
+        color: var(--text);
+        background: rgba(255, 255, 255, 0.88);
+        border: 1px solid rgba(129, 152, 213, 0.22);
+      }
+
+      .button-meta {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        line-height: 1.15;
+      }
+
+      .button-meta small {
+        color: rgba(255, 255, 255, 0.78);
+        font-size: 0.74rem;
+        font-weight: 600;
+      }
+
+      .button-secondary small {
+        color: var(--muted);
+      }
+
+      .button-meta strong {
+        font-size: 1rem;
+      }
+
+      .hero-tags,
+      .social-grid,
+      .quick-stats {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+
+      .hero-tags {
+        margin-top: 26px;
+      }
+
+      .tag {
+        padding: 11px 16px;
+        color: #26426d;
+        background: rgba(255, 255, 255, 0.8);
+        border: 1px solid rgba(129, 152, 213, 0.2);
+        font-size: 0.95rem;
+      }
+
+      .hero-side {
+        display: grid;
+        gap: 18px;
+        align-content: start;
+      }
+
+      .feature-preview,
+      .support-card,
+      .metric-card,
+      .content-card,
+      .news-card,
+      .faq-card,
+      .persona-card {
+        position: relative;
+        padding: 24px;
+        border-radius: var(--radius-lg);
+        background: rgba(255, 255, 255, 0.82);
+        border: 1px solid rgba(129, 152, 213, 0.18);
+        box-shadow: var(--shadow-md);
+      }
+
+      .feature-preview {
+        display: grid;
+        gap: 18px;
+        min-height: 420px;
+        color: #fff;
+        background:
+          linear-gradient(160deg, rgba(19, 38, 96, 0.95) 0%, rgba(39, 73, 177, 0.96) 52%, rgba(86, 118, 228, 0.92) 100%);
+      }
+
+      .feature-preview::before {
+        content: "";
+        position: absolute;
+        inset: 16px;
+        border-radius: 26px;
+        border: 1px solid rgba(255, 255, 255, 0.18);
+      }
+
+      .mini-badge {
+        padding: 8px 12px;
+        color: rgba(255, 255, 255, 0.9);
+        background: rgba(255, 255, 255, 0.14);
+        font-size: 0.82rem;
+      }
+
+      .preview-top {
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .preview-title strong {
+        display: block;
+        font-size: 1.2rem;
+      }
+
+      .preview-title span {
+        display: block;
+        margin-top: 6px;
+        color: rgba(239, 244, 255, 0.78);
+        font-size: 0.92rem;
+      }
+
+      .phone-frame {
+        position: relative;
+        border-radius: 28px;
+        padding: 16px;
+        background: rgba(255, 255, 255, 0.12);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+      }
+
+      .phone-screen {
+        display: grid;
+        gap: 14px;
+        padding: 16px;
+        border-radius: 22px;
+        background: linear-gradient(180deg, rgba(240, 244, 255, 0.96) 0%, rgba(223, 232, 255, 0.94) 100%);
+        color: #14234f;
+      }
+
+      .phone-header,
+      .phone-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+      }
+
+      .phone-pill,
+      .progress-bar span {
+        border-radius: 999px;
+      }
+
+      .phone-pill {
+        padding: 6px 10px;
+        background: rgba(49, 94, 251, 0.12);
+        color: var(--accent-strong);
+        font-size: 0.74rem;
+        font-weight: 700;
+      }
+
+      .streak-chip {
+        color: #fff;
+        background: linear-gradient(135deg, #ff7b47 0%, #ffb34f 100%);
+      }
+
+      .study-card {
+        padding: 16px;
+        border-radius: 20px;
+        background: #fff;
+        box-shadow: 0 12px 24px rgba(40, 62, 137, 0.12);
+      }
+
+      .study-card strong {
+        display: block;
+        font-size: 1.08rem;
+      }
+
+      .study-card p {
+        margin-top: 6px;
+        color: #5d6d95;
+        font-size: 0.9rem;
+        line-height: 1.7;
+      }
+
+      .progress-bar {
+        width: 100%;
+        height: 10px;
+        border-radius: 999px;
+        background: rgba(49, 94, 251, 0.12);
+        overflow: hidden;
+      }
+
+      .progress-bar span {
+        display: block;
+        width: 78%;
+        height: 100%;
+        background: linear-gradient(90deg, #4f78ff 0%, #2b57f0 100%);
+      }
+
+      .support-card h3,
+      .content-card h3,
+      .news-card h3,
+      .faq-card h3,
+      .persona-card h3 {
+        font-size: 1.35rem;
+        line-height: 1.4;
+      }
+
+      .body-copy {
+        margin-top: 12px;
+        color: var(--muted);
+        font-size: 0.98rem;
+        line-height: 1.9;
+      }
+
+      .support-mail {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        margin-top: 18px;
+        padding: 14px 18px;
+        border-radius: 16px;
+        color: var(--accent-strong);
+        background: rgba(49, 94, 251, 0.08);
+        font-weight: 800;
+        word-break: break-all;
+      }
+
+      .social-grid {
+        margin-top: 18px;
+      }
+
+      .social-link {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 120px;
+        padding: 12px 16px;
+        border-radius: 14px;
+        color: var(--text);
+        background: rgba(255, 255, 255, 0.94);
+        border: 1px solid rgba(129, 152, 213, 0.18);
+        font-weight: 700;
+      }
+
+      .social-link[data-disabled="true"] {
+        color: #8a96b8;
+        background: rgba(238, 242, 255, 0.9);
+        cursor: default;
+      }
+
+      .quick-stats {
+        margin-top: 18px;
+      }
+
+      .metric-card {
+        flex: 1 1 160px;
+        min-width: 160px;
+      }
+
+      .metric-card strong {
+        display: block;
+        font-size: 2rem;
+        line-height: 1;
+      }
+
+      .metric-card span {
+        display: block;
+        margin-top: 10px;
+        color: var(--muted);
+        line-height: 1.7;
+      }
+
+      .section-heading {
+        max-width: 760px;
+        margin-bottom: 24px;
+      }
+
+      .section-heading .eyebrow {
+        margin-bottom: 16px;
+      }
+
+      .section-heading h2 {
+        font-size: clamp(2rem, 3vw, 3.15rem);
+        line-height: 1.16;
+        letter-spacing: -0.03em;
+      }
+
+      .section-heading p {
+        margin-top: 14px;
+        color: var(--muted);
+        font-size: 1.02rem;
+        line-height: 1.9;
+      }
+
+      .grid-three,
+      .grid-two,
+      .news-grid,
+      .faq-grid {
+        display: grid;
+        gap: 18px;
+      }
+
+      .grid-three {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .grid-two {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .feature-number {
+        display: inline-grid;
+        place-items: center;
+        width: 54px;
+        height: 54px;
+        border-radius: 18px;
+        color: var(--accent-strong);
+        background: rgba(49, 94, 251, 0.1);
+        font-size: 1.35rem;
+        font-weight: 800;
+      }
+
+      .feature-card h3 {
+        margin-top: 18px;
+        font-size: 1.34rem;
+      }
+
+      .feature-card p,
+      .feature-list li,
+      .persona-points li,
+      .faq-answer,
+      .news-card p {
+        color: var(--muted);
+        line-height: 1.9;
+      }
+
+      .feature-card p {
+        margin-top: 12px;
+      }
+
+      .feature-list,
+      .persona-points,
+      .footer-links {
+        margin: 14px 0 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .feature-list li,
+      .persona-points li,
+      .footer-links a {
+        padding: 10px 0;
+        border-top: 1px solid rgba(129, 152, 213, 0.14);
+      }
+
+      .showcase-panel {
         padding: 28px;
       }
 
-      .hero-inner,
-      .section {
-        grid-template-columns: 1fr;
-      }
-    }
-
-    @media (max-width: 560px) {
-      .page {
-        width: min(100% - 20px, 1120px);
-        padding: 20px 0 36px;
+      .showcase-layout {
+        display: grid;
+        grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+        gap: 24px;
       }
 
-      .hero {
-        padding: 22px 18px;
-        border-radius: 22px;
+      .showcase-steps {
+        display: grid;
+        gap: 14px;
       }
 
-      .panel,
-      .card {
-        padding: 18px;
+      .step-item {
+        display: grid;
+        grid-template-columns: 52px 1fr;
+        gap: 14px;
+        align-items: start;
+      }
+
+      .step-item .feature-number {
+        width: 52px;
+        height: 52px;
+        border-radius: 16px;
+      }
+
+      .step-item strong {
+        display: block;
+        font-size: 1.04rem;
+      }
+
+      .step-item p {
+        margin-top: 6px;
+        color: var(--muted);
+        line-height: 1.8;
+      }
+
+      .step-summary {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 12px;
+        margin-top: 18px;
+      }
+
+      .summary-tile {
+        padding: 16px;
+        border-radius: 18px;
+        background: rgba(49, 94, 251, 0.07);
+      }
+
+      .summary-tile strong {
+        display: block;
+        font-size: 1.2rem;
+      }
+
+      .summary-tile span {
+        display: block;
+        margin-top: 8px;
+        color: var(--muted);
+        font-size: 0.92rem;
+        line-height: 1.7;
+      }
+
+      .persona-card {
+        height: 100%;
+      }
+
+      .persona-role {
+        display: inline-flex;
+        margin-top: 14px;
+        padding: 8px 12px;
+        border-radius: 999px;
+        color: var(--accent-strong);
+        background: rgba(49, 94, 251, 0.1);
+        font-size: 0.82rem;
+        font-weight: 800;
+      }
+
+      .news-grid,
+      .faq-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .news-date {
+        display: block;
+        margin-bottom: 10px;
+        color: var(--accent-strong);
+        font-size: 0.82rem;
+        font-weight: 800;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .news-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        margin-top: 16px;
+        color: var(--accent-strong);
+        font-weight: 800;
+      }
+
+      .faq-card {
+        height: 100%;
+      }
+
+      .faq-answer {
+        margin-top: 12px;
+      }
+
+      .cta-panel {
+        padding: 34px;
+      }
+
+      .cta-grid {
+        position: relative;
+        display: grid;
+        grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+        gap: 24px;
+        align-items: center;
+      }
+
+      .cta-panel h2 {
+        font-size: clamp(2rem, 3vw, 3rem);
+        line-height: 1.18;
+      }
+
+      .cta-panel p {
+        margin-top: 14px;
+        color: var(--muted);
+        line-height: 1.9;
+      }
+
+      .cta-side {
+        display: grid;
+        gap: 14px;
+      }
+
+      .cta-note {
+        padding: 16px 18px;
+        border-radius: 18px;
+        color: #e7eeff;
+        background: linear-gradient(145deg, #16254f 0%, #1e3780 100%);
+      }
+
+      .cta-note strong {
+        display: block;
+        margin-bottom: 8px;
+        font-size: 1rem;
       }
 
       .footer {
-        flex-direction: column;
-        align-items: flex-start;
+        padding: 0 0 36px;
       }
-    }
-  </style>
-</head>
-<body>
-  <main class="page">
-    <section class="hero">
-      <div class="hero-inner">
-        <div>
-          <div class="eyebrow">英語学習アプリ</div>
-          <h1>Growly</h1>
-          <p class="lead">
-            忘却曲線に基づいた復習設計で、英単語・リスニング・TOEIC学習を
-            毎日の習慣に変えていく英語学習アプリです。
-            「覚える」だけで終わらず、「定着する」までを自然にサポートします。
-          </p>
 
-          <div class="chip-row">
-            <span class="chip">忘却曲線ベース</span>
-            <span class="chip">英単語学習</span>
-            <span class="chip">リスニング強化</span>
-            <span class="chip">TOEIC対策</span>
+      .footer-panel {
+        padding: 30px;
+      }
+
+      .footer-grid {
+        position: relative;
+        display: grid;
+        grid-template-columns: minmax(0, 1.2fr) repeat(2, minmax(180px, 1fr));
+        gap: 24px;
+      }
+
+      .footer-brand p,
+      .footer-links a,
+      .footer-bottom {
+        color: var(--muted);
+      }
+
+      .footer-brand p {
+        margin-top: 12px;
+        line-height: 1.9;
+      }
+
+      .footer-links li:first-child a {
+        border-top: 0;
+        padding-top: 0;
+      }
+
+      .footer-links a {
+        display: block;
+        font-weight: 600;
+      }
+
+      .footer-heading {
+        margin-bottom: 10px;
+        font-size: 0.9rem;
+        color: var(--text);
+        font-weight: 800;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .footer-bottom {
+        display: flex;
+        justify-content: space-between;
+        gap: 18px;
+        flex-wrap: wrap;
+        margin-top: 24px;
+        padding-top: 18px;
+        border-top: 1px solid rgba(129, 152, 213, 0.14);
+        font-size: 0.9rem;
+      }
+
+      .social-note {
+        margin-top: 12px;
+        color: var(--muted);
+        font-size: 0.88rem;
+      }
+
+      .sr-only {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }
+
+      @media (max-width: 1120px) {
+        .hero-grid,
+        .showcase-layout,
+        .cta-grid,
+        .footer-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .grid-three,
+        .news-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .header-nav {
+          display: none;
+        }
+      }
+
+      @media (max-width: 760px) {
+        :root {
+          --content-width: min(100vw - 20px, 100%);
+        }
+
+        .section {
+          padding: 18px 0;
+        }
+
+        .hero-grid,
+        .showcase-panel,
+        .cta-panel,
+        .footer-panel {
+          padding: 22px;
+        }
+
+        .grid-three,
+        .grid-two,
+        .news-grid,
+        .faq-grid,
+        .step-summary {
+          grid-template-columns: 1fr;
+        }
+
+        .hero h1 {
+          font-size: clamp(3rem, 18vw, 4.6rem);
+        }
+
+        .button-primary,
+        .button-secondary,
+        .header-cta,
+        .social-link {
+          width: 100%;
+        }
+
+        .hero-actions,
+        .social-grid {
+          flex-direction: column;
+        }
+
+        .metric-card {
+          min-width: 100%;
+        }
+
+        .footer-bottom {
+          flex-direction: column;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <div class="header-inner">
+          <a class="brand" href="#top" aria-label="Growly トップへ戻る">
+            <span class="brand-mark" aria-hidden="true">G</span>
+            <span class="brand-copy">
+              <strong>Growly</strong>
+              <span>Official Site</span>
+            </span>
+          </a>
+
+          <nav class="header-nav" aria-label="主要ナビゲーション">
+            <a href="#features">特徴</a>
+            <a href="#experience">使い方</a>
+            <a href="#audience">こんな人に</a>
+            <a href="#faq">FAQ</a>
+            <a href="#contact">サポート</a>
+          </nav>
+
+          <a
+            class="header-cta"
+            href="https://apps.apple.com/jp/app/id6760452554"
+            target="_blank"
+            rel="noreferrer"
+          >
+            App Storeで見る
+          </a>
+        </div>
+      </header>
+
+      <main id="top">
+        <section class="section hero">
+          <div class="section-inner">
+            <div class="hero-card">
+              <div class="hero-grid">
+                <div>
+                  <span class="eyebrow">英語学習アプリ</span>
+                  <h1>Growly</h1>
+                  <p class="hero-copy">
+                    忘却曲線に基づく復習設計で、英単語・リスニング・TOEIC学習を毎日の習慣に。
+                    ただ覚えるだけで終わらず、自然に「続く」「定着する」学習体験を目指した公式学習アプリです。
+                  </p>
+
+                  <div class="hero-actions">
+                    <a
+                      class="button-primary"
+                      href="https://apps.apple.com/jp/app/id6760452554"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <span aria-hidden="true">App</span>
+                      <span class="button-meta">
+                        <small>iPhone / iPad</small>
+                        <strong>App Storeでダウンロード</strong>
+                      </span>
+                    </a>
+                    <a class="button-secondary" href="#features">
+                      <span class="button-meta">
+                        <small>Learn More</small>
+                        <strong>アプリの特徴を見る</strong>
+                      </span>
+                    </a>
+                  </div>
+
+                  <div class="hero-tags" aria-label="アプリの特徴">
+                    <span class="tag">忘却曲線ベース</span>
+                    <span class="tag">英単語学習</span>
+                    <span class="tag">リスニング強化</span>
+                    <span class="tag">TOEIC対策</span>
+                    <span class="tag">毎日続けやすい設計</span>
+                  </div>
+                </div>
+
+                <div class="hero-side">
+                  <section class="feature-preview" aria-label="アプリイメージ">
+                    <div class="preview-top">
+                      <span class="mini-badge">Official Learning Companion</span>
+                      <span class="mini-badge streak-chip">7日連続</span>
+                    </div>
+
+                    <div class="preview-title">
+                      <strong>学習を、続けられるかたちへ。</strong>
+                      <span>短い学習でも積み重なりが見える、洗練された学習体験。</span>
+                    </div>
+
+                    <div class="phone-frame" aria-hidden="true">
+                      <div class="phone-screen">
+                        <div class="phone-header">
+                          <span class="phone-pill">Today</span>
+                          <span class="phone-pill">復習 12件</span>
+                        </div>
+
+                        <div class="study-card">
+                          <strong>今日の学習プラン</strong>
+                          <p>単語 8分 / リスニング 6分 / 復習 5分</p>
+                          <div class="progress-bar"><span></span></div>
+                        </div>
+
+                        <div class="study-card">
+                          <div class="phone-row">
+                            <strong>定着サイクル</strong>
+                            <span class="phone-pill">AI Review</span>
+                          </div>
+                          <p>忘れやすいタイミングに合わせて自然に復習。</p>
+                        </div>
+
+                        <div class="study-card">
+                          <div class="phone-row">
+                            <strong>TOEIC学習</strong>
+                            <span>720+</span>
+                          </div>
+                          <p>単語とリスニングを並行して、試験学習に接続。</p>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
+
+                  <aside class="support-card" id="contact">
+                    <h3>サポート・お問い合わせ</h3>
+                    <p class="body-copy">
+                      アプリに関するご質問、不具合報告、メディア掲載や運営に関するご相談は、
+                      下記メールアドレスまでご連絡ください。
+                    </p>
+                    <a class="support-mail" href="mailto:australia.firmlife@gmail.com">
+                      australia.firmlife@gmail.com
+                    </a>
+
+                    <div class="social-grid" aria-label="公式リンク">
+                      <a
+                        class="social-link"
+                        href="https://apps.apple.com/jp/app/id6760452554"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        App Store
+                      </a>
+                      <a class="social-link" href="https://github.com/Growly-app/Growly-app.github.io" target="_blank" rel="noreferrer">
+                        GitHub
+                      </a>
+                      <span class="social-link" data-disabled="true">X 準備中</span>
+                      <span class="social-link" data-disabled="true">Instagram 準備中</span>
+                      <span class="social-link" data-disabled="true">Threads 準備中</span>
+                      <span class="social-link" data-disabled="true">YouTube 準備中</span>
+                    </div>
+                    <p class="social-note">
+                      SNSリンク欄は追加済みです。公開用URLが決まり次第、この欄に差し替えるだけで導線を有効化できます。
+                    </p>
+                  </aside>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-inner">
+            <div class="quick-stats" aria-label="ハイライト">
+              <article class="metric-card">
+                <strong>3軸学習</strong>
+                <span>英単語・リスニング・TOEIC学習をひとつの流れで管理。</span>
+              </article>
+              <article class="metric-card">
+                <strong>毎日設計</strong>
+                <span>短い学習でも積み上がる、日常に馴染むUIと学習導線。</span>
+              </article>
+              <article class="metric-card">
+                <strong>復習最適化</strong>
+                <span>忘れやすいタイミングに合わせた復習で、定着率をサポート。</span>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <section class="section" id="features">
+          <div class="section-inner">
+            <div class="section-heading">
+              <span class="eyebrow">Core Features</span>
+              <h2>公式ページとして必要な情報を、きちんと伝える構成へ。</h2>
+              <p>
+                Growlyの価値がひと目で伝わるように、学習設計・継続性・試験接続の3本柱で特徴を整理しています。
+              </p>
+            </div>
+
+            <div class="grid-three">
+              <article class="content-card feature-card">
+                <span class="feature-number">01</span>
+                <h3>復習タイミングを最適化</h3>
+                <p>
+                  忘却曲線をベースに、知識が薄れやすいタイミングを意識した復習導線を設計。
+                  覚えた内容を放置しにくく、自然に振り返れる流れをつくります。
+                </p>
+                <ul class="feature-list">
+                  <li>短時間でも復習の優先順位が見える</li>
+                  <li>「今日やるべきこと」に集中しやすい</li>
+                  <li>継続と定着を分けずに設計</li>
+                </ul>
+              </article>
+
+              <article class="content-card feature-card">
+                <span class="feature-number">02</span>
+                <h3>毎日続けやすい学習体験</h3>
+                <p>
+                  負担になりすぎない分量感と、迷わず始められるUIで、忙しい日でも学習を止めにくい体験を目指しています。
+                </p>
+                <ul class="feature-list">
+                  <li>短い学習セッションでも達成感が残る</li>
+                  <li>やることが整理されていて迷いにくい</li>
+                  <li>習慣化に向いたシンプルな進行</li>
+                </ul>
+              </article>
+
+              <article class="content-card feature-card">
+                <span class="feature-number">03</span>
+                <h3>基礎から試験対策まで対応</h3>
+                <p>
+                  単語学習とリスニング強化をベースに、TOEIC学習にもつながる土台づくりをサポート。
+                  日常学習からスコアアップまで視野に入れられます。
+                </p>
+                <ul class="feature-list">
+                  <li>英単語の反復学習</li>
+                  <li>耳からのインプット強化</li>
+                  <li>TOEICに向けた継続学習の土台作り</li>
+                </ul>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <section class="section" id="experience">
+          <div class="section-inner">
+            <div class="section-card showcase-panel">
+              <div class="section-heading">
+                <span class="eyebrow">How It Works</span>
+                <h2>アプリの使い方が直感的に伝わる、公式LPらしい情報設計。</h2>
+                <p>
+                  インストールして終わりではなく、学習開始から定着までのイメージが見えることで、安心して使い始めやすくなります。
+                </p>
+              </div>
+
+              <div class="showcase-layout">
+                <div class="showcase-steps">
+                  <article class="step-item">
+                    <span class="feature-number">1</span>
+                    <div>
+                      <strong>学習を始める</strong>
+                      <p>その日のタスクが見えた状態で、単語・リスニング・復習にすぐ入れます。</p>
+                    </div>
+                  </article>
+                  <article class="step-item">
+                    <span class="feature-number">2</span>
+                    <div>
+                      <strong>忘れやすい頃に振り返る</strong>
+                      <p>一度やった内容を自然に復習へつなげ、覚えっぱなし・やりっぱなしを防ぎます。</p>
+                    </div>
+                  </article>
+                  <article class="step-item">
+                    <span class="feature-number">3</span>
+                    <div>
+                      <strong>毎日の習慣として積み上げる</strong>
+                      <p>短時間でも継続しやすい導線で、知識の定着と学習の自走を後押しします。</p>
+                    </div>
+                  </article>
+                </div>
+
+                <div>
+                  <div class="feature-preview">
+                    <div class="preview-top">
+                      <span class="mini-badge">Daily Learning Flow</span>
+                      <span class="mini-badge">Review Driven</span>
+                    </div>
+                    <div class="preview-title">
+                      <strong>Start, Review, Retain.</strong>
+                      <span>最小限の操作で、学習サイクルが自然につながるレイアウト。</span>
+                    </div>
+                    <div class="step-summary">
+                      <div class="summary-tile">
+                        <strong>単語</strong>
+                        <span>基礎を固め、何度も出会えるように設計。</span>
+                      </div>
+                      <div class="summary-tile">
+                        <strong>音声</strong>
+                        <span>耳からの理解も並行して鍛える。</span>
+                      </div>
+                      <div class="summary-tile">
+                        <strong>定着</strong>
+                        <span>タイミングを逃さず復習へ戻す。</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="section" id="audience">
+          <div class="section-inner">
+            <div class="section-heading">
+              <span class="eyebrow">For Who</span>
+              <h2>こんな人に向いています。</h2>
+              <p>
+                「ちゃんと勉強したいのに続かない」「覚えてもすぐ抜ける」を解消したいユーザーに向けた構成です。
+              </p>
+            </div>
+
+            <div class="grid-three">
+              <article class="persona-card">
+                <h3>英語学習を習慣化したい人</h3>
+                <span class="persona-role">Habit Builder</span>
+                <ul class="persona-points">
+                  <li>忙しくても少しずつ積み上げたい</li>
+                  <li>毎日何をやればいいか迷いたくない</li>
+                  <li>無理のない学習フローを探している</li>
+                </ul>
+              </article>
+
+              <article class="persona-card">
+                <h3>覚えても忘れやすい人</h3>
+                <span class="persona-role">Retention Focus</span>
+                <ul class="persona-points">
+                  <li>単語を覚えても時間がたつと抜けてしまう</li>
+                  <li>復習のタイミングを自分で管理しづらい</li>
+                  <li>定着まで見据えた学習をしたい</li>
+                </ul>
+              </article>
+
+              <article class="persona-card">
+                <h3>TOEICの土台を作りたい人</h3>
+                <span class="persona-role">Score Foundation</span>
+                <ul class="persona-points">
+                  <li>単語とリスニングを並行して伸ばしたい</li>
+                  <li>試験対策を始める前に基礎を整えたい</li>
+                  <li>毎日の継続でスコアにつながる準備をしたい</li>
+                </ul>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <section class="section" id="news">
+          <div class="section-inner">
+            <div class="section-heading">
+              <span class="eyebrow">News & Updates</span>
+              <h2>更新情報が見えるだけで、公式サイトらしさは大きく上がります。</h2>
+              <p>
+                リリース状況やアップデート予定、お知らせが見える欄を置くことで、継続運営されている印象を伝えられます。
+              </p>
+            </div>
+
+            <div class="news-grid">
+              <article class="news-card">
+                <span class="news-date">Official Page</span>
+                <h3>公式サイトを刷新しました</h3>
+                <p>
+                  App Store導線、FAQ、更新情報、問い合わせ先を整理し、公式LPとして使いやすい構成へアップデートしました。
+                </p>
+                <a class="news-link" href="#top">トップへ戻る</a>
+              </article>
+
+              <article class="news-card">
+                <span class="news-date">Coming Soon</span>
+                <h3>公式SNSリンクを順次公開予定</h3>
+                <p>
+                  X、Instagram、Threads、YouTubeなど、外部発信チャネルの導線を追加できる枠をあらかじめ用意しています。
+                </p>
+                <a class="news-link" href="#contact">サポートを見る</a>
+              </article>
+
+              <article class="news-card">
+                <span class="news-date">Download</span>
+                <h3>App Storeからすぐに確認できます</h3>
+                <p>
+                  公式ページからそのままアプリの配布ページへ移動できるため、初見ユーザーにもわかりやすい導線になっています。
+                </p>
+                <a
+                  class="news-link"
+                  href="https://apps.apple.com/jp/app/id6760452554"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  App Storeへ
+                </a>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <section class="section" id="faq">
+          <div class="section-inner">
+            <div class="section-heading">
+              <span class="eyebrow">FAQ</span>
+              <h2>ダウンロード前に気になることへ、先回りして答える。</h2>
+              <p>
+                よくある質問を最初から置いておくと、ページ全体の信頼感がかなり上がります。
+              </p>
+            </div>
+
+            <div class="faq-grid">
+              <article class="faq-card">
+                <h3>どんな学習に対応していますか？</h3>
+                <p class="faq-answer">
+                  Growlyは、英単語学習・リスニング強化・TOEIC学習の土台づくりを意識した英語学習アプリです。
+                </p>
+              </article>
+
+              <article class="faq-card">
+                <h3>どこからダウンロードできますか？</h3>
+                <p class="faq-answer">
+                  本ページ上部と下部にある `App Storeでダウンロード` ボタンから、配布ページへ直接移動できます。
+                </p>
+              </article>
+
+              <article class="faq-card">
+                <h3>問い合わせ先はどこですか？</h3>
+                <p class="faq-answer">
+                  サポートや不具合報告は `australia.firmlife@gmail.com` までご連絡ください。
+                </p>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-inner">
+            <div class="cta-panel">
+              <div class="cta-grid">
+                <div>
+                  <span class="eyebrow">Download Now</span>
+                  <h2>英語学習を、続けやすい毎日の習慣へ。</h2>
+                  <p>
+                    Growlyを使って、単語・リスニング・復習をひとつの流れに。
+                    公式ページからそのままApp Storeへ進めます。
+                  </p>
+                  <div class="hero-actions">
+                    <a
+                      class="button-primary"
+                      href="https://apps.apple.com/jp/app/id6760452554"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <span aria-hidden="true">App</span>
+                      <span class="button-meta">
+                        <small>Official Download</small>
+                        <strong>App Storeでダウンロード</strong>
+                      </span>
+                    </a>
+                    <a class="button-secondary" href="privacy.html">
+                      <span class="button-meta">
+                        <small>Policy</small>
+                        <strong>利用規約・プライバシーポリシー</strong>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="cta-side">
+                  <div class="cta-note">
+                    <strong>公式SNSリンクについて</strong>
+                    X / Instagram / Threads / YouTube などのURLが確定したら、
+                    現在の準備中表示をそのまま本番リンクへ差し替えるだけで公開できます。
+                  </div>
+                  <div class="cta-note">
+                    <strong>サポート導線も整理済み</strong>
+                    お問い合わせ、利用規約、プライバシーポリシー、配布ページへの遷移を1ページ内で完結させています。
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="section footer">
+        <div class="footer-inner">
+          <div class="footer-panel">
+            <div class="footer-grid">
+              <div class="footer-brand">
+                <div class="brand">
+                  <span class="brand-mark" aria-hidden="true">G</span>
+                  <span class="brand-copy">
+                    <strong>Growly</strong>
+                    <span>Official Support & Landing Page</span>
+                  </span>
+                </div>
+                <p>
+                  忘却曲線に基づいた復習設計で、英語学習を日々の習慣へ。
+                  App Store導線、サポート情報、ポリシー情報をまとめたGrowly公式ページです。
+                </p>
+              </div>
+
+              <div>
+                <div class="footer-heading">Site</div>
+                <ul class="footer-links">
+                  <li><a href="#features">特徴</a></li>
+                  <li><a href="#experience">使い方</a></li>
+                  <li><a href="#audience">こんな人に</a></li>
+                  <li><a href="#faq">FAQ</a></li>
+                </ul>
+              </div>
+
+              <div>
+                <div class="footer-heading">Official Links</div>
+                <ul class="footer-links">
+                  <li>
+                    <a href="https://apps.apple.com/jp/app/id6760452554" target="_blank" rel="noreferrer">
+                      App Store
+                    </a>
+                  </li>
+                  <li><a href="privacy.html">利用規約・プライバシーポリシー</a></li>
+                  <li><a href="mailto:australia.firmlife@gmail.com">お問い合わせ</a></li>
+                  <li>
+                    <a href="https://github.com/Growly-app/Growly-app.github.io" target="_blank" rel="noreferrer">
+                      GitHub Repository
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="footer-bottom">
+              <span>© Growly Official Page</span>
+              <span>Built for GitHub Pages</span>
+            </div>
           </div>
         </div>
-
-        <aside class="panel">
-          <h2>サポート・お問い合わせ</h2>
-          <p>
-            アプリに関するご質問、不具合のご報告、その他のお問い合わせは、
-            下記メールアドレスまでご連絡ください。
-          </p>
-          <a class="mail" href="mailto:australia.firmlife@gmail.com">
-            australia.firmlife@gmail.com
-          </a>
-        </aside>
-      </div>
-    </section>
-
-    <section class="section" aria-label="Growlyの特徴">
-      <article class="card">
-        <div class="card-number">01</div>
-        <h3>復習のタイミングを最適化</h3>
-        <p>
-          忘れやすいタイミングに合わせて学習を重ねることで、
-          知識の定着をより自然に、より効率的に進められます。
-        </p>
-      </article>
-
-      <article class="card">
-        <div class="card-number">02</div>
-        <h3>英語を毎日続けやすい設計</h3>
-        <p>
-          難しすぎず、負担になりすぎない学習体験を意識し、
-          忙しい日でも継続しやすい構成を目指しています。
-        </p>
-      </article>
-
-      <article class="card">
-        <div class="card-number">03</div>
-        <h3>基礎から試験対策まで対応</h3>
-        <p>
-          単語学習やリスニング強化に加え、
-          TOEIC学習にもつながる土台づくりをサポートします。
-        </p>
-      </article>
-    </section>
-
-    <footer class="footer">
-      <span>Growly Official Support Page</span>
-      <a href="privacy.html">利用規約・プライバシーポリシー</a>
-    </footer>
-  </main>
-</body>
+      </footer>
+    </div>
+  </body>
 </html>
-
