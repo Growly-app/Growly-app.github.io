@@ -1,0 +1,33 @@
+{
+  "id": "ECA-008",
+  "titleJa": "客にドリンクを投げつけるジジイ",
+  "titleEn": "The Grumpy Old Man Throws a Drink at a Customer",
+  "titleEs": "El viejo gruñón le lanza una bebida a un cliente",
+  "titlePt": "O Velho Ranzinza Joga uma Bebida em um Cliente",
+  "titleId": "Lelaki Tua Pemarah Melempar Minuman ke Pelanggan",
+  "titleKo": "성질 고약한 노인이 손님에게 음료를 던진다",
+  "titleTr": "Huysuz Yaşlı Adam Bir Müşteriye İçecek Fırlatıyor",
+  "tagline": "ID:ECA-008",
+  "description": "",
+  "youtubeUrl": "https://youtu.be/6z7JOfCUQJ8",
+  "difficulty": "intermediate",
+  "videoFile": "ECA-008.mp4",
+  "cuesFile": "dialogue.csv",
+  "thumbnailFile": "ECA-008.png",
+  "thumbnailListFile": "eca008_9_16.png",
+  "quizTermsFile": "ECA-008_quiz.json",
+  "reorderListeningLineIds": [
+    "L001",
+    "L003",
+    "L004",
+    "L011",
+    "L019",
+    "L024",
+    "L031",
+    "L043",
+    "L055",
+    "L060"
+  ],
+  "contentBaseUrl": "https://growly-app.github.io/stories/ECA-008/",
+  "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/ECA-008/ECA-008.mp4"
+}
