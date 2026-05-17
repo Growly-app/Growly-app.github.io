@@ -1,0 +1,959 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "QT001",
+      "lineId": "L002",
+      "termEn": "notification",
+      "correctJa": "通知",
+      "incorrectJa": [
+        "投稿",
+        "写真",
+        "画面"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "notificación",
+          "incorrect": [
+            "publicación",
+            "foto",
+            "pantalla"
+          ]
+        },
+        "pt": {
+          "correct": "notificação",
+          "incorrect": [
+            "publicação",
+            "foto",
+            "tela"
+          ]
+        },
+        "id": {
+          "correct": "notifikasi",
+          "incorrect": [
+            "unggahan",
+            "foto",
+            "layar"
+          ]
+        },
+        "ko": {
+          "correct": "알림",
+          "incorrect": [
+            "게시물",
+            "사진",
+            "화면"
+          ]
+        },
+        "tr": {
+          "correct": "bildirim",
+          "incorrect": [
+            "paylaşım",
+            "fotoğraf",
+            "ekran"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT002",
+      "lineId": "L003",
+      "termEn": "filters",
+      "correctJa": "加工",
+      "incorrectJa": [
+        "通知",
+        "準備",
+        "投稿"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "preparación",
+          "incorrect": [
+            "edición",
+            "confirmación",
+            "compartir"
+          ]
+        },
+        "pt": {
+          "correct": "preparação",
+          "incorrect": [
+            "edição",
+            "confirmação",
+            "compartilhamento"
+          ]
+        },
+        "id": {
+          "correct": "persiapan",
+          "incorrect": [
+            "editan",
+            "konfirmasi",
+            "membagikan"
+          ]
+        },
+        "ko": {
+          "correct": "준비",
+          "incorrect": [
+            "가공",
+            "확인",
+            "공유"
+          ]
+        },
+        "tr": {
+          "correct": "hazırlık",
+          "incorrect": [
+            "düzenleme",
+            "kontrol",
+            "paylaşım"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT003",
+      "lineId": "L003",
+      "termEn": "preparation",
+      "correctJa": "準備",
+      "incorrectJa": [
+        "加工",
+        "確認",
+        "共有"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "preparación",
+          "incorrect": [
+            "edición",
+            "confirmación",
+            "compartir"
+          ]
+        },
+        "pt": {
+          "correct": "preparação",
+          "incorrect": [
+            "edição",
+            "confirmação",
+            "compartilhamento"
+          ]
+        },
+        "id": {
+          "correct": "persiapan",
+          "incorrect": [
+            "editan",
+            "konfirmasi",
+            "membagikan"
+          ]
+        },
+        "ko": {
+          "correct": "준비",
+          "incorrect": [
+            "가공",
+            "확인",
+            "공유"
+          ]
+        },
+        "tr": {
+          "correct": "hazırlık",
+          "incorrect": [
+            "düzenleme",
+            "kontrol",
+            "paylaşım"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT004",
+      "lineId": "L006",
+      "termEn": "made fun of",
+      "correctJa": "バカにした",
+      "incorrectJa": [
+        "真似した",
+        "心配した",
+        "助けた"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "se burló de",
+          "incorrect": [
+            "imitó",
+            "se preocupó por",
+            "ayudó a"
+          ]
+        },
+        "pt": {
+          "correct": "zombou de",
+          "incorrect": [
+            "imitou",
+            "se preocupou com",
+            "ajudou"
+          ]
+        },
+        "id": {
+          "correct": "mengejek",
+          "incorrect": [
+            "meniru",
+            "mengkhawatirkan",
+            "membantu"
+          ]
+        },
+        "ko": {
+          "correct": "비웃었다",
+          "incorrect": [
+            "따라 했다",
+            "걱정했다",
+            "도와줬다"
+          ]
+        },
+        "tr": {
+          "correct": "alay etti",
+          "incorrect": [
+            "taklit etti",
+            "endişelendi",
+            "yardım etti"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT005",
+      "lineId": "L007",
+      "termEn": "curious",
+      "correctJa": "気になっている",
+      "incorrectJa": [
+        "怒っている",
+        "飽きている",
+        "隠している"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "tener curiosidad",
+          "incorrect": [
+            "estar enojado",
+            "estar aburrido",
+            "estar ocultando algo"
+          ]
+        },
+        "pt": {
+          "correct": "curioso",
+          "incorrect": [
+            "com raiva",
+            "entediado",
+            "escondendo algo"
+          ]
+        },
+        "id": {
+          "correct": "penasaran",
+          "incorrect": [
+            "marah",
+            "bosan",
+            "menyembunyikan"
+          ]
+        },
+        "ko": {
+          "correct": "신경이 쓰이는",
+          "incorrect": [
+            "화가 난",
+            "질린",
+            "숨기고 있는"
+          ]
+        },
+        "tr": {
+          "correct": "merak eden",
+          "incorrect": [
+            "kızgın",
+            "sıkılmış",
+            "saklayan"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT006",
+      "lineId": "L009",
+      "termEn": "worth showing",
+      "correctJa": "見せる価値がある",
+      "incorrectJa": [
+        "隠す必要がある",
+        "投稿する予定がある",
+        "見る必要がある"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "valer la pena mostrar",
+          "incorrect": [
+            "necesitar esconder",
+            "se tenga previsto publicar",
+            "necesitar ver"
+          ]
+        },
+        "pt": {
+          "correct": "vale a pena mostrar",
+          "incorrect": [
+            "precisa esconder",
+            "planeja postar",
+            "precisa ver"
+          ]
+        },
+        "id": {
+          "correct": "layak ditunjukkan",
+          "incorrect": [
+            "perlu disembunyikan",
+            "berencana mengunggah",
+            "perlu dilihat"
+          ]
+        },
+        "ko": {
+          "correct": "보여 줄 가치가 있는",
+          "incorrect": [
+            "숨길 필요가 있는",
+            "게시할 예정인",
+            "볼 필요가 있는"
+          ]
+        },
+        "tr": {
+          "correct": "göstermeye değer",
+          "incorrect": [
+            "saklamak gerekiyor",
+            "paylaşmayı planlıyor",
+            "görmek gerekiyor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT007",
+      "lineId": "L012",
+      "termEn": "focus on",
+      "correctJa": "集中する",
+      "incorrectJa": [
+        "投稿する",
+        "確認する",
+        "真似する"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "concentrarse en",
+          "incorrect": [
+            "publicar",
+            "confirmar",
+            "imitar"
+          ]
+        },
+        "pt": {
+          "correct": "se concentrar em",
+          "incorrect": [
+            "publicar",
+            "confirmar",
+            "imitar"
+          ]
+        },
+        "id": {
+          "correct": "fokus pada",
+          "incorrect": [
+            "mengunggah",
+            "mengonfirmasi",
+            "meniru"
+          ]
+        },
+        "ko": {
+          "correct": "집중하다",
+          "incorrect": [
+            "게시하다",
+            "확인하다",
+            "따라 하다"
+          ]
+        },
+        "tr": {
+          "correct": "odaklanmak",
+          "incorrect": [
+            "paylaşmak",
+            "kontrol etmek",
+            "taklit etmek"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT008",
+      "lineId": "L018",
+      "termEn": "fall behind",
+      "correctJa": "置いていかれる",
+      "incorrectJa": [
+        "追いつく",
+        "目立つ",
+        "逃げる"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "quedarse atrás",
+          "incorrect": [
+            "alcanzar",
+            "destacar",
+            "huir"
+          ]
+        },
+        "pt": {
+          "correct": "ficar para trás",
+          "incorrect": [
+            "alcançar",
+            "se destacar",
+            "fugir"
+          ]
+        },
+        "id": {
+          "correct": "tertinggal",
+          "incorrect": [
+            "mengejar",
+            "menonjol",
+            "melarikan diri"
+          ]
+        },
+        "ko": {
+          "correct": "뒤처지다",
+          "incorrect": [
+            "따라잡다",
+            "눈에 띄다",
+            "도망가다"
+          ]
+        },
+        "tr": {
+          "correct": "geride kalmak",
+          "incorrect": [
+            "yetişmek",
+            "öne çıkmak",
+            "kaçmak"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT009",
+      "lineId": "L024",
+      "termEn": "on purpose",
+      "correctJa": "わざと",
+      "incorrectJa": [
+        "偶然に",
+        "急いで",
+        "静かに"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "a propósito",
+          "incorrect": [
+            "por casualidad",
+            "con prisa",
+            "en silencio"
+          ]
+        },
+        "pt": {
+          "correct": "de propósito",
+          "incorrect": [
+            "por acaso",
+            "com pressa",
+            "em silêncio"
+          ]
+        },
+        "id": {
+          "correct": "sengaja",
+          "incorrect": [
+            "kebetulan",
+            "dengan tergesa-gesa",
+            "dengan tenang"
+          ]
+        },
+        "ko": {
+          "correct": "일부러",
+          "incorrect": [
+            "우연히",
+            "급하게",
+            "조용히"
+          ]
+        },
+        "tr": {
+          "correct": "bilerek",
+          "incorrect": [
+            "tesadüfen",
+            "aceleyle",
+            "sessizce"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT010",
+      "lineId": "L027",
+      "termEn": "depth",
+      "correctJa": "深み",
+      "incorrectJa": [
+        "人気",
+        "若さ",
+        "価値"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "profundidad",
+          "incorrect": [
+            "popularidad",
+            "juventud",
+            "valor"
+          ]
+        },
+        "pt": {
+          "correct": "profundidade",
+          "incorrect": [
+            "popularidade",
+            "juventude",
+            "valor"
+          ]
+        },
+        "id": {
+          "correct": "kedalaman",
+          "incorrect": [
+            "kepopuleran",
+            "kemudaan",
+            "nilai"
+          ]
+        },
+        "ko": {
+          "correct": "깊이",
+          "incorrect": [
+            "인기",
+            "젊음",
+            "가치"
+          ]
+        },
+        "tr": {
+          "correct": "derinlik",
+          "incorrect": [
+            "popülerlik",
+            "gençlik",
+            "değer"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT011",
+      "lineId": "L034",
+      "termEn": "notifications",
+      "correctJa": "通知",
+      "incorrectJa": [
+        "投稿",
+        "写真",
+        "コメント"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "notificaciones",
+          "incorrect": [
+            "publicaciones",
+            "fotos",
+            "comentarios"
+          ]
+        },
+        "pt": {
+          "correct": "notificações",
+          "incorrect": [
+            "publicações",
+            "fotos",
+            "comentários"
+          ]
+        },
+        "id": {
+          "correct": "notifikasi",
+          "incorrect": [
+            "unggahan",
+            "foto",
+            "komentar"
+          ]
+        },
+        "ko": {
+          "correct": "알림",
+          "incorrect": [
+            "게시물",
+            "사진",
+            "댓글"
+          ]
+        },
+        "tr": {
+          "correct": "bildirimler",
+          "incorrect": [
+            "paylaşımlar",
+            "fotoğraflar",
+            "yorumlar"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT012",
+      "lineId": "L048",
+      "termEn": "background",
+      "correctJa": "背景",
+      "incorrectJa": [
+        "顔",
+        "画面",
+        "通知"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "fondo",
+          "incorrect": [
+            "cara",
+            "pantalla",
+            "notificación"
+          ]
+        },
+        "pt": {
+          "correct": "fundo",
+          "incorrect": [
+            "rosto",
+            "tela",
+            "notificação"
+          ]
+        },
+        "id": {
+          "correct": "latar belakang",
+          "incorrect": [
+            "wajah",
+            "layar",
+            "notifikasi"
+          ]
+        },
+        "ko": {
+          "correct": "배경",
+          "incorrect": [
+            "얼굴",
+            "화면",
+            "알림"
+          ]
+        },
+        "tr": {
+          "correct": "arka plan",
+          "incorrect": [
+            "yüz",
+            "ekran",
+            "bildirim"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT013",
+      "lineId": "L050",
+      "termEn": "customer data",
+      "correctJa": "顧客データ",
+      "incorrectJa": [
+        "会社のロゴ",
+        "投稿写真",
+        "スマホ画面"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "datos de clientes",
+          "incorrect": [
+            "logotipo de la empresa",
+            "foto publicada",
+            "pantalla del teléfono"
+          ]
+        },
+        "pt": {
+          "correct": "dados de clientes",
+          "incorrect": [
+            "logotipo da empresa",
+            "foto publicada",
+            "tela do celular"
+          ]
+        },
+        "id": {
+          "correct": "data pelanggan",
+          "incorrect": [
+            "logo perusahaan",
+            "foto unggahan",
+            "layar ponsel"
+          ]
+        },
+        "ko": {
+          "correct": "고객 데이터",
+          "incorrect": [
+            "회사 로고",
+            "게시 사진",
+            "스마트폰 화면"
+          ]
+        },
+        "tr": {
+          "correct": "müşteri verileri",
+          "incorrect": [
+            "şirket logosu",
+            "paylaşılan fotoğraf",
+            "telefon ekranı"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT014",
+      "lineId": "L051",
+      "termEn": "visible",
+      "correctJa": "見えている",
+      "incorrectJa": [
+        "隠れている",
+        "消えている",
+        "ぼやけている"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "visible",
+          "incorrect": [
+            "oculto",
+            "desaparecido",
+            "borroso"
+          ]
+        },
+        "pt": {
+          "correct": "visível",
+          "incorrect": [
+            "escondido",
+            "apagado",
+            "embaçado"
+          ]
+        },
+        "id": {
+          "correct": "terlihat",
+          "incorrect": [
+            "tersembunyi",
+            "hilang",
+            "buram"
+          ]
+        },
+        "ko": {
+          "correct": "보이는",
+          "incorrect": [
+            "숨겨진",
+            "사라진",
+            "흐릿한"
+          ]
+        },
+        "tr": {
+          "correct": "görünür",
+          "incorrect": [
+            "gizli",
+            "kaybolmuş",
+            "bulanık"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT015",
+      "lineId": "L052",
+      "termEn": "shared",
+      "correctJa": "共有された",
+      "incorrectJa": [
+        "削除された",
+        "隠された",
+        "確認された"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "compartido",
+          "incorrect": [
+            "eliminado",
+            "ocultado",
+            "verificado"
+          ]
+        },
+        "pt": {
+          "correct": "compartilhado",
+          "incorrect": [
+            "apagado",
+            "escondido",
+            "confirmado"
+          ]
+        },
+        "id": {
+          "correct": "dibagikan",
+          "incorrect": [
+            "dihapus",
+            "disembunyikan",
+            "dikonfirmasi"
+          ]
+        },
+        "ko": {
+          "correct": "공유된",
+          "incorrect": [
+            "삭제된",
+            "숨겨진",
+            "확인된"
+          ]
+        },
+        "tr": {
+          "correct": "paylaşıldı",
+          "incorrect": [
+            "silindi",
+            "gizlendi",
+            "kontrol edildi"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT016",
+      "lineId": "L058",
+      "termEn": "to blame",
+      "correctJa": "責任がある",
+      "incorrectJa": [
+        "価値がある",
+        "人気がある",
+        "関係がある"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "tener la culpa",
+          "incorrect": [
+            "tener valor",
+            "ser popular",
+            "tener relación"
+          ]
+        },
+        "pt": {
+          "correct": "ter culpa",
+          "incorrect": [
+            "ter valor",
+            "ter popularidade",
+            "ter relação"
+          ]
+        },
+        "id": {
+          "correct": "bertanggung jawab",
+          "incorrect": [
+            "bernilai",
+            "terkenal",
+            "berhubungan"
+          ]
+        },
+        "ko": {
+          "correct": "책임이 있다",
+          "incorrect": [
+            "가치가 있다",
+            "인기가 있다",
+            "관계가 있다"
+          ]
+        },
+        "tr": {
+          "correct": "sorumlu olmak",
+          "incorrect": [
+            "değerli olmak",
+            "popüler olmak",
+            "ilgili olmak"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT017",
+      "lineId": "L062",
+      "termEn": "copying",
+      "correctJa": "真似すること",
+      "incorrectJa": [
+        "確認すること",
+        "投稿すること",
+        "隠すこと"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "imitar",
+          "incorrect": [
+            "confirmar",
+            "publicar",
+            "ocultar"
+          ]
+        },
+        "pt": {
+          "correct": "imitar",
+          "incorrect": [
+            "confirmar",
+            "publicar",
+            "esconder"
+          ]
+        },
+        "id": {
+          "correct": "meniru",
+          "incorrect": [
+            "mengonfirmasi",
+            "mengunggah",
+            "menyembunyikan"
+          ]
+        },
+        "ko": {
+          "correct": "따라 하는 것",
+          "incorrect": [
+            "확인하는 것",
+            "게시하는 것",
+            "숨기는 것"
+          ]
+        },
+        "tr": {
+          "correct": "taklit etmek",
+          "incorrect": [
+            "kontrol etmek",
+            "paylaşmak",
+            "gizlemek"
+          ]
+        }
+      }
+    },
+    {
+      "id": "QT018",
+      "lineId": "L064",
+      "termEn": "lost his job",
+      "correctJa": "仕事を失った",
+      "incorrectJa": [
+        "仕事を始めた",
+        "仕事を休んだ",
+        "仕事を終えた"
+      ],
+      "choicesByLang": {
+        "es": {
+          "correct": "perdió su trabajo",
+          "incorrect": [
+            "empezó a trabajar",
+            "descansó del trabajo",
+            "terminó el trabajo"
+          ]
+        },
+        "pt": {
+          "correct": "perdeu o emprego",
+          "incorrect": [
+            "começou a trabalhar",
+            "tirou folga do trabalho",
+            "terminou o trabalho"
+          ]
+        },
+        "id": {
+          "correct": "kehilangan pekerjaannya",
+          "incorrect": [
+            "mulai bekerja",
+            "libur dari pekerjaan",
+            "menyelesaikan pekerjaan"
+          ]
+        },
+        "ko": {
+          "correct": "직장을 잃었다",
+          "incorrect": [
+            "일을 시작했다",
+            "일을 쉬었다",
+            "일을 끝냈다"
+          ]
+        },
+        "tr": {
+          "correct": "işini kaybetti",
+          "incorrect": [
+            "işe başladı",
+            "işe ara verdi",
+            "işini bitirdi"
+          ]
+        }
+      }
+    }
+  ]
+}
