@@ -1,0 +1,33 @@
+{
+  "id": "ECA-009",
+  "titleJa": "職場でSNS投稿したジジイの末路",
+  "titleEn": "The Grumpy Old Man Posted at Work",
+  "titleEs": "El destino del viejo que publicó en redes sociales en el trabajo",
+  "titlePt": "O fim do velho que postou nas redes sociais no trabalho",
+  "titleId": "Nasib Akhir Lelaki Tua yang Mengunggah ke Media Sosial Saat Bekerja",
+  "titleKo": "직장에서 SNS에 글을 올린 지지이의 최후",
+  "titleTr": "İş Yerinde Sosyal Medyada Paylaşım Yapan Yaşlı Adamın Sonu",
+  "tagline": "ID:ECA-009",
+  "description": "",
+  "youtubeUrl": "https://youtu.be/tnpJw4okao4",
+  "difficulty": "intermediate",
+  "videoFile": "ECA-009.mp4",
+  "cuesFile": "dialogue.csv",
+  "thumbnailFile": "ECA-009.png",
+  "thumbnailListFile": "eca009_9_16.png",
+  "quizTermsFile": "ECA-009_quiz.json",
+  "reorderListeningLineIds": [
+    "L003",
+    "L007",
+    "L013",
+    "L016",
+    "L020",
+    "L023",
+    "L028",
+    "L036",
+    "L048",
+    "L050"
+  ],
+  "contentBaseUrl": "https://growly-app.github.io/stories/ECA-009/",
+  "videoUrl": "https://pub-9e6c6705fd284dbbacf92ef45bcf2ca6.r2.dev/videos/ECA-009/ECA-009.mp4"
+}
