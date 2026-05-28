@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_005",
+  "stage_order": 5,
+  "stage_title": "Leaving Home 01",
+  "phrase_count": 7,
+  "phrase_ids": [
+    "a11-01-018",
+    "a11-01-019",
+    "a11-01-020",
+    "a11-05-015",
+    "a11-01-021",
+    "a11-01-022",
+    "a11-01-023"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-01-018",
+      "en": "Pack my bag",
+      "ja": "バッグに荷物を入れる",
+      "translations": {
+        "es": "Preparar la mochila",
+        "pt": "Arrumar a mochila",
+        "id": "Mengemas tas",
+        "ko": "가방을 챙기다",
+        "tr": "Çantayı hazırlamak",
+        "my": "အိတ်ကို ပြင်ဆင်ခြင်း",
+        "zh-Hans": "收拾书包"
+      },
+      "asset_keys": {
+        "image": "a11-01-018",
+        "audio_en": "a11-01-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-018.png",
+        "audio_en": "assets/audio/en/a11-01-018.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-019",
+      "en": "Take my keys",
+      "ja": "鍵を持つ",
+      "translations": {
+        "es": "Tomar las llaves",
+        "pt": "Pegar as chaves",
+        "id": "Mengambil kunci",
+        "ko": "열쇠를 챙기다",
+        "tr": "Anahtarları almak",
+        "my": "သော့ကို ယူခြင်း",
+        "zh-Hans": "拿钥匙"
+      },
+      "asset_keys": {
+        "image": "a11-01-019",
+        "audio_en": "a11-01-019"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-019.png",
+        "audio_en": "assets/audio/en/a11-01-019.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-020",
+      "en": "Put on shoes",
+      "ja": "靴を履く",
+      "translations": {
+        "es": "Ponerse los zapatos",
+        "pt": "Calçar os sapatos",
+        "id": "Memakai sepatu",
+        "ko": "신발을 신다",
+        "tr": "Ayakkabı giymek",
+        "my": "ဖိနပ်စီးခြင်း",
+        "zh-Hans": "穿鞋"
+      },
+      "asset_keys": {
+        "image": "a11-01-020",
+        "audio_en": "a11-01-020"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-020.png",
+        "audio_en": "assets/audio/en/a11-01-020.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-05-015",
+      "en": "Tie shoes",
+      "ja": "靴ひもを結ぶ",
+      "translations": {
+        "es": "Atarse los cordones",
+        "pt": "Amarrar os cadarços",
+        "id": "Mengikat tali sepatu",
+        "ko": "신발 끈을 묶다",
+        "tr": "Ayakkabı bağcıklarını bağlamak",
+        "my": "ဖိနပ်ကြိုးချည်ခြင်း",
+        "zh-Hans": "系鞋带"
+      },
+      "asset_keys": {
+        "image": "a11-05-015",
+        "audio_en": "a11-05-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-015.png",
+        "audio_en": "assets/audio/en/a11-05-015.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-021",
+      "en": "Open the door",
+      "ja": "ドアを開ける",
+      "translations": {
+        "es": "Abrir la puerta",
+        "pt": "Abrir a porta",
+        "id": "Membuka pintu",
+        "ko": "문을 열다",
+        "tr": "Kapıyı açmak",
+        "my": "တံခါးဖွင့်ခြင်း",
+        "zh-Hans": "打开门"
+      },
+      "asset_keys": {
+        "image": "a11-01-021",
+        "audio_en": "a11-01-021"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-021.png",
+        "audio_en": "assets/audio/en/a11-01-021.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-022",
+      "en": "Lock the door",
+      "ja": "ドアに鍵をかける",
+      "translations": {
+        "es": "Cerrar la puerta con llave",
+        "pt": "Trancar a porta",
+        "id": "Mengunci pintu",
+        "ko": "문을 잠그다",
+        "tr": "Kapıyı kilitlemek",
+        "my": "တံခါးသော့ခတ်ခြင်း",
+        "zh-Hans": "锁门"
+      },
+      "asset_keys": {
+        "image": "a11-01-022",
+        "audio_en": "a11-01-022"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-022.png",
+        "audio_en": "assets/audio/en/a11-01-022.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-023",
+      "en": "Leave home",
+      "ja": "家を出る",
+      "translations": {
+        "es": "Salir de casa",
+        "pt": "Sair de casa",
+        "id": "Keluar rumah",
+        "ko": "집을 나서다",
+        "tr": "Evden çıkmak",
+        "my": "အိမ်မှ ထွက်ခြင်း",
+        "zh-Hans": "离开家"
+      },
+      "asset_keys": {
+        "image": "a11-01-023",
+        "audio_en": "a11-01-023"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-023.png",
+        "audio_en": "assets/audio/en/a11-01-023.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    }
+  ]
+}
