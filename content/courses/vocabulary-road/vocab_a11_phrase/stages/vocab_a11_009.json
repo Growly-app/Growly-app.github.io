@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_009",
+  "stage_order": 9,
+  "stage_title": "Coming Home 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-02-001",
+    "a11-02-002",
+    "a11-05-016",
+    "a11-02-003",
+    "a11-02-004",
+    "a11-02-005",
+    "a11-02-007",
+    "a11-06-017"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-02-001",
+      "en": "Come home",
+      "ja": "帰宅する",
+      "translations": {
+        "es": "Volver a casa",
+        "pt": "Voltar para casa",
+        "id": "Pulang ke rumah",
+        "ko": "집에 오다",
+        "tr": "Eve gelmek",
+        "my": "အိမ်ပြန်ခြင်း",
+        "zh-Hans": "回家"
+      },
+      "asset_keys": {
+        "image": "a11-02-001",
+        "audio_en": "a11-02-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-001.png",
+        "audio_en": "assets/audio/en/a11-02-001.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-002",
+      "en": "Take off shoes",
+      "ja": "靴を脱ぐ",
+      "translations": {
+        "es": "Quitarse los zapatos",
+        "pt": "Tirar os sapatos",
+        "id": "Melepas sepatu",
+        "ko": "신발을 벗다",
+        "tr": "Ayakkabılarını çıkarmak",
+        "my": "ဖိနပ်ချွတ်ခြင်း",
+        "zh-Hans": "脱鞋"
+      },
+      "asset_keys": {
+        "image": "a11-02-002",
+        "audio_en": "a11-02-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-002.png",
+        "audio_en": "assets/audio/en/a11-02-002.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-05-016",
+      "en": "Untie shoes",
+      "ja": "靴ひもをほどく",
+      "translations": {
+        "es": "Desatarse los cordones",
+        "pt": "Desamarrar os cadarços",
+        "id": "Melepas ikatan tali sepatu",
+        "ko": "신발 끈을 풀다",
+        "tr": "Ayakkabı bağcıklarını çözmek",
+        "my": "ဖိနပ်ကြိုးဖြည်ခြင်း",
+        "zh-Hans": "解鞋带"
+      },
+      "asset_keys": {
+        "image": "a11-05-016",
+        "audio_en": "a11-05-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-016.png",
+        "audio_en": "assets/audio/en/a11-05-016.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-02-003",
+      "en": "Take off jacket",
+      "ja": "上着を脱ぐ",
+      "translations": {
+        "es": "Quitarse la chaqueta",
+        "pt": "Tirar a jaqueta",
+        "id": "Melepas jaket",
+        "ko": "재킷을 벗다",
+        "tr": "Ceketini çıkarmak",
+        "my": "ဂျာကင်အင်္ကျီချွတ်ခြင်း",
+        "zh-Hans": "脱外套"
+      },
+      "asset_keys": {
+        "image": "a11-02-003",
+        "audio_en": "a11-02-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-003.png",
+        "audio_en": "assets/audio/en/a11-02-003.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-004",
+      "en": "Hang jacket",
+      "ja": "上着をかける",
+      "translations": {
+        "es": "Colgar la chaqueta",
+        "pt": "Pendurar a jaqueta",
+        "id": "Menggantung jaket",
+        "ko": "재킷을 걸다",
+        "tr": "Ceketi asmak",
+        "my": "ဂျာကင်အင်္ကျီချိတ်ခြင်း",
+        "zh-Hans": "挂外套"
+      },
+      "asset_keys": {
+        "image": "a11-02-004",
+        "audio_en": "a11-02-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-004.png",
+        "audio_en": "assets/audio/en/a11-02-004.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-005",
+      "en": "Wash hands",
+      "ja": "手を洗う",
+      "translations": {
+        "es": "Lavarse las manos",
+        "pt": "Lavar as mãos",
+        "id": "Mencuci tangan",
+        "ko": "손을 씻다",
+        "tr": "Ellerini yıkamak",
+        "my": "လက်ဆေးခြင်း",
+        "zh-Hans": "洗手"
+      },
+      "asset_keys": {
+        "image": "a11-02-005",
+        "audio_en": "a11-02-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-005.png",
+        "audio_en": "assets/audio/en/a11-02-005.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-007",
+      "en": "Drink water",
+      "ja": "水を飲む",
+      "translations": {
+        "es": "Beber agua",
+        "pt": "Beber água",
+        "id": "Minum air",
+        "ko": "물을 마시다",
+        "tr": "Su içmek",
+        "my": "ရေ သောက်ခြင်း",
+        "zh-Hans": "喝水"
+      },
+      "asset_keys": {
+        "image": "a11-02-007",
+        "audio_en": "a11-02-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-007.png",
+        "audio_en": "assets/audio/en/a11-02-007.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-06-017",
+      "en": "Sit on sofa",
+      "ja": "ソファに座る",
+      "translations": {
+        "es": "Sentarse en el sofá",
+        "pt": "Sentar-se no sofá",
+        "id": "Duduk di sofa",
+        "ko": "소파에 앉다",
+        "tr": "Kanepeye oturmak",
+        "my": "ဆိုဖာပေါ် ထိုင်ခြင်း",
+        "zh-Hans": "坐在沙发上"
+      },
+      "asset_keys": {
+        "image": "a11-06-017",
+        "audio_en": "a11-06-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-017.png",
+        "audio_en": "assets/audio/en/a11-06-017.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    }
+  ]
+}
