@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_022",
+  "stage_order": 22,
+  "stage_title": "Snack Time 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-04-007",
+    "a11-04-008",
+    "a11-04-009",
+    "a11-04-011",
+    "a11-04-013",
+    "a11-04-017",
+    "a11-09-003",
+    "a11-09-016"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-04-007",
+      "en": "Eat an apple",
+      "ja": "リンゴを食べる",
+      "translations": {
+        "es": "Comer una manzana",
+        "pt": "Comer uma maçã",
+        "id": "Makan apel",
+        "ko": "사과를 먹다",
+        "tr": "Elma yemek",
+        "my": "ပန်းသီးစားခြင်း",
+        "zh-Hans": "吃苹果"
+      },
+      "asset_keys": {
+        "image": "a11-04-007",
+        "audio_en": "a11-04-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-007.png",
+        "audio_en": "assets/audio/en/a11-04-007.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-008",
+      "en": "Eat a banana",
+      "ja": "バナナを食べる",
+      "translations": {
+        "es": "Comer una banana",
+        "pt": "Comer uma banana",
+        "id": "Makan pisang",
+        "ko": "바나나를 먹다",
+        "tr": "Muz yemek",
+        "my": "ငှက်ပျောသီးစားခြင်း",
+        "zh-Hans": "吃香蕉"
+      },
+      "asset_keys": {
+        "image": "a11-04-008",
+        "audio_en": "a11-04-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-008.png",
+        "audio_en": "assets/audio/en/a11-04-008.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-009",
+      "en": "Eat a snack",
+      "ja": "おやつを食べる",
+      "translations": {
+        "es": "Comer un refrigerio",
+        "pt": "Comer um lanche",
+        "id": "Makan camilan",
+        "ko": "간식을 먹다",
+        "tr": "Atıştırmalık yemek",
+        "my": "မုန့်စားခြင်း",
+        "zh-Hans": "吃零食"
+      },
+      "asset_keys": {
+        "image": "a11-04-009",
+        "audio_en": "a11-04-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-009.png",
+        "audio_en": "assets/audio/en/a11-04-009.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-011",
+      "en": "Drink milk",
+      "ja": "牛乳を飲む",
+      "translations": {
+        "es": "Beber leche",
+        "pt": "Beber leite",
+        "id": "Minum susu",
+        "ko": "우유를 마시다",
+        "tr": "Süt içmek",
+        "my": "နို့ သောက်ခြင်း",
+        "zh-Hans": "喝牛奶"
+      },
+      "asset_keys": {
+        "image": "a11-04-011",
+        "audio_en": "a11-04-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-011.png",
+        "audio_en": "assets/audio/en/a11-04-011.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-013",
+      "en": "Drink soda",
+      "ja": "ソーダを飲む",
+      "translations": {
+        "es": "Beber refresco",
+        "pt": "Beber refrigerante",
+        "id": "Minum soda",
+        "ko": "탄산음료를 마시다",
+        "tr": "Gazoz içmek",
+        "my": "ဆိုဒါ သောက်ခြင်း",
+        "zh-Hans": "喝汽水"
+      },
+      "asset_keys": {
+        "image": "a11-04-013",
+        "audio_en": "a11-04-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-013.png",
+        "audio_en": "assets/audio/en/a11-04-013.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-017",
+      "en": "Sip tea",
+      "ja": "お茶をすする",
+      "translations": {
+        "es": "Sorber té",
+        "pt": "Tomar chá em pequenos goles",
+        "id": "Menyeruput teh",
+        "ko": "차를 홀짝이다",
+        "tr": "Çayı yudumlamak",
+        "my": "လက်ဖက်ရည်ကို တစ်ငုံသောက်ခြင်း",
+        "zh-Hans": "小口喝茶"
+      },
+      "asset_keys": {
+        "image": "a11-04-017",
+        "audio_en": "a11-04-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-017.png",
+        "audio_en": "assets/audio/en/a11-04-017.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-003",
+      "en": "I'm hungry",
+      "ja": "お腹が空いている",
+      "translations": {
+        "es": "Tengo hambre",
+        "pt": "Estou com fome",
+        "id": "Saya lapar",
+        "ko": "배고프다",
+        "tr": "Açım",
+        "my": "ဗိုက်ဆာနေသည်",
+        "zh-Hans": "我饿了"
+      },
+      "asset_keys": {
+        "image": "a11-09-003",
+        "audio_en": "a11-09-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-003.png",
+        "audio_en": "assets/audio/en/a11-09-003.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-016",
+      "en": "I'm full",
+      "ja": "お腹がいっぱい",
+      "translations": {
+        "es": "Estoy lleno",
+        "pt": "Estou cheio",
+        "id": "Saya kenyang",
+        "ko": "배부르다",
+        "tr": "Tokum",
+        "my": "ဗိုက်ပြည့်နေသည်",
+        "zh-Hans": "我吃饱了"
+      },
+      "asset_keys": {
+        "image": "a11-09-016",
+        "audio_en": "a11-09-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-016.png",
+        "audio_en": "assets/audio/en/a11-09-016.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
