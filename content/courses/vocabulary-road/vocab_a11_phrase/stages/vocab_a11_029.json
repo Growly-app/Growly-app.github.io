@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_029",
+  "stage_order": 29,
+  "stage_title": "Moving Things 01",
+  "phrase_count": 7,
+  "phrase_ids": [
+    "a11-08-007",
+    "a11-08-008",
+    "a11-08-020",
+    "a11-08-021",
+    "a11-08-022",
+    "a11-08-023",
+    "a11-08-024"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-08-007",
+      "en": "Push a button",
+      "ja": "ボタンを押す",
+      "translations": {
+        "es": "Presionar un botón",
+        "pt": "Apertar um botão",
+        "id": "Menekan tombol",
+        "ko": "버튼을 누르다",
+        "tr": "Düğmeye basmak",
+        "my": "ခလုတ်နှိပ်ခြင်း",
+        "zh-Hans": "按按钮"
+      },
+      "asset_keys": {
+        "image": "a11-08-007",
+        "audio_en": "a11-08-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-007.png",
+        "audio_en": "assets/audio/en/a11-08-007.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-008",
+      "en": "Pull a rope",
+      "ja": "ロープを引く",
+      "translations": {
+        "es": "Tirar de una cuerda",
+        "pt": "Puxar uma corda",
+        "id": "Menarik tali",
+        "ko": "줄을 당기다",
+        "tr": "İpi çekmek",
+        "my": "ကြိုးဆွဲခြင်း",
+        "zh-Hans": "拉绳子"
+      },
+      "asset_keys": {
+        "image": "a11-08-008",
+        "audio_en": "a11-08-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-008.png",
+        "audio_en": "assets/audio/en/a11-08-008.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-020",
+      "en": "Move a chair",
+      "ja": "椅子を動かす",
+      "translations": {
+        "es": "Mover una silla",
+        "pt": "Mover uma cadeira",
+        "id": "Memindahkan kursi",
+        "ko": "의자를 옮기다",
+        "tr": "Sandalyeyi hareket ettirmek",
+        "my": "ကုလားထိုင် ရွှေ့ခြင်း",
+        "zh-Hans": "移动椅子"
+      },
+      "asset_keys": {
+        "image": "a11-08-020",
+        "audio_en": "a11-08-020"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-020.png",
+        "audio_en": "assets/audio/en/a11-08-020.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-021",
+      "en": "Push a cart",
+      "ja": "カートを押す",
+      "translations": {
+        "es": "Empujar un carrito",
+        "pt": "Empurrar um carrinho",
+        "id": "Mendorong troli",
+        "ko": "카트를 밀다",
+        "tr": "Arabayı itmek",
+        "my": "တွန်းလှည်းကို တွန်းခြင်း",
+        "zh-Hans": "推购物车"
+      },
+      "asset_keys": {
+        "image": "a11-08-021",
+        "audio_en": "a11-08-021"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-021.png",
+        "audio_en": "assets/audio/en/a11-08-021.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-022",
+      "en": "Pull a cart",
+      "ja": "カートを引く",
+      "translations": {
+        "es": "Tirar de un carrito",
+        "pt": "Puxar um carrinho",
+        "id": "Menarik troli",
+        "ko": "카트를 당기다",
+        "tr": "Arabayı çekmek",
+        "my": "တွန်းလှည်းကို ဆွဲခြင်း",
+        "zh-Hans": "拉购物车"
+      },
+      "asset_keys": {
+        "image": "a11-08-022",
+        "audio_en": "a11-08-022"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-022.png",
+        "audio_en": "assets/audio/en/a11-08-022.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-023",
+      "en": "Turn a knob",
+      "ja": "つまみを回す",
+      "translations": {
+        "es": "Girar una perilla",
+        "pt": "Girar um botão",
+        "id": "Memutar kenop",
+        "ko": "손잡이를 돌리다",
+        "tr": "Düğmeyi çevirmek",
+        "my": "လှည့်ခလုတ်ကို လှည့်ခြင်း",
+        "zh-Hans": "转旋钮"
+      },
+      "asset_keys": {
+        "image": "a11-08-023",
+        "audio_en": "a11-08-023"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-023.png",
+        "audio_en": "assets/audio/en/a11-08-023.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-024",
+      "en": "Drop a box",
+      "ja": "箱を落とす",
+      "translations": {
+        "es": "Dejar caer una caja",
+        "pt": "Derrubar uma caixa",
+        "id": "Menjatuhkan kotak",
+        "ko": "상자를 떨어뜨리다",
+        "tr": "Kutuyu düşürmek",
+        "my": "သေတ္တာကို လွှတ်ချခြင်း",
+        "zh-Hans": "把箱子弄掉"
+      },
+      "asset_keys": {
+        "image": "a11-08-024",
+        "audio_en": "a11-08-024"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-024.png",
+        "audio_en": "assets/audio/en/a11-08-024.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
