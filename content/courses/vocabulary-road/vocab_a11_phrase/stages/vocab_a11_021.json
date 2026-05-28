@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_021",
+  "stage_order": 21,
+  "stage_title": "Rainy Day 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-05-008",
+    "a11-05-009",
+    "a11-05-010",
+    "a11-05-003",
+    "a11-05-004",
+    "a11-08-013",
+    "a11-08-014",
+    "a11-09-012"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-05-008",
+      "en": "Wear a coat",
+      "ja": "コートを着る",
+      "translations": {
+        "es": "Ponerse un abrigo",
+        "pt": "Usar um casaco",
+        "id": "Memakai mantel",
+        "ko": "코트를 입다",
+        "tr": "Palto giymek",
+        "my": "ကုတ်အင်္ကျီဝတ်ခြင်း",
+        "zh-Hans": "穿外套"
+      },
+      "asset_keys": {
+        "image": "a11-05-008",
+        "audio_en": "a11-05-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-008.png",
+        "audio_en": "assets/audio/en/a11-05-008.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-009",
+      "en": "Wear gloves",
+      "ja": "手袋をする",
+      "translations": {
+        "es": "Ponerse guantes",
+        "pt": "Usar luvas",
+        "id": "Memakai sarung tangan",
+        "ko": "장갑을 끼다",
+        "tr": "Eldiven giymek",
+        "my": "လက်အိတ်ဝတ်ခြင်း",
+        "zh-Hans": "戴手套"
+      },
+      "asset_keys": {
+        "image": "a11-05-009",
+        "audio_en": "a11-05-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-009.png",
+        "audio_en": "assets/audio/en/a11-05-009.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-010",
+      "en": "Wear a scarf",
+      "ja": "マフラーをする",
+      "translations": {
+        "es": "Ponerse una bufanda",
+        "pt": "Usar um cachecol",
+        "id": "Memakai syal",
+        "ko": "목도리를 하다",
+        "tr": "Atkı takmak",
+        "my": "လည်ပတ်ပတ်ခြင်း",
+        "zh-Hans": "戴围巾"
+      },
+      "asset_keys": {
+        "image": "a11-05-010",
+        "audio_en": "a11-05-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-010.png",
+        "audio_en": "assets/audio/en/a11-05-010.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-003",
+      "en": "Wear a hat",
+      "ja": "帽子をかぶる",
+      "translations": {
+        "es": "Ponerse un sombrero",
+        "pt": "Usar um chapéu",
+        "id": "Memakai topi",
+        "ko": "모자를 쓰다",
+        "tr": "Şapka takmak",
+        "my": "ဦးထုပ်ဆောင်းခြင်း",
+        "zh-Hans": "戴帽子"
+      },
+      "asset_keys": {
+        "image": "a11-05-003",
+        "audio_en": "a11-05-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-003.png",
+        "audio_en": "assets/audio/en/a11-05-003.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-004",
+      "en": "Take off hat",
+      "ja": "帽子を取る",
+      "translations": {
+        "es": "Quitarse el sombrero",
+        "pt": "Tirar o chapéu",
+        "id": "Melepas topi",
+        "ko": "모자를 벗다",
+        "tr": "Şapkayı çıkarmak",
+        "my": "ဦးထုပ်ချွတ်ခြင်း",
+        "zh-Hans": "摘下帽子"
+      },
+      "asset_keys": {
+        "image": "a11-05-004",
+        "audio_en": "a11-05-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-004.png",
+        "audio_en": "assets/audio/en/a11-05-004.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-013",
+      "en": "Open umbrella",
+      "ja": "傘を開く",
+      "translations": {
+        "es": "Abrir un paraguas",
+        "pt": "Abrir um guarda-chuva",
+        "id": "Membuka payung",
+        "ko": "우산을 펴다",
+        "tr": "Şemsiye açmak",
+        "my": "ထီးဖွင့်ခြင်း",
+        "zh-Hans": "打开雨伞"
+      },
+      "asset_keys": {
+        "image": "a11-08-013",
+        "audio_en": "a11-08-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-013.png",
+        "audio_en": "assets/audio/en/a11-08-013.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-014",
+      "en": "Close umbrella",
+      "ja": "傘を閉じる",
+      "translations": {
+        "es": "Cerrar un paraguas",
+        "pt": "Fechar um guarda-chuva",
+        "id": "Menutup payung",
+        "ko": "우산을 접다",
+        "tr": "Şemsiye kapatmak",
+        "my": "ထီးပိတ်ခြင်း",
+        "zh-Hans": "收起雨伞"
+      },
+      "asset_keys": {
+        "image": "a11-08-014",
+        "audio_en": "a11-08-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-014.png",
+        "audio_en": "assets/audio/en/a11-08-014.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-012",
+      "en": "I'm cold",
+      "ja": "寒い",
+      "translations": {
+        "es": "Tengo frío",
+        "pt": "Estou com frio",
+        "id": "Saya kedinginan",
+        "ko": "춥다",
+        "tr": "Üşüyorum",
+        "my": "ချမ်းနေသည်",
+        "zh-Hans": "我冷"
+      },
+      "asset_keys": {
+        "image": "a11-09-012",
+        "audio_en": "a11-09-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-012.png",
+        "audio_en": "assets/audio/en/a11-09-012.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
