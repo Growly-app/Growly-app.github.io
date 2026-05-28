@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_011",
+  "stage_order": 11,
+  "stage_title": "Dinner Time 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-02-006",
+    "a11-04-003",
+    "a11-04-006",
+    "a11-04-012",
+    "a11-04-019",
+    "a11-04-023",
+    "a11-04-024",
+    "a11-06-005"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-02-006",
+      "en": "Eat dinner",
+      "ja": "夕食を食べる",
+      "translations": {
+        "es": "Cenar",
+        "pt": "Jantar",
+        "id": "Makan malam",
+        "ko": "저녁을 먹다",
+        "tr": "Akşam yemeği yemek",
+        "my": "ညစာ စားခြင်း",
+        "zh-Hans": "吃晚饭"
+      },
+      "asset_keys": {
+        "image": "a11-02-006",
+        "audio_en": "a11-02-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-006.png",
+        "audio_en": "assets/audio/en/a11-02-006.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-04-003",
+      "en": "Eat bread",
+      "ja": "パンを食べる",
+      "translations": {
+        "es": "Comer pan",
+        "pt": "Comer pão",
+        "id": "Makan roti",
+        "ko": "빵을 먹다",
+        "tr": "Ekmek yemek",
+        "my": "ပေါင်မုန့်စားခြင်း",
+        "zh-Hans": "吃面包"
+      },
+      "asset_keys": {
+        "image": "a11-04-003",
+        "audio_en": "a11-04-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-003.png",
+        "audio_en": "assets/audio/en/a11-04-003.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-006",
+      "en": "Eat fruit",
+      "ja": "果物を食べる",
+      "translations": {
+        "es": "Comer fruta",
+        "pt": "Comer fruta",
+        "id": "Makan buah",
+        "ko": "과일을 먹다",
+        "tr": "Meyve yemek",
+        "my": "အသီးစားခြင်း",
+        "zh-Hans": "吃水果"
+      },
+      "asset_keys": {
+        "image": "a11-04-006",
+        "audio_en": "a11-04-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-006.png",
+        "audio_en": "assets/audio/en/a11-04-006.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-012",
+      "en": "Drink juice",
+      "ja": "ジュースを飲む",
+      "translations": {
+        "es": "Beber jugo",
+        "pt": "Beber suco",
+        "id": "Minum jus",
+        "ko": "주스를 마시다",
+        "tr": "Meyve suyu içmek",
+        "my": "ဖျော်ရည် သောက်ခြင်း",
+        "zh-Hans": "喝果汁"
+      },
+      "asset_keys": {
+        "image": "a11-04-012",
+        "audio_en": "a11-04-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-012.png",
+        "audio_en": "assets/audio/en/a11-04-012.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-019",
+      "en": "Use a fork",
+      "ja": "フォークを使う",
+      "translations": {
+        "es": "Usar un tenedor",
+        "pt": "Usar um garfo",
+        "id": "Menggunakan garpu",
+        "ko": "포크를 사용하다",
+        "tr": "Çatal kullanmak",
+        "my": "ခက်ရင်း အသုံးပြုခြင်း",
+        "zh-Hans": "使用叉子"
+      },
+      "asset_keys": {
+        "image": "a11-04-019",
+        "audio_en": "a11-04-019"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-019.png",
+        "audio_en": "assets/audio/en/a11-04-019.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-023",
+      "en": "Open a bottle",
+      "ja": "ボトルを開ける",
+      "translations": {
+        "es": "Abrir una botella",
+        "pt": "Abrir uma garrafa",
+        "id": "Membuka botol",
+        "ko": "병을 열다",
+        "tr": "Şişe açmak",
+        "my": "ပုလင်းဖွင့်ခြင်း",
+        "zh-Hans": "打开瓶子"
+      },
+      "asset_keys": {
+        "image": "a11-04-023",
+        "audio_en": "a11-04-023"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-023.png",
+        "audio_en": "assets/audio/en/a11-04-023.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-024",
+      "en": "Spill milk",
+      "ja": "牛乳をこぼす",
+      "translations": {
+        "es": "Derramar leche",
+        "pt": "Derramar leite",
+        "id": "Menumpahkan susu",
+        "ko": "우유를 쏟다",
+        "tr": "Sütü dökmek",
+        "my": "နို့ ဖိတ်ခြင်း",
+        "zh-Hans": "洒牛奶"
+      },
+      "asset_keys": {
+        "image": "a11-04-024",
+        "audio_en": "a11-04-024"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-024.png",
+        "audio_en": "assets/audio/en/a11-04-024.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-005",
+      "en": "Wipe table",
+      "ja": "テーブルを拭く",
+      "translations": {
+        "es": "Limpiar la mesa",
+        "pt": "Limpar a mesa",
+        "id": "Mengelap meja",
+        "ko": "테이블을 닦다",
+        "tr": "Masayı silmek",
+        "my": "စားပွဲကို သုတ်ခြင်း",
+        "zh-Hans": "擦桌子"
+      },
+      "asset_keys": {
+        "image": "a11-06-005",
+        "audio_en": "a11-06-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-005.png",
+        "audio_en": "assets/audio/en/a11-06-005.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
