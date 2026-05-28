@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_006",
+  "stage_order": 6,
+  "stage_title": "Greetings 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-11-001",
+    "a11-11-002",
+    "a11-11-003",
+    "a11-11-004",
+    "a11-11-005",
+    "a11-11-006",
+    "a11-11-007",
+    "a11-11-008"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-11-001",
+      "en": "Hello",
+      "ja": "こんにちは",
+      "translations": {
+        "es": "Hola",
+        "pt": "Olá",
+        "id": "Halo",
+        "ko": "안녕하세요",
+        "tr": "Merhaba",
+        "my": "မင်္ဂလာပါ",
+        "zh-Hans": "你好"
+      },
+      "asset_keys": {
+        "image": "a11-11-001",
+        "audio_en": "a11-11-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-001.png",
+        "audio_en": "assets/audio/en/a11-11-001.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-002",
+      "en": "Hi",
+      "ja": "やあ",
+      "translations": {
+        "es": "Hola",
+        "pt": "Oi",
+        "id": "Hai",
+        "ko": "안녕",
+        "tr": "Selam",
+        "my": "ဟိုင်း",
+        "zh-Hans": "嗨"
+      },
+      "asset_keys": {
+        "image": "a11-11-002",
+        "audio_en": "a11-11-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-002.png",
+        "audio_en": "assets/audio/en/a11-11-002.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-003",
+      "en": "Good morning",
+      "ja": "おはよう",
+      "translations": {
+        "es": "Buenos días",
+        "pt": "Bom dia",
+        "id": "Selamat pagi",
+        "ko": "좋은 아침이에요",
+        "tr": "Günaydın",
+        "my": "မင်္ဂလာနံနက်ခင်းပါ",
+        "zh-Hans": "早上好"
+      },
+      "asset_keys": {
+        "image": "a11-11-003",
+        "audio_en": "a11-11-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-003.png",
+        "audio_en": "assets/audio/en/a11-11-003.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-11-004",
+      "en": "Good afternoon",
+      "ja": "こんにちは",
+      "translations": {
+        "es": "Buenas tardes",
+        "pt": "Boa tarde",
+        "id": "Selamat siang",
+        "ko": "좋은 오후예요",
+        "tr": "Tünaydın",
+        "my": "မင်္ဂလာနေ့လယ်ခင်းပါ",
+        "zh-Hans": "下午好"
+      },
+      "asset_keys": {
+        "image": "a11-11-004",
+        "audio_en": "a11-11-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-004.png",
+        "audio_en": "assets/audio/en/a11-11-004.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-005",
+      "en": "Good evening",
+      "ja": "こんばんは",
+      "translations": {
+        "es": "Buenas noches",
+        "pt": "Boa noite",
+        "id": "Selamat malam",
+        "ko": "좋은 저녁이에요",
+        "tr": "İyi akşamlar",
+        "my": "မင်္ဂလာညနေခင်းပါ",
+        "zh-Hans": "晚上好"
+      },
+      "asset_keys": {
+        "image": "a11-11-005",
+        "audio_en": "a11-11-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-005.png",
+        "audio_en": "assets/audio/en/a11-11-005.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-11-006",
+      "en": "Good night",
+      "ja": "おやすみ",
+      "translations": {
+        "es": "Buenas noches",
+        "pt": "Boa noite",
+        "id": "Selamat tidur",
+        "ko": "잘 자요",
+        "tr": "İyi geceler",
+        "my": "ကောင်းသောညပါ",
+        "zh-Hans": "晚安"
+      },
+      "asset_keys": {
+        "image": "a11-11-006",
+        "audio_en": "a11-11-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-006.png",
+        "audio_en": "assets/audio/en/a11-11-006.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-11-007",
+      "en": "Goodbye",
+      "ja": "さようなら",
+      "translations": {
+        "es": "Adiós",
+        "pt": "Adeus",
+        "id": "Selamat tinggal",
+        "ko": "안녕히 가세요",
+        "tr": "Hoşça kal",
+        "my": "နှုတ်ဆက်ပါတယ်",
+        "zh-Hans": "再见"
+      },
+      "asset_keys": {
+        "image": "a11-11-007",
+        "audio_en": "a11-11-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-007.png",
+        "audio_en": "assets/audio/en/a11-11-007.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-008",
+      "en": "Bye",
+      "ja": "じゃあね",
+      "translations": {
+        "es": "Chao",
+        "pt": "Tchau",
+        "id": "Dadah",
+        "ko": "잘 가",
+        "tr": "Güle güle",
+        "my": "တာ့တာ",
+        "zh-Hans": "拜拜"
+      },
+      "asset_keys": {
+        "image": "a11-11-008",
+        "audio_en": "a11-11-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-008.png",
+        "audio_en": "assets/audio/en/a11-11-008.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    }
+  ]
+}
