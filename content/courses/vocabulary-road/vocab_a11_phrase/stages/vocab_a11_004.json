@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_004",
+  "stage_order": 4,
+  "stage_title": "Breakfast 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-01-013",
+    "a11-01-014",
+    "a11-01-015",
+    "a11-04-022",
+    "a11-04-018",
+    "a11-04-014",
+    "a11-04-015",
+    "a11-04-016"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-01-013",
+      "en": "Make breakfast",
+      "ja": "朝食を作る",
+      "translations": {
+        "es": "Preparar el desayuno",
+        "pt": "Preparar o café da manhã",
+        "id": "Membuat sarapan",
+        "ko": "아침을 만들다",
+        "tr": "Kahvaltı hazırlamak",
+        "my": "မနက်စာ ပြင်ဆင်ခြင်း",
+        "zh-Hans": "做早餐"
+      },
+      "asset_keys": {
+        "image": "a11-01-013",
+        "audio_en": "a11-01-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-013.png",
+        "audio_en": "assets/audio/en/a11-01-013.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-014",
+      "en": "Eat breakfast",
+      "ja": "朝食を食べる",
+      "translations": {
+        "es": "Desayunar",
+        "pt": "Tomar café da manhã",
+        "id": "Sarapan",
+        "ko": "아침을 먹다",
+        "tr": "Kahvaltı yapmak",
+        "my": "မနက်စာ စားခြင်း",
+        "zh-Hans": "吃早餐"
+      },
+      "asset_keys": {
+        "image": "a11-01-014",
+        "audio_en": "a11-01-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-014.png",
+        "audio_en": "assets/audio/en/a11-01-014.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-015",
+      "en": "Drink coffee",
+      "ja": "コーヒーを飲む",
+      "translations": {
+        "es": "Beber café",
+        "pt": "Beber café",
+        "id": "Minum kopi",
+        "ko": "커피를 마시다",
+        "tr": "Kahve içmek",
+        "my": "ကော်ဖီ သောက်ခြင်း",
+        "zh-Hans": "喝咖啡"
+      },
+      "asset_keys": {
+        "image": "a11-01-015",
+        "audio_en": "a11-01-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-015.png",
+        "audio_en": "assets/audio/en/a11-01-015.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-04-022",
+      "en": "Pour milk",
+      "ja": "牛乳を注ぐ",
+      "translations": {
+        "es": "Servir leche",
+        "pt": "Servir leite",
+        "id": "Menuang susu",
+        "ko": "우유를 따르다",
+        "tr": "Süt koymak",
+        "my": "နို့ လောင်းခြင်း",
+        "zh-Hans": "倒牛奶"
+      },
+      "asset_keys": {
+        "image": "a11-04-022",
+        "audio_en": "a11-04-022"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-022.png",
+        "audio_en": "assets/audio/en/a11-04-022.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-018",
+      "en": "Use a spoon",
+      "ja": "スプーンを使う",
+      "translations": {
+        "es": "Usar una cuchara",
+        "pt": "Usar uma colher",
+        "id": "Menggunakan sendok",
+        "ko": "숟가락을 사용하다",
+        "tr": "Kaşık kullanmak",
+        "my": "ဇွန်း အသုံးပြုခြင်း",
+        "zh-Hans": "使用勺子"
+      },
+      "asset_keys": {
+        "image": "a11-04-018",
+        "audio_en": "a11-04-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-018.png",
+        "audio_en": "assets/audio/en/a11-04-018.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-014",
+      "en": "Take a bite",
+      "ja": "一口食べる",
+      "translations": {
+        "es": "Dar un mordisco",
+        "pt": "Dar uma mordida",
+        "id": "Menggigit sedikit",
+        "ko": "한 입 베어 물다",
+        "tr": "Bir ısırık almak",
+        "my": "တစ်ကိုက်ကိုက်ခြင်း",
+        "zh-Hans": "咬一口"
+      },
+      "asset_keys": {
+        "image": "a11-04-014",
+        "audio_en": "a11-04-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-014.png",
+        "audio_en": "assets/audio/en/a11-04-014.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-015",
+      "en": "Chew food",
+      "ja": "食べ物を噛む",
+      "translations": {
+        "es": "Masticar la comida",
+        "pt": "Mastigar a comida",
+        "id": "Mengunyah makanan",
+        "ko": "음식을 씹다",
+        "tr": "Yemeği çiğnemek",
+        "my": "အစားအစာကို ဝါးခြင်း",
+        "zh-Hans": "咀嚼食物"
+      },
+      "asset_keys": {
+        "image": "a11-04-015",
+        "audio_en": "a11-04-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-015.png",
+        "audio_en": "assets/audio/en/a11-04-015.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-016",
+      "en": "Swallow food",
+      "ja": "食べ物を飲み込む",
+      "translations": {
+        "es": "Tragar la comida",
+        "pt": "Engolir a comida",
+        "id": "Menelan makanan",
+        "ko": "음식을 삼키다",
+        "tr": "Yemeği yutmak",
+        "my": "အစားအစာကို မျိုချခြင်း",
+        "zh-Hans": "吞下食物"
+      },
+      "asset_keys": {
+        "image": "a11-04-016",
+        "audio_en": "a11-04-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-016.png",
+        "audio_en": "assets/audio/en/a11-04-016.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
