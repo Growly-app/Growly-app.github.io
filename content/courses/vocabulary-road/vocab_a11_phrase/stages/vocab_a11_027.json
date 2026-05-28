@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_027",
+  "stage_order": 27,
+  "stage_title": "Box Trouble 01",
+  "phrase_count": 6,
+  "phrase_ids": [
+    "a11-08-003",
+    "a11-08-004",
+    "a11-08-005",
+    "a11-08-006",
+    "a11-09-015",
+    "a11-11-013"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-08-003",
+      "en": "Hold a box",
+      "ja": "箱を持つ",
+      "translations": {
+        "es": "Sostener una caja",
+        "pt": "Segurar uma caixa",
+        "id": "Memegang kotak",
+        "ko": "상자를 들다",
+        "tr": "Kutu tutmak",
+        "my": "သေတ္တာကို ကိုင်ခြင်း",
+        "zh-Hans": "拿着箱子"
+      },
+      "asset_keys": {
+        "image": "a11-08-003",
+        "audio_en": "a11-08-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-003.png",
+        "audio_en": "assets/audio/en/a11-08-003.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-004",
+      "en": "Carry a box",
+      "ja": "箱を運ぶ",
+      "translations": {
+        "es": "Llevar una caja",
+        "pt": "Carregar uma caixa",
+        "id": "Membawa kotak",
+        "ko": "상자를 나르다",
+        "tr": "Kutu taşımak",
+        "my": "သေတ္တာကို သယ်ခြင်း",
+        "zh-Hans": "搬箱子"
+      },
+      "asset_keys": {
+        "image": "a11-08-004",
+        "audio_en": "a11-08-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-004.png",
+        "audio_en": "assets/audio/en/a11-08-004.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-005",
+      "en": "Open a box",
+      "ja": "箱を開ける",
+      "translations": {
+        "es": "Abrir una caja",
+        "pt": "Abrir uma caixa",
+        "id": "Membuka kotak",
+        "ko": "상자를 열다",
+        "tr": "Kutu açmak",
+        "my": "သေတ္တာဖွင့်ခြင်း",
+        "zh-Hans": "打开箱子"
+      },
+      "asset_keys": {
+        "image": "a11-08-005",
+        "audio_en": "a11-08-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-005.png",
+        "audio_en": "assets/audio/en/a11-08-005.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-006",
+      "en": "Close a box",
+      "ja": "箱を閉める",
+      "translations": {
+        "es": "Cerrar una caja",
+        "pt": "Fechar uma caixa",
+        "id": "Menutup kotak",
+        "ko": "상자를 닫다",
+        "tr": "Kutu kapatmak",
+        "my": "သေတ္တာပိတ်ခြင်း",
+        "zh-Hans": "关上箱子"
+      },
+      "asset_keys": {
+        "image": "a11-08-006",
+        "audio_en": "a11-08-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-006.png",
+        "audio_en": "assets/audio/en/a11-08-006.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-015",
+      "en": "I'm hurt",
+      "ja": "けがをしている",
+      "translations": {
+        "es": "Estoy herido",
+        "pt": "Estou machucado",
+        "id": "Saya terluka",
+        "ko": "다치다",
+        "tr": "Yaralandım",
+        "my": "ဒဏ်ရာရနေသည်",
+        "zh-Hans": "我受伤了"
+      },
+      "asset_keys": {
+        "image": "a11-09-015",
+        "audio_en": "a11-09-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-015.png",
+        "audio_en": "assets/audio/en/a11-09-015.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-013",
+      "en": "Sorry",
+      "ja": "ごめんなさい",
+      "translations": {
+        "es": "Lo siento",
+        "pt": "Desculpe",
+        "id": "Maaf",
+        "ko": "죄송합니다",
+        "tr": "Üzgünüm",
+        "my": "တောင်းပန်ပါတယ်",
+        "zh-Hans": "对不起"
+      },
+      "asset_keys": {
+        "image": "a11-11-013",
+        "audio_en": "a11-11-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-013.png",
+        "audio_en": "assets/audio/en/a11-11-013.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
