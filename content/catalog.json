@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-04-16T02:15:14.141466Z",
+  "updated_at": "2026-05-27T12:49:02.580932Z",
   "notes": "このファイルは配信ルート直下に置く。text / audio / courses の相対パスはすべてこの catalog があるフォルダを基準にする。",
   "text_bundles": [
     {
@@ -94,6 +94,11 @@
       "course_id": "jh_grammar_1",
       "relative_path": "courses/英文法/jh_grammar_1/course.json",
       "title_ja": "中1英文法"
+    },
+    {
+      "course_id": "vocab_a11_phrase",
+      "relative_path": "courses/vocabulary-road/vocab_a11_phrase/course.json",
+      "title_ja": "A1-1"
     }
   ]
 }
