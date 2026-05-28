@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_014",
+  "stage_order": 14,
+  "stage_title": "Study Session 01",
+  "phrase_count": 6,
+  "phrase_ids": [
+    "a11-10-001",
+    "a11-10-002",
+    "a11-10-003",
+    "a11-10-004",
+    "a11-10-005",
+    "a11-10-006"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-10-001",
+      "en": "Study English",
+      "ja": "英語を勉強する",
+      "translations": {
+        "es": "Estudiar inglés",
+        "pt": "Estudar inglês",
+        "id": "Belajar bahasa Inggris",
+        "ko": "영어를 공부하다",
+        "tr": "İngilizce çalışmak",
+        "my": "အင်္ဂလိပ်စာ လေ့လာခြင်း",
+        "zh-Hans": "学习英语"
+      },
+      "asset_keys": {
+        "image": "a11-10-001",
+        "audio_en": "a11-10-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-001.png",
+        "audio_en": "assets/audio/en/a11-10-001.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-002",
+      "en": "Read English",
+      "ja": "英語を読む",
+      "translations": {
+        "es": "Leer inglés",
+        "pt": "Ler inglês",
+        "id": "Membaca bahasa Inggris",
+        "ko": "영어를 읽다",
+        "tr": "İngilizce okumak",
+        "my": "အင်္ဂလိပ်စာ ဖတ်ခြင်း",
+        "zh-Hans": "读英语"
+      },
+      "asset_keys": {
+        "image": "a11-10-002",
+        "audio_en": "a11-10-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-002.png",
+        "audio_en": "assets/audio/en/a11-10-002.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-003",
+      "en": "Write words",
+      "ja": "単語を書く",
+      "translations": {
+        "es": "Escribir palabras",
+        "pt": "Escrever palavras",
+        "id": "Menulis kata-kata",
+        "ko": "단어를 쓰다",
+        "tr": "Kelimeler yazmak",
+        "my": "စကားလုံးများ ရေးခြင်း",
+        "zh-Hans": "写单词"
+      },
+      "asset_keys": {
+        "image": "a11-10-003",
+        "audio_en": "a11-10-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-003.png",
+        "audio_en": "assets/audio/en/a11-10-003.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-004",
+      "en": "Listen to English",
+      "ja": "英語を聞く",
+      "translations": {
+        "es": "Escuchar inglés",
+        "pt": "Ouvir inglês",
+        "id": "Mendengarkan bahasa Inggris",
+        "ko": "영어를 듣다",
+        "tr": "İngilizce dinlemek",
+        "my": "အင်္ဂလိပ်စာ နားထောင်ခြင်း",
+        "zh-Hans": "听英语"
+      },
+      "asset_keys": {
+        "image": "a11-10-004",
+        "audio_en": "a11-10-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-004.png",
+        "audio_en": "assets/audio/en/a11-10-004.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-005",
+      "en": "Speak English",
+      "ja": "英語を話す",
+      "translations": {
+        "es": "Hablar inglés",
+        "pt": "Falar inglês",
+        "id": "Berbicara bahasa Inggris",
+        "ko": "영어를 말하다",
+        "tr": "İngilizce konuşmak",
+        "my": "အင်္ဂလိပ်စကား ပြောခြင်း",
+        "zh-Hans": "说英语"
+      },
+      "asset_keys": {
+        "image": "a11-10-005",
+        "audio_en": "a11-10-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-005.png",
+        "audio_en": "assets/audio/en/a11-10-005.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-006",
+      "en": "Say a word",
+      "ja": "単語を言う",
+      "translations": {
+        "es": "Decir una palabra",
+        "pt": "Dizer uma palavra",
+        "id": "Mengucapkan sebuah kata",
+        "ko": "단어를 말하다",
+        "tr": "Bir kelime söylemek",
+        "my": "စကားလုံးတစ်လုံး ပြောခြင်း",
+        "zh-Hans": "说一个单词"
+      },
+      "asset_keys": {
+        "image": "a11-10-006",
+        "audio_en": "a11-10-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-006.png",
+        "audio_en": "assets/audio/en/a11-10-006.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
