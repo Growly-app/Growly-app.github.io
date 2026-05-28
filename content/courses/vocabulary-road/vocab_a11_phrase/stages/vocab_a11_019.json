@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_019",
+  "stage_order": 19,
+  "stage_title": "Bathroom Care 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-03-006",
+    "a11-03-007",
+    "a11-03-015",
+    "a11-03-016",
+    "a11-03-017",
+    "a11-03-018",
+    "a11-03-019",
+    "a11-03-013"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-03-006",
+      "en": "Use a towel",
+      "ja": "タオルを使う",
+      "translations": {
+        "es": "Usar una toalla",
+        "pt": "Usar uma toalha",
+        "id": "Menggunakan handuk",
+        "ko": "수건을 사용하다",
+        "tr": "Havlu kullanmak",
+        "my": "မျက်နှာသုတ်ပဝါ အသုံးပြုခြင်း",
+        "zh-Hans": "使用毛巾"
+      },
+      "asset_keys": {
+        "image": "a11-03-006",
+        "audio_en": "a11-03-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-006.png",
+        "audio_en": "assets/audio/en/a11-03-006.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-007",
+      "en": "Dry hands",
+      "ja": "手を拭く",
+      "translations": {
+        "es": "Secarse las manos",
+        "pt": "Secar as mãos",
+        "id": "Mengeringkan tangan",
+        "ko": "손을 닦다",
+        "tr": "Ellerini kurulamak",
+        "my": "လက်ကို ခြောက်အောင် သုတ်ခြင်း",
+        "zh-Hans": "擦干手"
+      },
+      "asset_keys": {
+        "image": "a11-03-007",
+        "audio_en": "a11-03-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-007.png",
+        "audio_en": "assets/audio/en/a11-03-007.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-015",
+      "en": "Look in mirror",
+      "ja": "鏡を見る",
+      "translations": {
+        "es": "Mirarse en el espejo",
+        "pt": "Olhar no espelho",
+        "id": "Bercermin",
+        "ko": "거울을 보다",
+        "tr": "Aynaya bakmak",
+        "my": "မှန်ကြည့်ခြင်း",
+        "zh-Hans": "照镜子"
+      },
+      "asset_keys": {
+        "image": "a11-03-015",
+        "audio_en": "a11-03-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-015.png",
+        "audio_en": "assets/audio/en/a11-03-015.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-016",
+      "en": "Clean the sink",
+      "ja": "洗面台を掃除する",
+      "translations": {
+        "es": "Limpiar el lavabo",
+        "pt": "Limpar a pia",
+        "id": "Membersihkan wastafel",
+        "ko": "세면대를 청소하다",
+        "tr": "Lavaboyu temizlemek",
+        "my": "လက်ဆေးကန်ကို သန့်ရှင်းခြင်း",
+        "zh-Hans": "清洁洗手池"
+      },
+      "asset_keys": {
+        "image": "a11-03-016",
+        "audio_en": "a11-03-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-016.png",
+        "audio_en": "assets/audio/en/a11-03-016.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-017",
+      "en": "Clean the toilet",
+      "ja": "トイレを掃除する",
+      "translations": {
+        "es": "Limpiar el inodoro",
+        "pt": "Limpar o vaso sanitário",
+        "id": "Membersihkan toilet",
+        "ko": "변기를 청소하다",
+        "tr": "Tuvaleti temizlemek",
+        "my": "အိမ်သာကို သန့်ရှင်းခြင်း",
+        "zh-Hans": "清洁厕所"
+      },
+      "asset_keys": {
+        "image": "a11-03-017",
+        "audio_en": "a11-03-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-017.png",
+        "audio_en": "assets/audio/en/a11-03-017.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-018",
+      "en": "Wipe the mirror",
+      "ja": "鏡を拭く",
+      "translations": {
+        "es": "Limpiar el espejo",
+        "pt": "Limpar o espelho",
+        "id": "Mengelap cermin",
+        "ko": "거울을 닦다",
+        "tr": "Aynayı silmek",
+        "my": "မှန်ကို သုတ်ခြင်း",
+        "zh-Hans": "擦镜子"
+      },
+      "asset_keys": {
+        "image": "a11-03-018",
+        "audio_en": "a11-03-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-018.png",
+        "audio_en": "assets/audio/en/a11-03-018.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-019",
+      "en": "Cut nails",
+      "ja": "爪を切る",
+      "translations": {
+        "es": "Cortarse las uñas",
+        "pt": "Cortar as unhas",
+        "id": "Memotong kuku",
+        "ko": "손톱을 깎다",
+        "tr": "Tırnak kesmek",
+        "my": "လက်သည်းညှပ်ခြင်း",
+        "zh-Hans": "剪指甲"
+      },
+      "asset_keys": {
+        "image": "a11-03-019",
+        "audio_en": "a11-03-019"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-019.png",
+        "audio_en": "assets/audio/en/a11-03-019.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-013",
+      "en": "Wash feet",
+      "ja": "足を洗う",
+      "translations": {
+        "es": "Lavarse los pies",
+        "pt": "Lavar os pés",
+        "id": "Mencuci kaki",
+        "ko": "발을 씻다",
+        "tr": "Ayaklarını yıkamak",
+        "my": "ခြေထောက်ဆေးခြင်း",
+        "zh-Hans": "洗脚"
+      },
+      "asset_keys": {
+        "image": "a11-03-013",
+        "audio_en": "a11-03-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-013.png",
+        "audio_en": "assets/audio/en/a11-03-013.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
