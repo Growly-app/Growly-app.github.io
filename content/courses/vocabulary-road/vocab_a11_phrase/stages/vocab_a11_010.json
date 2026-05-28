@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_010",
+  "stage_order": 10,
+  "stage_title": "Relaxing at Home 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-06-015",
+    "a11-02-008",
+    "a11-02-009",
+    "a11-02-010",
+    "a11-06-020",
+    "a11-06-016",
+    "a11-09-011",
+    "a11-09-001"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-06-015",
+      "en": "Turn on TV",
+      "ja": "テレビをつける",
+      "translations": {
+        "es": "Encender la televisión",
+        "pt": "Ligar a TV",
+        "id": "Menyalakan TV",
+        "ko": "TV를 켜다",
+        "tr": "Televizyonu açmak",
+        "my": "တီဗီဖွင့်ခြင်း",
+        "zh-Hans": "打开电视"
+      },
+      "asset_keys": {
+        "image": "a11-06-015",
+        "audio_en": "a11-06-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-015.png",
+        "audio_en": "assets/audio/en/a11-06-015.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-02-008",
+      "en": "Watch TV",
+      "ja": "テレビを見る",
+      "translations": {
+        "es": "Ver la televisión",
+        "pt": "Assistir TV",
+        "id": "Menonton TV",
+        "ko": "TV를 보다",
+        "tr": "Televizyon izlemek",
+        "my": "တီဗီကြည့်ခြင်း",
+        "zh-Hans": "看电视"
+      },
+      "asset_keys": {
+        "image": "a11-02-008",
+        "audio_en": "a11-02-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-008.png",
+        "audio_en": "assets/audio/en/a11-02-008.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-009",
+      "en": "Use a phone",
+      "ja": "スマホを使う",
+      "translations": {
+        "es": "Usar el teléfono",
+        "pt": "Usar o celular",
+        "id": "Menggunakan ponsel",
+        "ko": "휴대폰을 사용하다",
+        "tr": "Telefon kullanmak",
+        "my": "ဖုန်း အသုံးပြုခြင်း",
+        "zh-Hans": "使用手机"
+      },
+      "asset_keys": {
+        "image": "a11-02-009",
+        "audio_en": "a11-02-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-009.png",
+        "audio_en": "assets/audio/en/a11-02-009.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-010",
+      "en": "Read a book",
+      "ja": "本を読む",
+      "translations": {
+        "es": "Leer un libro",
+        "pt": "Ler um livro",
+        "id": "Membaca buku",
+        "ko": "책을 읽다",
+        "tr": "Kitap okumak",
+        "my": "စာအုပ်ဖတ်ခြင်း",
+        "zh-Hans": "读书"
+      },
+      "asset_keys": {
+        "image": "a11-02-010",
+        "audio_en": "a11-02-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-010.png",
+        "audio_en": "assets/audio/en/a11-02-010.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-06-020",
+      "en": "Pet dog",
+      "ja": "犬をなでる",
+      "translations": {
+        "es": "Acariciar al perro",
+        "pt": "Fazer carinho no cachorro",
+        "id": "Mengelus anjing",
+        "ko": "개를 쓰다듬다",
+        "tr": "Köpeği sevmek",
+        "my": "ခွေးကို ပွတ်သပ်ခြင်း",
+        "zh-Hans": "抚摸狗"
+      },
+      "asset_keys": {
+        "image": "a11-06-020",
+        "audio_en": "a11-06-020"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-020.png",
+        "audio_en": "assets/audio/en/a11-06-020.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-016",
+      "en": "Turn off TV",
+      "ja": "テレビを消す",
+      "translations": {
+        "es": "Apagar la televisión",
+        "pt": "Desligar a TV",
+        "id": "Mematikan TV",
+        "ko": "TV를 끄다",
+        "tr": "Televizyonu kapatmak",
+        "my": "တီဗီပိတ်ခြင်း",
+        "zh-Hans": "关掉电视"
+      },
+      "asset_keys": {
+        "image": "a11-06-016",
+        "audio_en": "a11-06-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-016.png",
+        "audio_en": "assets/audio/en/a11-06-016.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-011",
+      "en": "I'm bored",
+      "ja": "退屈している",
+      "translations": {
+        "es": "Estoy aburrido",
+        "pt": "Estou entediado",
+        "id": "Saya bosan",
+        "ko": "지루하다",
+        "tr": "Sıkıldım",
+        "my": "ငြီးငွေ့နေသည်",
+        "zh-Hans": "我很无聊"
+      },
+      "asset_keys": {
+        "image": "a11-09-011",
+        "audio_en": "a11-09-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-011.png",
+        "audio_en": "assets/audio/en/a11-09-011.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-001",
+      "en": "I'm tired",
+      "ja": "疲れている",
+      "translations": {
+        "es": "Estoy cansado",
+        "pt": "Estou cansado",
+        "id": "Saya lelah",
+        "ko": "피곤하다",
+        "tr": "Yorgunum",
+        "my": "ပင်ပန်းနေသည်",
+        "zh-Hans": "我累了"
+      },
+      "asset_keys": {
+        "image": "a11-09-001",
+        "audio_en": "a11-09-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-001.png",
+        "audio_en": "assets/audio/en/a11-09-001.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    }
+  ]
+}
