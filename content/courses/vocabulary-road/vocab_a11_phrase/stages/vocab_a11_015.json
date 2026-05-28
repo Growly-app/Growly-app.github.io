@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_015",
+  "stage_order": 15,
+  "stage_title": "Study Session 02",
+  "phrase_count": 6,
+  "phrase_ids": [
+    "a11-10-007",
+    "a11-10-008",
+    "a11-10-009",
+    "a11-10-010",
+    "a11-10-011",
+    "a11-10-012"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-10-007",
+      "en": "Copy words",
+      "ja": "単語を書き写す",
+      "translations": {
+        "es": "Copiar palabras",
+        "pt": "Copiar palavras",
+        "id": "Menyalin kata-kata",
+        "ko": "단어를 베껴 쓰다",
+        "tr": "Kelimeleri kopyalamak",
+        "my": "စကားလုံးများ ကူးရေးခြင်း",
+        "zh-Hans": "抄写单词"
+      },
+      "asset_keys": {
+        "image": "a11-10-007",
+        "audio_en": "a11-10-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-007.png",
+        "audio_en": "assets/audio/en/a11-10-007.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-008",
+      "en": "Take notes",
+      "ja": "ノートを取る",
+      "translations": {
+        "es": "Tomar notas",
+        "pt": "Fazer anotações",
+        "id": "Mencatat",
+        "ko": "필기하다",
+        "tr": "Not almak",
+        "my": "မှတ်စုရေးခြင်း",
+        "zh-Hans": "做笔记"
+      },
+      "asset_keys": {
+        "image": "a11-10-008",
+        "audio_en": "a11-10-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-008.png",
+        "audio_en": "assets/audio/en/a11-10-008.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-009",
+      "en": "Use a notebook",
+      "ja": "ノートを使う",
+      "translations": {
+        "es": "Usar un cuaderno",
+        "pt": "Usar um caderno",
+        "id": "Menggunakan buku catatan",
+        "ko": "공책을 사용하다",
+        "tr": "Defter kullanmak",
+        "my": "မှတ်စုစာအုပ် အသုံးပြုခြင်း",
+        "zh-Hans": "使用笔记本"
+      },
+      "asset_keys": {
+        "image": "a11-10-009",
+        "audio_en": "a11-10-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-009.png",
+        "audio_en": "assets/audio/en/a11-10-009.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-010",
+      "en": "Use flashcards",
+      "ja": "単語カードを使う",
+      "translations": {
+        "es": "Usar tarjetas de vocabulario",
+        "pt": "Usar cartões de vocabulário",
+        "id": "Menggunakan kartu kosakata",
+        "ko": "단어 카드를 사용하다",
+        "tr": "Kelime kartları kullanmak",
+        "my": "ဝေါဟာရကတ်များ အသုံးပြုခြင်း",
+        "zh-Hans": "使用单词卡"
+      },
+      "asset_keys": {
+        "image": "a11-10-010",
+        "audio_en": "a11-10-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-010.png",
+        "audio_en": "assets/audio/en/a11-10-010.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-011",
+      "en": "Check answers",
+      "ja": "答えを確認する",
+      "translations": {
+        "es": "Revisar las respuestas",
+        "pt": "Verificar as respostas",
+        "id": "Memeriksa jawaban",
+        "ko": "답을 확인하다",
+        "tr": "Cevapları kontrol etmek",
+        "my": "အဖြေများ စစ်ဆေးခြင်း",
+        "zh-Hans": "检查答案"
+      },
+      "asset_keys": {
+        "image": "a11-10-011",
+        "audio_en": "a11-10-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-011.png",
+        "audio_en": "assets/audio/en/a11-10-011.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-012",
+      "en": "Take a quiz",
+      "ja": "クイズを受ける",
+      "translations": {
+        "es": "Hacer un cuestionario",
+        "pt": "Fazer um quiz",
+        "id": "Mengerjakan kuis",
+        "ko": "퀴즈를 풀다",
+        "tr": "Quiz yapmak",
+        "my": "မေးခွန်းဖြေခြင်း",
+        "zh-Hans": "做测验"
+      },
+      "asset_keys": {
+        "image": "a11-10-012",
+        "audio_en": "a11-10-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-012.png",
+        "audio_en": "assets/audio/en/a11-10-012.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
