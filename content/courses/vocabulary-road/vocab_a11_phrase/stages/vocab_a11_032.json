@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_032",
+  "stage_order": 32,
+  "stage_title": "Quick Reactions 01",
+  "phrase_count": 6,
+  "phrase_ids": [
+    "a11-11-015",
+    "a11-11-016",
+    "a11-11-017",
+    "a11-11-020",
+    "a11-09-005",
+    "a11-09-009"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-11-015",
+      "en": "Yes",
+      "ja": "はい",
+      "translations": {
+        "es": "Sí",
+        "pt": "Sim",
+        "id": "Ya",
+        "ko": "네",
+        "tr": "Evet",
+        "my": "ဟုတ်ကဲ့",
+        "zh-Hans": "是"
+      },
+      "asset_keys": {
+        "image": "a11-11-015",
+        "audio_en": "a11-11-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-015.png",
+        "audio_en": "assets/audio/en/a11-11-015.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-016",
+      "en": "No",
+      "ja": "いいえ",
+      "translations": {
+        "es": "No",
+        "pt": "Não",
+        "id": "Tidak",
+        "ko": "아니요",
+        "tr": "Hayır",
+        "my": "မဟုတ်ပါ",
+        "zh-Hans": "不是"
+      },
+      "asset_keys": {
+        "image": "a11-11-016",
+        "audio_en": "a11-11-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-016.png",
+        "audio_en": "assets/audio/en/a11-11-016.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-017",
+      "en": "Okay",
+      "ja": "わかりました",
+      "translations": {
+        "es": "De acuerdo",
+        "pt": "Tudo bem",
+        "id": "Oke",
+        "ko": "알겠습니다",
+        "tr": "Tamam",
+        "my": "အိုကေ",
+        "zh-Hans": "好的"
+      },
+      "asset_keys": {
+        "image": "a11-11-017",
+        "audio_en": "a11-11-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-017.png",
+        "audio_en": "assets/audio/en/a11-11-017.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-020",
+      "en": "Oh no",
+      "ja": "ああ大変",
+      "translations": {
+        "es": "Oh no",
+        "pt": "Ah não",
+        "id": "Aduh",
+        "ko": "이런",
+        "tr": "Eyvah",
+        "my": "အိုး မဟုတ်ဘူး",
+        "zh-Hans": "糟了"
+      },
+      "asset_keys": {
+        "image": "a11-11-020",
+        "audio_en": "a11-11-020"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-020.png",
+        "audio_en": "assets/audio/en/a11-11-020.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-005",
+      "en": "I'm angry",
+      "ja": "怒っている",
+      "translations": {
+        "es": "Estoy enojado",
+        "pt": "Estou bravo",
+        "id": "Saya marah",
+        "ko": "화가 나다",
+        "tr": "Kızgınım",
+        "my": "ဒေါသထွက်နေသည်",
+        "zh-Hans": "我生气了"
+      },
+      "asset_keys": {
+        "image": "a11-09-005",
+        "audio_en": "a11-09-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-005.png",
+        "audio_en": "assets/audio/en/a11-09-005.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-009",
+      "en": "I'm surprised",
+      "ja": "驚いている",
+      "translations": {
+        "es": "Estoy sorprendido",
+        "pt": "Estou surpreso",
+        "id": "Saya terkejut",
+        "ko": "놀라다",
+        "tr": "Şaşırdım",
+        "my": "အံ့သြနေသည်",
+        "zh-Hans": "我很惊讶"
+      },
+      "asset_keys": {
+        "image": "a11-09-009",
+        "audio_en": "a11-09-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-009.png",
+        "audio_en": "assets/audio/en/a11-09-009.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
