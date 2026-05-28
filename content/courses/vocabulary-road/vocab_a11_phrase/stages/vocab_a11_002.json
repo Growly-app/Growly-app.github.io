@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_002",
+  "stage_order": 2,
+  "stage_title": "Bathroom Morning 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-03-001",
+    "a11-03-002",
+    "a11-03-003",
+    "a11-03-004",
+    "a11-01-008",
+    "a11-01-009",
+    "a11-03-005",
+    "a11-03-008"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-03-001",
+      "en": "Use the toilet",
+      "ja": "トイレを使う",
+      "translations": {
+        "es": "Usar el baño",
+        "pt": "Usar o banheiro",
+        "id": "Menggunakan toilet",
+        "ko": "화장실을 사용하다",
+        "tr": "Tuvaleti kullanmak",
+        "my": "အိမ်သာ အသုံးပြုခြင်း",
+        "zh-Hans": "使用厕所"
+      },
+      "asset_keys": {
+        "image": "a11-03-001",
+        "audio_en": "a11-03-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-001.png",
+        "audio_en": "assets/audio/en/a11-03-001.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-002",
+      "en": "Flush the toilet",
+      "ja": "トイレを流す",
+      "translations": {
+        "es": "Tirar de la cadena",
+        "pt": "Dar descarga",
+        "id": "Menyiram toilet",
+        "ko": "변기 물을 내리다",
+        "tr": "Sifonu çekmek",
+        "my": "အိမ်သာရေချခြင်း",
+        "zh-Hans": "冲厕所"
+      },
+      "asset_keys": {
+        "image": "a11-03-002",
+        "audio_en": "a11-03-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-002.png",
+        "audio_en": "assets/audio/en/a11-03-002.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-003",
+      "en": "Use the sink",
+      "ja": "洗面台を使う",
+      "translations": {
+        "es": "Usar el lavabo",
+        "pt": "Usar a pia",
+        "id": "Menggunakan wastafel",
+        "ko": "세면대를 사용하다",
+        "tr": "Lavaboyu kullanmak",
+        "my": "လက်ဆေးကန် အသုံးပြုခြင်း",
+        "zh-Hans": "使用洗手池"
+      },
+      "asset_keys": {
+        "image": "a11-03-003",
+        "audio_en": "a11-03-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-003.png",
+        "audio_en": "assets/audio/en/a11-03-003.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-004",
+      "en": "Use soap",
+      "ja": "石けんを使う",
+      "translations": {
+        "es": "Usar jabón",
+        "pt": "Usar sabonete",
+        "id": "Menggunakan sabun",
+        "ko": "비누를 사용하다",
+        "tr": "Sabun kullanmak",
+        "my": "ဆပ်ပြာ အသုံးပြုခြင်း",
+        "zh-Hans": "使用肥皂"
+      },
+      "asset_keys": {
+        "image": "a11-03-004",
+        "audio_en": "a11-03-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-004.png",
+        "audio_en": "assets/audio/en/a11-03-004.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-01-008",
+      "en": "Wash my face",
+      "ja": "顔を洗う",
+      "translations": {
+        "es": "Lavarse la cara",
+        "pt": "Lavar o rosto",
+        "id": "Mencuci muka",
+        "ko": "세수하다",
+        "tr": "Yüzünü yıkamak",
+        "my": "မျက်နှာသစ်ခြင်း",
+        "zh-Hans": "洗脸"
+      },
+      "asset_keys": {
+        "image": "a11-01-008",
+        "audio_en": "a11-01-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-008.png",
+        "audio_en": "assets/audio/en/a11-01-008.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-009",
+      "en": "Brush my teeth",
+      "ja": "歯を磨く",
+      "translations": {
+        "es": "Cepillarse los dientes",
+        "pt": "Escovar os dentes",
+        "id": "Menggosok gigi",
+        "ko": "이를 닦다",
+        "tr": "Dişlerini fırçalamak",
+        "my": "သွားတိုက်ခြင်း",
+        "zh-Hans": "刷牙"
+      },
+      "asset_keys": {
+        "image": "a11-01-009",
+        "audio_en": "a11-01-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-009.png",
+        "audio_en": "assets/audio/en/a11-01-009.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-03-005",
+      "en": "Rinse mouth",
+      "ja": "口をすすぐ",
+      "translations": {
+        "es": "Enjuagarse la boca",
+        "pt": "Enxaguar a boca",
+        "id": "Berkumur",
+        "ko": "입을 헹구다",
+        "tr": "Ağzını çalkalamak",
+        "my": "ပါးစပ်ဆေးခြင်း",
+        "zh-Hans": "漱口"
+      },
+      "asset_keys": {
+        "image": "a11-03-005",
+        "audio_en": "a11-03-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-005.png",
+        "audio_en": "assets/audio/en/a11-03-005.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-008",
+      "en": "Dry face",
+      "ja": "顔を拭く",
+      "translations": {
+        "es": "Secarse la cara",
+        "pt": "Secar o rosto",
+        "id": "Mengeringkan wajah",
+        "ko": "얼굴을 닦다",
+        "tr": "Yüzünü kurulamak",
+        "my": "မျက်နှာကို သုတ်ခြင်း",
+        "zh-Hans": "擦干脸"
+      },
+      "asset_keys": {
+        "image": "a11-03-008",
+        "audio_en": "a11-03-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-008.png",
+        "audio_en": "assets/audio/en/a11-03-008.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
