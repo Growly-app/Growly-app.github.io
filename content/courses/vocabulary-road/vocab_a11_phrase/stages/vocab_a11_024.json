@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_024",
+  "stage_order": 24,
+  "stage_title": "Simple Gestures 01",
+  "phrase_count": 6,
+  "phrase_ids": [
+    "a11-07-012",
+    "a11-07-013",
+    "a11-07-014",
+    "a11-07-015",
+    "a11-07-016",
+    "a11-07-020"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-07-012",
+      "en": "Wave hand",
+      "ja": "手を振る",
+      "translations": {
+        "es": "Saludar con la mano",
+        "pt": "Acenar com a mão",
+        "id": "Melambaikan tangan",
+        "ko": "손을 흔들다",
+        "tr": "El sallamak",
+        "my": "လက်ဝှေ့ယမ်းခြင်း",
+        "zh-Hans": "挥手"
+      },
+      "asset_keys": {
+        "image": "a11-07-012",
+        "audio_en": "a11-07-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-012.png",
+        "audio_en": "assets/audio/en/a11-07-012.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-013",
+      "en": "Clap hands",
+      "ja": "手を叩く",
+      "translations": {
+        "es": "Aplaudir",
+        "pt": "Bater palmas",
+        "id": "Bertepuk tangan",
+        "ko": "박수를 치다",
+        "tr": "Alkışlamak",
+        "my": "လက်ခုပ်တီးခြင်း",
+        "zh-Hans": "拍手"
+      },
+      "asset_keys": {
+        "image": "a11-07-013",
+        "audio_en": "a11-07-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-013.png",
+        "audio_en": "assets/audio/en/a11-07-013.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-014",
+      "en": "Raise hand",
+      "ja": "手を上げる",
+      "translations": {
+        "es": "Levantar la mano",
+        "pt": "Levantar a mão",
+        "id": "Mengangkat tangan",
+        "ko": "손을 들다",
+        "tr": "Elini kaldırmak",
+        "my": "လက်မြှောက်ခြင်း",
+        "zh-Hans": "举手"
+      },
+      "asset_keys": {
+        "image": "a11-07-014",
+        "audio_en": "a11-07-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-014.png",
+        "audio_en": "assets/audio/en/a11-07-014.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-015",
+      "en": "Shake head",
+      "ja": "首を振る",
+      "translations": {
+        "es": "Negar con la cabeza",
+        "pt": "Balançar a cabeça",
+        "id": "Menggelengkan kepala",
+        "ko": "고개를 젓다",
+        "tr": "Başını iki yana sallamak",
+        "my": "ခေါင်းခါခြင်း",
+        "zh-Hans": "摇头"
+      },
+      "asset_keys": {
+        "image": "a11-07-015",
+        "audio_en": "a11-07-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-015.png",
+        "audio_en": "assets/audio/en/a11-07-015.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-016",
+      "en": "Nod head",
+      "ja": "うなずく",
+      "translations": {
+        "es": "Asentir con la cabeza",
+        "pt": "Acenar com a cabeça",
+        "id": "Menganggukkan kepala",
+        "ko": "고개를 끄덕이다",
+        "tr": "Başını sallamak",
+        "my": "ခေါင်းညိတ်ခြင်း",
+        "zh-Hans": "点头"
+      },
+      "asset_keys": {
+        "image": "a11-07-016",
+        "audio_en": "a11-07-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-016.png",
+        "audio_en": "assets/audio/en/a11-07-016.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-020",
+      "en": "Point",
+      "ja": "指をさす",
+      "translations": {
+        "es": "Señalar",
+        "pt": "Apontar",
+        "id": "Menunjuk",
+        "ko": "가리키다",
+        "tr": "İşaret etmek",
+        "my": "လက်ညှိုးထိုးခြင်း",
+        "zh-Hans": "指向"
+      },
+      "asset_keys": {
+        "image": "a11-07-020",
+        "audio_en": "a11-07-020"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-020.png",
+        "audio_en": "assets/audio/en/a11-07-020.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
