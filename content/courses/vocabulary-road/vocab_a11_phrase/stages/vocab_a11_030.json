@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_030",
+  "stage_order": 30,
+  "stage_title": "Feeling Bad 01",
+  "phrase_count": 6,
+  "phrase_ids": [
+    "a11-09-002",
+    "a11-09-004",
+    "a11-09-013",
+    "a11-09-014",
+    "a11-09-017",
+    "a11-09-019"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-09-002",
+      "en": "I'm sleepy",
+      "ja": "眠い",
+      "translations": {
+        "es": "Tengo sueño",
+        "pt": "Estou com sono",
+        "id": "Saya mengantuk",
+        "ko": "졸리다",
+        "tr": "Uykum var",
+        "my": "အိပ်ချင်နေသည်",
+        "zh-Hans": "我困了"
+      },
+      "asset_keys": {
+        "image": "a11-09-002",
+        "audio_en": "a11-09-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-002.png",
+        "audio_en": "assets/audio/en/a11-09-002.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-09-004",
+      "en": "I'm thirsty",
+      "ja": "喉が渇いている",
+      "translations": {
+        "es": "Tengo sed",
+        "pt": "Estou com sede",
+        "id": "Saya haus",
+        "ko": "목마르다",
+        "tr": "Susadım",
+        "my": "ရေဆာနေသည်",
+        "zh-Hans": "我渴了"
+      },
+      "asset_keys": {
+        "image": "a11-09-004",
+        "audio_en": "a11-09-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-004.png",
+        "audio_en": "assets/audio/en/a11-09-004.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-013",
+      "en": "I'm hot",
+      "ja": "暑い",
+      "translations": {
+        "es": "Tengo calor",
+        "pt": "Estou com calor",
+        "id": "Saya kepanasan",
+        "ko": "덥다",
+        "tr": "Sıcakladım",
+        "my": "ပူနေသည်",
+        "zh-Hans": "我热"
+      },
+      "asset_keys": {
+        "image": "a11-09-013",
+        "audio_en": "a11-09-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-013.png",
+        "audio_en": "assets/audio/en/a11-09-013.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-014",
+      "en": "I'm sick",
+      "ja": "体調が悪い",
+      "translations": {
+        "es": "Estoy enfermo",
+        "pt": "Estou doente",
+        "id": "Saya sakit",
+        "ko": "아프다",
+        "tr": "Hastayım",
+        "my": "နေမကောင်းဖြစ်နေသည်",
+        "zh-Hans": "我生病了"
+      },
+      "asset_keys": {
+        "image": "a11-09-014",
+        "audio_en": "a11-09-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-014.png",
+        "audio_en": "assets/audio/en/a11-09-014.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-017",
+      "en": "I'm wet",
+      "ja": "濡れている",
+      "translations": {
+        "es": "Estoy mojado",
+        "pt": "Estou molhado",
+        "id": "Saya basah",
+        "ko": "젖다",
+        "tr": "Islandım",
+        "my": "စိုနေသည်",
+        "zh-Hans": "我湿了"
+      },
+      "asset_keys": {
+        "image": "a11-09-017",
+        "audio_en": "a11-09-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-017.png",
+        "audio_en": "assets/audio/en/a11-09-017.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-019",
+      "en": "I'm clean",
+      "ja": "きれいになっている",
+      "translations": {
+        "es": "Estoy limpio",
+        "pt": "Estou limpo",
+        "id": "Saya bersih",
+        "ko": "깨끗하다",
+        "tr": "Temizim",
+        "my": "သန့်ရှင်းနေသည်",
+        "zh-Hans": "我干净了"
+      },
+      "asset_keys": {
+        "image": "a11-09-019",
+        "audio_en": "a11-09-019"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-019.png",
+        "audio_en": "assets/audio/en/a11-09-019.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
