@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_007",
+  "stage_order": 7,
+  "stage_title": "Moving Around 01",
+  "phrase_count": 7,
+  "phrase_ids": [
+    "a11-07-001",
+    "a11-07-002",
+    "a11-07-003",
+    "a11-07-004",
+    "a11-07-007",
+    "a11-07-010",
+    "a11-07-011"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-07-001",
+      "en": "Stand up",
+      "ja": "立ち上がる",
+      "translations": {
+        "es": "Ponerse de pie",
+        "pt": "Ficar de pé",
+        "id": "Berdiri",
+        "ko": "일어서다",
+        "tr": "Ayağa kalkmak",
+        "my": "မတ်တပ်ရပ်ခြင်း",
+        "zh-Hans": "站起来"
+      },
+      "asset_keys": {
+        "image": "a11-07-001",
+        "audio_en": "a11-07-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-001.png",
+        "audio_en": "assets/audio/en/a11-07-001.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-002",
+      "en": "Sit down",
+      "ja": "座る",
+      "translations": {
+        "es": "Sentarse",
+        "pt": "Sentar-se",
+        "id": "Duduk",
+        "ko": "앉다",
+        "tr": "Oturmak",
+        "my": "ထိုင်ခြင်း",
+        "zh-Hans": "坐下"
+      },
+      "asset_keys": {
+        "image": "a11-07-002",
+        "audio_en": "a11-07-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-002.png",
+        "audio_en": "assets/audio/en/a11-07-002.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-003",
+      "en": "Walk",
+      "ja": "歩く",
+      "translations": {
+        "es": "Caminar",
+        "pt": "Andar",
+        "id": "Berjalan",
+        "ko": "걷다",
+        "tr": "Yürümek",
+        "my": "လမ်းလျှောက်ခြင်း",
+        "zh-Hans": "走路"
+      },
+      "asset_keys": {
+        "image": "a11-07-003",
+        "audio_en": "a11-07-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-003.png",
+        "audio_en": "assets/audio/en/a11-07-003.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-07-004",
+      "en": "Run",
+      "ja": "走る",
+      "translations": {
+        "es": "Correr",
+        "pt": "Correr",
+        "id": "Berlari",
+        "ko": "달리다",
+        "tr": "Koşmak",
+        "my": "ပြေးခြင်း",
+        "zh-Hans": "跑步"
+      },
+      "asset_keys": {
+        "image": "a11-07-004",
+        "audio_en": "a11-07-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-004.png",
+        "audio_en": "assets/audio/en/a11-07-004.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-07-007",
+      "en": "Turn around",
+      "ja": "振り向く",
+      "translations": {
+        "es": "Darse la vuelta",
+        "pt": "Virar-se",
+        "id": "Berbalik",
+        "ko": "뒤돌아보다",
+        "tr": "Arkasına dönmek",
+        "my": "နောက်လှည့်ခြင်း",
+        "zh-Hans": "转身"
+      },
+      "asset_keys": {
+        "image": "a11-07-007",
+        "audio_en": "a11-07-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-007.png",
+        "audio_en": "assets/audio/en/a11-07-007.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-010",
+      "en": "Look up",
+      "ja": "上を見る",
+      "translations": {
+        "es": "Mirar hacia arriba",
+        "pt": "Olhar para cima",
+        "id": "Melihat ke atas",
+        "ko": "위를 보다",
+        "tr": "Yukarı bakmak",
+        "my": "အပေါ်ကို ကြည့်ခြင်း",
+        "zh-Hans": "向上看"
+      },
+      "asset_keys": {
+        "image": "a11-07-010",
+        "audio_en": "a11-07-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-010.png",
+        "audio_en": "assets/audio/en/a11-07-010.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-011",
+      "en": "Look down",
+      "ja": "下を見る",
+      "translations": {
+        "es": "Mirar hacia abajo",
+        "pt": "Olhar para baixo",
+        "id": "Melihat ke bawah",
+        "ko": "아래를 보다",
+        "tr": "Aşağı bakmak",
+        "my": "အောက်ကို ကြည့်ခြင်း",
+        "zh-Hans": "向下看"
+      },
+      "asset_keys": {
+        "image": "a11-07-011",
+        "audio_en": "a11-07-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-011.png",
+        "audio_en": "assets/audio/en/a11-07-011.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
