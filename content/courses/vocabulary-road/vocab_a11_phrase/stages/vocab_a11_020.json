@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_020",
+  "stage_order": 20,
+  "stage_title": "Clothes Care 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-05-018",
+    "a11-05-019",
+    "a11-05-020",
+    "a11-05-012",
+    "a11-05-013",
+    "a11-05-014",
+    "a11-05-002",
+    "a11-05-006"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-05-018",
+      "en": "Change clothes",
+      "ja": "着替える",
+      "translations": {
+        "es": "Cambiarse de ropa",
+        "pt": "Trocar de roupa",
+        "id": "Berganti pakaian",
+        "ko": "옷을 갈아입다",
+        "tr": "Kıyafet değiştirmek",
+        "my": "အဝတ်အစား လဲခြင်း",
+        "zh-Hans": "换衣服"
+      },
+      "asset_keys": {
+        "image": "a11-05-018",
+        "audio_en": "a11-05-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-018.png",
+        "audio_en": "assets/audio/en/a11-05-018.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-019",
+      "en": "Fold clothes",
+      "ja": "服をたたむ",
+      "translations": {
+        "es": "Doblar ropa",
+        "pt": "Dobrar roupas",
+        "id": "Melipat pakaian",
+        "ko": "옷을 개다",
+        "tr": "Kıyafetleri katlamak",
+        "my": "အဝတ်အစား ခေါက်ခြင်း",
+        "zh-Hans": "叠衣服"
+      },
+      "asset_keys": {
+        "image": "a11-05-019",
+        "audio_en": "a11-05-019"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-019.png",
+        "audio_en": "assets/audio/en/a11-05-019.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-020",
+      "en": "Hang clothes",
+      "ja": "服をかける",
+      "translations": {
+        "es": "Colgar ropa",
+        "pt": "Pendurar roupas",
+        "id": "Menggantung pakaian",
+        "ko": "옷을 걸다",
+        "tr": "Kıyafetleri asmak",
+        "my": "အဝတ်အစား ချိတ်ခြင်း",
+        "zh-Hans": "挂衣服"
+      },
+      "asset_keys": {
+        "image": "a11-05-020",
+        "audio_en": "a11-05-020"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-020.png",
+        "audio_en": "assets/audio/en/a11-05-020.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-012",
+      "en": "Unbutton shirt",
+      "ja": "シャツのボタンを外す",
+      "translations": {
+        "es": "Desabotonarse la camisa",
+        "pt": "Desabotoar a camisa",
+        "id": "Membuka kancing kemeja",
+        "ko": "셔츠 단추를 풀다",
+        "tr": "Gömleğin düğmelerini açmak",
+        "my": "ရှပ်အင်္ကျီကြယ်သီးဖြုတ်ခြင်း",
+        "zh-Hans": "解开衬衫扣子"
+      },
+      "asset_keys": {
+        "image": "a11-05-012",
+        "audio_en": "a11-05-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-012.png",
+        "audio_en": "assets/audio/en/a11-05-012.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-013",
+      "en": "Zip jacket",
+      "ja": "上着のジッパーを上げる",
+      "translations": {
+        "es": "Subir la cremallera de la chaqueta",
+        "pt": "Fechar o zíper da jaqueta",
+        "id": "Menutup ritsleting jaket",
+        "ko": "재킷 지퍼를 올리다",
+        "tr": "Ceketin fermuarını çekmek",
+        "my": "ဂျာကင်အင်္ကျီဇစ်တင်ခြင်း",
+        "zh-Hans": "拉上外套拉链"
+      },
+      "asset_keys": {
+        "image": "a11-05-013",
+        "audio_en": "a11-05-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-013.png",
+        "audio_en": "assets/audio/en/a11-05-013.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-014",
+      "en": "Unzip jacket",
+      "ja": "上着のジッパーを下げる",
+      "translations": {
+        "es": "Bajar la cremallera de la chaqueta",
+        "pt": "Abrir o zíper da jaqueta",
+        "id": "Membuka ritsleting jaket",
+        "ko": "재킷 지퍼를 내리다",
+        "tr": "Ceketin fermuarını indirmek",
+        "my": "ဂျာကင်အင်္ကျီဇစ်ချခြင်း",
+        "zh-Hans": "拉下外套拉链"
+      },
+      "asset_keys": {
+        "image": "a11-05-014",
+        "audio_en": "a11-05-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-014.png",
+        "audio_en": "assets/audio/en/a11-05-014.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-002",
+      "en": "Take off socks",
+      "ja": "靴下を脱ぐ",
+      "translations": {
+        "es": "Quitarse calcetines",
+        "pt": "Tirar as meias",
+        "id": "Melepas kaus kaki",
+        "ko": "양말을 벗다",
+        "tr": "Çoraplarını çıkarmak",
+        "my": "ခြေအိတ်ချွတ်ခြင်း",
+        "zh-Hans": "脱袜子"
+      },
+      "asset_keys": {
+        "image": "a11-05-002",
+        "audio_en": "a11-05-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-002.png",
+        "audio_en": "assets/audio/en/a11-05-002.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-05-006",
+      "en": "Take off glasses",
+      "ja": "メガネを外す",
+      "translations": {
+        "es": "Quitarse los lentes",
+        "pt": "Tirar os óculos",
+        "id": "Melepas kacamata",
+        "ko": "안경을 벗다",
+        "tr": "Gözlüğünü çıkarmak",
+        "my": "မျက်မှန်ချွတ်ခြင်း",
+        "zh-Hans": "摘下眼镜"
+      },
+      "asset_keys": {
+        "image": "a11-05-006",
+        "audio_en": "a11-05-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-006.png",
+        "audio_en": "assets/audio/en/a11-05-006.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
