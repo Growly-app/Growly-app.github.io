@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_008",
+  "stage_order": 8,
+  "stage_title": "Lunch Time 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-04-001",
+    "a11-04-002",
+    "a11-04-004",
+    "a11-04-005",
+    "a11-04-010",
+    "a11-04-021",
+    "a11-04-020",
+    "a11-04-025"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-04-001",
+      "en": "Eat lunch",
+      "ja": "昼食を食べる",
+      "translations": {
+        "es": "Almorzar",
+        "pt": "Almoçar",
+        "id": "Makan siang",
+        "ko": "점심을 먹다",
+        "tr": "Öğle yemeği yemek",
+        "my": "နေ့လယ်စာ စားခြင်း",
+        "zh-Hans": "吃午饭"
+      },
+      "asset_keys": {
+        "image": "a11-04-001",
+        "audio_en": "a11-04-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-001.png",
+        "audio_en": "assets/audio/en/a11-04-001.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-002",
+      "en": "Eat rice",
+      "ja": "ご飯を食べる",
+      "translations": {
+        "es": "Comer arroz",
+        "pt": "Comer arroz",
+        "id": "Makan nasi",
+        "ko": "밥을 먹다",
+        "tr": "Pilav yemek",
+        "my": "ထမင်းစားခြင်း",
+        "zh-Hans": "吃米饭"
+      },
+      "asset_keys": {
+        "image": "a11-04-002",
+        "audio_en": "a11-04-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-002.png",
+        "audio_en": "assets/audio/en/a11-04-002.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-004",
+      "en": "Eat meat",
+      "ja": "肉を食べる",
+      "translations": {
+        "es": "Comer carne",
+        "pt": "Comer carne",
+        "id": "Makan daging",
+        "ko": "고기를 먹다",
+        "tr": "Et yemek",
+        "my": "အသားစားခြင်း",
+        "zh-Hans": "吃肉"
+      },
+      "asset_keys": {
+        "image": "a11-04-004",
+        "audio_en": "a11-04-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-004.png",
+        "audio_en": "assets/audio/en/a11-04-004.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-005",
+      "en": "Eat vegetables",
+      "ja": "野菜を食べる",
+      "translations": {
+        "es": "Comer verduras",
+        "pt": "Comer legumes",
+        "id": "Makan sayuran",
+        "ko": "채소를 먹다",
+        "tr": "Sebze yemek",
+        "my": "ဟင်းသီးဟင်းရွက် စားခြင်း",
+        "zh-Hans": "吃蔬菜"
+      },
+      "asset_keys": {
+        "image": "a11-04-005",
+        "audio_en": "a11-04-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-005.png",
+        "audio_en": "assets/audio/en/a11-04-005.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-010",
+      "en": "Drink tea",
+      "ja": "お茶を飲む",
+      "translations": {
+        "es": "Beber té",
+        "pt": "Beber chá",
+        "id": "Minum teh",
+        "ko": "차를 마시다",
+        "tr": "Çay içmek",
+        "my": "လက်ဖက်ရည် သောက်ခြင်း",
+        "zh-Hans": "喝茶"
+      },
+      "asset_keys": {
+        "image": "a11-04-010",
+        "audio_en": "a11-04-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-010.png",
+        "audio_en": "assets/audio/en/a11-04-010.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-021",
+      "en": "Hold a cup",
+      "ja": "カップを持つ",
+      "translations": {
+        "es": "Sostener una taza",
+        "pt": "Segurar uma xícara",
+        "id": "Memegang cangkir",
+        "ko": "컵을 들다",
+        "tr": "Fincan tutmak",
+        "my": "ခွက်ကို ကိုင်ခြင်း",
+        "zh-Hans": "拿着杯子"
+      },
+      "asset_keys": {
+        "image": "a11-04-021",
+        "audio_en": "a11-04-021"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-021.png",
+        "audio_en": "assets/audio/en/a11-04-021.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-020",
+      "en": "Use chopsticks",
+      "ja": "箸を使う",
+      "translations": {
+        "es": "Usar palillos",
+        "pt": "Usar hashis",
+        "id": "Menggunakan sumpit",
+        "ko": "젓가락을 사용하다",
+        "tr": "Yemek çubuğu kullanmak",
+        "my": "တုတ်ချောင်း အသုံးပြုခြင်း",
+        "zh-Hans": "使用筷子"
+      },
+      "asset_keys": {
+        "image": "a11-04-020",
+        "audio_en": "a11-04-020"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-020.png",
+        "audio_en": "assets/audio/en/a11-04-020.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-04-025",
+      "en": "Drop food",
+      "ja": "食べ物を落とす",
+      "translations": {
+        "es": "Dejar caer comida",
+        "pt": "Derrubar comida",
+        "id": "Menjatuhkan makanan",
+        "ko": "음식을 떨어뜨리다",
+        "tr": "Yemeği düşürmek",
+        "my": "အစားအစာကို လွှတ်ချခြင်း",
+        "zh-Hans": "把食物弄掉"
+      },
+      "asset_keys": {
+        "image": "a11-04-025",
+        "audio_en": "a11-04-025"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-04-025.png",
+        "audio_en": "assets/audio/en/a11-04-025.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
