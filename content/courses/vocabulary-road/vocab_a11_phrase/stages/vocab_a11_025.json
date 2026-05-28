@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_025",
+  "stage_order": 25,
+  "stage_title": "Face and Feelings 01",
+  "phrase_count": 6,
+  "phrase_ids": [
+    "a11-07-017",
+    "a11-07-018",
+    "a11-07-019",
+    "a11-09-006",
+    "a11-09-007",
+    "a11-09-008"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-07-017",
+      "en": "Touch head",
+      "ja": "頭を触る",
+      "translations": {
+        "es": "Tocarse la cabeza",
+        "pt": "Tocar a cabeça",
+        "id": "Menyentuh kepala",
+        "ko": "머리를 만지다",
+        "tr": "Başına dokunmak",
+        "my": "ခေါင်းကို ထိခြင်း",
+        "zh-Hans": "摸头"
+      },
+      "asset_keys": {
+        "image": "a11-07-017",
+        "audio_en": "a11-07-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-017.png",
+        "audio_en": "assets/audio/en/a11-07-017.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-018",
+      "en": "Cover mouth",
+      "ja": "口を覆う",
+      "translations": {
+        "es": "Cubrirse la boca",
+        "pt": "Cobrir a boca",
+        "id": "Menutup mulut",
+        "ko": "입을 가리다",
+        "tr": "Ağzını kapatmak",
+        "my": "ပါးစပ်ကို ဖုံးခြင်း",
+        "zh-Hans": "捂住嘴"
+      },
+      "asset_keys": {
+        "image": "a11-07-018",
+        "audio_en": "a11-07-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-018.png",
+        "audio_en": "assets/audio/en/a11-07-018.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-019",
+      "en": "Cross arms",
+      "ja": "腕を組む",
+      "translations": {
+        "es": "Cruzar los brazos",
+        "pt": "Cruzar os braços",
+        "id": "Menyilangkan lengan",
+        "ko": "팔짱을 끼다",
+        "tr": "Kollarını kavuşturmak",
+        "my": "လက်ပိုက်ခြင်း",
+        "zh-Hans": "双臂交叉"
+      },
+      "asset_keys": {
+        "image": "a11-07-019",
+        "audio_en": "a11-07-019"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-019.png",
+        "audio_en": "assets/audio/en/a11-07-019.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-006",
+      "en": "I'm happy",
+      "ja": "嬉しい",
+      "translations": {
+        "es": "Estoy feliz",
+        "pt": "Estou feliz",
+        "id": "Saya senang",
+        "ko": "행복하다",
+        "tr": "Mutluyum",
+        "my": "ပျော်နေသည်",
+        "zh-Hans": "我很开心"
+      },
+      "asset_keys": {
+        "image": "a11-09-006",
+        "audio_en": "a11-09-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-006.png",
+        "audio_en": "assets/audio/en/a11-09-006.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-007",
+      "en": "I'm sad",
+      "ja": "悲しい",
+      "translations": {
+        "es": "Estoy triste",
+        "pt": "Estou triste",
+        "id": "Saya sedih",
+        "ko": "슬프다",
+        "tr": "Üzgünüm",
+        "my": "ဝမ်းနည်းနေသည်",
+        "zh-Hans": "我很难过"
+      },
+      "asset_keys": {
+        "image": "a11-09-007",
+        "audio_en": "a11-09-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-007.png",
+        "audio_en": "assets/audio/en/a11-09-007.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-008",
+      "en": "I'm scared",
+      "ja": "怖い",
+      "translations": {
+        "es": "Tengo miedo",
+        "pt": "Estou com medo",
+        "id": "Saya takut",
+        "ko": "무섭다",
+        "tr": "Korkuyorum",
+        "my": "ကြောက်နေသည်",
+        "zh-Hans": "我害怕"
+      },
+      "asset_keys": {
+        "image": "a11-09-008",
+        "audio_en": "a11-09-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-008.png",
+        "audio_en": "assets/audio/en/a11-09-008.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
