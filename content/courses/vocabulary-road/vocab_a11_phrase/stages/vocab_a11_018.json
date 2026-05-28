@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_018",
+  "stage_order": 18,
+  "stage_title": "Kitchen Work 01",
+  "phrase_count": 7,
+  "phrase_ids": [
+    "a11-06-006",
+    "a11-06-007",
+    "a11-06-008",
+    "a11-06-011",
+    "a11-06-012",
+    "a11-06-013",
+    "a11-06-014"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-06-006",
+      "en": "Wash dishes",
+      "ja": "皿を洗う",
+      "translations": {
+        "es": "Lavar los platos",
+        "pt": "Lavar a louça",
+        "id": "Mencuci piring",
+        "ko": "설거지하다",
+        "tr": "Bulaşıkları yıkamak",
+        "my": "ပန်းကန်ဆေးခြင်း",
+        "zh-Hans": "洗盘子"
+      },
+      "asset_keys": {
+        "image": "a11-06-006",
+        "audio_en": "a11-06-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-006.png",
+        "audio_en": "assets/audio/en/a11-06-006.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-06-007",
+      "en": "Dry dishes",
+      "ja": "皿を拭く",
+      "translations": {
+        "es": "Secar los platos",
+        "pt": "Secar a louça",
+        "id": "Mengeringkan piring",
+        "ko": "그릇을 말리다",
+        "tr": "Bulaşıkları kurulamak",
+        "my": "ပန်းကန်ကို သုတ်ခြင်း",
+        "zh-Hans": "擦干盘子"
+      },
+      "asset_keys": {
+        "image": "a11-06-007",
+        "audio_en": "a11-06-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-007.png",
+        "audio_en": "assets/audio/en/a11-06-007.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-06-008",
+      "en": "Put away dishes",
+      "ja": "皿を片付ける",
+      "translations": {
+        "es": "Guardar los platos",
+        "pt": "Guardar a louça",
+        "id": "Menyimpan piring",
+        "ko": "그릇을 치우다",
+        "tr": "Bulaşıkları kaldırmak",
+        "my": "ပန်းကန်များကို သိမ်းခြင်း",
+        "zh-Hans": "收拾盘子"
+      },
+      "asset_keys": {
+        "image": "a11-06-008",
+        "audio_en": "a11-06-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-008.png",
+        "audio_en": "assets/audio/en/a11-06-008.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-06-011",
+      "en": "Open fridge",
+      "ja": "冷蔵庫を開ける",
+      "translations": {
+        "es": "Abrir el refrigerador",
+        "pt": "Abrir a geladeira",
+        "id": "Membuka kulkas",
+        "ko": "냉장고를 열다",
+        "tr": "Buzdolabını açmak",
+        "my": "ရေခဲသေတ္တာဖွင့်ခြင်း",
+        "zh-Hans": "打开冰箱"
+      },
+      "asset_keys": {
+        "image": "a11-06-011",
+        "audio_en": "a11-06-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-011.png",
+        "audio_en": "assets/audio/en/a11-06-011.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-012",
+      "en": "Close fridge",
+      "ja": "冷蔵庫を閉める",
+      "translations": {
+        "es": "Cerrar el refrigerador",
+        "pt": "Fechar a geladeira",
+        "id": "Menutup kulkas",
+        "ko": "냉장고를 닫다",
+        "tr": "Buzdolabını kapatmak",
+        "my": "ရေခဲသေတ္တာပိတ်ခြင်း",
+        "zh-Hans": "关上冰箱"
+      },
+      "asset_keys": {
+        "image": "a11-06-012",
+        "audio_en": "a11-06-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-012.png",
+        "audio_en": "assets/audio/en/a11-06-012.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-013",
+      "en": "Use microwave",
+      "ja": "電子レンジを使う",
+      "translations": {
+        "es": "Usar el microondas",
+        "pt": "Usar o micro-ondas",
+        "id": "Menggunakan microwave",
+        "ko": "전자레인지를 사용하다",
+        "tr": "Mikrodalga fırın kullanmak",
+        "my": "မိုက်ခရိုဝေ့ဖ် အသုံးပြုခြင်း",
+        "zh-Hans": "使用微波炉"
+      },
+      "asset_keys": {
+        "image": "a11-06-013",
+        "audio_en": "a11-06-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-013.png",
+        "audio_en": "assets/audio/en/a11-06-013.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-014",
+      "en": "Use stove",
+      "ja": "コンロを使う",
+      "translations": {
+        "es": "Usar la estufa",
+        "pt": "Usar o fogão",
+        "id": "Menggunakan kompor",
+        "ko": "가스레인지를 사용하다",
+        "tr": "Ocak kullanmak",
+        "my": "မီးဖို အသုံးပြုခြင်း",
+        "zh-Hans": "使用炉灶"
+      },
+      "asset_keys": {
+        "image": "a11-06-014",
+        "audio_en": "a11-06-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-014.png",
+        "audio_en": "assets/audio/en/a11-06-014.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
