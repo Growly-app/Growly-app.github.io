@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "course_kind": "vocabulary_road_phrase",
+  "course_id": "vocab_a11_phrase",
+  "course_title": "A1-1",
+  "level_id": "a11",
+  "learning_type": "phrase",
+  "display_order": 1,
+  "is_published": true,
+  "progression": {
+    "initial_open_stage_count": 3,
+    "max_active_stage_count": 3,
+    "unlock_rule": "star1"
+  },
+  "star_rules": {
+    "star1": {
+      "flash_all_required": true,
+      "rating_basis": "ab_ratio",
+      "ab_min_ratio": 0.6
+    },
+    "star2": {
+      "requires_star_count": 1,
+      "quiz_min_ratio": 0.75
+    },
+    "star3": {
+      "requires_star_count": 2,
+      "test_scope": "all_stage_phrases",
+      "test_time_limit_sec": 10,
+      "test_life_count": 3,
+      "test_fail_on_life_zero": true,
+      "test_pass_rule": "clear_all_before_life_zero"
+    }
+  },
+  "assets": {
+    "image_path_template": "assets/images/{phrase_id}.png",
+    "audio_en_path_template": "assets/audio/en/{phrase_id}.mp3"
+  },
+  "stages": [
+    {
+      "stage_id": "vocab_a11_001",
+      "stage_order": 1,
+      "stage_title": "Morning Routine 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_001.json"
+    },
+    {
+      "stage_id": "vocab_a11_002",
+      "stage_order": 2,
+      "stage_title": "Bathroom Morning 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_002.json"
+    },
+    {
+      "stage_id": "vocab_a11_003",
+      "stage_order": 3,
+      "stage_title": "Getting Ready 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_003.json"
+    },
+    {
+      "stage_id": "vocab_a11_004",
+      "stage_order": 4,
+      "stage_title": "Breakfast 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_004.json"
+    },
+    {
+      "stage_id": "vocab_a11_005",
+      "stage_order": 5,
+      "stage_title": "Leaving Home 01",
+      "phrase_count": 7,
+      "relative_path": "stages/vocab_a11_005.json"
+    },
+    {
+      "stage_id": "vocab_a11_006",
+      "stage_order": 6,
+      "stage_title": "Greetings 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_006.json"
+    },
+    {
+      "stage_id": "vocab_a11_007",
+      "stage_order": 7,
+      "stage_title": "Moving Around 01",
+      "phrase_count": 7,
+      "relative_path": "stages/vocab_a11_007.json"
+    },
+    {
+      "stage_id": "vocab_a11_008",
+      "stage_order": 8,
+      "stage_title": "Lunch Time 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_008.json"
+    },
+    {
+      "stage_id": "vocab_a11_009",
+      "stage_order": 9,
+      "stage_title": "Coming Home 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_009.json"
+    },
+    {
+      "stage_id": "vocab_a11_010",
+      "stage_order": 10,
+      "stage_title": "Relaxing at Home 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_010.json"
+    },
+    {
+      "stage_id": "vocab_a11_011",
+      "stage_order": 11,
+      "stage_title": "Dinner Time 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_011.json"
+    },
+    {
+      "stage_id": "vocab_a11_012",
+      "stage_order": 12,
+      "stage_title": "Bath Time 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_012.json"
+    },
+    {
+      "stage_id": "vocab_a11_013",
+      "stage_order": 13,
+      "stage_title": "Bedtime Routine 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_013.json"
+    },
+    {
+      "stage_id": "vocab_a11_014",
+      "stage_order": 14,
+      "stage_title": "Study Session 01",
+      "phrase_count": 6,
+      "relative_path": "stages/vocab_a11_014.json"
+    },
+    {
+      "stage_id": "vocab_a11_015",
+      "stage_order": 15,
+      "stage_title": "Study Session 02",
+      "phrase_count": 6,
+      "relative_path": "stages/vocab_a11_015.json"
+    },
+    {
+      "stage_id": "vocab_a11_016",
+      "stage_order": 16,
+      "stage_title": "Study Session 03",
+      "phrase_count": 6,
+      "relative_path": "stages/vocab_a11_016.json"
+    },
+    {
+      "stage_id": "vocab_a11_017",
+      "stage_order": 17,
+      "stage_title": "Cleaning Day 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_017.json"
+    },
+    {
+      "stage_id": "vocab_a11_018",
+      "stage_order": 18,
+      "stage_title": "Kitchen Work 01",
+      "phrase_count": 7,
+      "relative_path": "stages/vocab_a11_018.json"
+    },
+    {
+      "stage_id": "vocab_a11_019",
+      "stage_order": 19,
+      "stage_title": "Bathroom Care 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_019.json"
+    },
+    {
+      "stage_id": "vocab_a11_020",
+      "stage_order": 20,
+      "stage_title": "Clothes Care 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_020.json"
+    },
+    {
+      "stage_id": "vocab_a11_021",
+      "stage_order": 21,
+      "stage_title": "Rainy Day 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_021.json"
+    },
+    {
+      "stage_id": "vocab_a11_022",
+      "stage_order": 22,
+      "stage_title": "Snack Time 01",
+      "phrase_count": 8,
+      "relative_path": "stages/vocab_a11_022.json"
+    },
+    {
+      "stage_id": "vocab_a11_023",
+      "stage_order": 23,
+      "stage_title": "Pet Care 01",
+      "phrase_count": 7,
+      "relative_path": "stages/vocab_a11_023.json"
+    },
+    {
+      "stage_id": "vocab_a11_024",
+      "stage_order": 24,
+      "stage_title": "Simple Gestures 01",
+      "phrase_count": 6,
+      "relative_path": "stages/vocab_a11_024.json"
+    },
+    {
+      "stage_id": "vocab_a11_025",
+      "stage_order": 25,
+      "stage_title": "Face and Feelings 01",
+      "phrase_count": 6,
+      "relative_path": "stages/vocab_a11_025.json"
+    },
+    {
+      "stage_id": "vocab_a11_026",
+      "stage_order": 26,
+      "stage_title": "Playing Outside 01",
+      "phrase_count": 6,
+      "relative_path": "stages/vocab_a11_026.json"
+    },
+    {
+      "stage_id": "vocab_a11_027",
+      "stage_order": 27,
+      "stage_title": "Box Trouble 01",
+      "phrase_count": 6,
+      "relative_path": "stages/vocab_a11_027.json"
+    },
+    {
+      "stage_id": "vocab_a11_028",
+      "stage_order": 28,
+      "stage_title": "Desk Tools 01",
+      "phrase_count": 6,
+      "relative_path": "stages/vocab_a11_028.json"
+    },
+    {
+      "stage_id": "vocab_a11_029",
+      "stage_order": 29,
+      "stage_title": "Moving Things 01",
+      "phrase_count": 7,
+      "relative_path": "stages/vocab_a11_029.json"
+    },
+    {
+      "stage_id": "vocab_a11_030",
+      "stage_order": 30,
+      "stage_title": "Feeling Bad 01",
+      "phrase_count": 6,
+      "relative_path": "stages/vocab_a11_030.json"
+    },
+    {
+      "stage_id": "vocab_a11_031",
+      "stage_order": 31,
+      "stage_title": "Polite Words 01",
+      "phrase_count": 7,
+      "relative_path": "stages/vocab_a11_031.json"
+    },
+    {
+      "stage_id": "vocab_a11_032",
+      "stage_order": 32,
+      "stage_title": "Quick Reactions 01",
+      "phrase_count": 6,
+      "relative_path": "stages/vocab_a11_032.json"
+    }
+  ],
+  "updated_at": "2026-05-27T12:48:49.130403Z"
+}
