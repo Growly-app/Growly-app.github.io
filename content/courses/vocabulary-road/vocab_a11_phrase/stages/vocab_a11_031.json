@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_031",
+  "stage_order": 31,
+  "stage_title": "Polite Words 01",
+  "phrase_count": 7,
+  "phrase_ids": [
+    "a11-11-009",
+    "a11-11-010",
+    "a11-11-011",
+    "a11-11-012",
+    "a11-11-014",
+    "a11-11-018",
+    "a11-11-019"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-11-009",
+      "en": "See you",
+      "ja": "またね",
+      "translations": {
+        "es": "Nos vemos",
+        "pt": "Até mais",
+        "id": "Sampai jumpa",
+        "ko": "또 봐요",
+        "tr": "Görüşürüz",
+        "my": "နောက်မှတွေ့မယ်",
+        "zh-Hans": "回头见"
+      },
+      "asset_keys": {
+        "image": "a11-11-009",
+        "audio_en": "a11-11-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-009.png",
+        "audio_en": "assets/audio/en/a11-11-009.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-010",
+      "en": "Thank you",
+      "ja": "ありがとう",
+      "translations": {
+        "es": "Gracias",
+        "pt": "Obrigado",
+        "id": "Terima kasih",
+        "ko": "감사합니다",
+        "tr": "Teşekkür ederim",
+        "my": "ကျေးဇူးတင်ပါတယ်",
+        "zh-Hans": "谢谢"
+      },
+      "asset_keys": {
+        "image": "a11-11-010",
+        "audio_en": "a11-11-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-010.png",
+        "audio_en": "assets/audio/en/a11-11-010.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-011",
+      "en": "Thanks",
+      "ja": "ありがとう",
+      "translations": {
+        "es": "Gracias",
+        "pt": "Obrigado",
+        "id": "Makasih",
+        "ko": "고마워요",
+        "tr": "Teşekkürler",
+        "my": "ကျေးဇူးပါ",
+        "zh-Hans": "谢谢"
+      },
+      "asset_keys": {
+        "image": "a11-11-011",
+        "audio_en": "a11-11-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-011.png",
+        "audio_en": "assets/audio/en/a11-11-011.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-012",
+      "en": "You're welcome",
+      "ja": "どういたしまして",
+      "translations": {
+        "es": "De nada",
+        "pt": "De nada",
+        "id": "Sama-sama",
+        "ko": "천만에요",
+        "tr": "Rica ederim",
+        "my": "ရပါတယ်",
+        "zh-Hans": "不客气"
+      },
+      "asset_keys": {
+        "image": "a11-11-012",
+        "audio_en": "a11-11-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-012.png",
+        "audio_en": "assets/audio/en/a11-11-012.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-014",
+      "en": "Please",
+      "ja": "お願いします",
+      "translations": {
+        "es": "Por favor",
+        "pt": "Por favor",
+        "id": "Tolong",
+        "ko": "부탁합니다",
+        "tr": "Lütfen",
+        "my": "ကျေးဇူးပြု၍",
+        "zh-Hans": "请"
+      },
+      "asset_keys": {
+        "image": "a11-11-014",
+        "audio_en": "a11-11-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-014.png",
+        "audio_en": "assets/audio/en/a11-11-014.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-018",
+      "en": "Welcome",
+      "ja": "ようこそ",
+      "translations": {
+        "es": "Bienvenido",
+        "pt": "Bem-vindo",
+        "id": "Selamat datang",
+        "ko": "환영합니다",
+        "tr": "Hoş geldiniz",
+        "my": "ကြိုဆိုပါတယ်",
+        "zh-Hans": "欢迎"
+      },
+      "asset_keys": {
+        "image": "a11-11-018",
+        "audio_en": "a11-11-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-018.png",
+        "audio_en": "assets/audio/en/a11-11-018.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-11-019",
+      "en": "Good job",
+      "ja": "よくできました",
+      "translations": {
+        "es": "Buen trabajo",
+        "pt": "Bom trabalho",
+        "id": "Bagus",
+        "ko": "잘했어요",
+        "tr": "Aferin",
+        "my": "ကောင်းပါတယ်",
+        "zh-Hans": "做得好"
+      },
+      "asset_keys": {
+        "image": "a11-11-019",
+        "audio_en": "a11-11-019"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-11-019.png",
+        "audio_en": "assets/audio/en/a11-11-019.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
