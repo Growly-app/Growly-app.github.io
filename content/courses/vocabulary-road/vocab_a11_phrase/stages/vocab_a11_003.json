@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_003",
+  "stage_order": 3,
+  "stage_title": "Getting Ready 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-01-010",
+    "a11-01-011",
+    "a11-01-012",
+    "a11-05-017",
+    "a11-05-001",
+    "a11-05-007",
+    "a11-05-011",
+    "a11-05-005"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-01-010",
+      "en": "Comb my hair",
+      "ja": "髪をとかす",
+      "translations": {
+        "es": "Peinarse",
+        "pt": "Pentear o cabelo",
+        "id": "Menyisir rambut",
+        "ko": "머리를 빗다",
+        "tr": "Saçını taramak",
+        "my": "ဆံပင်ဖြီးခြင်း",
+        "zh-Hans": "梳头发"
+      },
+      "asset_keys": {
+        "image": "a11-01-010",
+        "audio_en": "a11-01-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-010.png",
+        "audio_en": "assets/audio/en/a11-01-010.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-011",
+      "en": "Shave",
+      "ja": "ひげを剃る",
+      "translations": {
+        "es": "Afeitarse",
+        "pt": "Fazer a barba",
+        "id": "Bercukur",
+        "ko": "면도하다",
+        "tr": "Tıraş olmak",
+        "my": "မုတ်ဆိတ်ရိတ်ခြင်း",
+        "zh-Hans": "刮胡子"
+      },
+      "asset_keys": {
+        "image": "a11-01-011",
+        "audio_en": "a11-01-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-011.png",
+        "audio_en": "assets/audio/en/a11-01-011.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-012",
+      "en": "Get dressed",
+      "ja": "服を着る",
+      "translations": {
+        "es": "Vestirse",
+        "pt": "Vestir-se",
+        "id": "Berpakaian",
+        "ko": "옷을 입다",
+        "tr": "Giyinmek",
+        "my": "အဝတ်အစား ဝတ်ခြင်း",
+        "zh-Hans": "穿衣服"
+      },
+      "asset_keys": {
+        "image": "a11-01-012",
+        "audio_en": "a11-01-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-012.png",
+        "audio_en": "assets/audio/en/a11-01-012.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-05-017",
+      "en": "Choose clothes",
+      "ja": "服を選ぶ",
+      "translations": {
+        "es": "Elegir ropa",
+        "pt": "Escolher roupas",
+        "id": "Memilih pakaian",
+        "ko": "옷을 고르다",
+        "tr": "Kıyafet seçmek",
+        "my": "အဝတ်အစား ရွေးခြင်း",
+        "zh-Hans": "选择衣服"
+      },
+      "asset_keys": {
+        "image": "a11-05-017",
+        "audio_en": "a11-05-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-017.png",
+        "audio_en": "assets/audio/en/a11-05-017.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-001",
+      "en": "Put on socks",
+      "ja": "靴下を履く",
+      "translations": {
+        "es": "Ponerse calcetines",
+        "pt": "Colocar meias",
+        "id": "Memakai kaus kaki",
+        "ko": "양말을 신다",
+        "tr": "Çorap giymek",
+        "my": "ခြေအိတ်ဝတ်ခြင်း",
+        "zh-Hans": "穿袜子"
+      },
+      "asset_keys": {
+        "image": "a11-05-001",
+        "audio_en": "a11-05-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-001.png",
+        "audio_en": "assets/audio/en/a11-05-001.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-05-007",
+      "en": "Wear a shirt",
+      "ja": "シャツを着る",
+      "translations": {
+        "es": "Ponerse una camisa",
+        "pt": "Usar uma camisa",
+        "id": "Memakai kemeja",
+        "ko": "셔츠를 입다",
+        "tr": "Gömlek giymek",
+        "my": "ရှပ်အင်္ကျီဝတ်ခြင်း",
+        "zh-Hans": "穿衬衫"
+      },
+      "asset_keys": {
+        "image": "a11-05-007",
+        "audio_en": "a11-05-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-007.png",
+        "audio_en": "assets/audio/en/a11-05-007.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-011",
+      "en": "Button shirt",
+      "ja": "シャツのボタンを留める",
+      "translations": {
+        "es": "Abotonarse la camisa",
+        "pt": "Abotoar a camisa",
+        "id": "Mengancingkan kemeja",
+        "ko": "셔츠 단추를 잠그다",
+        "tr": "Gömleğin düğmelerini iliklemek",
+        "my": "ရှပ်အင်္ကျီကြယ်သီးတပ်ခြင်း",
+        "zh-Hans": "扣衬衫扣子"
+      },
+      "asset_keys": {
+        "image": "a11-05-011",
+        "audio_en": "a11-05-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-011.png",
+        "audio_en": "assets/audio/en/a11-05-011.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-05-005",
+      "en": "Wear glasses",
+      "ja": "メガネをかける",
+      "translations": {
+        "es": "Usar lentes",
+        "pt": "Usar óculos",
+        "id": "Memakai kacamata",
+        "ko": "안경을 쓰다",
+        "tr": "Gözlük takmak",
+        "my": "မျက်မှန်တပ်ခြင်း",
+        "zh-Hans": "戴眼镜"
+      },
+      "asset_keys": {
+        "image": "a11-05-005",
+        "audio_en": "a11-05-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-05-005.png",
+        "audio_en": "assets/audio/en/a11-05-005.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
