@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_001",
+  "stage_order": 1,
+  "stage_title": "Morning Routine 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-01-001",
+    "a11-01-002",
+    "a11-01-003",
+    "a11-01-004",
+    "a11-01-005",
+    "a11-01-006",
+    "a11-01-016",
+    "a11-01-017"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-01-001",
+      "en": "Wake up",
+      "ja": "目を覚ます",
+      "translations": {
+        "es": "Despertarse",
+        "pt": "Acordar",
+        "id": "Bangun tidur",
+        "ko": "잠에서 깨다",
+        "tr": "Uyanmak",
+        "my": "အိပ်ရာမှ နိုးခြင်း",
+        "zh-Hans": "醒来"
+      },
+      "asset_keys": {
+        "image": "a11-01-001",
+        "audio_en": "a11-01-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-001.png",
+        "audio_en": "assets/audio/en/a11-01-001.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-002",
+      "en": "Get up",
+      "ja": "起き上がる",
+      "translations": {
+        "es": "Levantarse",
+        "pt": "Levantar-se",
+        "id": "Bangun",
+        "ko": "일어나다",
+        "tr": "Kalkmak",
+        "my": "အိပ်ရာမှ ထခြင်း",
+        "zh-Hans": "起床"
+      },
+      "asset_keys": {
+        "image": "a11-01-002",
+        "audio_en": "a11-01-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-002.png",
+        "audio_en": "assets/audio/en/a11-01-002.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-003",
+      "en": "Stretch",
+      "ja": "伸びをする",
+      "translations": {
+        "es": "Estirarse",
+        "pt": "Espreguiçar-se",
+        "id": "Meregangkan badan",
+        "ko": "기지개를 켜다",
+        "tr": "Gerinmek",
+        "my": "ကိုယ်လက်ဆန့်ခြင်း",
+        "zh-Hans": "伸懒腰"
+      },
+      "asset_keys": {
+        "image": "a11-01-003",
+        "audio_en": "a11-01-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-003.png",
+        "audio_en": "assets/audio/en/a11-01-003.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-004",
+      "en": "Yawn",
+      "ja": "あくびをする",
+      "translations": {
+        "es": "Bostezar",
+        "pt": "Bocejar",
+        "id": "Menguap",
+        "ko": "하품하다",
+        "tr": "Esnemek",
+        "my": "ဟပ်ခြင်း",
+        "zh-Hans": "打哈欠"
+      },
+      "asset_keys": {
+        "image": "a11-01-004",
+        "audio_en": "a11-01-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-004.png",
+        "audio_en": "assets/audio/en/a11-01-004.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-005",
+      "en": "Stop the alarm",
+      "ja": "アラームを止める",
+      "translations": {
+        "es": "Apagar la alarma",
+        "pt": "Desligar o alarme",
+        "id": "Mematikan alarm",
+        "ko": "알람을 끄다",
+        "tr": "Alarmı kapatmak",
+        "my": "နှိုးစက်ကို ပိတ်ခြင်း",
+        "zh-Hans": "关掉闹钟"
+      },
+      "asset_keys": {
+        "image": "a11-01-005",
+        "audio_en": "a11-01-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-005.png",
+        "audio_en": "assets/audio/en/a11-01-005.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-006",
+      "en": "Open the curtains",
+      "ja": "カーテンを開ける",
+      "translations": {
+        "es": "Abrir las cortinas",
+        "pt": "Abrir as cortinas",
+        "id": "Membuka tirai",
+        "ko": "커튼을 열다",
+        "tr": "Perdeleri açmak",
+        "my": "ခန်းဆီးကို ဖွင့်ခြင်း",
+        "zh-Hans": "打开窗帘"
+      },
+      "asset_keys": {
+        "image": "a11-01-006",
+        "audio_en": "a11-01-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-006.png",
+        "audio_en": "assets/audio/en/a11-01-006.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-016",
+      "en": "Check my phone",
+      "ja": "スマホを確認する",
+      "translations": {
+        "es": "Revisar el teléfono",
+        "pt": "Verificar o celular",
+        "id": "Memeriksa ponsel",
+        "ko": "휴대폰을 확인하다",
+        "tr": "Telefonu kontrol etmek",
+        "my": "ဖုန်းကို စစ်ဆေးခြင်း",
+        "zh-Hans": "查看手机"
+      },
+      "asset_keys": {
+        "image": "a11-01-016",
+        "audio_en": "a11-01-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-016.png",
+        "audio_en": "assets/audio/en/a11-01-016.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-01-017",
+      "en": "Check the time",
+      "ja": "時間を確認する",
+      "translations": {
+        "es": "Mirar la hora",
+        "pt": "Ver as horas",
+        "id": "Melihat waktu",
+        "ko": "시간을 확인하다",
+        "tr": "Saate bakmak",
+        "my": "အချိန်ကို ကြည့်ခြင်း",
+        "zh-Hans": "看时间"
+      },
+      "asset_keys": {
+        "image": "a11-01-017",
+        "audio_en": "a11-01-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-017.png",
+        "audio_en": "assets/audio/en/a11-01-017.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    }
+  ]
+}
