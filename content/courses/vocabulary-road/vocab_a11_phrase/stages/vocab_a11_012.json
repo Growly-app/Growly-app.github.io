@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_012",
+  "stage_order": 12,
+  "stage_title": "Bath Time 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-02-011",
+    "a11-03-011",
+    "a11-03-009",
+    "a11-03-010",
+    "a11-03-012",
+    "a11-03-014",
+    "a11-02-012",
+    "a11-02-013"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-02-011",
+      "en": "Take a bath",
+      "ja": "お風呂に入る",
+      "translations": {
+        "es": "Bañarse",
+        "pt": "Tomar banho",
+        "id": "Mandi",
+        "ko": "목욕하다",
+        "tr": "Banyo yapmak",
+        "my": "ရေချိုးခြင်း",
+        "zh-Hans": "洗澡"
+      },
+      "asset_keys": {
+        "image": "a11-02-011",
+        "audio_en": "a11-02-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-011.png",
+        "audio_en": "assets/audio/en/a11-02-011.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-03-011",
+      "en": "Use shampoo",
+      "ja": "シャンプーを使う",
+      "translations": {
+        "es": "Usar champú",
+        "pt": "Usar xampu",
+        "id": "Menggunakan sampo",
+        "ko": "샴푸를 사용하다",
+        "tr": "Şampuan kullanmak",
+        "my": "ရှန်ပူ အသုံးပြုခြင်း",
+        "zh-Hans": "使用洗发水"
+      },
+      "asset_keys": {
+        "image": "a11-03-011",
+        "audio_en": "a11-03-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-011.png",
+        "audio_en": "assets/audio/en/a11-03-011.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-009",
+      "en": "Wash hair",
+      "ja": "髪を洗う",
+      "translations": {
+        "es": "Lavarse el pelo",
+        "pt": "Lavar o cabelo",
+        "id": "Mencuci rambut",
+        "ko": "머리를 감다",
+        "tr": "Saçını yıkamak",
+        "my": "ဆံပင်လျှော်ခြင်း",
+        "zh-Hans": "洗头发"
+      },
+      "asset_keys": {
+        "image": "a11-03-009",
+        "audio_en": "a11-03-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-009.png",
+        "audio_en": "assets/audio/en/a11-03-009.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-010",
+      "en": "Rinse hair",
+      "ja": "髪をすすぐ",
+      "translations": {
+        "es": "Enjuagarse el pelo",
+        "pt": "Enxaguar o cabelo",
+        "id": "Membilas rambut",
+        "ko": "머리를 헹구다",
+        "tr": "Saçını durulamak",
+        "my": "ဆံပင်ကို ရေဆေးခြင်း",
+        "zh-Hans": "冲洗头发"
+      },
+      "asset_keys": {
+        "image": "a11-03-010",
+        "audio_en": "a11-03-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-010.png",
+        "audio_en": "assets/audio/en/a11-03-010.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-012",
+      "en": "Wash body",
+      "ja": "体を洗う",
+      "translations": {
+        "es": "Lavarse el cuerpo",
+        "pt": "Lavar o corpo",
+        "id": "Mencuci tubuh",
+        "ko": "몸을 씻다",
+        "tr": "Vücudunu yıkamak",
+        "my": "ကိုယ်ကို ဆေးခြင်း",
+        "zh-Hans": "洗身体"
+      },
+      "asset_keys": {
+        "image": "a11-03-012",
+        "audio_en": "a11-03-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-012.png",
+        "audio_en": "assets/audio/en/a11-03-012.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-03-014",
+      "en": "Dry body",
+      "ja": "体を拭く",
+      "translations": {
+        "es": "Secarse el cuerpo",
+        "pt": "Secar o corpo",
+        "id": "Mengeringkan tubuh",
+        "ko": "몸을 닦다",
+        "tr": "Vücudunu kurulamak",
+        "my": "ကိုယ်ကို သုတ်ခြင်း",
+        "zh-Hans": "擦干身体"
+      },
+      "asset_keys": {
+        "image": "a11-03-014",
+        "audio_en": "a11-03-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-03-014.png",
+        "audio_en": "assets/audio/en/a11-03-014.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-02-012",
+      "en": "Dry hair",
+      "ja": "髪を乾かす",
+      "translations": {
+        "es": "Secarse el pelo",
+        "pt": "Secar o cabelo",
+        "id": "Mengeringkan rambut",
+        "ko": "머리를 말리다",
+        "tr": "Saçını kurutmak",
+        "my": "ဆံပင်ခြောက်အောင် လုပ်ခြင်း",
+        "zh-Hans": "吹干头发"
+      },
+      "asset_keys": {
+        "image": "a11-02-012",
+        "audio_en": "a11-02-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-012.png",
+        "audio_en": "assets/audio/en/a11-02-012.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-013",
+      "en": "Put on pajamas",
+      "ja": "パジャマを着る",
+      "translations": {
+        "es": "Ponerse el pijama",
+        "pt": "Colocar o pijama",
+        "id": "Memakai piyama",
+        "ko": "잠옷을 입다",
+        "tr": "Pijama giymek",
+        "my": "ညအိပ်ဝတ်စုံ ဝတ်ခြင်း",
+        "zh-Hans": "穿睡衣"
+      },
+      "asset_keys": {
+        "image": "a11-02-013",
+        "audio_en": "a11-02-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-013.png",
+        "audio_en": "assets/audio/en/a11-02-013.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    }
+  ]
+}
