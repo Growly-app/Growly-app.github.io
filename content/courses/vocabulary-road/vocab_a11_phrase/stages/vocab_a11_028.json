@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_028",
+  "stage_order": 28,
+  "stage_title": "Desk Tools 01",
+  "phrase_count": 6,
+  "phrase_ids": [
+    "a11-08-009",
+    "a11-08-010",
+    "a11-08-011",
+    "a11-08-012",
+    "a11-08-018",
+    "a11-08-019"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-08-009",
+      "en": "Turn a key",
+      "ja": "鍵を回す",
+      "translations": {
+        "es": "Girar una llave",
+        "pt": "Girar uma chave",
+        "id": "Memutar kunci",
+        "ko": "열쇠를 돌리다",
+        "tr": "Anahtarı çevirmek",
+        "my": "သော့လှည့်ခြင်း",
+        "zh-Hans": "转钥匙"
+      },
+      "asset_keys": {
+        "image": "a11-08-009",
+        "audio_en": "a11-08-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-009.png",
+        "audio_en": "assets/audio/en/a11-08-009.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-08-010",
+      "en": "Use scissors",
+      "ja": "はさみを使う",
+      "translations": {
+        "es": "Usar tijeras",
+        "pt": "Usar tesouras",
+        "id": "Menggunakan gunting",
+        "ko": "가위를 사용하다",
+        "tr": "Makas kullanmak",
+        "my": "ကတ်ကြေး အသုံးပြုခြင်း",
+        "zh-Hans": "使用剪刀"
+      },
+      "asset_keys": {
+        "image": "a11-08-010",
+        "audio_en": "a11-08-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-010.png",
+        "audio_en": "assets/audio/en/a11-08-010.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-011",
+      "en": "Use a pen",
+      "ja": "ペンを使う",
+      "translations": {
+        "es": "Usar un bolígrafo",
+        "pt": "Usar uma caneta",
+        "id": "Menggunakan pulpen",
+        "ko": "펜을 사용하다",
+        "tr": "Kalem kullanmak",
+        "my": "ဘောပင် အသုံးပြုခြင်း",
+        "zh-Hans": "使用笔"
+      },
+      "asset_keys": {
+        "image": "a11-08-011",
+        "audio_en": "a11-08-011"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-011.png",
+        "audio_en": "assets/audio/en/a11-08-011.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-012",
+      "en": "Use a pencil",
+      "ja": "鉛筆を使う",
+      "translations": {
+        "es": "Usar un lápiz",
+        "pt": "Usar um lápis",
+        "id": "Menggunakan pensil",
+        "ko": "연필을 사용하다",
+        "tr": "Kurşun kalem kullanmak",
+        "my": "ခဲတံ အသုံးပြုခြင်း",
+        "zh-Hans": "使用铅笔"
+      },
+      "asset_keys": {
+        "image": "a11-08-012",
+        "audio_en": "a11-08-012"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-012.png",
+        "audio_en": "assets/audio/en/a11-08-012.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-018",
+      "en": "Open drawer",
+      "ja": "引き出しを開ける",
+      "translations": {
+        "es": "Abrir un cajón",
+        "pt": "Abrir uma gaveta",
+        "id": "Membuka laci",
+        "ko": "서랍을 열다",
+        "tr": "Çekmece açmak",
+        "my": "အံဆွဲဖွင့်ခြင်း",
+        "zh-Hans": "打开抽屉"
+      },
+      "asset_keys": {
+        "image": "a11-08-018",
+        "audio_en": "a11-08-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-018.png",
+        "audio_en": "assets/audio/en/a11-08-018.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-019",
+      "en": "Close drawer",
+      "ja": "引き出しを閉める",
+      "translations": {
+        "es": "Cerrar un cajón",
+        "pt": "Fechar uma gaveta",
+        "id": "Menutup laci",
+        "ko": "서랍을 닫다",
+        "tr": "Çekmece kapatmak",
+        "my": "အံဆွဲပိတ်ခြင်း",
+        "zh-Hans": "关上抽屉"
+      },
+      "asset_keys": {
+        "image": "a11-08-019",
+        "audio_en": "a11-08-019"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-019.png",
+        "audio_en": "assets/audio/en/a11-08-019.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
