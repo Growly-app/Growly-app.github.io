@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_026",
+  "stage_order": 26,
+  "stage_title": "Playing Outside 01",
+  "phrase_count": 6,
+  "phrase_ids": [
+    "a11-07-005",
+    "a11-07-006",
+    "a11-08-015",
+    "a11-08-016",
+    "a11-08-017",
+    "a11-09-010"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-07-005",
+      "en": "Jump",
+      "ja": "跳ぶ",
+      "translations": {
+        "es": "Saltar",
+        "pt": "Pular",
+        "id": "Melompat",
+        "ko": "뛰다",
+        "tr": "Zıplamak",
+        "my": "ခုန်ခြင်း",
+        "zh-Hans": "跳"
+      },
+      "asset_keys": {
+        "image": "a11-07-005",
+        "audio_en": "a11-07-005"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-005.png",
+        "audio_en": "assets/audio/en/a11-07-005.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-006",
+      "en": "Dance",
+      "ja": "踊る",
+      "translations": {
+        "es": "Bailar",
+        "pt": "Dançar",
+        "id": "Menari",
+        "ko": "춤추다",
+        "tr": "Dans etmek",
+        "my": "ကခြင်း",
+        "zh-Hans": "跳舞"
+      },
+      "asset_keys": {
+        "image": "a11-07-006",
+        "audio_en": "a11-07-006"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-006.png",
+        "audio_en": "assets/audio/en/a11-07-006.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-015",
+      "en": "Throw a ball",
+      "ja": "ボールを投げる",
+      "translations": {
+        "es": "Lanzar una pelota",
+        "pt": "Jogar uma bola",
+        "id": "Melempar bola",
+        "ko": "공을 던지다",
+        "tr": "Top atmak",
+        "my": "ဘောလုံးပစ်ခြင်း",
+        "zh-Hans": "扔球"
+      },
+      "asset_keys": {
+        "image": "a11-08-015",
+        "audio_en": "a11-08-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-015.png",
+        "audio_en": "assets/audio/en/a11-08-015.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-016",
+      "en": "Catch a ball",
+      "ja": "ボールを捕る",
+      "translations": {
+        "es": "Atrapar una pelota",
+        "pt": "Pegar uma bola",
+        "id": "Menangkap bola",
+        "ko": "공을 잡다",
+        "tr": "Top yakalamak",
+        "my": "ဘောလုံးဖမ်းခြင်း",
+        "zh-Hans": "接球"
+      },
+      "asset_keys": {
+        "image": "a11-08-016",
+        "audio_en": "a11-08-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-016.png",
+        "audio_en": "assets/audio/en/a11-08-016.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-017",
+      "en": "Kick a ball",
+      "ja": "ボールを蹴る",
+      "translations": {
+        "es": "Patear una pelota",
+        "pt": "Chutar uma bola",
+        "id": "Menendang bola",
+        "ko": "공을 차다",
+        "tr": "Topa vurmak",
+        "my": "ဘောလုံးကန်ခြင်း",
+        "zh-Hans": "踢球"
+      },
+      "asset_keys": {
+        "image": "a11-08-017",
+        "audio_en": "a11-08-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-017.png",
+        "audio_en": "assets/audio/en/a11-08-017.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-010",
+      "en": "I'm excited",
+      "ja": "ワクワクしている",
+      "translations": {
+        "es": "Estoy emocionado",
+        "pt": "Estou animado",
+        "id": "Saya bersemangat",
+        "ko": "신나다",
+        "tr": "Heyecanlıyım",
+        "my": "စိတ်လှုပ်ရှားနေသည်",
+        "zh-Hans": "我很兴奋"
+      },
+      "asset_keys": {
+        "image": "a11-09-010",
+        "audio_en": "a11-09-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-010.png",
+        "audio_en": "assets/audio/en/a11-09-010.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
