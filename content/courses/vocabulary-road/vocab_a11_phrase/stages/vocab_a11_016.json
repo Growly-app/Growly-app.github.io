@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_016",
+  "stage_order": 16,
+  "stage_title": "Study Session 03",
+  "phrase_count": 6,
+  "phrase_ids": [
+    "a11-10-013",
+    "a11-10-014",
+    "a11-10-015",
+    "a11-10-016",
+    "a11-10-017",
+    "a11-10-018"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-10-013",
+      "en": "Circle a word",
+      "ja": "単語に丸をつける",
+      "translations": {
+        "es": "Encerrar una palabra en un círculo",
+        "pt": "Circular uma palavra",
+        "id": "Melingkari sebuah kata",
+        "ko": "단어에 동그라미를 치다",
+        "tr": "Bir kelimeyi daire içine almak",
+        "my": "စကားလုံးတစ်လုံးကို စက်ဝိုင်းဝိုင်းခြင်း",
+        "zh-Hans": "圈出一个单词"
+      },
+      "asset_keys": {
+        "image": "a11-10-013",
+        "audio_en": "a11-10-013"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-013.png",
+        "audio_en": "assets/audio/en/a11-10-013.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-014",
+      "en": "Underline a word",
+      "ja": "単語に下線を引く",
+      "translations": {
+        "es": "Subrayar una palabra",
+        "pt": "Sublinhar uma palavra",
+        "id": "Menggarisbawahi sebuah kata",
+        "ko": "단어에 밑줄을 긋다",
+        "tr": "Bir kelimenin altını çizmek",
+        "my": "စကားလုံးတစ်လုံးကို မျဉ်းသားခြင်း",
+        "zh-Hans": "给一个单词画下划线"
+      },
+      "asset_keys": {
+        "image": "a11-10-014",
+        "audio_en": "a11-10-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-014.png",
+        "audio_en": "assets/audio/en/a11-10-014.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-015",
+      "en": "Erase a word",
+      "ja": "単語を消す",
+      "translations": {
+        "es": "Borrar una palabra",
+        "pt": "Apagar uma palavra",
+        "id": "Menghapus sebuah kata",
+        "ko": "단어를 지우다",
+        "tr": "Bir kelimeyi silmek",
+        "my": "စကားလုံးတစ်လုံးကို ဖျက်ခြင်း",
+        "zh-Hans": "擦掉一个单词"
+      },
+      "asset_keys": {
+        "image": "a11-10-015",
+        "audio_en": "a11-10-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-015.png",
+        "audio_en": "assets/audio/en/a11-10-015.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-016",
+      "en": "Repeat a word",
+      "ja": "単語を繰り返す",
+      "translations": {
+        "es": "Repetir una palabra",
+        "pt": "Repetir uma palavra",
+        "id": "Mengulangi sebuah kata",
+        "ko": "단어를 반복하다",
+        "tr": "Bir kelimeyi tekrarlamak",
+        "my": "စကားလုံးတစ်လုံးကို ထပ်ခါထပ်ခါ ပြောခြင်း",
+        "zh-Hans": "重复一个单词"
+      },
+      "asset_keys": {
+        "image": "a11-10-016",
+        "audio_en": "a11-10-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-016.png",
+        "audio_en": "assets/audio/en/a11-10-016.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-017",
+      "en": "Practice English",
+      "ja": "英語を練習する",
+      "translations": {
+        "es": "Practicar inglés",
+        "pt": "Praticar inglês",
+        "id": "Berlatih bahasa Inggris",
+        "ko": "영어를 연습하다",
+        "tr": "İngilizce pratik yapmak",
+        "my": "အင်္ဂလိပ်စာ လေ့ကျင့်ခြင်း",
+        "zh-Hans": "练习英语"
+      },
+      "asset_keys": {
+        "image": "a11-10-017",
+        "audio_en": "a11-10-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-017.png",
+        "audio_en": "assets/audio/en/a11-10-017.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-10-018",
+      "en": "Review words",
+      "ja": "単語を復習する",
+      "translations": {
+        "es": "Repasar palabras",
+        "pt": "Revisar palavras",
+        "id": "Mengulang kosakata",
+        "ko": "단어를 복습하다",
+        "tr": "Kelimeleri tekrar etmek",
+        "my": "စကားလုံးများ ပြန်လေ့ကျင့်ခြင်း",
+        "zh-Hans": "复习单词"
+      },
+      "asset_keys": {
+        "image": "a11-10-018",
+        "audio_en": "a11-10-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-10-018.png",
+        "audio_en": "assets/audio/en/a11-10-018.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
