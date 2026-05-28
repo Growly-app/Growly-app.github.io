@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_023",
+  "stage_order": 23,
+  "stage_title": "Pet Care 01",
+  "phrase_count": 7,
+  "phrase_ids": [
+    "a11-06-018",
+    "a11-06-019",
+    "a11-07-008",
+    "a11-07-009",
+    "a11-08-001",
+    "a11-08-002",
+    "a11-09-020"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-06-018",
+      "en": "Water plants",
+      "ja": "植物に水をやる",
+      "translations": {
+        "es": "Regar las plantas",
+        "pt": "Regar as plantas",
+        "id": "Menyiram tanaman",
+        "ko": "식물에 물을 주다",
+        "tr": "Bitkileri sulamak",
+        "my": "အပင်ကို ရေလောင်းခြင်း",
+        "zh-Hans": "给植物浇水"
+      },
+      "asset_keys": {
+        "image": "a11-06-018",
+        "audio_en": "a11-06-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-018.png",
+        "audio_en": "assets/audio/en/a11-06-018.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-019",
+      "en": "Feed dog",
+      "ja": "犬に餌をやる",
+      "translations": {
+        "es": "Darle comida al perro",
+        "pt": "Dar comida ao cachorro",
+        "id": "Memberi makan anjing",
+        "ko": "개에게 밥을 주다",
+        "tr": "Köpeği beslemek",
+        "my": "ခွေးကို အစာကျွေးခြင်း",
+        "zh-Hans": "喂狗"
+      },
+      "asset_keys": {
+        "image": "a11-06-019",
+        "audio_en": "a11-06-019"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-019.png",
+        "audio_en": "assets/audio/en/a11-06-019.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-07-008",
+      "en": "Bend down",
+      "ja": "かがむ",
+      "translations": {
+        "es": "Agacharse",
+        "pt": "Abaixar-se",
+        "id": "Membungkuk",
+        "ko": "몸을 숙이다",
+        "tr": "Eğilmek",
+        "my": "ကိုယ်ကို ငုံ့ခြင်း",
+        "zh-Hans": "弯腰"
+      },
+      "asset_keys": {
+        "image": "a11-07-008",
+        "audio_en": "a11-07-008"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-008.png",
+        "audio_en": "assets/audio/en/a11-07-008.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-07-009",
+      "en": "Crouch down",
+      "ja": "しゃがむ",
+      "translations": {
+        "es": "Ponerse en cuclillas",
+        "pt": "Agachar-se",
+        "id": "Berjongkok",
+        "ko": "쪼그려 앉다",
+        "tr": "Çömelmek",
+        "my": "ဆောင့်ကြောင့်ထိုင်ခြင်း",
+        "zh-Hans": "蹲下"
+      },
+      "asset_keys": {
+        "image": "a11-07-009",
+        "audio_en": "a11-07-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-07-009.png",
+        "audio_en": "assets/audio/en/a11-07-009.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-08-001",
+      "en": "Pick up",
+      "ja": "拾う",
+      "translations": {
+        "es": "Recoger",
+        "pt": "Pegar",
+        "id": "Memungut",
+        "ko": "줍다",
+        "tr": "Yerden almak",
+        "my": "ကောက်ယူခြင်း",
+        "zh-Hans": "捡起来"
+      },
+      "asset_keys": {
+        "image": "a11-08-001",
+        "audio_en": "a11-08-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-001.png",
+        "audio_en": "assets/audio/en/a11-08-001.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-08-002",
+      "en": "Put down",
+      "ja": "置く",
+      "translations": {
+        "es": "Dejar",
+        "pt": "Colocar no chão",
+        "id": "Meletakkan",
+        "ko": "내려놓다",
+        "tr": "Yere koymak",
+        "my": "ချထားခြင်း",
+        "zh-Hans": "放下"
+      },
+      "asset_keys": {
+        "image": "a11-08-002",
+        "audio_en": "a11-08-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-08-002.png",
+        "audio_en": "assets/audio/en/a11-08-002.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-020",
+      "en": "I'm ready",
+      "ja": "準備ができている",
+      "translations": {
+        "es": "Estoy listo",
+        "pt": "Estou pronto",
+        "id": "Saya siap",
+        "ko": "준비가 되다",
+        "tr": "Hazırım",
+        "my": "အဆင်သင့်ဖြစ်နေသည်",
+        "zh-Hans": "我准备好了"
+      },
+      "asset_keys": {
+        "image": "a11-09-020",
+        "audio_en": "a11-09-020"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-020.png",
+        "audio_en": "assets/audio/en/a11-09-020.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    }
+  ]
+}
