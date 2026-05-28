@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_013",
+  "stage_order": 13,
+  "stage_title": "Bedtime Routine 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-02-014",
+    "a11-02-015",
+    "a11-02-016",
+    "a11-02-017",
+    "a11-02-018",
+    "a11-02-019",
+    "a11-02-020",
+    "a11-02-021"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-02-014",
+      "en": "Set the alarm",
+      "ja": "アラームをセットする",
+      "translations": {
+        "es": "Poner la alarma",
+        "pt": "Configurar o alarme",
+        "id": "Mengatur alarm",
+        "ko": "알람을 맞추다",
+        "tr": "Alarm kurmak",
+        "my": "နှိုးစက် သတ်မှတ်ခြင်း",
+        "zh-Hans": "设置闹钟"
+      },
+      "asset_keys": {
+        "image": "a11-02-014",
+        "audio_en": "a11-02-014"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-014.png",
+        "audio_en": "assets/audio/en/a11-02-014.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-015",
+      "en": "Charge phone",
+      "ja": "スマホを充電する",
+      "translations": {
+        "es": "Cargar el teléfono",
+        "pt": "Carregar o celular",
+        "id": "Mengisi daya ponsel",
+        "ko": "휴대폰을 충전하다",
+        "tr": "Telefonu şarj etmek",
+        "my": "ဖုန်းအားသွင်းခြင်း",
+        "zh-Hans": "给手机充电"
+      },
+      "asset_keys": {
+        "image": "a11-02-015",
+        "audio_en": "a11-02-015"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-015.png",
+        "audio_en": "assets/audio/en/a11-02-015.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-016",
+      "en": "Close curtains",
+      "ja": "カーテンを閉める",
+      "translations": {
+        "es": "Cerrar las cortinas",
+        "pt": "Fechar as cortinas",
+        "id": "Menutup tirai",
+        "ko": "커튼을 닫다",
+        "tr": "Perdeleri kapatmak",
+        "my": "ခန်းဆီးကို ပိတ်ခြင်း",
+        "zh-Hans": "关上窗帘"
+      },
+      "asset_keys": {
+        "image": "a11-02-016",
+        "audio_en": "a11-02-016"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-016.png",
+        "audio_en": "assets/audio/en/a11-02-016.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-017",
+      "en": "Turn off lights",
+      "ja": "電気を消す",
+      "translations": {
+        "es": "Apagar las luces",
+        "pt": "Apagar as luzes",
+        "id": "Mematikan lampu",
+        "ko": "불을 끄다",
+        "tr": "Işıkları kapatmak",
+        "my": "မီးပိတ်ခြင်း",
+        "zh-Hans": "关灯"
+      },
+      "asset_keys": {
+        "image": "a11-02-017",
+        "audio_en": "a11-02-017"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-017.png",
+        "audio_en": "assets/audio/en/a11-02-017.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-018",
+      "en": "Lie down",
+      "ja": "横になる",
+      "translations": {
+        "es": "Acostarse",
+        "pt": "Deitar-se",
+        "id": "Berbaring",
+        "ko": "눕다",
+        "tr": "Uzanmak",
+        "my": "လှဲအိပ်ခြင်း",
+        "zh-Hans": "躺下"
+      },
+      "asset_keys": {
+        "image": "a11-02-018",
+        "audio_en": "a11-02-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-018.png",
+        "audio_en": "assets/audio/en/a11-02-018.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-019",
+      "en": "Close eyes",
+      "ja": "目を閉じる",
+      "translations": {
+        "es": "Cerrar los ojos",
+        "pt": "Fechar os olhos",
+        "id": "Menutup mata",
+        "ko": "눈을 감다",
+        "tr": "Gözlerini kapatmak",
+        "my": "မျက်စိမှိတ်ခြင်း",
+        "zh-Hans": "闭上眼睛"
+      },
+      "asset_keys": {
+        "image": "a11-02-019",
+        "audio_en": "a11-02-019"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-019.png",
+        "audio_en": "assets/audio/en/a11-02-019.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-02-020",
+      "en": "Go to bed",
+      "ja": "寝る",
+      "translations": {
+        "es": "Irse a la cama",
+        "pt": "Ir para a cama",
+        "id": "Pergi tidur",
+        "ko": "자러 가다",
+        "tr": "Yatağa gitmek",
+        "my": "အိပ်ရာဝင်ခြင်း",
+        "zh-Hans": "上床睡觉"
+      },
+      "asset_keys": {
+        "image": "a11-02-020",
+        "audio_en": "a11-02-020"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-020.png",
+        "audio_en": "assets/audio/en/a11-02-020.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-02-021",
+      "en": "Sleep",
+      "ja": "眠る",
+      "translations": {
+        "es": "Dormir",
+        "pt": "Dormir",
+        "id": "Tidur",
+        "ko": "자다",
+        "tr": "Uyumak",
+        "my": "အိပ်ခြင်း",
+        "zh-Hans": "睡觉"
+      },
+      "asset_keys": {
+        "image": "a11-02-021",
+        "audio_en": "a11-02-021"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-02-021.png",
+        "audio_en": "assets/audio/en/a11-02-021.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    }
+  ]
+}
