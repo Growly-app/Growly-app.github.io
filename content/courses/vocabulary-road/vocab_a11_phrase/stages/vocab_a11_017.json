@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "course_id": "vocab_a11_phrase",
+  "stage_id": "vocab_a11_017",
+  "stage_order": 17,
+  "stage_title": "Cleaning Day 01",
+  "phrase_count": 8,
+  "phrase_ids": [
+    "a11-01-007",
+    "a11-06-001",
+    "a11-06-002",
+    "a11-06-003",
+    "a11-06-004",
+    "a11-06-009",
+    "a11-06-010",
+    "a11-09-018"
+  ],
+  "phrases": [
+    {
+      "phrase_id": "a11-01-007",
+      "en": "Make the bed",
+      "ja": "ベッドを整える",
+      "translations": {
+        "es": "Hacer la cama",
+        "pt": "Arrumar a cama",
+        "id": "Merapikan tempat tidur",
+        "ko": "침대를 정리하다",
+        "tr": "Yatağı toplamak",
+        "my": "အိပ်ရာကို သန့်ရှင်းစွာ ပြင်ခြင်း",
+        "zh-Hans": "整理床铺"
+      },
+      "asset_keys": {
+        "image": "a11-01-007",
+        "audio_en": "a11-01-007"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-01-007.png",
+        "audio_en": "assets/audio/en/a11-01-007.mp3"
+      },
+      "has_image": true,
+      "has_audio_en": true
+    },
+    {
+      "phrase_id": "a11-06-001",
+      "en": "Clean room",
+      "ja": "部屋を掃除する",
+      "translations": {
+        "es": "Limpiar la habitación",
+        "pt": "Limpar o quarto",
+        "id": "Membersihkan kamar",
+        "ko": "방을 청소하다",
+        "tr": "Odayı temizlemek",
+        "my": "အခန်းသန့်ရှင်းခြင်း",
+        "zh-Hans": "打扫房间"
+      },
+      "asset_keys": {
+        "image": "a11-06-001",
+        "audio_en": "a11-06-001"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-001.png",
+        "audio_en": "assets/audio/en/a11-06-001.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-002",
+      "en": "Sweep floor",
+      "ja": "床を掃く",
+      "translations": {
+        "es": "Barrer el suelo",
+        "pt": "Varrer o chão",
+        "id": "Menyapu lantai",
+        "ko": "바닥을 쓸다",
+        "tr": "Yeri süpürmek",
+        "my": "ကြမ်းပြင် တံမြက်စည်းလှည်းခြင်း",
+        "zh-Hans": "扫地"
+      },
+      "asset_keys": {
+        "image": "a11-06-002",
+        "audio_en": "a11-06-002"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-002.png",
+        "audio_en": "assets/audio/en/a11-06-002.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-003",
+      "en": "Mop floor",
+      "ja": "床をモップで拭く",
+      "translations": {
+        "es": "Trapear el piso",
+        "pt": "Passar pano no chão",
+        "id": "Mengepel lantai",
+        "ko": "바닥을 닦다",
+        "tr": "Yeri silmek",
+        "my": "ကြမ်းပြင်ကို မော့ပ်ဖြင့် သုတ်ခြင်း",
+        "zh-Hans": "拖地"
+      },
+      "asset_keys": {
+        "image": "a11-06-003",
+        "audio_en": "a11-06-003"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-003.png",
+        "audio_en": "assets/audio/en/a11-06-003.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-004",
+      "en": "Vacuum floor",
+      "ja": "床に掃除機をかける",
+      "translations": {
+        "es": "Aspirar el piso",
+        "pt": "Aspirar o chão",
+        "id": "Menyedot debu lantai",
+        "ko": "바닥을 청소기로 청소하다",
+        "tr": "Yeri elektrikli süpürgeyle süpürmek",
+        "my": "ကြမ်းပြင်ကို ဖုန်စုပ်ခြင်း",
+        "zh-Hans": "吸地"
+      },
+      "asset_keys": {
+        "image": "a11-06-004",
+        "audio_en": "a11-06-004"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-004.png",
+        "audio_en": "assets/audio/en/a11-06-004.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-009",
+      "en": "Take out trash",
+      "ja": "ゴミを出す",
+      "translations": {
+        "es": "Sacar la basura",
+        "pt": "Levar o lixo para fora",
+        "id": "Membawa sampah keluar",
+        "ko": "쓰레기를 내다",
+        "tr": "Çöpü dışarı çıkarmak",
+        "my": "အမှိုက်ကို အပြင်ထုတ်ခြင်း",
+        "zh-Hans": "把垃圾拿出去"
+      },
+      "asset_keys": {
+        "image": "a11-06-009",
+        "audio_en": "a11-06-009"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-009.png",
+        "audio_en": "assets/audio/en/a11-06-009.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-06-010",
+      "en": "Throw away trash",
+      "ja": "ゴミを捨てる",
+      "translations": {
+        "es": "Tirar la basura",
+        "pt": "Jogar o lixo fora",
+        "id": "Membuang sampah",
+        "ko": "쓰레기를 버리다",
+        "tr": "Çöpü atmak",
+        "my": "အမှိုက်ပစ်ခြင်း",
+        "zh-Hans": "扔垃圾"
+      },
+      "asset_keys": {
+        "image": "a11-06-010",
+        "audio_en": "a11-06-010"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-06-010.png",
+        "audio_en": "assets/audio/en/a11-06-010.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    },
+    {
+      "phrase_id": "a11-09-018",
+      "en": "I'm dirty",
+      "ja": "汚れている",
+      "translations": {
+        "es": "Estoy sucio",
+        "pt": "Estou sujo",
+        "id": "Saya kotor",
+        "ko": "더럽다",
+        "tr": "Kirliyim",
+        "my": "ညစ်ပတ်နေသည်",
+        "zh-Hans": "我脏了"
+      },
+      "asset_keys": {
+        "image": "a11-09-018",
+        "audio_en": "a11-09-018"
+      },
+      "asset_relative_paths": {
+        "image": "assets/images/a11-09-018.png",
+        "audio_en": "assets/audio/en/a11-09-018.mp3"
+      },
+      "has_image": false,
+      "has_audio_en": false
+    }
+  ]
+}
