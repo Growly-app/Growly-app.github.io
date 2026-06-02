@@ -86,7 +86,7 @@
         "audio_en": "assets/audio/en/a11-05-016.mp3"
       },
       "has_image": false,
-      "has_audio_en": false
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-02-003",
