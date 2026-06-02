@@ -37,8 +37,8 @@
         "image": "assets/images/a11-05-008.png",
         "audio_en": "assets/audio/en/a11-05-008.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-05-009",
@@ -61,8 +61,8 @@
         "image": "assets/images/a11-05-009.png",
         "audio_en": "assets/audio/en/a11-05-009.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-05-010",
@@ -85,8 +85,8 @@
         "image": "assets/images/a11-05-010.png",
         "audio_en": "assets/audio/en/a11-05-010.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-05-003",
@@ -109,8 +109,8 @@
         "image": "assets/images/a11-05-003.png",
         "audio_en": "assets/audio/en/a11-05-003.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-05-004",
@@ -133,8 +133,8 @@
         "image": "assets/images/a11-05-004.png",
         "audio_en": "assets/audio/en/a11-05-004.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-08-013",
@@ -158,7 +158,7 @@
         "audio_en": "assets/audio/en/a11-08-013.mp3"
       },
       "has_image": false,
-      "has_audio_en": false
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-08-014",
@@ -182,7 +182,7 @@
         "audio_en": "assets/audio/en/a11-08-014.mp3"
       },
       "has_image": false,
-      "has_audio_en": false
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-09-012",
@@ -205,8 +205,8 @@
         "image": "assets/images/a11-09-012.png",
         "audio_en": "assets/audio/en/a11-09-012.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     }
   ]
 }
