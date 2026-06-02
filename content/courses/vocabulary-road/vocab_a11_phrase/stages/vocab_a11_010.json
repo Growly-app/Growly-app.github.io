@@ -38,7 +38,7 @@
         "audio_en": "assets/audio/en/a11-06-015.mp3"
       },
       "has_image": false,
-      "has_audio_en": false
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-02-008",
@@ -134,7 +134,7 @@
         "audio_en": "assets/audio/en/a11-06-020.mp3"
       },
       "has_image": false,
-      "has_audio_en": false
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-06-016",
@@ -158,7 +158,7 @@
         "audio_en": "assets/audio/en/a11-06-016.mp3"
       },
       "has_image": false,
-      "has_audio_en": false
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-09-011",
@@ -182,7 +182,7 @@
         "audio_en": "assets/audio/en/a11-09-011.mp3"
       },
       "has_image": false,
-      "has_audio_en": false
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-09-001",
