@@ -37,8 +37,8 @@
         "image": "assets/images/a11-05-018.png",
         "audio_en": "assets/audio/en/a11-05-018.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-05-019",
@@ -62,7 +62,7 @@
         "audio_en": "assets/audio/en/a11-05-019.mp3"
       },
       "has_image": false,
-      "has_audio_en": false
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-05-020",
@@ -86,7 +86,7 @@
         "audio_en": "assets/audio/en/a11-05-020.mp3"
       },
       "has_image": false,
-      "has_audio_en": false
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-05-012",
@@ -109,8 +109,8 @@
         "image": "assets/images/a11-05-012.png",
         "audio_en": "assets/audio/en/a11-05-012.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-05-013",
@@ -133,8 +133,8 @@
         "image": "assets/images/a11-05-013.png",
         "audio_en": "assets/audio/en/a11-05-013.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-05-014",
@@ -157,8 +157,8 @@
         "image": "assets/images/a11-05-014.png",
         "audio_en": "assets/audio/en/a11-05-014.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     },
     {
       "phrase_id": "a11-05-002",
@@ -205,8 +205,8 @@
         "image": "assets/images/a11-05-006.png",
         "audio_en": "assets/audio/en/a11-05-006.mp3"
       },
-      "has_image": false,
-      "has_audio_en": false
+      "has_image": true,
+      "has_audio_en": true
     }
   ]
 }
