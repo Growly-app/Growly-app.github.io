@@ -85,7 +85,7 @@
         "image": "assets/images/a11-05-016.png",
         "audio_en": "assets/audio/en/a11-05-016.mp3"
       },
-      "has_image": false,
+      "has_image": true,
       "has_audio_en": true
     },
     {
