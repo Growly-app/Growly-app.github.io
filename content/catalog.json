@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-02T06:40:25.366791Z",
+  "updated_at": "2026-06-13T08:13:36.873559Z",
   "notes": "このファイルは配信ルート直下に置く。text / audio / courses の相対パスはすべてこの catalog があるフォルダを基準にする。",
   "text_bundles": [
     {
