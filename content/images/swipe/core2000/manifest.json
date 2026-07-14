@@ -2,9 +2,129 @@
   "schema_version": 2,
   "material_id": "core2000",
   "content_version": 1,
-  "item_count": 1,
-  "updated_at": "2026-07-14T11:22:46.764824Z",
+  "item_count": 11,
+  "updated_at": "2026-07-14T11:35:47.079674Z",
   "items": [
+    {
+      "ordinal": 2,
+      "stage": 1,
+      "word": "create",
+      "image": {
+        "path": "2.png",
+        "sha256": "79fcd3e1e5d1d3ef0511236fd38eebb287f56268cce95cae06226f8b6c091734",
+        "bytes": 1810454,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 8,
+      "stage": 1,
+      "word": "decide",
+      "image": {
+        "path": "8.png",
+        "sha256": "0fd19c2664fd3f3b83483a197dc180e97ebdd8c9ca5c3985d844fba208834c3c",
+        "bytes": 2339491,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 9,
+      "stage": 1,
+      "word": "share",
+      "image": {
+        "path": "9.png",
+        "sha256": "edc8a36ab487b101978dd5fb7aa08d53c343cab7a927ce6e2ef03ba506009130",
+        "bytes": 1602881,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 14,
+      "stage": 1,
+      "word": "hate",
+      "image": {
+        "path": "14.png",
+        "sha256": "087c3fa833cc196bdb2cc92383cfca4a7361a35316212831448b170d32dada77",
+        "bytes": 1640656,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 24,
+      "stage": 1,
+      "word": "discover",
+      "image": {
+        "path": "24.png",
+        "sha256": "90548d6ef32aafebc1de2c82e24a8bcf09c6ec93d25ef3b6f010a65944b743d4",
+        "bytes": 2287972,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 25,
+      "stage": 1,
+      "word": "introduce",
+      "image": {
+        "path": "25.png",
+        "sha256": "fc5665e1e3dce23467f0a83c97372758f26d62e6d37477081980af775e499ec5",
+        "bytes": 1450924,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 26,
+      "stage": 1,
+      "word": "provide",
+      "image": {
+        "path": "26.png",
+        "sha256": "b4605aa4baef99ae0044f91746c514f8db12c7dbd62f6743d50d8ccdbc0d4d49",
+        "bytes": 1561092,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 27,
+      "stage": 1,
+      "word": "support",
+      "image": {
+        "path": "27.png",
+        "sha256": "887dfa9812c6e8595f17f8f795255aa923b418a3a8fe03a63327672cdc24ae0d",
+        "bytes": 1528089,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 28,
+      "stage": 1,
+      "word": "consider",
+      "image": {
+        "path": "28.png",
+        "sha256": "6605824323932843d59f4c94e72819e9d90b5e0306109ed0a5db92aa4d22b6b0",
+        "bytes": 1641640,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 29,
+      "stage": 1,
+      "word": "allow",
+      "image": {
+        "path": "29.png",
+        "sha256": "470c30ebf16ddeb64754ae109c1b595080a02be3c2a27f0623a7c6a5ef2d4a9a",
+        "bytes": 1990458,
+        "width": 941,
+        "height": 1672
+      }
+    },
     {
       "ordinal": 30,
       "stage": 1,
