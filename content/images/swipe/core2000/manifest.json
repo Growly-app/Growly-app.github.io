@@ -2,7 +2,20 @@
   "schema_version": 2,
   "material_id": "core2000",
   "content_version": 1,
-  "item_count": 0,
-  "updated_at": "2026-07-14T11:19:44.948275Z",
-  "items": []
+  "item_count": 1,
+  "updated_at": "2026-07-14T11:22:46.764824Z",
+  "items": [
+    {
+      "ordinal": 30,
+      "stage": 1,
+      "word": "produce",
+      "image": {
+        "path": "30.png",
+        "sha256": "b7ee0bc10a8d9a3bfefed5e263ea67eaa1a04a20fd00a1a33018f1ad5decc22b",
+        "bytes": 1953497,
+        "width": 941,
+        "height": 1672
+      }
+    }
+  ]
 }
