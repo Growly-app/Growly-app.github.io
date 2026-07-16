@@ -2,9 +2,21 @@
   "schema_version": 2,
   "material_id": "core2000",
   "content_version": 1,
-  "item_count": 11,
-  "updated_at": "2026-07-14T11:35:47.079674Z",
+  "item_count": 100,
+  "updated_at": "2026-07-16T15:36:09.481788Z",
   "items": [
+    {
+      "ordinal": 1,
+      "stage": 1,
+      "word": "difference",
+      "image": {
+        "path": "1.png",
+        "sha256": "ffca828af70b8c06f5024770005c2c48fa28ed3abcecaa455dbb3941f47e3c74",
+        "bytes": 1537197,
+        "width": 941,
+        "height": 1672
+      }
+    },
     {
       "ordinal": 2,
       "stage": 1,
@@ -13,6 +25,66 @@
         "path": "2.png",
         "sha256": "79fcd3e1e5d1d3ef0511236fd38eebb287f56268cce95cae06226f8b6c091734",
         "bytes": 1810454,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 3,
+      "stage": 1,
+      "word": "increase",
+      "image": {
+        "path": "3.png",
+        "sha256": "1075ca08b741b68a37f7100f9e22d12619a8506ff04dbf1143cd669308b87bb7",
+        "bytes": 1427466,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 4,
+      "stage": 1,
+      "word": "improve",
+      "image": {
+        "path": "4.png",
+        "sha256": "6a177cb19ce0bcccf346fc7f89af26fcb770fed4e602666f8bdfb460ac04269a",
+        "bytes": 1131715,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 5,
+      "stage": 1,
+      "word": "mean",
+      "image": {
+        "path": "5.png",
+        "sha256": "8c2eb00fb0b7bb476d398891ba85534b2160048b245c811f40a37ccd2ed63efe",
+        "bytes": 1456547,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 6,
+      "stage": 1,
+      "word": "own",
+      "image": {
+        "path": "6.png",
+        "sha256": "c46652c07d062be1aa52f693b530b2dc3548ab1b3e86c0abe499b45fdb706edd",
+        "bytes": 1514155,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 7,
+      "stage": 1,
+      "word": "include",
+      "image": {
+        "path": "7.png",
+        "sha256": "67e7a5ad414688a06402f5af4799c00370d63b50d46fe02d69b55331ed6f5ead",
+        "bytes": 1507480,
         "width": 941,
         "height": 1672
       }
@@ -42,6 +114,54 @@
       }
     },
     {
+      "ordinal": 10,
+      "stage": 1,
+      "word": "idea",
+      "image": {
+        "path": "10.png",
+        "sha256": "f8ef9e868afaa48d54d13d071259dc84da54aec9cb9d2ddd3ee533ecd14c8637",
+        "bytes": 1641767,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 11,
+      "stage": 1,
+      "word": "company",
+      "image": {
+        "path": "11.png",
+        "sha256": "d875444749f3a215b74f863fc01c09060da313f71b62dce138a2a0dfceadc12e",
+        "bytes": 1309912,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 12,
+      "stage": 1,
+      "word": "reason",
+      "image": {
+        "path": "12.png",
+        "sha256": "ea2cfe9df099d219c69386c8727a1d6ccd3a9e86524274dfc00a6f0a10061c30",
+        "bytes": 978300,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 13,
+      "stage": 1,
+      "word": "repeat",
+      "image": {
+        "path": "13.png",
+        "sha256": "f5f2228669b29ba909102cca166144bd241e23469b13d5a6652c7af4dbd01d18",
+        "bytes": 1468308,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
       "ordinal": 14,
       "stage": 1,
       "word": "hate",
@@ -49,6 +169,114 @@
         "path": "14.png",
         "sha256": "087c3fa833cc196bdb2cc92383cfca4a7361a35316212831448b170d32dada77",
         "bytes": 1640656,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 15,
+      "stage": 1,
+      "word": "although",
+      "image": {
+        "path": "15.png",
+        "sha256": "ec85bc46632ad1f310c987b3dd4f865b2d9aea256fef09a31ec204d432db2ffc",
+        "bytes": 1993593,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 16,
+      "stage": 1,
+      "word": "normal",
+      "image": {
+        "path": "16.png",
+        "sha256": "f6600fcddb92411520903840f6c968d197f6029287541083cfbefe9b9e1d74f0",
+        "bytes": 1463157,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 17,
+      "stage": 1,
+      "word": "amount",
+      "image": {
+        "path": "17.png",
+        "sha256": "ab57944cb04a412c11f281383a78d8da6a96ad73f24b483d7500677dfee0d472",
+        "bytes": 1477337,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 18,
+      "stage": 1,
+      "word": "cost",
+      "image": {
+        "path": "18.png",
+        "sha256": "2c98cb2848605f3c455cf11accf6cea24eea8c38f68de207d009927692ba7ca1",
+        "bytes": 1602521,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 19,
+      "stage": 1,
+      "word": "error",
+      "image": {
+        "path": "19.png",
+        "sha256": "a00a99aa4efb744d780123fc5729b92763d3f6e4719e38fe4ca2dd205ed51386",
+        "bytes": 1638463,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 20,
+      "stage": 1,
+      "word": "goal",
+      "image": {
+        "path": "20.png",
+        "sha256": "c1236ebd42df1c37c889b2528f36ea44395886c8f73c3b3d244dd4a216fc8898",
+        "bytes": 1563756,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 21,
+      "stage": 1,
+      "word": "period",
+      "image": {
+        "path": "21.png",
+        "sha256": "18cdd2ca9832d9d8e3817762e2b7fb54dfea62d5166079b899fcaa4996835f11",
+        "bytes": 1337227,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 22,
+      "stage": 1,
+      "word": "condition",
+      "image": {
+        "path": "22.png",
+        "sha256": "32a6d23edf904b794ced34407e67493a44237470c4937dee86931eba4bbaf161",
+        "bytes": 1485735,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 23,
+      "stage": 1,
+      "word": "develop",
+      "image": {
+        "path": "23.png",
+        "sha256": "7a7bde84fbefecfe15e8d2cbf24a5391365f616185f78e00ae22423fa5a50cc1",
+        "bytes": 1684322,
         "width": 941,
         "height": 1672
       }
@@ -133,6 +361,846 @@
         "path": "30.png",
         "sha256": "b7ee0bc10a8d9a3bfefed5e263ea67eaa1a04a20fd00a1a33018f1ad5decc22b",
         "bytes": 1953497,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 31,
+      "stage": 1,
+      "word": "offer",
+      "image": {
+        "path": "31.png",
+        "sha256": "a208cdb9a4583200c105c06289871b0aae49bcdcbde094b676f2f63ce9602e5d",
+        "bytes": 1942321,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 32,
+      "stage": 1,
+      "word": "store",
+      "image": {
+        "path": "32.png",
+        "sha256": "1014e45054ea9423bc98d706c08f10115a17fdb49c37ff7a8439c2b4115a6d49",
+        "bytes": 1876795,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 33,
+      "stage": 1,
+      "word": "describe",
+      "image": {
+        "path": "33.png",
+        "sha256": "541b9d295c43781bb4ca4d897ae71645b8aa2e2e5670bf33463684c4a3464c74",
+        "bytes": 1711485,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 34,
+      "stage": 1,
+      "word": "reduce",
+      "image": {
+        "path": "34.png",
+        "sha256": "8f101e913af5b3b2236ad0766b0ee634fa392a2158fcba59f2420f2298f3fe24",
+        "bytes": 1103248,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 35,
+      "stage": 1,
+      "word": "avoid",
+      "image": {
+        "path": "35.png",
+        "sha256": "b53adc05578c8c3b70dc2e4eca130305add23a484a272886dcdc8c8dbb5c1d8e",
+        "bytes": 1901378,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 36,
+      "stage": 1,
+      "word": "realize",
+      "image": {
+        "path": "36.png",
+        "sha256": "5731896a81ee16d167daa07b42783406a9f7b7441aebd11e36dbdff46d4585e5",
+        "bytes": 1885547,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 37,
+      "stage": 1,
+      "word": "compare",
+      "image": {
+        "path": "37.png",
+        "sha256": "e54d3c657bc1cd27dbc3e64c3d1ca1ca0aa7758dc266539cd3d2431edbd76e96",
+        "bytes": 1490141,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 38,
+      "stage": 1,
+      "word": "exist",
+      "image": {
+        "path": "38.png",
+        "sha256": "ddabb2fbffd5412d00e3d3ad5f008219814777a6dd7228e648add4b851e680aa",
+        "bytes": 2248809,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 39,
+      "stage": 1,
+      "word": "mark",
+      "image": {
+        "path": "39.png",
+        "sha256": "d88452340bc52e73b43d4affc8f4a06f7100c053a9e16d58bce57203bad23798",
+        "bytes": 1619646,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 40,
+      "stage": 1,
+      "word": "complete",
+      "image": {
+        "path": "40.png",
+        "sha256": "007f40ceba387d218d2cc021d4f1bc3953488d51a0412e59ea1363c4ec1bc43c",
+        "bytes": 1143837,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 41,
+      "stage": 1,
+      "word": "interest",
+      "image": {
+        "path": "41.png",
+        "sha256": "363871f4154ddd6c617c39efe3429db778e3fce14a0267da81501f617d122d33",
+        "bytes": 1557939,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 42,
+      "stage": 1,
+      "word": "research",
+      "image": {
+        "path": "42.png",
+        "sha256": "cac0c462a3ece48b7c5d6899afb22786f9ac6619133b2eca87f8b4d680f41e37",
+        "bytes": 2005566,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 43,
+      "stage": 1,
+      "word": "cause",
+      "image": {
+        "path": "43.png",
+        "sha256": "a8ff85e8df9e80cb8b3b6a1a5393bf3691822b6c3d3f5e25bca1d366f49859cf",
+        "bytes": 1522042,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 44,
+      "stage": 1,
+      "word": "effect",
+      "image": {
+        "path": "44.png",
+        "sha256": "3f199133f5ff74c5426ccbe3e71a1c336adfda2086e58f93599196b52b8aca72",
+        "bytes": 1493175,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 45,
+      "stage": 1,
+      "word": "situation",
+      "image": {
+        "path": "45.png",
+        "sha256": "09020cc08a28d4191a8a35d52bce5dac0a46754c0e54dd7feb867a6574c8d4bf",
+        "bytes": 2016772,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 46,
+      "stage": 1,
+      "word": "environment",
+      "image": {
+        "path": "46.png",
+        "sha256": "8e77cb1573836a14b26dacd93b19de462c1c1dc50c85af792508fda6014e7089",
+        "bytes": 2251994,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 47,
+      "stage": 1,
+      "word": "skill",
+      "image": {
+        "path": "47.png",
+        "sha256": "57c02df828a15e0c0df86eca9daa0d755ce63163fb5e5d87baa891d0d6559d93",
+        "bytes": 1517785,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 48,
+      "stage": 1,
+      "word": "matter",
+      "image": {
+        "path": "48.png",
+        "sha256": "2579ee88cbfa64666e5a8c246f7dc99fbe6771aa33b0252a627b6526e1771d83",
+        "bytes": 1531459,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 49,
+      "stage": 1,
+      "word": "view",
+      "image": {
+        "path": "49.png",
+        "sha256": "8dca234dbb272cc7244101f4fca5cb7d01980a4756011bb46c4bafb31fa7e883",
+        "bytes": 1417034,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 50,
+      "stage": 1,
+      "word": "value",
+      "image": {
+        "path": "50.png",
+        "sha256": "bc1493bde7cf9f483400a3ed84f170e1cf0d8aecf756771f6e19664f43850f21",
+        "bytes": 1524990,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 51,
+      "stage": 2,
+      "word": "thought",
+      "image": {
+        "path": "51.png",
+        "sha256": "855766870fc13c261d2381388e18f61be9bad891041d970da46a2b7a6f08b77d",
+        "bytes": 1518475,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 52,
+      "stage": 2,
+      "word": "knowledge",
+      "image": {
+        "path": "52.png",
+        "sha256": "39ff2c91395853e09b5e89c4dc538861170740737701ebe1c0355f4372b07c6d",
+        "bytes": 1498679,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 53,
+      "stage": 2,
+      "word": "memory",
+      "image": {
+        "path": "53.png",
+        "sha256": "cee4fd82344dfccf13d2e5cd8f79f25f401a61099dca99247ecfbcf55f3a6050",
+        "bytes": 1474227,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 54,
+      "stage": 2,
+      "word": "article",
+      "image": {
+        "path": "54.png",
+        "sha256": "7cce08a6777ded40f66e5811dfb87169600eb20ea808d6d570272370e7261653",
+        "bytes": 1291738,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 55,
+      "stage": 2,
+      "word": "subject",
+      "image": {
+        "path": "55.png",
+        "sha256": "11af703490eb6eea31d488b8c944c35292b7bc8eb4b4e4d86a2ca06ed0294f26",
+        "bytes": 1616707,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 56,
+      "stage": 2,
+      "word": "project",
+      "image": {
+        "path": "56.png",
+        "sha256": "fcec7d236eed55f7304cb9fcf1c199cbfe2598da7a2b8e3ddf5c9891cc2ec138",
+        "bytes": 1056301,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 57,
+      "stage": 2,
+      "word": "role",
+      "image": {
+        "path": "57.png",
+        "sha256": "a7654bfb9baa8797a84ae87154652c78dd0f289bfbe20686cc3072dd5b178220",
+        "bytes": 1569008,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 58,
+      "stage": 2,
+      "word": "community",
+      "image": {
+        "path": "58.png",
+        "sha256": "eb2a428b73ca48ef107b0349cda6cbd09687b1a97d253b2bf278acb82ccbafb0",
+        "bytes": 1450313,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 59,
+      "stage": 2,
+      "word": "culture",
+      "image": {
+        "path": "59.png",
+        "sha256": "98b322af36f2e7891acc0f9c730a32e13d24b8984a9c3f614f8da73ba6e3ab8e",
+        "bytes": 1956179,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 60,
+      "stage": 2,
+      "word": "possible",
+      "image": {
+        "path": "60.png",
+        "sha256": "b5be3c1b060179b2b6541b3bee2916ff87afee3104091d7e2f93b9db01c7e3aa",
+        "bytes": 1693685,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 61,
+      "stage": 2,
+      "word": "common",
+      "image": {
+        "path": "61.png",
+        "sha256": "1431bf23cb44ec490e1a37edf2b3888c15e75fb0310a7bda05b69560aadbdec4",
+        "bytes": 1380159,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 62,
+      "stage": 2,
+      "word": "similar",
+      "image": {
+        "path": "62.png",
+        "sha256": "7fefab03382fe4837ca5918b514c59f953769faee3cafe9d12f8b8641e1a0a2b",
+        "bytes": 1490613,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 63,
+      "stage": 2,
+      "word": "various",
+      "image": {
+        "path": "63.png",
+        "sha256": "5cf0cac28c9cf7e8d77daea7c00e4d947953cb428eff979b642396cb6a6dfd11",
+        "bytes": 2210667,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 64,
+      "stage": 2,
+      "word": "blank",
+      "image": {
+        "path": "64.png",
+        "sha256": "0378d33e25b88838b3b33fc8923104207c91b5ed5bebd692ea42bc5a3fa331c3",
+        "bytes": 1280656,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 65,
+      "stage": 2,
+      "word": "correct",
+      "image": {
+        "path": "65.png",
+        "sha256": "07e6102becbc597d68738cd66935c84d2a12e1a3c35c663090bbdf0482e92893",
+        "bytes": 1555510,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 66,
+      "stage": 2,
+      "word": "notice",
+      "image": {
+        "path": "66.png",
+        "sha256": "7d82bf39b00708d1b8063abfe45a4b358a2413a1c7f3b0623a506cd7de3071b9",
+        "bytes": 1648985,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 67,
+      "stage": 2,
+      "word": "approach",
+      "image": {
+        "path": "67.png",
+        "sha256": "5d2321815f752c7aa128d65e9e1256e2b1b3e54fc2a3b8d8129c49f540350eac",
+        "bytes": 1558958,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 68,
+      "stage": 2,
+      "word": "wonder",
+      "image": {
+        "path": "68.png",
+        "sha256": "ef509fc50059e5874cbf463cb975f9330942e8b684f5db15768c312afb7d8d39",
+        "bytes": 1553299,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 69,
+      "stage": 2,
+      "word": "imagine",
+      "image": {
+        "path": "69.png",
+        "sha256": "eb26164ecfc28b20775527f830b6cf5281a1a242064ee141b58d1d5fead13d53",
+        "bytes": 1808582,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 70,
+      "stage": 2,
+      "word": "recognize",
+      "image": {
+        "path": "70.png",
+        "sha256": "a95fcd89f87e3e808fa33ab3a94747f2de1973cf86dadbc072d8ae8d2298e38c",
+        "bytes": 1505410,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 71,
+      "stage": 2,
+      "word": "draw",
+      "image": {
+        "path": "71.png",
+        "sha256": "01f91b6051fd20b14595d351c0a8591450ca6fad0d6f1e80bb38ffde94213233",
+        "bytes": 1745515,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 72,
+      "stage": 2,
+      "word": "spread",
+      "image": {
+        "path": "72.png",
+        "sha256": "b76ce389dd34f937ea616b368c66aec15af0ac74d7d10e4b4cd788d3649affaa",
+        "bytes": 1901973,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 73,
+      "stage": 2,
+      "word": "prepare",
+      "image": {
+        "path": "73.png",
+        "sha256": "664f26b783ce5da5d551fa6427b309169c0a78099721a5b3422a327b48179a38",
+        "bytes": 2056903,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 74,
+      "stage": 2,
+      "word": "gain",
+      "image": {
+        "path": "74.png",
+        "sha256": "0a7a58e032c7ca08fc866c2977692dcd417883704993f76e04e7540c08b48a23",
+        "bytes": 2035300,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 75,
+      "stage": 2,
+      "word": "prefer",
+      "image": {
+        "path": "75.png",
+        "sha256": "64893f39ab9b18d5fcddbb9488bafbe8031dc2c0d5daa26676052e1ca0907ca1",
+        "bytes": 1542232,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 76,
+      "stage": 2,
+      "word": "mention",
+      "image": {
+        "path": "76.png",
+        "sha256": "184366425c0a79371bd28c325b9ec969f188561ef79dc6335e924e9d913e7df7",
+        "bytes": 1517735,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 77,
+      "stage": 2,
+      "word": "contain",
+      "image": {
+        "path": "77.png",
+        "sha256": "493af61c5507bac34ecbfc8e27929ef112b35aed9a03b3adde40f2f6ebb63b9f",
+        "bytes": 1603545,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 78,
+      "stage": 2,
+      "word": "contact",
+      "image": {
+        "path": "78.png",
+        "sha256": "b18877d04fd38dcfbb073ae16a4333c6b6dba40f985ffa748017d8acf72c56a4",
+        "bytes": 1694296,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 79,
+      "stage": 2,
+      "word": "respect",
+      "image": {
+        "path": "79.png",
+        "sha256": "a1c0e1a8c27f2e4cd2b9d909527027e15865f3d958ded1405e9d21f5b61e71f2",
+        "bytes": 1946141,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 80,
+      "stage": 2,
+      "word": "search",
+      "image": {
+        "path": "80.png",
+        "sha256": "6f862bd9d8579bc0d3da7edaaf5db286639ed7f31dbe670c3a2806d7a2d6e39d",
+        "bytes": 1840975,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 81,
+      "stage": 2,
+      "word": "connect",
+      "image": {
+        "path": "81.png",
+        "sha256": "8cfb00203c897e163f4c076ad24d288b6f3f001e8dd301e5e48fa90ba29c96c9",
+        "bytes": 1439117,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 82,
+      "stage": 2,
+      "word": "model",
+      "image": {
+        "path": "82.png",
+        "sha256": "b6ac5cfc21380832a6ad21f8f8fbb822f5806e79657e076f6eab78eca8d0a3f1",
+        "bytes": 2032437,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 83,
+      "stage": 2,
+      "word": "image",
+      "image": {
+        "path": "83.png",
+        "sha256": "bcf79fe9a7e907598be359cffd8f820350e1e8f19dceb5c13e0b000ed28d6edb",
+        "bytes": 1466529,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 84,
+      "stage": 2,
+      "word": "character",
+      "image": {
+        "path": "84.png",
+        "sha256": "46818be78afe7c825a8d20b30ac3f201a1756fd4bf2f6f9356acf9a10ac5b2a3",
+        "bytes": 1816778,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 85,
+      "stage": 2,
+      "word": "phrase",
+      "image": {
+        "path": "85.png",
+        "sha256": "477570e198f4b5dce983633e67a895aa8de1dc7a99a821cff26c51a8e14c9e5a",
+        "bytes": 1472932,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 86,
+      "stage": 2,
+      "word": "region",
+      "image": {
+        "path": "86.png",
+        "sha256": "b6a09a3bdf4fc5cc7a6c5caad55c782c1d07e52b10fcfdb92e903bdd9fde31ec",
+        "bytes": 2713093,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 87,
+      "stage": 2,
+      "word": "detail",
+      "image": {
+        "path": "87.png",
+        "sha256": "f8520e41419858bdc1dee625a7c4318d37b6e71fb4b4e54bb3440c9e97c6e54d",
+        "bytes": 1854008,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 88,
+      "stage": 2,
+      "word": "item",
+      "image": {
+        "path": "88.png",
+        "sha256": "b3bccb340f26d5604b2c0b754595d777f3714e5c1548685b29bce85d777283a1",
+        "bytes": 1475999,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 89,
+      "stage": 2,
+      "word": "positive",
+      "image": {
+        "path": "89.png",
+        "sha256": "546ac4dcaa15057c458d0bddba5a1790e0366bc906f4051bdd1fd4b7b095afd3",
+        "bytes": 2158073,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 90,
+      "stage": 2,
+      "word": "negative",
+      "image": {
+        "path": "90.png",
+        "sha256": "3c978efba361421c89290a757b2773a28e312f03a9b584cfeef2fb6667a8152c",
+        "bytes": 1684548,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 91,
+      "stage": 2,
+      "word": "current",
+      "image": {
+        "path": "91.png",
+        "sha256": "0612923bddf843aebb8f1d7d5f8be3db3a5fd0824ee6401172567baa017b807a",
+        "bytes": 1328822,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 92,
+      "stage": 2,
+      "word": "active",
+      "image": {
+        "path": "92.png",
+        "sha256": "7ae1623e5385199aba94388cd1020e7da2f77790f578c19be66ac5fc98d1dc11",
+        "bytes": 1904991,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 93,
+      "stage": 2,
+      "word": "necessary",
+      "image": {
+        "path": "93.png",
+        "sha256": "e5c3341b3fec782a10424e5c94de19e8431f7bbe7a6ee37883f76e816c2a2cdc",
+        "bytes": 1586140,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 94,
+      "stage": 2,
+      "word": "attend",
+      "image": {
+        "path": "94.png",
+        "sha256": "248464ad7b34b94fb5a42a718ff67a62d452e170d80c3a19392e1a5065b162e8",
+        "bytes": 1803308,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 95,
+      "stage": 2,
+      "word": "earn",
+      "image": {
+        "path": "95.png",
+        "sha256": "75cdc443abc2b67e766d29459d32a652200bf5c63bbb7ea15d17b4586ece3a2f",
+        "bytes": 2392911,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 96,
+      "stage": 2,
+      "word": "feed",
+      "image": {
+        "path": "96.png",
+        "sha256": "2327abb7f290b8f342eb5bd2bb0eba0f9ccdbfb31bf0e65ea8e8f3f70bcfeebb",
+        "bytes": 1851176,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 97,
+      "stage": 2,
+      "word": "match",
+      "image": {
+        "path": "97.png",
+        "sha256": "440cdc54d64d0c73b7e200f9025a4cbc6dfaef726aa0f1b2a28edfcdd6e164a8",
+        "bytes": 1582724,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 98,
+      "stage": 2,
+      "word": "hide",
+      "image": {
+        "path": "98.png",
+        "sha256": "1dc2624894e4508c1f0ed94d6981ffa72fa525e9254d5e5ccfa43a173c010f7c",
+        "bytes": 2220456,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 99,
+      "stage": 2,
+      "word": "remove",
+      "image": {
+        "path": "99.png",
+        "sha256": "7d6339d788b3351f2614c46990e9637cfeac7da35ae618a33247223aa6a0fe1e",
+        "bytes": 1755914,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 100,
+      "stage": 2,
+      "word": "relax",
+      "image": {
+        "path": "100.png",
+        "sha256": "36d115e4c5ea3ff7ee8881f12590dfd2b87a03c066466b46a985a3e4b472448d",
+        "bytes": 2356971,
         "width": 941,
         "height": 1672
       }
