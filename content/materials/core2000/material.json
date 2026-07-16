@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "material_id": "core2000",
   "title_ja": "英単語コア2000",
   "subtitle_ja": "大学入試・共通テスト",
@@ -7,6 +7,7 @@
   "assets": {
     "poster": "materials/core2000/poster.png",
     "icon": "materials/core2000/icon.png",
+    "banner": "materials/core2000/banner.png",
     "swipe_manifest": "images/swipe/core2000/manifest.json"
   }
 }
