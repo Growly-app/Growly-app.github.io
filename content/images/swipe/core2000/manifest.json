@@ -2,13 +2,14 @@
   "schema_version": 2,
   "material_id": "core2000",
   "content_version": 1,
-  "item_count": 100,
-  "updated_at": "2026-07-17T08:34:32.066562Z",
+  "item_count": 499,
+  "updated_at": "2026-07-28T08:55:10.085020Z",
   "items": [
     {
       "ordinal": 1,
       "stage": 1,
       "word": "difference",
+      "pronunciation": "/ˈdɪfrəns/",
       "image": {
         "path": "1.png",
         "sha256": "ffca828af70b8c06f5024770005c2c48fa28ed3abcecaa455dbb3941f47e3c74",
@@ -21,6 +22,7 @@
       "ordinal": 2,
       "stage": 1,
       "word": "create",
+      "pronunciation": "/kriˈeɪt/",
       "image": {
         "path": "2.png",
         "sha256": "79fcd3e1e5d1d3ef0511236fd38eebb287f56268cce95cae06226f8b6c091734",
@@ -33,6 +35,7 @@
       "ordinal": 3,
       "stage": 1,
       "word": "increase",
+      "pronunciation": "/ˌɪnˈkris/",
       "image": {
         "path": "3.png",
         "sha256": "1075ca08b741b68a37f7100f9e22d12619a8506ff04dbf1143cd669308b87bb7",
@@ -45,6 +48,7 @@
       "ordinal": 4,
       "stage": 1,
       "word": "improve",
+      "pronunciation": "/ˌɪmˈpruv/",
       "image": {
         "path": "4.png",
         "sha256": "6a177cb19ce0bcccf346fc7f89af26fcb770fed4e602666f8bdfb460ac04269a",
@@ -57,6 +61,7 @@
       "ordinal": 5,
       "stage": 1,
       "word": "mean",
+      "pronunciation": "/min/",
       "image": {
         "path": "5.png",
         "sha256": "8c2eb00fb0b7bb476d398891ba85534b2160048b245c811f40a37ccd2ed63efe",
@@ -69,6 +74,7 @@
       "ordinal": 6,
       "stage": 1,
       "word": "own",
+      "pronunciation": "/oʊn/",
       "image": {
         "path": "6.png",
         "sha256": "c46652c07d062be1aa52f693b530b2dc3548ab1b3e86c0abe499b45fdb706edd",
@@ -81,6 +87,7 @@
       "ordinal": 7,
       "stage": 1,
       "word": "include",
+      "pronunciation": "/ˌɪnˈklud/",
       "image": {
         "path": "7.png",
         "sha256": "67e7a5ad414688a06402f5af4799c00370d63b50d46fe02d69b55331ed6f5ead",
@@ -93,6 +100,7 @@
       "ordinal": 8,
       "stage": 1,
       "word": "decide",
+      "pronunciation": "/ˌdɪˈsaɪd/",
       "image": {
         "path": "8.png",
         "sha256": "0fd19c2664fd3f3b83483a197dc180e97ebdd8c9ca5c3985d844fba208834c3c",
@@ -105,6 +113,7 @@
       "ordinal": 9,
       "stage": 1,
       "word": "share",
+      "pronunciation": "/ʃɛr/",
       "image": {
         "path": "9.png",
         "sha256": "edc8a36ab487b101978dd5fb7aa08d53c343cab7a927ce6e2ef03ba506009130",
@@ -117,6 +126,7 @@
       "ordinal": 10,
       "stage": 1,
       "word": "idea",
+      "pronunciation": "/aɪˈdiə/",
       "image": {
         "path": "10.png",
         "sha256": "f8ef9e868afaa48d54d13d071259dc84da54aec9cb9d2ddd3ee533ecd14c8637",
@@ -129,10 +139,11 @@
       "ordinal": 11,
       "stage": 1,
       "word": "company",
+      "pronunciation": "/ˈkəmpəˌni/",
       "image": {
         "path": "11.png",
-        "sha256": "d875444749f3a215b74f863fc01c09060da313f71b62dce138a2a0dfceadc12e",
-        "bytes": 1309912,
+        "sha256": "7f00de2fc3ef0aa148db6b0478d805a4e975c6b07500a4688f3a7fb7e395b3f3",
+        "bytes": 1897485,
         "width": 941,
         "height": 1672
       }
@@ -141,6 +152,7 @@
       "ordinal": 12,
       "stage": 1,
       "word": "reason",
+      "pronunciation": "/ˈrizən/",
       "image": {
         "path": "12.png",
         "sha256": "ea2cfe9df099d219c69386c8727a1d6ccd3a9e86524274dfc00a6f0a10061c30",
@@ -153,6 +165,7 @@
       "ordinal": 13,
       "stage": 1,
       "word": "repeat",
+      "pronunciation": "/rɪˈpit/",
       "image": {
         "path": "13.png",
         "sha256": "f5f2228669b29ba909102cca166144bd241e23469b13d5a6652c7af4dbd01d18",
@@ -165,6 +178,7 @@
       "ordinal": 14,
       "stage": 1,
       "word": "hate",
+      "pronunciation": "/heɪt/",
       "image": {
         "path": "14.png",
         "sha256": "087c3fa833cc196bdb2cc92383cfca4a7361a35316212831448b170d32dada77",
@@ -177,6 +191,7 @@
       "ordinal": 15,
       "stage": 1,
       "word": "although",
+      "pronunciation": "/ˌɔlˈðoʊ/",
       "image": {
         "path": "15.png",
         "sha256": "ec85bc46632ad1f310c987b3dd4f865b2d9aea256fef09a31ec204d432db2ffc",
@@ -189,6 +204,7 @@
       "ordinal": 16,
       "stage": 1,
       "word": "normal",
+      "pronunciation": "/ˈnɔrməl/",
       "image": {
         "path": "16.png",
         "sha256": "f6600fcddb92411520903840f6c968d197f6029287541083cfbefe9b9e1d74f0",
@@ -201,6 +217,7 @@
       "ordinal": 17,
       "stage": 1,
       "word": "amount",
+      "pronunciation": "/əˈmaʊnt/",
       "image": {
         "path": "17.png",
         "sha256": "ab57944cb04a412c11f281383a78d8da6a96ad73f24b483d7500677dfee0d472",
@@ -213,6 +230,7 @@
       "ordinal": 18,
       "stage": 1,
       "word": "cost",
+      "pronunciation": "/kɔst/",
       "image": {
         "path": "18.png",
         "sha256": "2c98cb2848605f3c455cf11accf6cea24eea8c38f68de207d009927692ba7ca1",
@@ -225,6 +243,7 @@
       "ordinal": 19,
       "stage": 1,
       "word": "error",
+      "pronunciation": "/ˈɛrər/",
       "image": {
         "path": "19.png",
         "sha256": "a00a99aa4efb744d780123fc5729b92763d3f6e4719e38fe4ca2dd205ed51386",
@@ -237,6 +256,7 @@
       "ordinal": 20,
       "stage": 1,
       "word": "goal",
+      "pronunciation": "/goʊl/",
       "image": {
         "path": "20.png",
         "sha256": "c1236ebd42df1c37c889b2528f36ea44395886c8f73c3b3d244dd4a216fc8898",
@@ -249,6 +269,7 @@
       "ordinal": 21,
       "stage": 1,
       "word": "period",
+      "pronunciation": "/ˈpɪriəd/",
       "image": {
         "path": "21.png",
         "sha256": "18cdd2ca9832d9d8e3817762e2b7fb54dfea62d5166079b899fcaa4996835f11",
@@ -261,6 +282,7 @@
       "ordinal": 22,
       "stage": 1,
       "word": "condition",
+      "pronunciation": "/kənˈdɪʃən/",
       "image": {
         "path": "22.png",
         "sha256": "32a6d23edf904b794ced34407e67493a44237470c4937dee86931eba4bbaf161",
@@ -273,6 +295,7 @@
       "ordinal": 23,
       "stage": 1,
       "word": "develop",
+      "pronunciation": "/dɪˈvɛləp/",
       "image": {
         "path": "23.png",
         "sha256": "7a7bde84fbefecfe15e8d2cbf24a5391365f616185f78e00ae22423fa5a50cc1",
@@ -285,6 +308,7 @@
       "ordinal": 24,
       "stage": 1,
       "word": "discover",
+      "pronunciation": "/dɪˈskəvər/",
       "image": {
         "path": "24.png",
         "sha256": "90548d6ef32aafebc1de2c82e24a8bcf09c6ec93d25ef3b6f010a65944b743d4",
@@ -297,6 +321,7 @@
       "ordinal": 25,
       "stage": 1,
       "word": "introduce",
+      "pronunciation": "/ˌɪntrəˈdus/",
       "image": {
         "path": "25.png",
         "sha256": "fc5665e1e3dce23467f0a83c97372758f26d62e6d37477081980af775e499ec5",
@@ -309,6 +334,7 @@
       "ordinal": 26,
       "stage": 1,
       "word": "provide",
+      "pronunciation": "/prəˈvaɪd/",
       "image": {
         "path": "26.png",
         "sha256": "b4605aa4baef99ae0044f91746c514f8db12c7dbd62f6743d50d8ccdbc0d4d49",
@@ -321,6 +347,7 @@
       "ordinal": 27,
       "stage": 1,
       "word": "support",
+      "pronunciation": "/səˈpɔrt/",
       "image": {
         "path": "27.png",
         "sha256": "887dfa9812c6e8595f17f8f795255aa923b418a3a8fe03a63327672cdc24ae0d",
@@ -333,6 +360,7 @@
       "ordinal": 28,
       "stage": 1,
       "word": "consider",
+      "pronunciation": "/kənˈsɪdər/",
       "image": {
         "path": "28.png",
         "sha256": "6605824323932843d59f4c94e72819e9d90b5e0306109ed0a5db92aa4d22b6b0",
@@ -345,6 +373,7 @@
       "ordinal": 29,
       "stage": 1,
       "word": "allow",
+      "pronunciation": "/əˈlaʊ/",
       "image": {
         "path": "29.png",
         "sha256": "470c30ebf16ddeb64754ae109c1b595080a02be3c2a27f0623a7c6a5ef2d4a9a",
@@ -357,6 +386,7 @@
       "ordinal": 30,
       "stage": 1,
       "word": "produce",
+      "pronunciation": "/prəˈdus/",
       "image": {
         "path": "30.png",
         "sha256": "b7ee0bc10a8d9a3bfefed5e263ea67eaa1a04a20fd00a1a33018f1ad5decc22b",
@@ -369,6 +399,7 @@
       "ordinal": 31,
       "stage": 1,
       "word": "offer",
+      "pronunciation": "/ˈɔfər/",
       "image": {
         "path": "31.png",
         "sha256": "a208cdb9a4583200c105c06289871b0aae49bcdcbde094b676f2f63ce9602e5d",
@@ -381,6 +412,7 @@
       "ordinal": 32,
       "stage": 1,
       "word": "store",
+      "pronunciation": "/stɔr/",
       "image": {
         "path": "32.png",
         "sha256": "1014e45054ea9423bc98d706c08f10115a17fdb49c37ff7a8439c2b4115a6d49",
@@ -393,6 +425,7 @@
       "ordinal": 33,
       "stage": 1,
       "word": "describe",
+      "pronunciation": "/dɪˈskraɪb/",
       "image": {
         "path": "33.png",
         "sha256": "541b9d295c43781bb4ca4d897ae71645b8aa2e2e5670bf33463684c4a3464c74",
@@ -405,6 +438,7 @@
       "ordinal": 34,
       "stage": 1,
       "word": "reduce",
+      "pronunciation": "/rɪˈdus/",
       "image": {
         "path": "34.png",
         "sha256": "8f101e913af5b3b2236ad0766b0ee634fa392a2158fcba59f2420f2298f3fe24",
@@ -417,6 +451,7 @@
       "ordinal": 35,
       "stage": 1,
       "word": "avoid",
+      "pronunciation": "/əˈvɔɪd/",
       "image": {
         "path": "35.png",
         "sha256": "b53adc05578c8c3b70dc2e4eca130305add23a484a272886dcdc8c8dbb5c1d8e",
@@ -429,6 +464,7 @@
       "ordinal": 36,
       "stage": 1,
       "word": "realize",
+      "pronunciation": "/ˈriəˌlaɪz/",
       "image": {
         "path": "36.png",
         "sha256": "5731896a81ee16d167daa07b42783406a9f7b7441aebd11e36dbdff46d4585e5",
@@ -441,6 +477,7 @@
       "ordinal": 37,
       "stage": 1,
       "word": "compare",
+      "pronunciation": "/kəmˈpɛr/",
       "image": {
         "path": "37.png",
         "sha256": "e54d3c657bc1cd27dbc3e64c3d1ca1ca0aa7758dc266539cd3d2431edbd76e96",
@@ -453,6 +490,7 @@
       "ordinal": 38,
       "stage": 1,
       "word": "exist",
+      "pronunciation": "/ɪgˈzɪst/",
       "image": {
         "path": "38.png",
         "sha256": "ddabb2fbffd5412d00e3d3ad5f008219814777a6dd7228e648add4b851e680aa",
@@ -465,6 +503,7 @@
       "ordinal": 39,
       "stage": 1,
       "word": "mark",
+      "pronunciation": "/mɑrk/",
       "image": {
         "path": "39.png",
         "sha256": "d88452340bc52e73b43d4affc8f4a06f7100c053a9e16d58bce57203bad23798",
@@ -477,6 +516,7 @@
       "ordinal": 40,
       "stage": 1,
       "word": "complete",
+      "pronunciation": "/kəmˈplit/",
       "image": {
         "path": "40.png",
         "sha256": "007f40ceba387d218d2cc021d4f1bc3953488d51a0412e59ea1363c4ec1bc43c",
@@ -489,6 +529,7 @@
       "ordinal": 41,
       "stage": 1,
       "word": "interest",
+      "pronunciation": "/ˈɪntəˌrɛst/",
       "image": {
         "path": "41.png",
         "sha256": "363871f4154ddd6c617c39efe3429db778e3fce14a0267da81501f617d122d33",
@@ -501,6 +542,7 @@
       "ordinal": 42,
       "stage": 1,
       "word": "research",
+      "pronunciation": "/ˈrisərʧ/",
       "image": {
         "path": "42.png",
         "sha256": "cac0c462a3ece48b7c5d6899afb22786f9ac6619133b2eca87f8b4d680f41e37",
@@ -513,6 +555,7 @@
       "ordinal": 43,
       "stage": 1,
       "word": "cause",
+      "pronunciation": "/kɔz/",
       "image": {
         "path": "43.png",
         "sha256": "a8ff85e8df9e80cb8b3b6a1a5393bf3691822b6c3d3f5e25bca1d366f49859cf",
@@ -525,6 +568,7 @@
       "ordinal": 44,
       "stage": 1,
       "word": "effect",
+      "pronunciation": "/ˈifɛkt/",
       "image": {
         "path": "44.png",
         "sha256": "3f199133f5ff74c5426ccbe3e71a1c336adfda2086e58f93599196b52b8aca72",
@@ -537,6 +581,7 @@
       "ordinal": 45,
       "stage": 1,
       "word": "situation",
+      "pronunciation": "/ˌsɪʧuˈeɪʃən/",
       "image": {
         "path": "45.png",
         "sha256": "09020cc08a28d4191a8a35d52bce5dac0a46754c0e54dd7feb867a6574c8d4bf",
@@ -549,6 +594,7 @@
       "ordinal": 46,
       "stage": 1,
       "word": "environment",
+      "pronunciation": "/ɪnˈvaɪrənmənt/",
       "image": {
         "path": "46.png",
         "sha256": "8e77cb1573836a14b26dacd93b19de462c1c1dc50c85af792508fda6014e7089",
@@ -561,6 +607,7 @@
       "ordinal": 47,
       "stage": 1,
       "word": "skill",
+      "pronunciation": "/skɪl/",
       "image": {
         "path": "47.png",
         "sha256": "57c02df828a15e0c0df86eca9daa0d755ce63163fb5e5d87baa891d0d6559d93",
@@ -573,6 +620,7 @@
       "ordinal": 48,
       "stage": 1,
       "word": "matter",
+      "pronunciation": "/ˈmætər/",
       "image": {
         "path": "48.png",
         "sha256": "2579ee88cbfa64666e5a8c246f7dc99fbe6771aa33b0252a627b6526e1771d83",
@@ -585,6 +633,7 @@
       "ordinal": 49,
       "stage": 1,
       "word": "view",
+      "pronunciation": "/vju/",
       "image": {
         "path": "49.png",
         "sha256": "8dca234dbb272cc7244101f4fca5cb7d01980a4756011bb46c4bafb31fa7e883",
@@ -597,6 +646,7 @@
       "ordinal": 50,
       "stage": 1,
       "word": "value",
+      "pronunciation": "/ˈvælju/",
       "image": {
         "path": "50.png",
         "sha256": "bc1493bde7cf9f483400a3ed84f170e1cf0d8aecf756771f6e19664f43850f21",
@@ -609,6 +659,7 @@
       "ordinal": 51,
       "stage": 2,
       "word": "thought",
+      "pronunciation": "/θɔt/",
       "image": {
         "path": "51.png",
         "sha256": "855766870fc13c261d2381388e18f61be9bad891041d970da46a2b7a6f08b77d",
@@ -621,6 +672,7 @@
       "ordinal": 52,
       "stage": 2,
       "word": "knowledge",
+      "pronunciation": "/ˈnɑləʤ/",
       "image": {
         "path": "52.png",
         "sha256": "39ff2c91395853e09b5e89c4dc538861170740737701ebe1c0355f4372b07c6d",
@@ -633,6 +685,7 @@
       "ordinal": 53,
       "stage": 2,
       "word": "memory",
+      "pronunciation": "/ˈmɛməri/",
       "image": {
         "path": "53.png",
         "sha256": "cee4fd82344dfccf13d2e5cd8f79f25f401a61099dca99247ecfbcf55f3a6050",
@@ -645,6 +698,7 @@
       "ordinal": 54,
       "stage": 2,
       "word": "article",
+      "pronunciation": "/ˈɑrtəkəl/",
       "image": {
         "path": "54.png",
         "sha256": "7cce08a6777ded40f66e5811dfb87169600eb20ea808d6d570272370e7261653",
@@ -657,6 +711,7 @@
       "ordinal": 55,
       "stage": 2,
       "word": "subject",
+      "pronunciation": "/ˈsəbʤɪkt/",
       "image": {
         "path": "55.png",
         "sha256": "11af703490eb6eea31d488b8c944c35292b7bc8eb4b4e4d86a2ca06ed0294f26",
@@ -669,6 +724,7 @@
       "ordinal": 56,
       "stage": 2,
       "word": "project",
+      "pronunciation": "/ˈprɑʤɛkt/",
       "image": {
         "path": "56.png",
         "sha256": "fcec7d236eed55f7304cb9fcf1c199cbfe2598da7a2b8e3ddf5c9891cc2ec138",
@@ -681,6 +737,7 @@
       "ordinal": 57,
       "stage": 2,
       "word": "role",
+      "pronunciation": "/roʊl/",
       "image": {
         "path": "57.png",
         "sha256": "a7654bfb9baa8797a84ae87154652c78dd0f289bfbe20686cc3072dd5b178220",
@@ -693,6 +750,7 @@
       "ordinal": 58,
       "stage": 2,
       "word": "community",
+      "pronunciation": "/kəmˈjunɪti/",
       "image": {
         "path": "58.png",
         "sha256": "eb2a428b73ca48ef107b0349cda6cbd09687b1a97d253b2bf278acb82ccbafb0",
@@ -705,6 +763,7 @@
       "ordinal": 59,
       "stage": 2,
       "word": "culture",
+      "pronunciation": "/ˈkəlʧər/",
       "image": {
         "path": "59.png",
         "sha256": "98b322af36f2e7891acc0f9c730a32e13d24b8984a9c3f614f8da73ba6e3ab8e",
@@ -717,6 +776,7 @@
       "ordinal": 60,
       "stage": 2,
       "word": "possible",
+      "pronunciation": "/ˈpɑsəbəl/",
       "image": {
         "path": "60.png",
         "sha256": "b5be3c1b060179b2b6541b3bee2916ff87afee3104091d7e2f93b9db01c7e3aa",
@@ -729,6 +789,7 @@
       "ordinal": 61,
       "stage": 2,
       "word": "common",
+      "pronunciation": "/ˈkɑmən/",
       "image": {
         "path": "61.png",
         "sha256": "1431bf23cb44ec490e1a37edf2b3888c15e75fb0310a7bda05b69560aadbdec4",
@@ -741,6 +802,7 @@
       "ordinal": 62,
       "stage": 2,
       "word": "similar",
+      "pronunciation": "/ˈsɪmələr/",
       "image": {
         "path": "62.png",
         "sha256": "7fefab03382fe4837ca5918b514c59f953769faee3cafe9d12f8b8641e1a0a2b",
@@ -753,6 +815,7 @@
       "ordinal": 63,
       "stage": 2,
       "word": "various",
+      "pronunciation": "/ˈvɛriəs/",
       "image": {
         "path": "63.png",
         "sha256": "5cf0cac28c9cf7e8d77daea7c00e4d947953cb428eff979b642396cb6a6dfd11",
@@ -765,6 +828,7 @@
       "ordinal": 64,
       "stage": 2,
       "word": "blank",
+      "pronunciation": "/blæŋk/",
       "image": {
         "path": "64.png",
         "sha256": "0378d33e25b88838b3b33fc8923104207c91b5ed5bebd692ea42bc5a3fa331c3",
@@ -777,6 +841,7 @@
       "ordinal": 65,
       "stage": 2,
       "word": "correct",
+      "pronunciation": "/kərˈɛkt/",
       "image": {
         "path": "65.png",
         "sha256": "07e6102becbc597d68738cd66935c84d2a12e1a3c35c663090bbdf0482e92893",
@@ -789,6 +854,7 @@
       "ordinal": 66,
       "stage": 2,
       "word": "notice",
+      "pronunciation": "/ˈnoʊtɪs/",
       "image": {
         "path": "66.png",
         "sha256": "7d82bf39b00708d1b8063abfe45a4b358a2413a1c7f3b0623a506cd7de3071b9",
@@ -801,6 +867,7 @@
       "ordinal": 67,
       "stage": 2,
       "word": "approach",
+      "pronunciation": "/əˈproʊʧ/",
       "image": {
         "path": "67.png",
         "sha256": "5d2321815f752c7aa128d65e9e1256e2b1b3e54fc2a3b8d8129c49f540350eac",
@@ -813,6 +880,7 @@
       "ordinal": 68,
       "stage": 2,
       "word": "wonder",
+      "pronunciation": "/ˈwəndər/",
       "image": {
         "path": "68.png",
         "sha256": "ef509fc50059e5874cbf463cb975f9330942e8b684f5db15768c312afb7d8d39",
@@ -825,6 +893,7 @@
       "ordinal": 69,
       "stage": 2,
       "word": "imagine",
+      "pronunciation": "/ˌɪˈmæʤən/",
       "image": {
         "path": "69.png",
         "sha256": "eb26164ecfc28b20775527f830b6cf5281a1a242064ee141b58d1d5fead13d53",
@@ -837,6 +906,7 @@
       "ordinal": 70,
       "stage": 2,
       "word": "recognize",
+      "pronunciation": "/ˈrɛkəgˌnaɪz/",
       "image": {
         "path": "70.png",
         "sha256": "a95fcd89f87e3e808fa33ab3a94747f2de1973cf86dadbc072d8ae8d2298e38c",
@@ -849,6 +919,7 @@
       "ordinal": 71,
       "stage": 2,
       "word": "draw",
+      "pronunciation": "/drɔ/",
       "image": {
         "path": "71.png",
         "sha256": "01f91b6051fd20b14595d351c0a8591450ca6fad0d6f1e80bb38ffde94213233",
@@ -861,6 +932,7 @@
       "ordinal": 72,
       "stage": 2,
       "word": "spread",
+      "pronunciation": "/sprɛd/",
       "image": {
         "path": "72.png",
         "sha256": "b76ce389dd34f937ea616b368c66aec15af0ac74d7d10e4b4cd788d3649affaa",
@@ -873,6 +945,7 @@
       "ordinal": 73,
       "stage": 2,
       "word": "prepare",
+      "pronunciation": "/priˈpɛr/",
       "image": {
         "path": "73.png",
         "sha256": "664f26b783ce5da5d551fa6427b309169c0a78099721a5b3422a327b48179a38",
@@ -885,6 +958,7 @@
       "ordinal": 74,
       "stage": 2,
       "word": "gain",
+      "pronunciation": "/geɪn/",
       "image": {
         "path": "74.png",
         "sha256": "0a7a58e032c7ca08fc866c2977692dcd417883704993f76e04e7540c08b48a23",
@@ -897,6 +971,7 @@
       "ordinal": 75,
       "stage": 2,
       "word": "prefer",
+      "pronunciation": "/prɪˈfər/",
       "image": {
         "path": "75.png",
         "sha256": "64893f39ab9b18d5fcddbb9488bafbe8031dc2c0d5daa26676052e1ca0907ca1",
@@ -909,6 +984,7 @@
       "ordinal": 76,
       "stage": 2,
       "word": "mention",
+      "pronunciation": "/ˈmɛnʃən/",
       "image": {
         "path": "76.png",
         "sha256": "184366425c0a79371bd28c325b9ec969f188561ef79dc6335e924e9d913e7df7",
@@ -921,6 +997,7 @@
       "ordinal": 77,
       "stage": 2,
       "word": "contain",
+      "pronunciation": "/kənˈteɪn/",
       "image": {
         "path": "77.png",
         "sha256": "493af61c5507bac34ecbfc8e27929ef112b35aed9a03b3adde40f2f6ebb63b9f",
@@ -933,6 +1010,7 @@
       "ordinal": 78,
       "stage": 2,
       "word": "contact",
+      "pronunciation": "/ˈkɑnˌtækt/",
       "image": {
         "path": "78.png",
         "sha256": "b18877d04fd38dcfbb073ae16a4333c6b6dba40f985ffa748017d8acf72c56a4",
@@ -945,6 +1023,7 @@
       "ordinal": 79,
       "stage": 2,
       "word": "respect",
+      "pronunciation": "/rɪˈspɛkt/",
       "image": {
         "path": "79.png",
         "sha256": "a1c0e1a8c27f2e4cd2b9d909527027e15865f3d958ded1405e9d21f5b61e71f2",
@@ -957,6 +1036,7 @@
       "ordinal": 80,
       "stage": 2,
       "word": "search",
+      "pronunciation": "/sərʧ/",
       "image": {
         "path": "80.png",
         "sha256": "6f862bd9d8579bc0d3da7edaaf5db286639ed7f31dbe670c3a2806d7a2d6e39d",
@@ -969,6 +1049,7 @@
       "ordinal": 81,
       "stage": 2,
       "word": "connect",
+      "pronunciation": "/kəˈnɛkt/",
       "image": {
         "path": "81.png",
         "sha256": "8cfb00203c897e163f4c076ad24d288b6f3f001e8dd301e5e48fa90ba29c96c9",
@@ -981,6 +1062,7 @@
       "ordinal": 82,
       "stage": 2,
       "word": "model",
+      "pronunciation": "/ˈmɑdəl/",
       "image": {
         "path": "82.png",
         "sha256": "b6ac5cfc21380832a6ad21f8f8fbb822f5806e79657e076f6eab78eca8d0a3f1",
@@ -993,6 +1075,7 @@
       "ordinal": 83,
       "stage": 2,
       "word": "image",
+      "pronunciation": "/ˈɪməʤ/",
       "image": {
         "path": "83.png",
         "sha256": "bcf79fe9a7e907598be359cffd8f820350e1e8f19dceb5c13e0b000ed28d6edb",
@@ -1005,6 +1088,7 @@
       "ordinal": 84,
       "stage": 2,
       "word": "character",
+      "pronunciation": "/ˈkɛrɪktər/",
       "image": {
         "path": "84.png",
         "sha256": "46818be78afe7c825a8d20b30ac3f201a1756fd4bf2f6f9356acf9a10ac5b2a3",
@@ -1017,6 +1101,7 @@
       "ordinal": 85,
       "stage": 2,
       "word": "phrase",
+      "pronunciation": "/freɪz/",
       "image": {
         "path": "85.png",
         "sha256": "477570e198f4b5dce983633e67a895aa8de1dc7a99a821cff26c51a8e14c9e5a",
@@ -1029,6 +1114,7 @@
       "ordinal": 86,
       "stage": 2,
       "word": "region",
+      "pronunciation": "/ˈriʤən/",
       "image": {
         "path": "86.png",
         "sha256": "b6a09a3bdf4fc5cc7a6c5caad55c782c1d07e52b10fcfdb92e903bdd9fde31ec",
@@ -1041,6 +1127,7 @@
       "ordinal": 87,
       "stage": 2,
       "word": "detail",
+      "pronunciation": "/ˈditeɪl/",
       "image": {
         "path": "87.png",
         "sha256": "f8520e41419858bdc1dee625a7c4318d37b6e71fb4b4e54bb3440c9e97c6e54d",
@@ -1053,6 +1140,7 @@
       "ordinal": 88,
       "stage": 2,
       "word": "item",
+      "pronunciation": "/ˈaɪtəm/",
       "image": {
         "path": "88.png",
         "sha256": "b3bccb340f26d5604b2c0b754595d777f3714e5c1548685b29bce85d777283a1",
@@ -1065,6 +1153,7 @@
       "ordinal": 89,
       "stage": 2,
       "word": "positive",
+      "pronunciation": "/ˈpɑzətɪv/",
       "image": {
         "path": "89.png",
         "sha256": "546ac4dcaa15057c458d0bddba5a1790e0366bc906f4051bdd1fd4b7b095afd3",
@@ -1077,6 +1166,7 @@
       "ordinal": 90,
       "stage": 2,
       "word": "negative",
+      "pronunciation": "/ˈnɛgətɪv/",
       "image": {
         "path": "90.png",
         "sha256": "3c978efba361421c89290a757b2773a28e312f03a9b584cfeef2fb6667a8152c",
@@ -1089,6 +1179,7 @@
       "ordinal": 91,
       "stage": 2,
       "word": "current",
+      "pronunciation": "/ˈkɑrənt/",
       "image": {
         "path": "91.png",
         "sha256": "0612923bddf843aebb8f1d7d5f8be3db3a5fd0824ee6401172567baa017b807a",
@@ -1101,6 +1192,7 @@
       "ordinal": 92,
       "stage": 2,
       "word": "active",
+      "pronunciation": "/ˈæktɪv/",
       "image": {
         "path": "92.png",
         "sha256": "7ae1623e5385199aba94388cd1020e7da2f77790f578c19be66ac5fc98d1dc11",
@@ -1113,6 +1205,7 @@
       "ordinal": 93,
       "stage": 2,
       "word": "necessary",
+      "pronunciation": "/ˈnɛsəˌsɛri/",
       "image": {
         "path": "93.png",
         "sha256": "e5c3341b3fec782a10424e5c94de19e8431f7bbe7a6ee37883f76e816c2a2cdc",
@@ -1125,6 +1218,7 @@
       "ordinal": 94,
       "stage": 2,
       "word": "attend",
+      "pronunciation": "/əˈtɛnd/",
       "image": {
         "path": "94.png",
         "sha256": "248464ad7b34b94fb5a42a718ff67a62d452e170d80c3a19392e1a5065b162e8",
@@ -1137,6 +1231,7 @@
       "ordinal": 95,
       "stage": 2,
       "word": "earn",
+      "pronunciation": "/ərn/",
       "image": {
         "path": "95.png",
         "sha256": "75cdc443abc2b67e766d29459d32a652200bf5c63bbb7ea15d17b4586ece3a2f",
@@ -1149,6 +1244,7 @@
       "ordinal": 96,
       "stage": 2,
       "word": "feed",
+      "pronunciation": "/fid/",
       "image": {
         "path": "96.png",
         "sha256": "2327abb7f290b8f342eb5bd2bb0eba0f9ccdbfb31bf0e65ea8e8f3f70bcfeebb",
@@ -1161,6 +1257,7 @@
       "ordinal": 97,
       "stage": 2,
       "word": "match",
+      "pronunciation": "/mæʧ/",
       "image": {
         "path": "97.png",
         "sha256": "440cdc54d64d0c73b7e200f9025a4cbc6dfaef726aa0f1b2a28edfcdd6e164a8",
@@ -1173,6 +1270,7 @@
       "ordinal": 98,
       "stage": 2,
       "word": "hide",
+      "pronunciation": "/haɪd/",
       "image": {
         "path": "98.png",
         "sha256": "1dc2624894e4508c1f0ed94d6981ffa72fa525e9254d5e5ccfa43a173c010f7c",
@@ -1185,6 +1283,7 @@
       "ordinal": 99,
       "stage": 2,
       "word": "remove",
+      "pronunciation": "/riˈmuv/",
       "image": {
         "path": "99.png",
         "sha256": "7d6339d788b3351f2614c46990e9637cfeac7da35ae618a33247223aa6a0fe1e",
@@ -1197,10 +1296,5198 @@
       "ordinal": 100,
       "stage": 2,
       "word": "relax",
+      "pronunciation": "/rɪˈlæks/",
       "image": {
         "path": "100.png",
         "sha256": "36d115e4c5ea3ff7ee8881f12590dfd2b87a03c066466b46a985a3e4b472448d",
         "bytes": 2356971,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 101,
+      "stage": 3,
+      "word": "fashion",
+      "pronunciation": "/ˈfæʃən/",
+      "image": {
+        "path": "101.png",
+        "sha256": "48905c61918887e2e8e35a173521b59b4e2caf3e726d03615a7a1fe083023847",
+        "bytes": 2141931,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 102,
+      "stage": 3,
+      "word": "pain",
+      "pronunciation": "/peɪn/",
+      "image": {
+        "path": "102.png",
+        "sha256": "2942c60a4f224e222d4c69294719cdc84eb2ab9b2be5dd77098acb3fafa9b900",
+        "bytes": 1656525,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 103,
+      "stage": 3,
+      "word": "bill",
+      "pronunciation": "/bɪl/",
+      "image": {
+        "path": "103.png",
+        "sha256": "e4ff24126c4752f2db37c1070c2ee978e2246a60b25a6afe458a2792dee438a1",
+        "bytes": 1703337,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 104,
+      "stage": 3,
+      "word": "content",
+      "pronunciation": "/ˈkɑntɛnt/",
+      "image": {
+        "path": "104.png",
+        "sha256": "9de91493a5a7726ac02644692e07b5de4340c147364bf4e11a280eb39c87a937",
+        "bytes": 1695586,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 105,
+      "stage": 3,
+      "word": "audience",
+      "pronunciation": "/ˈɑdiəns/",
+      "image": {
+        "path": "105.png",
+        "sha256": "b13e4bb97fe64bad73d4a1a2ab48a75bf8405558d725615426e22e0395bd0eb3",
+        "bytes": 1894854,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 106,
+      "stage": 3,
+      "word": "surface",
+      "pronunciation": "/ˈsərfəs/",
+      "image": {
+        "path": "106.png",
+        "sha256": "2ee36ae909493bc0c942f385a46fee582fa06225365be14619ff652c9ffe4c35",
+        "bytes": 1570268,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 107,
+      "stage": 3,
+      "word": "topic",
+      "pronunciation": "/ˈtɑpɪk/",
+      "image": {
+        "path": "107.png",
+        "sha256": "e6df3c6eac4b69e529505511d133e312a1aed101e652d7e2db6bea51a6da304a",
+        "bytes": 1581113,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 108,
+      "stage": 3,
+      "word": "option",
+      "pronunciation": "/ˈɑpʃən/",
+      "image": {
+        "path": "108.png",
+        "sha256": "8097b9181009b0e988274b18c566067571ac1de4aa57082820fd3f0f7e70b03e",
+        "bytes": 1535429,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 109,
+      "stage": 3,
+      "word": "entire",
+      "pronunciation": "/ɪnˈtaɪər/",
+      "image": {
+        "path": "109.png",
+        "sha256": "7b8dd5e27b6713f5dd29492e85c75e5918d94dfc25a870cd00a17414f08d5307",
+        "bytes": 1743578,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 110,
+      "stage": 3,
+      "word": "obvious",
+      "pronunciation": "/ˈɑbviəs/",
+      "image": {
+        "path": "110.png",
+        "sha256": "68f1655b51c1f0de2c302856fc5b4d79cb91881c7ccb8b024d088752f1fe25dd",
+        "bytes": 1498332,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 111,
+      "stage": 3,
+      "word": "ordinary",
+      "pronunciation": "/ˈɔrdəˌnɛri/",
+      "image": {
+        "path": "111.png",
+        "sha256": "b88918d5661de6fb6df1572a3ac0b097f3ae901d903ff9209c09dbf6b615728f",
+        "bytes": 1874984,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 112,
+      "stage": 3,
+      "word": "previous",
+      "pronunciation": "/ˈpriviəs/",
+      "image": {
+        "path": "112.png",
+        "sha256": "5ae54696c000d13409f11bb410b215652befb0afca38074a05d0ddf2fbd8523f",
+        "bytes": 1484429,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 113,
+      "stage": 3,
+      "word": "trust",
+      "pronunciation": "/trəst/",
+      "image": {
+        "path": "113.png",
+        "sha256": "4c33084e185c30c2037dac74d4f6cdc21554086054c53d375206643c491e7a5f",
+        "bytes": 1474110,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 114,
+      "stage": 3,
+      "word": "divide",
+      "pronunciation": "/dɪˈvaɪd/",
+      "image": {
+        "path": "114.png",
+        "sha256": "a290e58f6402745f878c401de50888be79b36ef88baef20dcd538a1e8594094a",
+        "bytes": 1859032,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 115,
+      "stage": 3,
+      "word": "refuse",
+      "pronunciation": "/rɪˈfjuz/",
+      "image": {
+        "path": "115.png",
+        "sha256": "d4c758241f28daf9778256b634d3f19a84735d6d510d136284d914415a4fa53f",
+        "bytes": 1504641,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 116,
+      "stage": 3,
+      "word": "flow",
+      "pronunciation": "/floʊ/",
+      "image": {
+        "path": "116.png",
+        "sha256": "e17d92ae02277ba5dc4c3c21e2d39de5736fc5acbfc6bede588f103a785e80f5",
+        "bytes": 2192514,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 117,
+      "stage": 3,
+      "word": "web",
+      "pronunciation": "/wɛb/",
+      "image": {
+        "path": "117.png",
+        "sha256": "0240e8077df5002b6624b56b656e637f1523e721e2311bc5f1563dc3cae1900a",
+        "bytes": 1632075,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 118,
+      "stage": 3,
+      "word": "accurate",
+      "pronunciation": "/ˈækjərət/",
+      "image": {
+        "path": "118.png",
+        "sha256": "1a6d7c0bdb8920ada83f0e82c95fe95c6534d004761669d3a758fb4b91fde022",
+        "bytes": 1652766,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 119,
+      "stage": 3,
+      "word": "convenient",
+      "pronunciation": "/kənˈvinjənt/",
+      "image": {
+        "path": "119.png",
+        "sha256": "275a4c8491de2d542cac75a744f929f7cd5ae70612873e9fe2a611b8a317b75a",
+        "bytes": 2105986,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 120,
+      "stage": 3,
+      "word": "bite",
+      "pronunciation": "/baɪt/",
+      "image": {
+        "path": "120.png",
+        "sha256": "578010f5c46cd1166663d525c3f6389a4d0b92864cbb59a554705ccfe737279c",
+        "bytes": 1708179,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 121,
+      "stage": 3,
+      "word": "spell",
+      "pronunciation": "/spɛl/",
+      "image": {
+        "path": "121.png",
+        "sha256": "ca0448cb49b09f107dc92d0c0837734458af9a6a59d472db92983de9a824b74d",
+        "bytes": 1595336,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 122,
+      "stage": 3,
+      "word": "breathe",
+      "pronunciation": "/brið/",
+      "image": {
+        "path": "122.png",
+        "sha256": "a831f7d41a209704273f92eb7d257e3d260ffa1679b31fb1617395a34da64150",
+        "bytes": 1634443,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 123,
+      "stage": 3,
+      "word": "tip",
+      "pronunciation": "/tɪp/",
+      "image": {
+        "path": "123.png",
+        "sha256": "01c3df499df31d77090c7e3e492f4f147a92800a496a4c5fa3a00e4b66f9a045",
+        "bytes": 1624517,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 124,
+      "stage": 3,
+      "word": "stuff",
+      "pronunciation": "/stəf/",
+      "image": {
+        "path": "124.png",
+        "sha256": "d8dd953ebe8b9a899a7b35532292d34fa7aa6577af7acd28f946b78bf8f5b288",
+        "bytes": 1694011,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 125,
+      "stage": 3,
+      "word": "narrow",
+      "pronunciation": "/ˈnæroʊ/",
+      "image": {
+        "path": "125.png",
+        "sha256": "283f44935132c3582114dc13e473e15bc5f982ec09b17c6297e43d08506ae23f",
+        "bytes": 2302953,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 126,
+      "stage": 3,
+      "word": "freeze",
+      "pronunciation": "/friz/",
+      "image": {
+        "path": "126.png",
+        "sha256": "12a64c47fa7e9f3540526e993ec9b4d5647f0af4067757aedefd1de720b2e5ff",
+        "bytes": 1718874,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 127,
+      "stage": 3,
+      "word": "beat",
+      "pronunciation": "/bit/",
+      "image": {
+        "path": "127.png",
+        "sha256": "6fcdfed515878bfe06e9c05217c0b4ba987a3e0a9c3cbe00bd4d2efc29e04942",
+        "bytes": 1760416,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 128,
+      "stage": 3,
+      "word": "rush",
+      "pronunciation": "/rəʃ/",
+      "image": {
+        "path": "128.png",
+        "sha256": "71c2415b7d764502eaacf9a1d66d9ce54b7a505c3515ae77162666c1618f4cd7",
+        "bytes": 2224469,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 129,
+      "stage": 3,
+      "word": "hang",
+      "pronunciation": "/hæŋ/",
+      "image": {
+        "path": "129.png",
+        "sha256": "fe6e1e194b51a6e23119f6b1a82287cab56c88f1e4a4509138838d52ddc34f2d",
+        "bytes": 1980376,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 130,
+      "stage": 3,
+      "word": "celebrate",
+      "pronunciation": "/ˈsɛləˌbreɪt/",
+      "image": {
+        "path": "130.png",
+        "sha256": "7df253ca81854ff2b09e31adbcafd2a1ba7a6e21d1c3b8676d1624955a2fabae",
+        "bytes": 1654587,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 131,
+      "stage": 3,
+      "word": "fee",
+      "pronunciation": "/fi/",
+      "image": {
+        "path": "131.png",
+        "sha256": "498baa2d73eb108f97287bf0e06385b8803ef30035f9b2543acd907a23be3ed7",
+        "bytes": 2124239,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 132,
+      "stage": 3,
+      "word": "mood",
+      "pronunciation": "/mud/",
+      "image": {
+        "path": "132.png",
+        "sha256": "e7f4a3baa61c6fac10fa1ef26692a4c80c00947adabeef2f3473dda5728d389a",
+        "bytes": 2017473,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 133,
+      "stage": 3,
+      "word": "quit",
+      "pronunciation": "/kwɪt/",
+      "image": {
+        "path": "133.png",
+        "sha256": "becb200d49b74c30b78c45f5ad794ade4fbbce061088078e3e0e38d814226981",
+        "bytes": 1997943,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 134,
+      "stage": 3,
+      "word": "trick",
+      "pronunciation": "/trɪk/",
+      "image": {
+        "path": "134.png",
+        "sha256": "674aff59a70d5f7eb0dff46e3d602d75b289fb240db20b6061753c6194cf2149",
+        "bytes": 1639274,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 135,
+      "stage": 3,
+      "word": "melt",
+      "pronunciation": "/mɛlt/",
+      "image": {
+        "path": "135.png",
+        "sha256": "8e663c175adfed68570e2dee4b820538c9990f91b4362df21eb488ada16e9705",
+        "bytes": 1557781,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 136,
+      "stage": 3,
+      "word": "lend",
+      "pronunciation": "/lɛnd/",
+      "image": {
+        "path": "136.png",
+        "sha256": "9a97bb2e4b6c2f7b28f27514d5abcacc171387c4632ee618c41254cb97bb66cc",
+        "bytes": 2234870,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 137,
+      "stage": 3,
+      "word": "scare",
+      "pronunciation": "/skɛr/",
+      "image": {
+        "path": "137.png",
+        "sha256": "cf0901e6674645afc3bef5bf715546bb5268186973d26345b6cc0533fb345dbe",
+        "bytes": 2271988,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 138,
+      "stage": 3,
+      "word": "row",
+      "pronunciation": "/roʊ/",
+      "image": {
+        "path": "138.png",
+        "sha256": "4de4e78a98472a75c07d026d13c56ed79a0c91feb0f9349a60ce8543bd751c1b",
+        "bytes": 2239464,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 139,
+      "stage": 3,
+      "word": "greet",
+      "pronunciation": "/grit/",
+      "image": {
+        "path": "139.png",
+        "sha256": "7e527b3d6e3ca271b8c80ef14b6964623ca68f5da29a0e0102b65a5b2344b107",
+        "bytes": 1747476,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 140,
+      "stage": 3,
+      "word": "mall",
+      "pronunciation": "/mɔl/",
+      "image": {
+        "path": "140.png",
+        "sha256": "1dbd2b196578199d32dc9bad071461462692ec67d1b1f218b9286486eb018533",
+        "bytes": 2177785,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 141,
+      "stage": 3,
+      "word": "recipe",
+      "pronunciation": "/ˈrɛsəpi/",
+      "image": {
+        "path": "141.png",
+        "sha256": "d59e2c8d85466096abc66e843992a85aed046b5589eab1f496dc04b8f7f1e528",
+        "bytes": 1723454,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 142,
+      "stage": 3,
+      "word": "pour",
+      "pronunciation": "/pɔr/",
+      "image": {
+        "path": "142.png",
+        "sha256": "65c8bf4666c651dd8254a95a414d55cefbe6595682c753c19359e2d22d67a585",
+        "bytes": 1641642,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 143,
+      "stage": 3,
+      "word": "grab",
+      "pronunciation": "/græb/",
+      "image": {
+        "path": "143.png",
+        "sha256": "7744b57f78ab3903d3e2b7881b7875074c7e2e395ce1a0699ca24d13924d277e",
+        "bytes": 1474771,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 144,
+      "stage": 3,
+      "word": "fold",
+      "pronunciation": "/foʊld/",
+      "image": {
+        "path": "144.png",
+        "sha256": "a68c9b19efa36d966d4cfa136ec129f9a23321889d3f31abb04171d816311581",
+        "bytes": 2167717,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 145,
+      "stage": 3,
+      "word": "awful",
+      "pronunciation": "/ˈɔfəl/",
+      "image": {
+        "path": "145.png",
+        "sha256": "22177ee97d8b6b1acc58e03a0ddb12122ca8793cbdb335c26e3313e7391c9c7c",
+        "bytes": 1910443,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 146,
+      "stage": 3,
+      "word": "nod",
+      "pronunciation": "/nɑd/",
+      "image": {
+        "path": "146.png",
+        "sha256": "45779e4121da86447b6104c32ab9b560080afdfa50fd5b7dbc89a039f2a945fd",
+        "bytes": 1514088,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 147,
+      "stage": 3,
+      "word": "wipe",
+      "pronunciation": "/waɪp/",
+      "image": {
+        "path": "147.png",
+        "sha256": "f260486f402f74dae29c379fad32cb0cda5244ae1d67c50ebdda453edc1b034e",
+        "bytes": 1614773,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 148,
+      "stage": 3,
+      "word": "click",
+      "pronunciation": "/klɪk/",
+      "image": {
+        "path": "148.png",
+        "sha256": "733d940b736abe0d8de3aeb41420138328148001221dec43b5e64df61108c6ed",
+        "bytes": 1683789,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 149,
+      "stage": 3,
+      "word": "therefore",
+      "pronunciation": "/ˈðɛrˌfɔr/",
+      "image": {
+        "path": "149.png",
+        "sha256": "86d0f1322d5cd1906358a7597a16e9e5289e2a50cf7256c04191ced83d4cdffb",
+        "bytes": 1944394,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 150,
+      "stage": 3,
+      "word": "thus",
+      "pronunciation": "/ðəs/",
+      "image": {
+        "path": "150.png",
+        "sha256": "7bfa2ac6a1d0a56cda26b9c3b2107e6471eeb7efa002490dc46372926b1eb794",
+        "bytes": 1543503,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 151,
+      "stage": 4,
+      "word": "formal",
+      "pronunciation": "/ˈfɔrməl/",
+      "image": {
+        "path": "151.png",
+        "sha256": "2c01f26e2225cb68760b41b557be14c3844986b4197a4666bd4a3b2382741862",
+        "bytes": 1703954,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 152,
+      "stage": 4,
+      "word": "professional",
+      "pronunciation": "/prəˈfɛʃənəl/",
+      "image": {
+        "path": "152.png",
+        "sha256": "0188e604cfe99d15826439527ae003ed30e1e203111bb11528d65884874d6b4d",
+        "bytes": 1817027,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 153,
+      "stage": 4,
+      "word": "realistic",
+      "pronunciation": "/ˌriəˈlɪstɪk/",
+      "image": {
+        "path": "153.png",
+        "sha256": "e9aac75ac0d470d02c12bd28c624ce753da2a69ac970d8f12720b45171165e6e",
+        "bytes": 1781567,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 154,
+      "stage": 4,
+      "word": "rapid",
+      "pronunciation": "/ˈræpəd/",
+      "image": {
+        "path": "154.png",
+        "sha256": "fb41d85cc140643ce1284c5cd959b6293440dcbee9dd015d304c9c63b1670b0a",
+        "bytes": 1712112,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 155,
+      "stage": 4,
+      "word": "unique",
+      "pronunciation": "/juˈnik/",
+      "image": {
+        "path": "155.png",
+        "sha256": "521d81f98cd02663244d9741b551056a2cebcbceccb436fefb5cb6f901f20491",
+        "bytes": 1873832,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 156,
+      "stage": 4,
+      "word": "effective",
+      "pronunciation": "/ˈifɛktɪv/",
+      "image": {
+        "path": "156.png",
+        "sha256": "6a5c0fe4c466580d2f344a9343444578f53a6e9cd6b505c6f74456c7506e1d3a",
+        "bytes": 2368804,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 157,
+      "stage": 4,
+      "word": "factor",
+      "pronunciation": "/ˈfæktər/",
+      "image": {
+        "path": "157.png",
+        "sha256": "5fe8bf8d4919e911a3e54c664d60e3abcf79af220135dbd1fa04970c9f235af7",
+        "bytes": 2838976,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 158,
+      "stage": 4,
+      "word": "pattern",
+      "pronunciation": "/ˈpætərn/",
+      "image": {
+        "path": "158.png",
+        "sha256": "4f859a102cf4537a64d4fe5eebb801a14630fe74bc82094e6b09faebf33e9e55",
+        "bytes": 1582113,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 159,
+      "stage": 4,
+      "word": "process",
+      "pronunciation": "/ˈprɑˌsɛs/",
+      "image": {
+        "path": "159.png",
+        "sha256": "ba4911dcabacef7e4c2a7fd2bbca1abb83db9926a7f5abe710f0a0fa00822843",
+        "bytes": 1875878,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 160,
+      "stage": 4,
+      "word": "risk",
+      "pronunciation": "/rɪsk/",
+      "image": {
+        "path": "160.png",
+        "sha256": "8b953ae2df812784515bf6744fc59e05564b9cf4deb803c2d44357c51191e9b1",
+        "bytes": 1742889,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 161,
+      "stage": 4,
+      "word": "schedule",
+      "pronunciation": "/ˈskɛʤul/",
+      "image": {
+        "path": "161.png",
+        "sha256": "75a3974d28e1c789b00e5f0497add38daa27821a02ec10a9934dfd82ecaa07bf",
+        "bytes": 1511837,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 162,
+      "stage": 4,
+      "word": "standard",
+      "pronunciation": "/ˈstændərd/",
+      "image": {
+        "path": "162.png",
+        "sha256": "7806cb5b2956894c3141fd71e518d70f4331cfaeb199730e95a6a411cee5c29e",
+        "bytes": 1761380,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 163,
+      "stage": 4,
+      "word": "addition",
+      "pronunciation": "/əˈdɪʃən/",
+      "image": {
+        "path": "163.png",
+        "sha256": "1fc815c9c1afb18e81fdc6d9f93ee383f124b61c97c2dd97abe3c16c81c3e196",
+        "bytes": 2032719,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 164,
+      "stage": 4,
+      "word": "climate",
+      "pronunciation": "/ˈklaɪmət/",
+      "image": {
+        "path": "164.png",
+        "sha256": "0d8ab8cf20317d0391a49ad4aa07abb07312d5dbe301eff80c934e0020490b23",
+        "bytes": 2135735,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 165,
+      "stage": 4,
+      "word": "consumer",
+      "pronunciation": "/kənˈsumər/",
+      "image": {
+        "path": "165.png",
+        "sha256": "dd2eb293ea62a5e1800afa1b4f3d01314fb4314794ed40cc1819dac5dbb046fc",
+        "bytes": 1601941,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 166,
+      "stage": 4,
+      "word": "discussion",
+      "pronunciation": "/dɪˈskəʃən/",
+      "image": {
+        "path": "166.png",
+        "sha256": "7e0a33f3c211b964a93423677eff3a879a1afe3427a76ed89007db61228e4a56",
+        "bytes": 1734555,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 167,
+      "stage": 4,
+      "word": "protect",
+      "pronunciation": "/prəˈtɛkt/",
+      "image": {
+        "path": "167.png",
+        "sha256": "6086a589510a82efb5c6af3b827fc06f5a9b14e967fa54e201d3a2c6ca3257cf",
+        "bytes": 1741976,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 168,
+      "stage": 4,
+      "word": "suggest",
+      "pronunciation": "/səˈʤɛst/",
+      "image": {
+        "path": "168.png",
+        "sha256": "5ebb00fedfd6ccad0837d1ee2698fdbb57352188801b71f009987cd76ac107dc",
+        "bytes": 1944774,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 169,
+      "stage": 4,
+      "word": "require",
+      "pronunciation": "/ˌrikˈwaɪər/",
+      "image": {
+        "path": "169.png",
+        "sha256": "265615b81581b1cdbc84e9c96ae2c0f1ce7ca0fc4770bcf126a1c9fae683176a",
+        "bytes": 1871167,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 170,
+      "stage": 4,
+      "word": "concern",
+      "pronunciation": "/kənˈsərn/",
+      "image": {
+        "path": "170.png",
+        "sha256": "3d7a27212261eddc673415922abb4a15c63fb25ac74439166e3689314005e02b",
+        "bytes": 2569063,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 171,
+      "stage": 4,
+      "word": "involve",
+      "pronunciation": "/ˌɪnˈvɑlv/",
+      "image": {
+        "path": "171.png",
+        "sha256": "c7fc08569d61f123493ddf1aeaf6b031dfdc402786c5d6d69e20c7b479ddc12e",
+        "bytes": 2085247,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 172,
+      "stage": 4,
+      "word": "design",
+      "pronunciation": "/dɪˈzaɪn/",
+      "image": {
+        "path": "172.png",
+        "sha256": "8b3ab46001ac1a5657d24d38f7adb603f8bead23d4faaa91a761687b34ce8b8c",
+        "bytes": 1861022,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 173,
+      "stage": 4,
+      "word": "force",
+      "pronunciation": "/fɔrs/",
+      "image": {
+        "path": "173.png",
+        "sha256": "6de950c58fc8d8b72cc69078331feeb3fa560b20287c3375c7dc6eb7e19cee23",
+        "bytes": 1591741,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 174,
+      "stage": 4,
+      "word": "limit",
+      "pronunciation": "/ˈlɪmət/",
+      "image": {
+        "path": "174.png",
+        "sha256": "29b8e99a3bb5387716c3b3275eea830f511ce20edd02d297e0010eabd54bfe48",
+        "bytes": 1829321,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 175,
+      "stage": 4,
+      "word": "affect",
+      "pronunciation": "/əˈfɛkt/",
+      "image": {
+        "path": "175.png",
+        "sha256": "29ea2d2290a981b2d77af0740b6930f2c6b36cdf27bb014f39877e5e0745c7f9",
+        "bytes": 2014025,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 176,
+      "stage": 4,
+      "word": "deal",
+      "pronunciation": "/dil/",
+      "image": {
+        "path": "176.png",
+        "sha256": "7583e6b17078d54f8919670fb29c0faaee9178e10881edf212ac7672268b13e3",
+        "bytes": 1709342,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 177,
+      "stage": 4,
+      "word": "relate",
+      "pronunciation": "/rɪˈleɪt/",
+      "image": {
+        "path": "177.png",
+        "sha256": "038d73274c0391d5975770320d6c27deb0bdb9a9f71065300f858fdc06f08ff1",
+        "bytes": 1667182,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 178,
+      "stage": 4,
+      "word": "encourage",
+      "pronunciation": "/ɪnˈkərəʤ/",
+      "image": {
+        "path": "178.png",
+        "sha256": "3c9e3388349cd7cf7b002212c724e7102f1fbafd40497053e50541033cc0ed68",
+        "bytes": 2131717,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 179,
+      "stage": 4,
+      "word": "measure",
+      "pronunciation": "/ˈmɛʒər/",
+      "image": {
+        "path": "179.png",
+        "sha256": "d1dc6c890bd91915fa1e7db786b6b1fd8ce8b21a5480f4c50e0057c1addb2dae",
+        "bytes": 1938274,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 180,
+      "stage": 4,
+      "word": "depend",
+      "pronunciation": "/dɪˈpɛnd/",
+      "image": {
+        "path": "180.png",
+        "sha256": "766fd6bee21c8e543676ca7da989fa557b274d6f2cf16f9fa4ee2782ed9d6132",
+        "bytes": 1662915,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 181,
+      "stage": 4,
+      "word": "demand",
+      "pronunciation": "/dɪˈmænd/",
+      "image": {
+        "path": "181.png",
+        "sha256": "1aaee03631cf475e9489b1b2fc23b2cb6a32394abeac6203ad7cc65bfd804ff8",
+        "bytes": 1746649,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 182,
+      "stage": 4,
+      "word": "influence",
+      "pronunciation": "/ˈɪnfluəns/",
+      "image": {
+        "path": "182.png",
+        "sha256": "11b8b1d94afc0fc1e83bdf4ac14d03ef560fb0429ed4174929c29597c3dd31d6",
+        "bytes": 1992146,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 183,
+      "stage": 4,
+      "word": "practice",
+      "pronunciation": "/ˈpræktɪs/",
+      "image": {
+        "path": "183.png",
+        "sha256": "5d71c2117bd7c4d7c62529cc20aa5984a2d65e06c0938f1a992ea7e3cc3ca054",
+        "bytes": 1743409,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 184,
+      "stage": 4,
+      "word": "benefit",
+      "pronunciation": "/ˈbɛnəfɪt/",
+      "image": {
+        "path": "184.png",
+        "sha256": "565c9b4962621bab524aa8d53f65ecf0a54075516fa7d1ab4737830a04d704eb",
+        "bytes": 2244488,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 185,
+      "stage": 4,
+      "word": "issue",
+      "pronunciation": "/ˈɪʃu/",
+      "image": {
+        "path": "185.png",
+        "sha256": "00f17871da9fd411488b75b1e125566d4c1f82fbb955b0b73d1ae1bcf3faa07e",
+        "bytes": 2013398,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 186,
+      "stage": 4,
+      "word": "experiment",
+      "pronunciation": "/ɪkˈspɛrəmənt/",
+      "image": {
+        "path": "186.png",
+        "sha256": "b0745d7d8d22c6f3d33dc78df0ffc27b82e9c6463de299dbf24714c790e4226d",
+        "bytes": 1669603,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 187,
+      "stage": 4,
+      "word": "focus",
+      "pronunciation": "/ˈfoʊkəs/",
+      "image": {
+        "path": "187.png",
+        "sha256": "ce7e81bce37b52b20e597a3f72bf8aa5fc26912aeeb5049deeb5fe0ba5f3bee0",
+        "bytes": 1807059,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 188,
+      "stage": 4,
+      "word": "quality",
+      "pronunciation": "/kˈwɑləti/",
+      "image": {
+        "path": "188.png",
+        "sha256": "f928125e3af4d705d91d3fb1324a3386ab5b330d8ec1c6629dc9db10c48335e2",
+        "bytes": 1879786,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 189,
+      "stage": 4,
+      "word": "term",
+      "pronunciation": "/tərm/",
+      "image": {
+        "path": "189.png",
+        "sha256": "631f7c0f5adbfe32b965a486924207f58301ef5c4cfef94692455714179ff86e",
+        "bytes": 2102512,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 190,
+      "stage": 4,
+      "word": "material",
+      "pronunciation": "/məˈtɪriəl/",
+      "image": {
+        "path": "190.png",
+        "sha256": "40d941b1f0d26fc6c9a63dc7bcdd9d4648693cb5821ef72aae6dfd033340f6c5",
+        "bytes": 1707546,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 191,
+      "stage": 4,
+      "word": "source",
+      "pronunciation": "/sɔrs/",
+      "image": {
+        "path": "191.png",
+        "sha256": "2b65efc02c441fec036647a760d27ed77e2f1a022fcc0ed435b1fbf24a889c88",
+        "bytes": 2532554,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 192,
+      "stage": 4,
+      "word": "technology",
+      "pronunciation": "/tɛkˈnɑləʤi/",
+      "image": {
+        "path": "192.png",
+        "sha256": "7c5f050958934a6930138e7a53aa330e61b8763c022045880942e3a7db5844d6",
+        "bytes": 1512869,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 193,
+      "stage": 4,
+      "word": "public",
+      "pronunciation": "/ˈpəblɪk/",
+      "image": {
+        "path": "193.png",
+        "sha256": "f86a16810d8683622d09e7aa3e9272d75090116eacfac4421f6f3f6d53656e45",
+        "bytes": 2392724,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 194,
+      "stage": 4,
+      "word": "certain",
+      "pronunciation": "/ˈsərtən/",
+      "image": {
+        "path": "194.png",
+        "sha256": "f0b44ce15124f23cc57ca4514e009de71a3e593cb754be9ba0444caa89761f9e",
+        "bytes": 1693889,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 195,
+      "stage": 4,
+      "word": "recent",
+      "pronunciation": "/ˈrisənt/",
+      "image": {
+        "path": "195.png",
+        "sha256": "c16a3fb2a618b1cb19e5130947e32f1f95d6f4a0f5027afc8873ea4036951b16",
+        "bytes": 2629780,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 196,
+      "stage": 4,
+      "word": "major",
+      "pronunciation": "/ˈmeɪʤər/",
+      "image": {
+        "path": "196.png",
+        "sha256": "3350cb0e195419aece76cb3e84117e6a97c0883467416d5b7649e46797fe58f4",
+        "bytes": 1930971,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 197,
+      "stage": 4,
+      "word": "patient",
+      "pronunciation": "/ˈpeɪʃənt/",
+      "image": {
+        "path": "197.png",
+        "sha256": "a4160d5623af020b1c0d448cb4b1518a886ed402d4c6aab880d6174cc6ce2bc2",
+        "bytes": 1801752,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 198,
+      "stage": 4,
+      "word": "particular",
+      "pronunciation": "/ˌpɑˈtɪkjələr/",
+      "image": {
+        "path": "198.png",
+        "sha256": "2ecdb5ebd357e7a2281b622410470a9ab7f306deca042947fbafbb364c039c07",
+        "bytes": 1776096,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 199,
+      "stage": 4,
+      "word": "available",
+      "pronunciation": "/əˈveɪləbəl/",
+      "image": {
+        "path": "199.png",
+        "sha256": "cf6d8df5073f9aeda0ab9035eed3bcfeb67e680803eb395f4f84128c24c32528",
+        "bytes": 2115869,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 200,
+      "stage": 4,
+      "word": "native",
+      "pronunciation": "/ˈneɪtɪv/",
+      "image": {
+        "path": "200.png",
+        "sha256": "fabf67cf120bba2f681e271d01433824350e4f2c7b385c213565f4328ad7c169",
+        "bytes": 2686585,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 201,
+      "stage": 5,
+      "word": "ancient",
+      "pronunciation": "/ˈeɪnʃənt/",
+      "image": {
+        "path": "201.png",
+        "sha256": "d0a0543ded960ea73153a2b9a0163b3f70699c76ef3a1533ab0fb7cf8609a780",
+        "bytes": 2528699,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 202,
+      "stage": 5,
+      "word": "refer",
+      "pronunciation": "/rɪˈfər/",
+      "image": {
+        "path": "202.png",
+        "sha256": "c4b7ea372a3e039be447b71957804fd30a6b131f24a0705be5543715e24ed687",
+        "bytes": 1752467,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 203,
+      "stage": 5,
+      "word": "solve",
+      "pronunciation": "/sɑlv/",
+      "image": {
+        "path": "203.png",
+        "sha256": "36780742ba25cae0a8b900de39e56a9bb232777f2b8e57b0c0ee7d2766a7df74",
+        "bytes": 2336483,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 204,
+      "stage": 5,
+      "word": "occur",
+      "pronunciation": "/əˈkər/",
+      "image": {
+        "path": "204.png",
+        "sha256": "0c81a4ca079922ecf11ccdaa8c88bd8775845c4120ae3dd35894df34ea6879cc",
+        "bytes": 1862211,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 205,
+      "stage": 5,
+      "word": "express",
+      "pronunciation": "/ɪkˈsprɛs/",
+      "image": {
+        "path": "205.png",
+        "sha256": "774336d5ec1ebdc990af3c8d8a393bb82bd949d59e65b6352b9801dda5355275",
+        "bytes": 2180304,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 206,
+      "stage": 5,
+      "word": "waste",
+      "pronunciation": "/weɪst/",
+      "image": {
+        "path": "206.png",
+        "sha256": "28987f0e1006b154ef962385b800fb2aa2755996ed56e379c5062e444ca5cfef",
+        "bytes": 1777318,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 207,
+      "stage": 5,
+      "word": "achieve",
+      "pronunciation": "/əˈʧiv/",
+      "image": {
+        "path": "207.png",
+        "sha256": "3ecf204bb0afdc321d1f4d0ae4e70239eff713498aac0392fc3a641c82472afb",
+        "bytes": 1655882,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 208,
+      "stage": 5,
+      "word": "supply",
+      "pronunciation": "/səˈplaɪ/",
+      "image": {
+        "path": "208.png",
+        "sha256": "6da694ef7d719f000088425789794329eb691acf0767204f0b6a37aa0a63e507",
+        "bytes": 2016247,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 209,
+      "stage": 5,
+      "word": "suppose",
+      "pronunciation": "/səˈpoʊz/",
+      "image": {
+        "path": "209.png",
+        "sha256": "32701e838d8315fb6bfadee5d9ab0e74f75a72eddc53b3fec5a21a167af2a1af",
+        "bytes": 1694857,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 210,
+      "stage": 5,
+      "word": "treat",
+      "pronunciation": "/trit/",
+      "image": {
+        "path": "210.png",
+        "sha256": "76eed606f11cc2d53ca3d200c1ce39f28509a2ec7571bcc972e8c9ade50afe5b",
+        "bytes": 1636069,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 211,
+      "stage": 5,
+      "word": "apply",
+      "pronunciation": "/əˈplaɪ/",
+      "image": {
+        "path": "211.png",
+        "sha256": "b611f5468298f4020a682a39debb7f7c16d27e2bca1878fd8a09e35beaa94854",
+        "bytes": 2040204,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 212,
+      "stage": 5,
+      "word": "prevent",
+      "pronunciation": "/prɪˈvɛnt/",
+      "image": {
+        "path": "212.png",
+        "sha256": "ac1ebdd3e04ac297532e41f811a3f41f41a32d445c519ed5efd322afd3bcf893",
+        "bytes": 2323677,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 213,
+      "stage": 5,
+      "word": "survive",
+      "pronunciation": "/sərˈvaɪv/",
+      "image": {
+        "path": "213.png",
+        "sha256": "f2a513f5117c4515044102ce6f81237f68718c8f4a8abfd761706ca510f901f1",
+        "bytes": 2205276,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 214,
+      "stage": 5,
+      "word": "opportunity",
+      "pronunciation": "/ˌɑpərˈtunəti/",
+      "image": {
+        "path": "214.png",
+        "sha256": "52691f42ad8d938832316d9435a4995f371f5d23141b5956f20078f87575b6e1",
+        "bytes": 1509250,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 215,
+      "stage": 5,
+      "word": "task",
+      "pronunciation": "/tæsk/",
+      "image": {
+        "path": "215.png",
+        "sha256": "a48c945cd5d19e7ff0a8f2f6dbc04ce9f21e4b1ae6638ff288e96ffa68ee2a86",
+        "bytes": 1600021,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 216,
+      "stage": 5,
+      "word": "account",
+      "pronunciation": "/əˈkaʊnt/",
+      "image": {
+        "path": "216.png",
+        "sha256": "c835ac7dde35abd53a17ac4d87f91916220bbea8fa550354ad17d121d4069215",
+        "bytes": 1565502,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 217,
+      "stage": 5,
+      "word": "figure",
+      "pronunciation": "/ˈfɪgjər/",
+      "image": {
+        "path": "217.png",
+        "sha256": "39600a686e69e983d6db5e643cb67f8e71e5ae0a466cc207b3f804e0ca7e93af",
+        "bytes": 1516494,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 218,
+      "stage": 5,
+      "word": "emotion",
+      "pronunciation": "/ˈiˌmoʊʃən/",
+      "image": {
+        "path": "218.png",
+        "sha256": "f8fc4a9733c4ec1024be7fbcb96daa93766a78ce195e6b97913810ee5534595b",
+        "bytes": 1660800,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 219,
+      "stage": 5,
+      "word": "stress",
+      "pronunciation": "/strɛs/",
+      "image": {
+        "path": "219.png",
+        "sha256": "5c5a5114d584e42a3b96914d86c8164f60d85d0d46d1ff1d70e96cc6fc4bb87d",
+        "bytes": 2027374,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 220,
+      "stage": 5,
+      "word": "decade",
+      "pronunciation": "/ˈdɛkeɪd/",
+      "image": {
+        "path": "220.png",
+        "sha256": "17d12d0b702518718bed8ee25b93be1db691239cebbc21429b36bfd7310ea52e",
+        "bytes": 1889917,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 221,
+      "stage": 5,
+      "word": "range",
+      "pronunciation": "/reɪnʤ/",
+      "image": {
+        "path": "221.png",
+        "sha256": "db9c55ad595b8fb7d19a6f8aaf4a415fe36766e04b516a6b3f944eaa5df38d9e",
+        "bytes": 2900365,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 222,
+      "stage": 5,
+      "word": "advantage",
+      "pronunciation": "/ædˈvæntɪʤ/",
+      "image": {
+        "path": "222.png",
+        "sha256": "9856c9be7f21c7ba73b2b69aa8c75f3ad3b6d0884f1edb722028127e7e1b1eff",
+        "bytes": 2024073,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 223,
+      "stage": 5,
+      "word": "damage",
+      "pronunciation": "/ˈdæməʤ/",
+      "image": {
+        "path": "223.png",
+        "sha256": "25953fcf139ca601e57c4b7196a90d1b378d98c184bfc9f87fb24e8554857adf",
+        "bytes": 2114934,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 224,
+      "stage": 5,
+      "word": "method",
+      "pronunciation": "/ˈmɛθəd/",
+      "image": {
+        "path": "224.png",
+        "sha256": "d7423bbf2d52c09d0c7a343fa5bd15c50db5220518e06ffaa7acd95f2c5eaefc",
+        "bytes": 1762731,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 225,
+      "stage": 5,
+      "word": "medicine",
+      "pronunciation": "/ˈmɛdəsən/",
+      "image": {
+        "path": "225.png",
+        "sha256": "4811b092bbede8ce09e321e2098b305340e3419fafddd8ea1f9bd120c3117b67",
+        "bytes": 1596984,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 226,
+      "stage": 5,
+      "word": "feature",
+      "pronunciation": "/ˈfiʧər/",
+      "image": {
+        "path": "226.png",
+        "sha256": "74b9f34b9f6e49646eb370fd43cb1ac868c4a3adfe65e5bf4a090ef20e63ca60",
+        "bytes": 2456470,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 227,
+      "stage": 5,
+      "word": "function",
+      "pronunciation": "/ˈfəŋkʃən/",
+      "image": {
+        "path": "227.png",
+        "sha256": "24653e2bdd1b8b5e20d5ecb63cadf1a370a7861a60e3ddf124aeede3904f10ce",
+        "bytes": 1764527,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 228,
+      "stage": 5,
+      "word": "income",
+      "pronunciation": "/ˈɪnˌkəm/",
+      "image": {
+        "path": "228.png",
+        "sha256": "b61dc8d2d4aa42cec2267e0ca2debe5ce515a4ebbe07e02cfc1262943f03bf7e",
+        "bytes": 1906943,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 229,
+      "stage": 5,
+      "word": "site",
+      "pronunciation": "/saɪt/",
+      "image": {
+        "path": "229.png",
+        "sha256": "f27405d7cce586770389de5e587dee503d7abd12f532364a067542c851dc029d",
+        "bytes": 2266418,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 230,
+      "stage": 5,
+      "word": "habit",
+      "pronunciation": "/ˈhæbət/",
+      "image": {
+        "path": "230.png",
+        "sha256": "9969722b12eb27398fd42e5ad9c817e4dab689d7844cd88be6d15ad7943910ba",
+        "bytes": 1834197,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 231,
+      "stage": 5,
+      "word": "link",
+      "pronunciation": "/lɪŋk/",
+      "image": {
+        "path": "231.png",
+        "sha256": "6f2b345cc07771d7e8bf60bfc8a86379d01cbe1b0e81934897c1d5e482fed13f",
+        "bytes": 1580905,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 232,
+      "stage": 5,
+      "word": "specific",
+      "pronunciation": "/spɪˈsɪfɪk/",
+      "image": {
+        "path": "232.png",
+        "sha256": "14d4110fb915f64b820fad5cfe2b889bc8a4282b02ffa60afd7f502097844a02",
+        "bytes": 1637398,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 233,
+      "stage": 5,
+      "word": "official",
+      "pronunciation": "/əˈfɪʃəl/",
+      "image": {
+        "path": "233.png",
+        "sha256": "2a67c146d34161da500f37c761c734885aaea217e8fe7c9545440987ae072bf5",
+        "bytes": 1786173,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 234,
+      "stage": 5,
+      "word": "aware",
+      "pronunciation": "/əˈwɛr/",
+      "image": {
+        "path": "234.png",
+        "sha256": "e14728212a53c5c5a64642f7f83514735b6e891f2cef6117ffbc98ec7cc9a957",
+        "bytes": 1884833,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 235,
+      "stage": 5,
+      "word": "digital",
+      "pronunciation": "/ˈdɪʤətəl/",
+      "image": {
+        "path": "235.png",
+        "sha256": "41397633bfeaf89f9bd1618582448960e977cdd19d004ce761ffad62f200f655",
+        "bytes": 1614611,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 236,
+      "stage": 5,
+      "word": "mobile",
+      "pronunciation": "/ˈmoʊbəl/",
+      "image": {
+        "path": "236.png",
+        "sha256": "d972638db217cf6bc7b7a3c701c2220b1ba6fa2e617dcb5d1681fd5b0291d654",
+        "bytes": 1862883,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 237,
+      "stage": 5,
+      "word": "eventually",
+      "pronunciation": "/ɪˈvɛnʧəwəli/",
+      "image": {
+        "path": "237.png",
+        "sha256": "578412994534fd958efeeba444705881c00afe03f31e2e01ac3773597d6aeeee",
+        "bytes": 2287699,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 238,
+      "stage": 5,
+      "word": "identify",
+      "pronunciation": "/aɪˈdɛntəˌfaɪ/",
+      "image": {
+        "path": "238.png",
+        "sha256": "98a6ff955ab9f00d0b618bc4fabe34c83ed0dd7895912b00d2145abc92192812",
+        "bytes": 2327217,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 239,
+      "stage": 5,
+      "word": "represent",
+      "pronunciation": "/ˌrɛprɪˈzɛnt/",
+      "image": {
+        "path": "239.png",
+        "sha256": "1ffbc6b0911ec5bbef296bac9822b2a00a675a3ee407d85cedf2435f216c9c3c",
+        "bytes": 2183493,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 240,
+      "stage": 5,
+      "word": "indicate",
+      "pronunciation": "/ˈɪndəˌkeɪt/",
+      "image": {
+        "path": "240.png",
+        "sha256": "090d7f5b1a35f6daa74a667231d95e079b9b1a0e8eb25bb549ec4098834f5945",
+        "bytes": 2472943,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 241,
+      "stage": 5,
+      "word": "manage",
+      "pronunciation": "/ˈmænɪʤ/",
+      "image": {
+        "path": "241.png",
+        "sha256": "133b3618a11b9b3a621b0ed1f4a81dafc1c1b635a03334a09bdfa0bf2fa6b6fa",
+        "bytes": 2082415,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 242,
+      "stage": 5,
+      "word": "replace",
+      "pronunciation": "/ˌriˈpleɪs/",
+      "image": {
+        "path": "242.png",
+        "sha256": "146cbe3189ad0c8eade818c5c1ededa08c57cc89631531821e102c82d4a37131",
+        "bytes": 1584096,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 243,
+      "stage": 5,
+      "word": "sort",
+      "pronunciation": "/sɔrt/",
+      "image": {
+        "path": "243.png",
+        "sha256": "a304d14686353d8da8fdc0a98f84a2e491996555152d62ed77bf91dd79afca2d",
+        "bytes": 1832536,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 244,
+      "stage": 5,
+      "word": "attempt",
+      "pronunciation": "/əˈtɛmpt/",
+      "image": {
+        "path": "244.png",
+        "sha256": "57bfd015d6744ddcf0066ba38c9f74eef93b0748d7a71117d97346448da5ddf0",
+        "bytes": 1587394,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 245,
+      "stage": 5,
+      "word": "unite",
+      "pronunciation": "/ˈjuˌnaɪt/",
+      "image": {
+        "path": "245.png",
+        "sha256": "85a83b3d99d59e0babf36f95e3986e8e22e97254c8e45837d22251a5bb678310",
+        "bytes": 2244024,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 246,
+      "stage": 5,
+      "word": "attract",
+      "pronunciation": "/əˈtrækt/",
+      "image": {
+        "path": "246.png",
+        "sha256": "3c349f2c9ce8005f4a17e51f862b07410715b728e8cbe053d9e1daf36dc597dc",
+        "bytes": 1624685,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 247,
+      "stage": 5,
+      "word": "decrease",
+      "pronunciation": "/dɪˈkris/",
+      "image": {
+        "path": "247.png",
+        "sha256": "3c69ad7b795aacaff53ee04a0a23636e82600a1ad89d8155297ab5b7bfcd1cb0",
+        "bytes": 1666704,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 248,
+      "stage": 5,
+      "word": "ignore",
+      "pronunciation": "/ˌɪgˈnɔr/",
+      "image": {
+        "path": "248.png",
+        "sha256": "cd9aa21cc2cecd38738d8f34fb4eff4f6881069359e1ffc893f65d3404ef7259",
+        "bytes": 1774619,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 249,
+      "stage": 5,
+      "word": "exchange",
+      "pronunciation": "/ɪksˈʧeɪnʤ/",
+      "image": {
+        "path": "249.png",
+        "sha256": "7025e49cb1f696e7f3c034e06226aa4ef2cd3434813c238402bc3481939e394d",
+        "bytes": 1641918,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 250,
+      "stage": 5,
+      "word": "display",
+      "pronunciation": "/dɪˈspleɪ/",
+      "image": {
+        "path": "250.png",
+        "sha256": "e7c7ecca3747c9ea5ea14fdf92f2701e184451c09482cb15e306499bf0a2ac0e",
+        "bytes": 1787534,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 251,
+      "stage": 6,
+      "word": "respond",
+      "pronunciation": "/rɪˈspɑnd/",
+      "image": {
+        "path": "251.png",
+        "sha256": "060dd28cf9317dd208b35bc4872bcb33663e268f7840986aa99abf5b8c199b5e",
+        "bytes": 1630945,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 252,
+      "stage": 6,
+      "word": "succeed",
+      "pronunciation": "/səkˈsid/",
+      "image": {
+        "path": "252.png",
+        "sha256": "eae6afae81721c161ce6c4da33a520d58b54989bf461728bb5853c6488968b7a",
+        "bytes": 2118542,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 253,
+      "stage": 6,
+      "word": "device",
+      "pronunciation": "/dɪˈvaɪs/",
+      "image": {
+        "path": "253.png",
+        "sha256": "cad3238365d3ba65de65e2b29b3e079131dea14fd2c97b2d43b2fac9051722f3",
+        "bytes": 1577317,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 254,
+      "stage": 6,
+      "word": "charge",
+      "pronunciation": "/ʧɑrʤ/",
+      "image": {
+        "path": "254.png",
+        "sha256": "1c8ba04883b6bac68bcd66386be82e91a4e53d5522b4a8f68ca49ea956cdf370",
+        "bytes": 2280269,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 255,
+      "stage": 6,
+      "word": "colleague",
+      "pronunciation": "/ˈkɑlig/",
+      "image": {
+        "path": "255.png",
+        "sha256": "e2e44af70439ccb3c9a10fec478debbcbab559ee5a2eede71a8761f791d42d46",
+        "bytes": 1605577,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 256,
+      "stage": 6,
+      "word": "section",
+      "pronunciation": "/ˈsɛkʃən/",
+      "image": {
+        "path": "256.png",
+        "sha256": "05eafa4247ccdf7c5f1e610f434e205ef15fb713dc9e842074fad10d6e12a235",
+        "bytes": 1982375,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 257,
+      "stage": 6,
+      "word": "crop",
+      "pronunciation": "/krɑp/",
+      "image": {
+        "path": "257.png",
+        "sha256": "9679682e2aafb40ea70e7e32a1b2cc1915b2b2143a59810105681aa9d7b61eca",
+        "bytes": 1764097,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 258,
+      "stage": 6,
+      "word": "reward",
+      "pronunciation": "/rɪˈwɔrd/",
+      "image": {
+        "path": "258.png",
+        "sha256": "0aa20d31fa4049d86b8931c2ed285283f02f29b27ea9d86764c0acf5349aeda4",
+        "bytes": 1715500,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 259,
+      "stage": 6,
+      "word": "crime",
+      "pronunciation": "/kraɪm/",
+      "image": {
+        "path": "259.png",
+        "sha256": "8911b46cea24599df4ca9ed2e9534fcf56964b8c41c68a580be6cfeec79e4b50",
+        "bytes": 1958554,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 260,
+      "stage": 6,
+      "word": "fuel",
+      "pronunciation": "/fjuəl/",
+      "image": {
+        "path": "260.png",
+        "sha256": "41ea119215a1ae9d56dbd590c29b776494661268ca193ac0ed8ed73a04491ceb",
+        "bytes": 1846584,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 261,
+      "stage": 6,
+      "word": "balance",
+      "pronunciation": "/ˈbæləns/",
+      "image": {
+        "path": "261.png",
+        "sha256": "ea83b6cd4b8ff9954b04878b4af22af218215b3c333ebdde14b3d925e1fc4378",
+        "bytes": 1706550,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 262,
+      "stage": 6,
+      "word": "traffic",
+      "pronunciation": "/ˈtræfɪk/",
+      "image": {
+        "path": "262.png",
+        "sha256": "0255a49759a5fea607c9b2b0370e186d0e8e66635cafb802fc8a8671e877f8a8",
+        "bytes": 2420535,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 263,
+      "stage": 6,
+      "word": "aim",
+      "pronunciation": "/eɪm/",
+      "image": {
+        "path": "263.png",
+        "sha256": "5edb5df32ce234b0366f0544a3e934af626583cc8a7a967c76cdffb355077299",
+        "bytes": 2135051,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 264,
+      "stage": 6,
+      "word": "track",
+      "pronunciation": "/træk/",
+      "image": {
+        "path": "264.png",
+        "sha256": "9f6f8c74b699941347cc26e33fc370720a746ca5c7deca022287fa977f04abc9",
+        "bytes": 2282630,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 265,
+      "stage": 6,
+      "word": "progress",
+      "pronunciation": "/ˈprɑˌgrɛs/",
+      "image": {
+        "path": "265.png",
+        "sha256": "8129209070e501ef6589e00b15c142d303bc4512b44d1da1fd1f35f884a3112f",
+        "bytes": 1838327,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 266,
+      "stage": 6,
+      "word": "ideal",
+      "pronunciation": "/aɪˈdil/",
+      "image": {
+        "path": "266.png",
+        "sha256": "9e9eb60002139ceaf7b08c3137fce285465ea733f09eede2b4c1fc0832ab1cb8",
+        "bytes": 1677812,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 267,
+      "stage": 6,
+      "word": "extra",
+      "pronunciation": "/ˈɛkstrə/",
+      "image": {
+        "path": "267.png",
+        "sha256": "427e751a42a398f3b1ccf0a4dcd957b853736163ec74f89f48ea9e5df1b0f4cc",
+        "bytes": 1880873,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 268,
+      "stage": 6,
+      "word": "familiar",
+      "pronunciation": "/fəˈmɪljər/",
+      "image": {
+        "path": "268.png",
+        "sha256": "c25a8ea2c6da35db9acd23eb261586ec41909dda69c37fd11cfcdd080eaebd99",
+        "bytes": 2549242,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 269,
+      "stage": 6,
+      "word": "equal",
+      "pronunciation": "/ˈikwəl/",
+      "image": {
+        "path": "269.png",
+        "sha256": "ca1dba40abd18f34da7cc6544689ffb922d1f78f51f792e952a089738414bef9",
+        "bytes": 1597096,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 270,
+      "stage": 6,
+      "word": "false",
+      "pronunciation": "/fɔls/",
+      "image": {
+        "path": "270.png",
+        "sha256": "3adf7a8597b35a6036e53109b0ce953424d5743d1a380fa0d8c193320021dcc3",
+        "bytes": 1601940,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 271,
+      "stage": 6,
+      "word": "rare",
+      "pronunciation": "/rɛr/",
+      "image": {
+        "path": "271.png",
+        "sha256": "7d763953948a190799058fa4df95733ced1d715bc6dca73f00dfda9c71494687",
+        "bytes": 2050311,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 272,
+      "stage": 6,
+      "word": "actual",
+      "pronunciation": "/ˈækʃəl/",
+      "image": {
+        "path": "272.png",
+        "sha256": "b58f6a6ae1cc86da061ffd6c23026e4707a7ffa5381c884b2e962dae43fffc19",
+        "bytes": 2496902,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 273,
+      "stage": 6,
+      "word": "examine",
+      "pronunciation": "/ɪgˈzæmɪn/",
+      "image": {
+        "path": "273.png",
+        "sha256": "75af20098d717610c68fc5a2fac88c65778738576e051305de04cceae35c8c88",
+        "bytes": 1995159,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 274,
+      "stage": 6,
+      "word": "judge",
+      "pronunciation": "/ʤəʤ/",
+      "image": {
+        "path": "274.png",
+        "sha256": "633b4fb754b20473bac266a64fe25d8db4489cdbe4592b3e9fecdae5e6dd34fa",
+        "bytes": 2439753,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 275,
+      "stage": 6,
+      "word": "rely",
+      "pronunciation": "/rɪˈlaɪ/",
+      "image": {
+        "path": "275.png",
+        "sha256": "76cc146927c051a878ce38eb346a6b6536950b9f5db41ca30b5e0caa84571d43",
+        "bytes": 1788256,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 276,
+      "stage": 6,
+      "word": "expand",
+      "pronunciation": "/ɪkˈspænd/",
+      "image": {
+        "path": "276.png",
+        "sha256": "2087206b81469028f449bd427637eebadd12bd905a376f7e565f69c125664ae6",
+        "bytes": 1507391,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 277,
+      "stage": 6,
+      "word": "confuse",
+      "pronunciation": "/kənfˈjuz/",
+      "image": {
+        "path": "277.png",
+        "sha256": "b0740a9bb0ebb040de4b68dde4092cbc85c9097fa3dccdd540eddf6bd8af4ba2",
+        "bytes": 1738178,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 278,
+      "stage": 6,
+      "word": "select",
+      "pronunciation": "/səˈlɛkt/",
+      "image": {
+        "path": "278.png",
+        "sha256": "fe2bd5337c7b80bea2cc194a0b337517e6868bbb051a91a4dabf1083e9c533c3",
+        "bytes": 1887005,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 279,
+      "stage": 6,
+      "word": "recall",
+      "pronunciation": "/rɪˈkɔl/",
+      "image": {
+        "path": "279.png",
+        "sha256": "deefd0ca03cf4430ddb4304cc9f9eb440acffc4a3af8d4f0fac1ed4a54afafda",
+        "bytes": 1904321,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 280,
+      "stage": 6,
+      "word": "destroy",
+      "pronunciation": "/dɪˈstrɔɪ/",
+      "image": {
+        "path": "280.png",
+        "sha256": "86531f93445033ae1442193e3d0ebc6e61ad9126ce07d8949ea3ef9071ac48bd",
+        "bytes": 2694533,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 281,
+      "stage": 6,
+      "word": "organize",
+      "pronunciation": "/ˈɔrgəˌnaɪz/",
+      "image": {
+        "path": "281.png",
+        "sha256": "2b3686898367383f45575d041a7300672c9e39df3f639b264db833a895ba5218",
+        "bytes": 1813496,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 282,
+      "stage": 6,
+      "word": "warn",
+      "pronunciation": "/wɔrn/",
+      "image": {
+        "path": "282.png",
+        "sha256": "4c045ce7faafb01522f0831678b1a313a98a7ae7eef822ccf498757b07ca8990",
+        "bytes": 2133244,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 283,
+      "stage": 6,
+      "word": "surround",
+      "pronunciation": "/səraʊnd/",
+      "image": {
+        "path": "283.png",
+        "sha256": "fd03e47c8685fb5333cace56983f5fd2b3f2e7786d813824824289192abf8a8e",
+        "bytes": 2182371,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 284,
+      "stage": 6,
+      "word": "complain",
+      "pronunciation": "/kəmˈpleɪn/",
+      "image": {
+        "path": "284.png",
+        "sha256": "4da1955d44c0855f1d21c77bf05a4be5130403bf9420110ae699bbd9f1dafee4",
+        "bytes": 1885424,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 285,
+      "stage": 6,
+      "word": "combine",
+      "pronunciation": "/kəmˈbaɪn/",
+      "image": {
+        "path": "285.png",
+        "sha256": "adb8e2b4b86385b711f6eda59c62c25d179174d92f704e527713c5140b77dfab",
+        "bytes": 1782404,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 286,
+      "stage": 6,
+      "word": "extend",
+      "pronunciation": "/ɪkˈstɛnd/",
+      "image": {
+        "path": "286.png",
+        "sha256": "c47c881247392512533d9b2cafbb4e2d3c9e5cbfd1b9e283e366ae99e5032af9",
+        "bytes": 1627124,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 287,
+      "stage": 6,
+      "word": "target",
+      "pronunciation": "/ˈtɑrgət/",
+      "image": {
+        "path": "287.png",
+        "sha256": "2acb322e65fbb4eb7e687bcf205db8cac1750a1fa3ea0ed3ace5339c4e46377d",
+        "bytes": 1506505,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 288,
+      "stage": 6,
+      "word": "profit",
+      "pronunciation": "/ˈprɑfət/",
+      "image": {
+        "path": "288.png",
+        "sha256": "474e006c171fd6e4da28df0601c8ad860d06497ce8a97b855ad1d36c4e739cfe",
+        "bytes": 2078755,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 289,
+      "stage": 6,
+      "word": "manner",
+      "pronunciation": "/ˈmænər/",
+      "image": {
+        "path": "289.png",
+        "sha256": "fc1da80125e1bf89f929899806f65354db1c88407db3e7854d943604c281cc13",
+        "bytes": 1889024,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 290,
+      "stage": 6,
+      "word": "vote",
+      "pronunciation": "/voʊt/",
+      "image": {
+        "path": "290.png",
+        "sha256": "8d168474805d0c0bb90e13a603730bd1bd82d6fbc3d5279e254f6c0267b2dd67",
+        "bytes": 1708366,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 291,
+      "stage": 6,
+      "word": "sight",
+      "pronunciation": "/saɪt/",
+      "image": {
+        "path": "291.png",
+        "sha256": "4aa97c236d422737f7135dd06fbfd3f848c9644f004d6a6e22749817e4ab932d",
+        "bytes": 2364366,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 292,
+      "stage": 6,
+      "word": "version",
+      "pronunciation": "/ˈvərʒən/",
+      "image": {
+        "path": "292.png",
+        "sha256": "709a64328d0deb2104e4b58df87ed465c32ad867fb7fda1841881cd0afc72887",
+        "bytes": 1943563,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 293,
+      "stage": 6,
+      "word": "disaster",
+      "pronunciation": "/dɪˈzæstər/",
+      "image": {
+        "path": "293.png",
+        "sha256": "059866f297748610c1ad7da517a477f8b1df651f7fdae26c7b9d9c170def9e92",
+        "bytes": 2575051,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 294,
+      "stage": 6,
+      "word": "lecture",
+      "pronunciation": "/ˈlɛkʧər/",
+      "image": {
+        "path": "294.png",
+        "sha256": "2b769185236fbdd3ab53a3c750f35480b7c70ccf6ec9ba0ae82cb6918e293471",
+        "bytes": 1674151,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 295,
+      "stage": 6,
+      "word": "court",
+      "pronunciation": "/kɔrt/",
+      "image": {
+        "path": "295.png",
+        "sha256": "c89f0aaba713e15933e968e66d00ef774cdbca8bc9b55656dbc83f0bdbeeb1fc",
+        "bytes": 1805457,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 296,
+      "stage": 6,
+      "word": "desert",
+      "pronunciation": "/ˈdɛzərt/",
+      "image": {
+        "path": "296.png",
+        "sha256": "69abdd656188d40dcbb04efbcb8b7969c2573b169e3535bc928349e979bd6c0d",
+        "bytes": 1992099,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 297,
+      "stage": 6,
+      "word": "soil",
+      "pronunciation": "/sɔɪl/",
+      "image": {
+        "path": "297.png",
+        "sha256": "f7019de8f62291b3fcd7669bd9ddd665f757865b2c6acd54c3a0c78811167ffe",
+        "bytes": 2052461,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 298,
+      "stage": 6,
+      "word": "document",
+      "pronunciation": "/ˈdɑkjumɛnt/",
+      "image": {
+        "path": "298.png",
+        "sha256": "189bd0c2e6c6082d8e6eb2a93ce504f74cba2f0a692c037ebf8030309bb1c9f6",
+        "bytes": 1683393,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 299,
+      "stage": 6,
+      "word": "vocabulary",
+      "pronunciation": "/voʊˈkæbjəˌlɛri/",
+      "image": {
+        "path": "299.png",
+        "sha256": "cee4158f831f259c68672f5458f6afadac70a86f4dcfa5a17426e530a5372058",
+        "bytes": 1929416,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 300,
+      "stage": 6,
+      "word": "intelligent",
+      "pronunciation": "/ˌɪnˈtɛləʤənt/",
+      "image": {
+        "path": "300.png",
+        "sha256": "a406f7e4b0b8f4a7232b7bc554f0f64de69f90fe245192394b189c399827a2fe",
+        "bytes": 1748779,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 301,
+      "stage": 7,
+      "word": "capable",
+      "pronunciation": "/ˈkeɪpəbəl/",
+      "image": {
+        "path": "301.png",
+        "sha256": "168fd8f0a1add3ffccfb302c6bffb4f11ac2e7ecb65f20483ee72866cc4b8624",
+        "bytes": 2066452,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 302,
+      "stage": 7,
+      "word": "typical",
+      "pronunciation": "/ˈtɪpəkəl/",
+      "image": {
+        "path": "302.png",
+        "sha256": "3c13d1a96f9e143a0b5ba2f193595b735cfa8412db7545b0b4cfe7216212c3ff",
+        "bytes": 2212689,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 303,
+      "stage": 7,
+      "word": "overseas",
+      "pronunciation": "/ˈoʊvərˈsiz/",
+      "image": {
+        "path": "303.png",
+        "sha256": "accad535f54be799abd34225dc3a371c8ddbf17308ebd007675384ab03b6dbb7",
+        "bytes": 1986574,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 304,
+      "stage": 7,
+      "word": "behave",
+      "pronunciation": "/bɪˈheɪv/",
+      "image": {
+        "path": "304.png",
+        "sha256": "bf1f8522467c034aed5fc2ac8be438d2036cc14e8e824e77a53e6ddc47a83a1a",
+        "bytes": 1657012,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 305,
+      "stage": 7,
+      "word": "recommend",
+      "pronunciation": "/ˌrɛkəˈmɛnd/",
+      "image": {
+        "path": "305.png",
+        "sha256": "c6a4492d20785964f6d5a37bd9a07bdcc1172ce283842beba5f2a6492053d945",
+        "bytes": 1801498,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 306,
+      "stage": 7,
+      "word": "amaze",
+      "pronunciation": "/əˈmeɪz/",
+      "image": {
+        "path": "306.png",
+        "sha256": "976d644b0f8e05e1c1ae515cfb228e9f2155c68054c161475679343f0d41b4b8",
+        "bytes": 2099940,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 307,
+      "stage": 7,
+      "word": "tear",
+      "pronunciation": "/tɪr/",
+      "image": {
+        "path": "307.png",
+        "sha256": "8957cb42977ffe73f3580261de097884ec6233700c630a04a508b33586c68edf",
+        "bytes": 1640385,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 308,
+      "stage": 7,
+      "word": "remind",
+      "pronunciation": "/riˈmaɪnd/",
+      "image": {
+        "path": "308.png",
+        "sha256": "63846c8ad17d58441318e4620ccbbd207012b81443020e6ea007088a5a17e9df",
+        "bytes": 1869476,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 309,
+      "stage": 7,
+      "word": "deliver",
+      "pronunciation": "/dɪˈlɪvər/",
+      "image": {
+        "path": "309.png",
+        "sha256": "a8582760d73a4e6abd9eeea94dbdafb16808f8342514d234fa85aa1a26985d88",
+        "bytes": 2078871,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 310,
+      "stage": 7,
+      "word": "handle",
+      "pronunciation": "/ˈhændəl/",
+      "image": {
+        "path": "310.png",
+        "sha256": "b261bc8e3bbd529d930decf1e6c9d1791fa9863411bb4344ad6dd848162dcc82",
+        "bytes": 1630854,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 311,
+      "stage": 7,
+      "word": "praise",
+      "pronunciation": "/preɪz/",
+      "image": {
+        "path": "311.png",
+        "sha256": "cebf46efc10c8022633d0bb349d76b21c87e4bc08146a139659bc662284117dc",
+        "bytes": 1628363,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 312,
+      "stage": 7,
+      "word": "repair",
+      "pronunciation": "/rɪˈpɛr/",
+      "image": {
+        "path": "312.png",
+        "sha256": "49628ac7e34ad4cc09bf5a6103cbe1e2df6532375ce550368964bdf4d4377363",
+        "bytes": 1998727,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 313,
+      "stage": 7,
+      "word": "comment",
+      "pronunciation": "/ˈkɑmɛnt/",
+      "image": {
+        "path": "313.png",
+        "sha256": "6a98ad2e2138a2d629d436d8f2150bc35510106776d2b74eabbb50ec46401f1e",
+        "bytes": 1792845,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 314,
+      "stage": 7,
+      "word": "religion",
+      "pronunciation": "/rɪˈlɪʤən/",
+      "image": {
+        "path": "314.png",
+        "sha256": "6e3954734bc6e68fdcc6fbc9f036628bba51949fd1fca72b29f2621480b98b49",
+        "bytes": 1588652,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 315,
+      "stage": 7,
+      "word": "neighborhood",
+      "pronunciation": "/ˈneɪbərˌhʊd/",
+      "image": {
+        "path": "315.png",
+        "sha256": "b3731e00be972b9672dcd41476d5c8ae3647558ec8e71805d40f8a13e10bd06e",
+        "bytes": 2033617,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 316,
+      "stage": 7,
+      "word": "confidence",
+      "pronunciation": "/ˈkɑnfədɛns/",
+      "image": {
+        "path": "316.png",
+        "sha256": "3e5c1d8a25859ef4eb0deaf7878a40e4340b16376597d9fbb865168b027a1044",
+        "bytes": 1691557,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 317,
+      "stage": 7,
+      "word": "harm",
+      "pronunciation": "/hɑrm/",
+      "image": {
+        "path": "317.png",
+        "sha256": "a49d23097b8becb838379ffc24b3f8cf08384c56bcfea3f627fb8da2c1856762",
+        "bytes": 1726662,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 318,
+      "stage": 7,
+      "word": "victim",
+      "pronunciation": "/ˈvɪktɪm/",
+      "image": {
+        "path": "318.png",
+        "sha256": "c23836d81f64b2b5edd9f5e5e5ca54b772aef74a086224a061c2cf3adf0e5ccf",
+        "bytes": 2185622,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 319,
+      "stage": 7,
+      "word": "conference",
+      "pronunciation": "/ˈkɑnfrəns/",
+      "image": {
+        "path": "319.png",
+        "sha256": "dfbfbb8f21c6adf71d3a4c83404f5b8eec03aa5fc51fdc08c7aa1b5086011f40",
+        "bytes": 1769164,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 320,
+      "stage": 7,
+      "word": "lawyer",
+      "pronunciation": "/ˈlɔjər/",
+      "image": {
+        "path": "320.png",
+        "sha256": "dbc594dd474f3e3997f415293c1bf3ade2fb7602d87abacf682399f579fd4652",
+        "bytes": 1797663,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 321,
+      "stage": 7,
+      "word": "comfort",
+      "pronunciation": "/ˈkəmfərt/",
+      "image": {
+        "path": "321.png",
+        "sha256": "493fde36defdc4c188a06a74ac60821c3e193c510a40a867baa3c0bbb30a48f4",
+        "bytes": 2135194,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 322,
+      "stage": 7,
+      "word": "multiple",
+      "pronunciation": "/ˈməltəpəl/",
+      "image": {
+        "path": "322.png",
+        "sha256": "09c2d9702e3b8f9c17cdbae62284e6f35dd32dc902a6fcd89ca4e27246a46ff5",
+        "bytes": 1770684,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 323,
+      "stage": 7,
+      "word": "annual",
+      "pronunciation": "/ˈænjuəl/",
+      "image": {
+        "path": "323.png",
+        "sha256": "f4f02b844a42c8658fadd74c29d0dd4dfc2cc6cdcf97acafb9a5b2c9186f504e",
+        "bytes": 1792751,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 324,
+      "stage": 7,
+      "word": "odd",
+      "pronunciation": "/ɑd/",
+      "image": {
+        "path": "324.png",
+        "sha256": "f2509ef53529d31b9f886b00c950b9eba1c4ff93f71644d29f3f847798777e13",
+        "bytes": 2061448,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 325,
+      "stage": 7,
+      "word": "unknown",
+      "pronunciation": "/ənˈnoʊn/",
+      "image": {
+        "path": "325.png",
+        "sha256": "5442ee5a2ad75c99ed17d95c92e8f1c4c1023d1912c481376c506e1079d76251",
+        "bytes": 2227528,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 326,
+      "stage": 7,
+      "word": "translate",
+      "pronunciation": "/trænzˈleɪt/",
+      "image": {
+        "path": "326.png",
+        "sha256": "07778350b2f30ef1d397698d84734a3f42839f33290e4fbd48fb6192939b4853",
+        "bytes": 1772021,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 327,
+      "stage": 7,
+      "word": "concentrate",
+      "pronunciation": "/ˈkɑnsənˌtreɪt/",
+      "image": {
+        "path": "327.png",
+        "sha256": "4acdb02ff814b7be54aac5e2881754fbe3ffe68d8497ab665a858316ad801865",
+        "bytes": 1931415,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 328,
+      "stage": 7,
+      "word": "request",
+      "pronunciation": "/rɪkˈwɛst/",
+      "image": {
+        "path": "328.png",
+        "sha256": "f5c28346dcfd42f854e8cf91382a3902792f4c5314a4a015cee43e0316fddd44",
+        "bytes": 1886271,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 329,
+      "stage": 7,
+      "word": "inform",
+      "pronunciation": "/ˌɪnˈfɔrm/",
+      "image": {
+        "path": "329.png",
+        "sha256": "d93bb65a165838aa2e71f60cb2ed4a8972544a06035528766b4fc464b0cbe313",
+        "bytes": 1835645,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 330,
+      "stage": 7,
+      "word": "announce",
+      "pronunciation": "/əˈnaʊns/",
+      "image": {
+        "path": "330.png",
+        "sha256": "e3e6538b998418eb722502a8d94e924a32e00eb2eef16ae7a98e9a7a05b6de9a",
+        "bytes": 1581167,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 331,
+      "stage": 7,
+      "word": "differ",
+      "pronunciation": "/ˈdɪfər/",
+      "image": {
+        "path": "331.png",
+        "sha256": "f6d405656a1445d46e4964dccecbec28190b3d05a2e30a375e2c3a41fbc093c1",
+        "bytes": 1763190,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 332,
+      "stage": 7,
+      "word": "regret",
+      "pronunciation": "/rɪˈgrɛt/",
+      "image": {
+        "path": "332.png",
+        "sha256": "dda8b809e58ba52147c3100e5e5e164f9c7708626f6a98bed27c4f7f1b3d143f",
+        "bytes": 1712434,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 333,
+      "stage": 7,
+      "word": "disappoint",
+      "pronunciation": "/ˌdɪsəˈpɔɪnt/",
+      "image": {
+        "path": "333.png",
+        "sha256": "c0cd3a66def1a225685650d985e7d3a1775e9ea0731895b1c738bd363701c524",
+        "bytes": 2002147,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 334,
+      "stage": 7,
+      "word": "blame",
+      "pronunciation": "/bleɪm/",
+      "image": {
+        "path": "334.png",
+        "sha256": "a181d31c339a26367d5a5a2cdd3a4cef035e6d976977fe77202f6792f1b15355",
+        "bytes": 1818061,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 335,
+      "stage": 7,
+      "word": "recover",
+      "pronunciation": "/rɪˈkəvər/",
+      "image": {
+        "path": "335.png",
+        "sha256": "6170ada87cea69c6fee70e1da2416720b7e25be1c74871d86e025acf4c2f1bb4",
+        "bytes": 1609890,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 336,
+      "stage": 7,
+      "word": "arrange",
+      "pronunciation": "/əreɪnʤ/",
+      "image": {
+        "path": "336.png",
+        "sha256": "f9d6b388a5953248846e4b03d6fda9fde4d1160475b0ddff5c110fc6c96a651d",
+        "bytes": 2086902,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 337,
+      "stage": 7,
+      "word": "confirm",
+      "pronunciation": "/kənˈfərm/",
+      "image": {
+        "path": "337.png",
+        "sha256": "823e1cb229b2626ef47b619f501eaa827a417e61e2dc0be6b7f68071594d2124",
+        "bytes": 1826029,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 338,
+      "stage": 7,
+      "word": "budget",
+      "pronunciation": "/ˈbəʤɪt/",
+      "image": {
+        "path": "338.png",
+        "sha256": "076e023a5f1d4b9b0996199ea0e585a12365348c000f3365cd581b80d6fff18b",
+        "bytes": 1816936,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 339,
+      "stage": 7,
+      "word": "loan",
+      "pronunciation": "/loʊn/",
+      "image": {
+        "path": "339.png",
+        "sha256": "be5e3227287772424c99f8d1c879b512dbce3f8716d29bb7361b5427ef9b051c",
+        "bytes": 1818821,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 340,
+      "stage": 7,
+      "word": "duty",
+      "pronunciation": "/ˈdjuti/",
+      "image": {
+        "path": "340.png",
+        "sha256": "eb38f9f8afdc6733d83dea7a5318e0d9a9a9331637cd4737544fae829f3acff3",
+        "bytes": 1785225,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 341,
+      "stage": 7,
+      "word": "emergency",
+      "pronunciation": "/ˈimərʤənsi/",
+      "image": {
+        "path": "341.png",
+        "sha256": "8d1a46616bbf7afde2fe0512d2e70ba5359806756e27a3f365ad0d27f6ecec5a",
+        "bytes": 1931333,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 342,
+      "stage": 7,
+      "word": "fellow",
+      "pronunciation": "/ˈfɛloʊ/",
+      "image": {
+        "path": "342.png",
+        "sha256": "aaf300f7e18a8059dfa08f6e0478ebff34c59338d4df15469525a2d75b80793c",
+        "bytes": 1558073,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 343,
+      "stage": 7,
+      "word": "route",
+      "pronunciation": "/rut/",
+      "image": {
+        "path": "343.png",
+        "sha256": "64b1c4d03c15934f854970ac010e8721a8d7e93522a59e83a3ef73c11bbee8db",
+        "bytes": 2649421,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 344,
+      "stage": 7,
+      "word": "routine",
+      "pronunciation": "/ruˈtin/",
+      "image": {
+        "path": "344.png",
+        "sha256": "5b86eeffa908ad8e232cf8174d7431015b660f8ea3e0f4719370c7f271f2df70",
+        "bytes": 2033572,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 345,
+      "stage": 7,
+      "word": "grain",
+      "pronunciation": "/greɪn/",
+      "image": {
+        "path": "345.png",
+        "sha256": "4b3b7749085e28563d61bc33339cfadb02d556facc6e1166c78aa40199fcc668",
+        "bytes": 1688979,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 346,
+      "stage": 7,
+      "word": "treasure",
+      "pronunciation": "/ˈtrɛʒər/",
+      "image": {
+        "path": "346.png",
+        "sha256": "4755f49b70ddd4d5e8893f9f1cfa6a274636dc0a2fdd8e33a0fb020a3026ef97",
+        "bytes": 2316320,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 347,
+      "stage": 7,
+      "word": "curious",
+      "pronunciation": "/ˈkjʊriəs/",
+      "image": {
+        "path": "347.png",
+        "sha256": "f75e9fbac60b343711e05a4fa954334d690e7fdf91348d2bb920cd4ed12cdec8",
+        "bytes": 1595812,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 348,
+      "stage": 7,
+      "word": "anxious",
+      "pronunciation": "/ˈæŋkʃəs/",
+      "image": {
+        "path": "348.png",
+        "sha256": "04b5abf2601601e87ee67aa2f771d5116a5dc6a501dd6277ae271e34589e9f98",
+        "bytes": 1498203,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 349,
+      "stage": 7,
+      "word": "stable",
+      "pronunciation": "/ˈsteɪbəl/",
+      "image": {
+        "path": "349.png",
+        "sha256": "9dd054cb62995ac36b1c05d1b1f5b986a5e26d82b56a0e25e0127fac22f743b0",
+        "bytes": 1607280,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 350,
+      "stage": 7,
+      "word": "brief",
+      "pronunciation": "/brif/",
+      "image": {
+        "path": "350.png",
+        "sha256": "a10e731021a688a5f600750cb4e94bea058facc4e97e303468991644ea962504",
+        "bytes": 1806935,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 351,
+      "stage": 8,
+      "word": "visible",
+      "pronunciation": "/ˈvɪzəbəl/",
+      "image": {
+        "path": "351.png",
+        "sha256": "1f57adf3379a7019f8d97a4d6f710e4430539f9d6c9e46e19c1e694356744a38",
+        "bytes": 2465448,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 352,
+      "stage": 8,
+      "word": "unexpected",
+      "pronunciation": "/ˌənɪkˈspɛktɪd/",
+      "image": {
+        "path": "352.png",
+        "sha256": "589e1a4147b886358b27f91cf726cb8c9a8af0fadf59edb2bc8f1c447cc5b911",
+        "bytes": 2114805,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 353,
+      "stage": 8,
+      "word": "initial",
+      "pronunciation": "/ˌɪˈnɪʃəl/",
+      "image": {
+        "path": "353.png",
+        "sha256": "d7b7838b1bc067491dccd9d078f1d245c87e381f67a1119988b3072a34c06770",
+        "bytes": 2232751,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 354,
+      "stage": 8,
+      "word": "exact",
+      "pronunciation": "/ɪgˈzækt/",
+      "image": {
+        "path": "354.png",
+        "sha256": "453b122e4a0f367cc272f28b014519dc3b22990d2cabdc83b2cd396b64a83388",
+        "bytes": 2233379,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 355,
+      "stage": 8,
+      "word": "react",
+      "pronunciation": "/riækt/",
+      "image": {
+        "path": "355.png",
+        "sha256": "3224c822add19073a835744c593bbda26c2df5938d7a8a5f279505c6ae146e1a",
+        "bytes": 1803464,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 356,
+      "stage": 8,
+      "word": "disagree",
+      "pronunciation": "/dɪsəˈgri/",
+      "image": {
+        "path": "356.png",
+        "sha256": "9c4ddfbb1b8d516aa8beefc3384e2a1ec0050a2626f3fde00278b866800c95a6",
+        "bytes": 1665583,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 357,
+      "stage": 8,
+      "word": "stare",
+      "pronunciation": "/stɛr/",
+      "image": {
+        "path": "357.png",
+        "sha256": "ce9d5a45ef0ff1bf923bf061881695372e2944914a42f184b85960d019f10a35",
+        "bytes": 2071651,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 358,
+      "stage": 8,
+      "word": "bother",
+      "pronunciation": "/ˈbɑðər/",
+      "image": {
+        "path": "358.png",
+        "sha256": "e9de44395eda6a2ad7e0ef0edb3bb079792c2c42f9ac4fa0e74cb83b151136f4",
+        "bytes": 1874009,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 359,
+      "stage": 8,
+      "word": "stretch",
+      "pronunciation": "/strɛʧ/",
+      "image": {
+        "path": "359.png",
+        "sha256": "1ee5ada31993d36a5e2e63d5fc43ee105c2c04e44941b50b91b68baab7eefae1",
+        "bytes": 1733033,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 360,
+      "stage": 8,
+      "word": "upset",
+      "pronunciation": "/əpˈsɛt/",
+      "image": {
+        "path": "360.png",
+        "sha256": "d9453cd77198c695e8b8794254d6c9ff0bdfd1f8f9ab76f3ca1565d6bb3e33cb",
+        "bytes": 1685226,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 361,
+      "stage": 8,
+      "word": "frighten",
+      "pronunciation": "/ˈfraɪtən/",
+      "image": {
+        "path": "361.png",
+        "sha256": "7bb54f2d3eeda095bb3dfc2aea6173a234eb5e6c489f9a264811dd39f520976f",
+        "bytes": 1841280,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 362,
+      "stage": 8,
+      "word": "sum",
+      "pronunciation": "/səm/",
+      "image": {
+        "path": "362.png",
+        "sha256": "9656185a63c7c6d6bc02f3f0d2a79fa94d93013a28d4b33878cadb8f10418c8c",
+        "bytes": 1964275,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 363,
+      "stage": 8,
+      "word": "tone",
+      "pronunciation": "/toʊn/",
+      "image": {
+        "path": "363.png",
+        "sha256": "b213f4b314fd08a51c740a394dd346a2d6dc1f20f6a361491bd194783ecdd55b",
+        "bytes": 1674553,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 364,
+      "stage": 8,
+      "word": "award",
+      "pronunciation": "/əˈwɔrd/",
+      "image": {
+        "path": "364.png",
+        "sha256": "a7b8298989780fa2e22448575d17a4a08353d6fbfb52ac4f8177490c2a89f085",
+        "bytes": 1651264,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 365,
+      "stage": 8,
+      "word": "clue",
+      "pronunciation": "/klu/",
+      "image": {
+        "path": "365.png",
+        "sha256": "73edb52a6b4c150d0e0131596bff7b410e5f7c1dbe577ff5a380d1324813718f",
+        "bytes": 1928659,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 366,
+      "stage": 8,
+      "word": "frame",
+      "pronunciation": "/freɪm/",
+      "image": {
+        "path": "366.png",
+        "sha256": "e8edb0c74352c7931db0a9a3153dc4b4aa93d53dc43c899832df50a973cc3fda",
+        "bytes": 1437118,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 367,
+      "stage": 8,
+      "word": "shelter",
+      "pronunciation": "/ˈʃɛltər/",
+      "image": {
+        "path": "367.png",
+        "sha256": "4d02f8696e6f55f9d3f6766a5b5f09dd7f8e27e591983e75c3843bd25c8355cf",
+        "bytes": 2188677,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 368,
+      "stage": 8,
+      "word": "trap",
+      "pronunciation": "/træp/",
+      "image": {
+        "path": "368.png",
+        "sha256": "5648196b9d2ad98e632a42b9ed933a53269c2711d095c811604d5efba3cbe732",
+        "bytes": 2092413,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 369,
+      "stage": 8,
+      "word": "discount",
+      "pronunciation": "/ˈdɪskaʊnt/",
+      "image": {
+        "path": "369.png",
+        "sha256": "fa797525a9c329c482ce20ceb69085863483739e45669a192676ebb464eb8706",
+        "bytes": 1938929,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 370,
+      "stage": 8,
+      "word": "solid",
+      "pronunciation": "/ˈsɑləd/",
+      "image": {
+        "path": "370.png",
+        "sha256": "4d74d5397e7154949a4f70febd9f64268cfd60a0498903f5e3c6ad51210e49b8",
+        "bytes": 1588183,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 371,
+      "stage": 8,
+      "word": "rude",
+      "pronunciation": "/rud/",
+      "image": {
+        "path": "371.png",
+        "sha256": "2785bd6033a5229200365efbb5d87abf06d0c2245cf0848e67e33ef341dd6726",
+        "bytes": 1906848,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 372,
+      "stage": 8,
+      "word": "embarrass",
+      "pronunciation": "/ɪmˈbɛrəs/",
+      "image": {
+        "path": "372.png",
+        "sha256": "806a7697587e5c8687ba33e5b9157dc59f5cb1848812f053d38721cd6679c4dd",
+        "bytes": 1571475,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 373,
+      "stage": 8,
+      "word": "annoy",
+      "pronunciation": "/əˈnɔɪ/",
+      "image": {
+        "path": "373.png",
+        "sha256": "ba5e75910079bb4ebe1d345de2f08658ec095904e0579bfbb7bfde11a55d47fd",
+        "bytes": 1986802,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 374,
+      "stage": 8,
+      "word": "admire",
+      "pronunciation": "/ædˈmaɪr/",
+      "image": {
+        "path": "374.png",
+        "sha256": "bcc66f5231707eae8cf376bc7a5e86e32ca2c6910092a702dc9cc8a4f9df82c7",
+        "bytes": 1956397,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 375,
+      "stage": 8,
+      "word": "pretend",
+      "pronunciation": "/priˈtɛnd/",
+      "image": {
+        "path": "375.png",
+        "sha256": "432a2490b7b9e4675580ec1f64267f3bba4fd7203355d9eb9ed353373b15c742",
+        "bytes": 1853450,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 376,
+      "stage": 8,
+      "word": "bury",
+      "pronunciation": "/ˈbɛri/",
+      "image": {
+        "path": "376.png",
+        "sha256": "e670e57d030edd5d2bc4033b58917f8d948292d4dc5f99b2f61c3ec5999198fd",
+        "bytes": 2177870,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 377,
+      "stage": 8,
+      "word": "assist",
+      "pronunciation": "/əˈsɪst/",
+      "image": {
+        "path": "377.png",
+        "sha256": "a5cd1b07b75a6662853902f599688331fed60d1dbc302d81019ad51c00f0f090",
+        "bytes": 1792634,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 378,
+      "stage": 8,
+      "word": "retire",
+      "pronunciation": "/ˌriˈtaɪər/",
+      "image": {
+        "path": "378.png",
+        "sha256": "c321567a36fbcc189c3c5b3e6d3ee8eb8b321246477d7c51ccc0f61cbeafbc5b",
+        "bytes": 1845025,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 379,
+      "stage": 8,
+      "word": "owe",
+      "pronunciation": "/oʊ/",
+      "image": {
+        "path": "379.png",
+        "sha256": "ee181dffdba1bd177e4efa5f575894561cd0cb6fb828a0a87947287a0a87d32f",
+        "bytes": 2158733,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 380,
+      "stage": 8,
+      "word": "license",
+      "pronunciation": "/ˈlaɪsəns/",
+      "image": {
+        "path": "380.png",
+        "sha256": "ffa8fc522028422aa26b5513fd56e84b41b488b2298c428e897f57abaecc0cca",
+        "bytes": 1554967,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 381,
+      "stage": 8,
+      "word": "layer",
+      "pronunciation": "/leɪər/",
+      "image": {
+        "path": "381.png",
+        "sha256": "d999cf4216aa05328ab07f8b1d433f22540868e17737ba859f9811c11c5dc1b7",
+        "bytes": 1769417,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 382,
+      "stage": 8,
+      "word": "globe",
+      "pronunciation": "/gloʊb/",
+      "image": {
+        "path": "382.png",
+        "sha256": "9e976fd52d3f25788a46a5d593a9ad69b33629bca99b51f1925f1c2ee2c6f216",
+        "bytes": 1872238,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 383,
+      "stage": 8,
+      "word": "league",
+      "pronunciation": "/lig/",
+      "image": {
+        "path": "383.png",
+        "sha256": "a3a4180b9158356732dfa650f372564d3a391f8f094a46f2f5336dc6a23884b4",
+        "bytes": 2104483,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 384,
+      "stage": 8,
+      "word": "contest",
+      "pronunciation": "/ˈkɑntɛst/",
+      "image": {
+        "path": "384.png",
+        "sha256": "456ac91d05d6f6ab4cfeb01e6fef2895326f4bd2a6db8e437d06398ce61a8262",
+        "bytes": 1925307,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 385,
+      "stage": 8,
+      "word": "guard",
+      "pronunciation": "/gɑrd/",
+      "image": {
+        "path": "385.png",
+        "sha256": "3963127db14d5cb420d444bd2b5333e555036fd2603f0878fdd5ae34c8afab8c",
+        "bytes": 1923353,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 386,
+      "stage": 8,
+      "word": "opponent",
+      "pronunciation": "/əˈpoʊnənt/",
+      "image": {
+        "path": "386.png",
+        "sha256": "814f0f06fcee894e4ccc2d3d04aaab8d19742e540aa3957eab3028acd2647e02",
+        "bytes": 1730356,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 387,
+      "stage": 8,
+      "word": "glance",
+      "pronunciation": "/glæns/",
+      "image": {
+        "path": "387.png",
+        "sha256": "897657af21b2db8027f7dd69e6032947d7d6960e1413d376f0701bdbbd910322",
+        "bytes": 1708582,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 388,
+      "stage": 8,
+      "word": "liquid",
+      "pronunciation": "/ˈlɪkwəd/",
+      "image": {
+        "path": "388.png",
+        "sha256": "9e1834380b5193a23cfbd04a690856d4cb87381711f3c82217697aff1a2fb3bd",
+        "bytes": 1689602,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 389,
+      "stage": 8,
+      "word": "plain",
+      "pronunciation": "/pleɪn/",
+      "image": {
+        "path": "389.png",
+        "sha256": "bca5cff7f095091d039cc57bf30d317b13a5d4ec2e8b4af8fa79337646176f43",
+        "bytes": 1779678,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 390,
+      "stage": 8,
+      "word": "pure",
+      "pronunciation": "/pjʊr/",
+      "image": {
+        "path": "390.png",
+        "sha256": "e5fa8a86113c3c0f9b345ab9373ffbb6ddbecb87022c61a64abf07f110beec45",
+        "bytes": 1507440,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 391,
+      "stage": 8,
+      "word": "eager",
+      "pronunciation": "/ˈigər/",
+      "image": {
+        "path": "391.png",
+        "sha256": "34daaa72242e0121600c6ec95766a6e875a67461188dc07976f5efab07be40a0",
+        "bytes": 2011316,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 392,
+      "stage": 8,
+      "word": "apologize",
+      "pronunciation": "/əˈpɑləˌʤaɪz/",
+      "image": {
+        "path": "392.png",
+        "sha256": "31480846f4152cf0efd5da142a969c7a3bb636e015e14aa058c0b91d4fe2e748",
+        "bytes": 1558350,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 393,
+      "stage": 8,
+      "word": "rescue",
+      "pronunciation": "/ˈrɛskju/",
+      "image": {
+        "path": "393.png",
+        "sha256": "7c2735046e7961478e558189a4e0c5d9da76825e3607f5e4c91727b2a6cd7541",
+        "bytes": 2560269,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 394,
+      "stage": 8,
+      "word": "misunderstand",
+      "pronunciation": "/ˌmɪsəndərˈstænd/",
+      "image": {
+        "path": "394.png",
+        "sha256": "f7b53298167085c30c609cdd3f8551136a297237e556db26ae43ee1c65e4e575",
+        "bytes": 1891554,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 395,
+      "stage": 8,
+      "word": "grocery",
+      "pronunciation": "/ˈgroʊsri/",
+      "image": {
+        "path": "395.png",
+        "sha256": "ca466050b23cff2100fa7f5ab665aefdec60af68673e4f7b10b578e13ced7527",
+        "bytes": 1770425,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 396,
+      "stage": 8,
+      "word": "humor",
+      "pronunciation": "/ˈhjumər/",
+      "image": {
+        "path": "396.png",
+        "sha256": "9a80ac3f0b9317e0846a66e3f9bf101389028e694af3d24e9059f18a0e907816",
+        "bytes": 1468231,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 397,
+      "stage": 8,
+      "word": "courage",
+      "pronunciation": "/kərɪʤ/",
+      "image": {
+        "path": "397.png",
+        "sha256": "9efde0c9e8ae67d0310c8871ea628e758e95879871429d6a7d2eb0fbdb68a045",
+        "bytes": 2016186,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 398,
+      "stage": 8,
+      "word": "stem",
+      "pronunciation": "/stɛm/",
+      "image": {
+        "path": "398.png",
+        "sha256": "fab934254be3ba0ce6380b29188ed431d6b9368f6ed9db51e4bd27989a9839cf",
+        "bytes": 1650974,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 399,
+      "stage": 8,
+      "word": "shame",
+      "pronunciation": "/ʃeɪm/",
+      "image": {
+        "path": "399.png",
+        "sha256": "824f0b929a44297941af16ec1cd6f546e68b55c4f983e728b33456deb3fdede0",
+        "bytes": 2022606,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 400,
+      "stage": 8,
+      "word": "flavor",
+      "pronunciation": "/ˈfleɪvər/",
+      "image": {
+        "path": "400.png",
+        "sha256": "2fc1b7aaf61f1adc1a4025dd0b5fc67a4e12d864d01e8adf98b6e10d5330d717",
+        "bytes": 2008732,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 401,
+      "stage": 9,
+      "word": "portion",
+      "pronunciation": "/ˈpɔrʃən/",
+      "image": {
+        "path": "401.png",
+        "sha256": "e039aab6a3e4b2d7f3e2e18962aded8ae9e221c78ae950b358b310bc733acee2",
+        "bytes": 1758572,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 402,
+      "stage": 9,
+      "word": "chip",
+      "pronunciation": "/ʧɪp/",
+      "image": {
+        "path": "402.png",
+        "sha256": "7f7c02d5796a4c54448f90db2bee1c51d4799f95b36f43abcf91553647b4a446",
+        "bytes": 1577356,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 403,
+      "stage": 9,
+      "word": "precious",
+      "pronunciation": "/ˈprɛʃəs/",
+      "image": {
+        "path": "403.png",
+        "sha256": "3a29fad8361f82e83736ee12c6dddf5c35ae78541b788b22fa035d1d5375abe7",
+        "bytes": 1513684,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 404,
+      "stage": 9,
+      "word": "casual",
+      "pronunciation": "/ˈkæʒəwəl/",
+      "image": {
+        "path": "404.png",
+        "sha256": "02e1447c2666a835c1a7def4069c2e93392362aa833eddedae1482ca8130da6b",
+        "bytes": 2000545,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 405,
+      "stage": 9,
+      "word": "rough",
+      "pronunciation": "/rəf/",
+      "image": {
+        "path": "405.png",
+        "sha256": "10e6350657dbb817d028130f0f043b8444436eedbb9023712ba34cbf5d073f3f",
+        "bytes": 2862364,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 406,
+      "stage": 9,
+      "word": "chase",
+      "pronunciation": "/ʧeɪs/",
+      "image": {
+        "path": "406.png",
+        "sha256": "d60efe6c32411ac65937bd47893411a30888da456ee1ff81254ad3c6a7cfb1de",
+        "bytes": 1678837,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 407,
+      "stage": 9,
+      "word": "slip",
+      "pronunciation": "/slɪp/",
+      "image": {
+        "path": "407.png",
+        "sha256": "46a73b038f4252c0ca59753f740ae3ac1151fe738e9ac4aa67ab5b3e65aa8596",
+        "bytes": 1651101,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 408,
+      "stage": 9,
+      "word": "float",
+      "pronunciation": "/floʊt/",
+      "image": {
+        "path": "408.png",
+        "sha256": "391cc3677a84f891075df3b103086d8b9d78d1561ec7315623bddfc83074ff3e",
+        "bytes": 1773876,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 409,
+      "stage": 9,
+      "word": "pause",
+      "pronunciation": "/pɔz/",
+      "image": {
+        "path": "409.png",
+        "sha256": "006d78f0d32dc0b2829c3a9019c945e5af17e4ccb113e0db861191d3d4319939",
+        "bytes": 1897813,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 410,
+      "stage": 9,
+      "word": "lean",
+      "pronunciation": "/lin/",
+      "image": {
+        "path": "410.png",
+        "sha256": "8d394f697e2a4aac9c5a69cd50b6d2c82994d5db6258ae498304d1f9dc29c862",
+        "bytes": 1392664,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 411,
+      "stage": 9,
+      "word": "bump",
+      "pronunciation": "/bəmp/",
+      "image": {
+        "path": "411.png",
+        "sha256": "7c6c0deef07f323bbfb6b8027d1287ba5ae80bb24ad241aea2c0964494efd0ba",
+        "bytes": 2283486,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 412,
+      "stage": 9,
+      "word": "wound",
+      "pronunciation": "/wund/",
+      "image": {
+        "path": "412.png",
+        "sha256": "9976839a6fc13ee854d1f68a77c8e630da017504cd412915c34d4e2e51408c82",
+        "bytes": 1448838,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 413,
+      "stage": 9,
+      "word": "fake",
+      "pronunciation": "/feɪk/",
+      "image": {
+        "path": "413.png",
+        "sha256": "281b4bb01a08e5a6e2f250148d87eb6b314eecb484d19e22f3153bf094bdc4c5",
+        "bytes": 1685586,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 414,
+      "stage": 9,
+      "word": "crack",
+      "pronunciation": "/kræk/",
+      "image": {
+        "path": "414.png",
+        "sha256": "973c91acd0eb5dd78287a4a4b3e3202fa2f915b1ef6736b1d2b8331a7b5be935",
+        "bytes": 1573547,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 415,
+      "stage": 9,
+      "word": "tap",
+      "pronunciation": "/tæp/",
+      "image": {
+        "path": "415.png",
+        "sha256": "79842b884062dc0f28eacd47bdb6e8fbeeedb384924c84c8da1442836c3d952d",
+        "bytes": 1516655,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 416,
+      "stage": 9,
+      "word": "split",
+      "pronunciation": "/splɪt/",
+      "image": {
+        "path": "416.png",
+        "sha256": "e9f1ca41e369f8b0793f52579350d459593b4ac60b3b51bfc777211db4a6c6f2",
+        "bytes": 1847589,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 417,
+      "stage": 9,
+      "word": "heal",
+      "pronunciation": "/hil/",
+      "image": {
+        "path": "417.png",
+        "sha256": "fbcfe831274cebecd6d8ef027f40d0511c511b397216dd936fe9a2635fe8041f",
+        "bytes": 1776693,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 418,
+      "stage": 9,
+      "word": "cheat",
+      "pronunciation": "/ʧit/",
+      "image": {
+        "path": "418.png",
+        "sha256": "9d97e5c9cbaefd84242894e2508771ab43a372ec71dc389c02c741f1f3a75ae0",
+        "bytes": 1665504,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 419,
+      "stage": 9,
+      "word": "bend",
+      "pronunciation": "/bɛnd/",
+      "image": {
+        "path": "419.png",
+        "sha256": "71f5255dc77f01e4eb06703acdaa6cab49e47737a19986eed6ef83a2d1134c80",
+        "bytes": 1592767,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 420,
+      "stage": 9,
+      "word": "bow",
+      "pronunciation": "/boʊ/",
+      "image": {
+        "path": "420.png",
+        "sha256": "56a5ca86e79123503334841dbe9646685b67dfcec364f94ab1ba5b016fe4092f",
+        "bytes": 1916790,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 421,
+      "stage": 9,
+      "word": "shade",
+      "pronunciation": "/ʃeɪd/",
+      "image": {
+        "path": "421.png",
+        "sha256": "137ba6ae897976ba1d756ee770abce0b89e2cf887c40b3bcf4326aba67af327d",
+        "bytes": 2643671,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 422,
+      "stage": 9,
+      "word": "file",
+      "pronunciation": "/faɪl/",
+      "image": {
+        "path": "422.png",
+        "sha256": "494a5a0187c8730dbf28acc3df9fc6465f50022c0e2bdfd237a1f1e071d1b9b4",
+        "bytes": 1617046,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 423,
+      "stage": 9,
+      "word": "grateful",
+      "pronunciation": "/ˈgreɪtfəl/",
+      "image": {
+        "path": "423.png",
+        "sha256": "e9d013a4ceb5190369ec3b11be2ed990aad3ac06ea1debed9e7b706b6285d6e9",
+        "bytes": 1497931,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 424,
+      "stage": 9,
+      "word": "brave",
+      "pronunciation": "/breɪv/",
+      "image": {
+        "path": "424.png",
+        "sha256": "ef18461b5c9444769ad929ec11b05e2036ae8c925ea2690be2796100e016f972",
+        "bytes": 1973378,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 425,
+      "stage": 9,
+      "word": "chew",
+      "pronunciation": "/ʧu/",
+      "image": {
+        "path": "425.png",
+        "sha256": "0280cd4d9f876af171c14580ab69099f592f1c8101beb4410608dbab4ef77e7e",
+        "bytes": 1478363,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 426,
+      "stage": 9,
+      "word": "swallow",
+      "pronunciation": "/sˈwɔloʊ/",
+      "image": {
+        "path": "426.png",
+        "sha256": "94a1b821ccf6bd4c60b7cf71d06f23ea792b58aca4ccdda2b80d0b8dce31c1a2",
+        "bytes": 1435288,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 427,
+      "stage": 9,
+      "word": "polish",
+      "pronunciation": "/ˈpɑlɪʃ/",
+      "image": {
+        "path": "427.png",
+        "sha256": "6248b1c066762dd0be34959891238b463d1fd0b100db2fd7174ed62a9ba7b665",
+        "bytes": 1639547,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 428,
+      "stage": 9,
+      "word": "sweep",
+      "pronunciation": "/swip/",
+      "image": {
+        "path": "428.png",
+        "sha256": "65fdb849ec5ae3a7aa65536e2247bdb5e2879683d6b1d278ca8d7d31e05e5d49",
+        "bytes": 2151029,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 429,
+      "stage": 9,
+      "word": "mess",
+      "pronunciation": "/mɛs/",
+      "image": {
+        "path": "429.png",
+        "sha256": "14da5f742db477b84cdc4bd395a4f88a3a03f7e144df6b54e9f698db4f2e886e",
+        "bytes": 2061213,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 430,
+      "stage": 9,
+      "word": "scenery",
+      "pronunciation": "/ˈsinəri/",
+      "image": {
+        "path": "430.png",
+        "sha256": "5ae972b70075bf48a01332eae581cf14f7eb4680c595dee1c5cb7384472b4237",
+        "bytes": 2662638,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 431,
+      "stage": 9,
+      "word": "yawn",
+      "pronunciation": "/jɔn/",
+      "image": {
+        "path": "431.png",
+        "sha256": "c2c48b7fe042e8d4eeb6305dc67fd932c4764b514c49dfc42b60ea3af1875d01",
+        "bytes": 1411924,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 432,
+      "stage": 9,
+      "word": "blink",
+      "pronunciation": "/blɪŋk/",
+      "image": {
+        "path": "432.png",
+        "sha256": "f763fa7e4f01135efd0c945318191a90575360cf8e3323f2ff24aa131c46196d",
+        "bytes": 1481965,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 433,
+      "stage": 9,
+      "word": "spill",
+      "pronunciation": "/spɪl/",
+      "image": {
+        "path": "433.png",
+        "sha256": "049e1d6a5186e1b335c87f3f937bc73fb3a0969a3265e3186196d4b5186cc3c6",
+        "bytes": 1744560,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 434,
+      "stage": 9,
+      "word": "forgive",
+      "pronunciation": "/fərˈgɪv/",
+      "image": {
+        "path": "434.png",
+        "sha256": "250e0775cb42a571b3ae4f601aac00dbbf616c3d1911e298ed5b17d2dba07533",
+        "bytes": 1557030,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 435,
+      "stage": 9,
+      "word": "pin",
+      "pronunciation": "/pɪn/",
+      "image": {
+        "path": "435.png",
+        "sha256": "ee67862f544e26c51d4e1e6cafa53aa4676086bb95a60b019a6974531b88983d",
+        "bytes": 2010880,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 436,
+      "stage": 9,
+      "word": "mild",
+      "pronunciation": "/maɪld/",
+      "image": {
+        "path": "436.png",
+        "sha256": "1565f398f1ddb2e76bc4e0966c29a8b80b6ba39b967c457282c74ed3d042da8d",
+        "bytes": 1942348,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 437,
+      "stage": 9,
+      "word": "yell",
+      "pronunciation": "/jɛl/",
+      "image": {
+        "path": "437.png",
+        "sha256": "a8ae3f7e359e540fc4923b94bacc2bccf73e0d354e9c440f5b10df6d78c3a288",
+        "bytes": 2146814,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 439,
+      "stage": 9,
+      "word": "scratch",
+      "pronunciation": "/skræʧ/",
+      "image": {
+        "path": "439.png",
+        "sha256": "58091333c677fb6b7c62983c1cb99669ba30e94399d800631d955caf49b007fa",
+        "bytes": 1478061,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 440,
+      "stage": 9,
+      "word": "beg",
+      "pronunciation": "/bɛg/",
+      "image": {
+        "path": "440.png",
+        "sha256": "09a36b233b99834fdc716d93423695cffafa7b7740cac86111672ccfdff23948",
+        "bytes": 1697195,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 441,
+      "stage": 9,
+      "word": "sneeze",
+      "pronunciation": "/sniz/",
+      "image": {
+        "path": "441.png",
+        "sha256": "91679ec10e18829fd675e1b40a40c2548cb8f8388de97c2d052733a6d9bcbcaf",
+        "bytes": 1579044,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 442,
+      "stage": 9,
+      "word": "suck",
+      "pronunciation": "/sək/",
+      "image": {
+        "path": "442.png",
+        "sha256": "abda8eca8de2863e2cfa584c64d48d7ea9f2d70bd0b1b86e2fa5eef68d0dc1a2",
+        "bytes": 1729975,
+        "width": 934,
+        "height": 1683
+      }
+    },
+    {
+      "ordinal": 443,
+      "stage": 9,
+      "word": "thirst",
+      "pronunciation": "/θərst/",
+      "image": {
+        "path": "443.png",
+        "sha256": "37687efa9e32175a41801929195a9bab349dbcf94412fbaa138e144fe18315da",
+        "bytes": 2044754,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 444,
+      "stage": 9,
+      "word": "dumb",
+      "pronunciation": "/dəm/",
+      "image": {
+        "path": "444.png",
+        "sha256": "f723de1af5c13a30ab7aa54b11bc05ccc87d733e7e40486db54ececb683166be",
+        "bytes": 2267886,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 445,
+      "stage": 9,
+      "word": "furthermore",
+      "pronunciation": "/ˈfərðərˌmɔr/",
+      "image": {
+        "path": "445.png",
+        "sha256": "965b20cc9d66e1f2aba57210d32b1e5dd5260fb84bfe92b61f4add1de7a0adfa",
+        "bytes": 1769646,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 446,
+      "stage": 9,
+      "word": "moreover",
+      "pronunciation": "/mɔˈroʊvər/",
+      "image": {
+        "path": "446.png",
+        "sha256": "19902c0a6aecf10f72e6e2c571e97fa552ba84d0e2e7bddbfa34e0a293f9fffe",
+        "bytes": 1843216,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 447,
+      "stage": 9,
+      "word": "otherwise",
+      "pronunciation": "/ˈəðərˌwaɪz/",
+      "image": {
+        "path": "447.png",
+        "sha256": "6fe47beb1d841a06f3ad3cd73b0094346fbba573d4147398773abff9bce9aba9",
+        "bytes": 2097328,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 448,
+      "stage": 9,
+      "word": "alternative",
+      "pronunciation": "/ɔlˈtərnətɪv/",
+      "image": {
+        "path": "448.png",
+        "sha256": "abd32c8b152e0daa6123e4ca9310ec0af3d87989f781ff75d692f240d557ee81",
+        "bytes": 1863543,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 449,
+      "stage": 9,
+      "word": "definite",
+      "pronunciation": "/ˈdɛfənət/",
+      "image": {
+        "path": "449.png",
+        "sha256": "a8596add1cb7df21dd8fae2e5b1c100916f46e14e708210403030e23188f9650",
+        "bytes": 1827881,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 450,
+      "stage": 9,
+      "word": "primary",
+      "pronunciation": "/ˈpraɪˌmɛri/",
+      "image": {
+        "path": "450.png",
+        "sha256": "128722386351d4776616bffaab4c2cc9c673ba80965b5a3538e3ee63120741c3",
+        "bytes": 1946944,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 451,
+      "stage": 10,
+      "word": "feedback",
+      "pronunciation": "/ˈfidˌbæk/",
+      "image": {
+        "path": "451.png",
+        "sha256": "9145bfbac3d405f18d523203e85e1df7c0f59b32e7d067f70e63bd507cf3b718",
+        "bytes": 1990973,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 452,
+      "stage": 10,
+      "word": "foundation",
+      "pronunciation": "/faʊnˈdeɪʃən/",
+      "image": {
+        "path": "452.png",
+        "sha256": "5c8e87a9bb64831251b4f025ea8b25ff45ed7baac818aa876620dbb4d295a798",
+        "bytes": 2060570,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 453,
+      "stage": 10,
+      "word": "tendency",
+      "pronunciation": "/ˈtɛndənsi/",
+      "image": {
+        "path": "453.png",
+        "sha256": "ac59aeca97a68cecc4720f6b47043660944fa4bab9bc86d99347871c3ea013d6",
+        "bytes": 1921976,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 454,
+      "stage": 10,
+      "word": "vision",
+      "pronunciation": "/ˈvɪʒən/",
+      "image": {
+        "path": "454.png",
+        "sha256": "3bf3f9cbea7e2ddce817e49230358534e025f67ebfa3a98b1f3ec319156878fb",
+        "bytes": 2266854,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 455,
+      "stage": 10,
+      "word": "accuracy",
+      "pronunciation": "/ˈækjərəsi/",
+      "image": {
+        "path": "455.png",
+        "sha256": "4b3e1b35d92d1df513abf9275b6461d8e38f0856a6c7c467cedec90f163724e7",
+        "bytes": 2322248,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 456,
+      "stage": 10,
+      "word": "application",
+      "pronunciation": "/ˌæpləˈkeɪʃən/",
+      "image": {
+        "path": "456.png",
+        "sha256": "6069d73c1bfab3b79032a0d71bcae06a53ef39851fe58f61ee5f1a3736e68ce1",
+        "bytes": 1682148,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 457,
+      "stage": 10,
+      "word": "argument",
+      "pronunciation": "/ˈɑrgjəmənt/",
+      "image": {
+        "path": "457.png",
+        "sha256": "3ae8cdd810bf02afa77786af41443e25e996bb0807b4339660cdd66e5f24f4e0",
+        "bytes": 1689919,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 458,
+      "stage": 10,
+      "word": "equality",
+      "pronunciation": "/ɪkˈwɑləti/",
+      "image": {
+        "path": "458.png",
+        "sha256": "dbdecfb0379e2f95180e4192e9d31d83a425e852d07ffeda8edd0c6c7a1efb8c",
+        "bytes": 1519126,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 459,
+      "stage": 10,
+      "word": "analyze",
+      "pronunciation": "/ˈænəˌlaɪz/",
+      "image": {
+        "path": "459.png",
+        "sha256": "c13e76dd0ccc66dcef15ef84cfadaf4ad1de2c6057d120d0b1b85c00c8079912",
+        "bytes": 1688869,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 460,
+      "stage": 10,
+      "word": "summarize",
+      "pronunciation": "/ˈsəmərˌaɪz/",
+      "image": {
+        "path": "460.png",
+        "sha256": "5f5502d5f1b2485dadda5696999b83bf183de11874181be1f709a11751a4096f",
+        "bytes": 1691741,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 461,
+      "stage": 10,
+      "word": "cooperate",
+      "pronunciation": "/kˈwɑpərˌeɪt/",
+      "image": {
+        "path": "461.png",
+        "sha256": "2a351863d1fee95e9cf455bdd03f12dbf67235cfe1b82636fc76f4d20b505be1",
+        "bytes": 1789924,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 462,
+      "stage": 10,
+      "word": "tend",
+      "pronunciation": "/tɛnd/",
+      "image": {
+        "path": "462.png",
+        "sha256": "1b09785b33357ba886db21dea1e095c7a0eb46aefc00fe693590234feecf2fc0",
+        "bytes": 1633162,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 463,
+      "stage": 10,
+      "word": "challenge",
+      "pronunciation": "/ˈʧælənʤ/",
+      "image": {
+        "path": "463.png",
+        "sha256": "fcc23f094f395f43f360266316899ce8ac0495440147e43370f2577ffde0ffe9",
+        "bytes": 2271953,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 464,
+      "stage": 10,
+      "word": "found",
+      "pronunciation": "/faʊnd/",
+      "image": {
+        "path": "464.png",
+        "sha256": "4775eea6b5ccc59a8f4147326e1832ad1bb49fbf38fa64b68b8a15150158689d",
+        "bytes": 1868601,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 465,
+      "stage": 10,
+      "word": "species",
+      "pronunciation": "/ˈspiʃiz/",
+      "image": {
+        "path": "465.png",
+        "sha256": "e416e7f1bdec1ae9671eb46c9c04af84de41e49f300e84b75598d07d89c84794",
+        "bytes": 1941116,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 466,
+      "stage": 10,
+      "word": "theory",
+      "pronunciation": "/ˈθiəri/",
+      "image": {
+        "path": "466.png",
+        "sha256": "c246233d3b6a281f58f994f676ae08ead196454bbeb32c69779a2cf11f89e9ee",
+        "bytes": 1501369,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 467,
+      "stage": 10,
+      "word": "statement",
+      "pronunciation": "/ˈsteɪtmənt/",
+      "image": {
+        "path": "467.png",
+        "sha256": "d1e9f5d5cc3db34b2e06b4f18fadd9840233110deb5a394371b9750f1bb3bf53",
+        "bytes": 1628823,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 468,
+      "stage": 10,
+      "word": "evidence",
+      "pronunciation": "/ˈɛvədəns/",
+      "image": {
+        "path": "468.png",
+        "sha256": "ecd2f424cc815cb1127e7d5e240083009e4824321439a0a24f0020b4c6ac527b",
+        "bytes": 1682991,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 469,
+      "stage": 10,
+      "word": "appropriate",
+      "pronunciation": "/əˈproʊpriˌeɪt/",
+      "image": {
+        "path": "469.png",
+        "sha256": "3deb8ef421ceaa5ea7095544c9e1e5aa9604bd698db9d604d749f7cf4076090b",
+        "bytes": 2185897,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 470,
+      "stage": 10,
+      "word": "likely",
+      "pronunciation": "/ˈlaɪkli/",
+      "image": {
+        "path": "470.png",
+        "sha256": "ab3bade9b4516364e0f19289bfc6e6a237bcbf0317105ded15f5a038bc837887",
+        "bytes": 2097908,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 471,
+      "stage": 10,
+      "word": "individual",
+      "pronunciation": "/ˌɪndəˈvɪʤəwəl/",
+      "image": {
+        "path": "471.png",
+        "sha256": "e8182c94df1959768b9e4733923aae6cd1ea5c5cb19806233d180bb90f646164",
+        "bytes": 1866756,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 472,
+      "stage": 10,
+      "word": "physical",
+      "pronunciation": "/ˈfɪzɪkəl/",
+      "image": {
+        "path": "472.png",
+        "sha256": "0623eac23dd34583173d01486ac361be576cab90988ae761238d1321c93cc692",
+        "bytes": 1819699,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 473,
+      "stage": 10,
+      "word": "due",
+      "pronunciation": "/du/",
+      "image": {
+        "path": "473.png",
+        "sha256": "638d176467807e1d28f5a2b2ad5af6d5cc982a8007d3d654f9afdde978164972",
+        "bytes": 1886734,
+        "width": 864,
+        "height": 1821
+      }
+    },
+    {
+      "ordinal": 474,
+      "stage": 10,
+      "word": "despite",
+      "pronunciation": "/dɪˈspaɪt/",
+      "image": {
+        "path": "474.png",
+        "sha256": "5c69061b395ad05ace1fa57b081ce562ffb522668f050910af5ad2e1eb368836",
+        "bytes": 2354292,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 475,
+      "stage": 10,
+      "word": "argue",
+      "pronunciation": "/ˈɑrgju/",
+      "image": {
+        "path": "475.png",
+        "sha256": "7a4cc3b1cffbd11a975919af73a7fcc3238e8b7f40416ccf63cd91ac80489cf4",
+        "bytes": 1946918,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 476,
+      "stage": 10,
+      "word": "claim",
+      "pronunciation": "/kleɪm/",
+      "image": {
+        "path": "476.png",
+        "sha256": "4847976f2c8aa8f24bcc93ca076271a089a6880ec866272684814e397be095ae",
+        "bytes": 1548810,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 477,
+      "stage": 10,
+      "word": "advance",
+      "pronunciation": "/ədˈvæns/",
+      "image": {
+        "path": "477.png",
+        "sha256": "e15549d7d7616858afe127685e10ff1d0bbc5d7878ee8804805862c1217b6631",
+        "bytes": 2459644,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 478,
+      "stage": 10,
+      "word": "establish",
+      "pronunciation": "/ɪˈstæblɪʃ/",
+      "image": {
+        "path": "478.png",
+        "sha256": "34041af6ef762ed963aca4d02d46541fad9f2ed6646cce3692eb41ee05f0cfa3",
+        "bytes": 1654746,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 479,
+      "stage": 10,
+      "word": "perform",
+      "pronunciation": "/pərˈfɔrm/",
+      "image": {
+        "path": "479.png",
+        "sha256": "4b5c7e7832cecc16d6cb96e5ff042987f9f9764668328d997b6594e5f9f17bd0",
+        "bytes": 1591795,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 480,
+      "stage": 10,
+      "word": "determine",
+      "pronunciation": "/dɪˈtərmən/",
+      "image": {
+        "path": "480.png",
+        "sha256": "7a9e4a2c317ba8aa04f2a97837d2a063d0ca54da9f9cb82314dbaea4e3aff199",
+        "bytes": 1831582,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 481,
+      "stage": 10,
+      "word": "prove",
+      "pronunciation": "/pruv/",
+      "image": {
+        "path": "481.png",
+        "sha256": "e4a3c47513eb91f777f7eb1bbb9104a6e4399fb9c61620c4466e25672e9d2b3b",
+        "bytes": 1906038,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 482,
+      "stage": 10,
+      "word": "communicate",
+      "pronunciation": "/kəmˈjunəˌkeɪt/",
+      "image": {
+        "path": "482.png",
+        "sha256": "d16d7981790a8d666e0e512ca05e7c285140eb93207813659d47928b2e70f187",
+        "bytes": 1834930,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 483,
+      "stage": 10,
+      "word": "regard",
+      "pronunciation": "/rɪˈgɑrd/",
+      "image": {
+        "path": "483.png",
+        "sha256": "64ab32779a5d9e8789697e65537b3f476b595b6776ef4a9b5157af6695156ccd",
+        "bytes": 2225766,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 484,
+      "stage": 10,
+      "word": "decline",
+      "pronunciation": "/dɪˈklaɪn/",
+      "image": {
+        "path": "484.png",
+        "sha256": "73635326acd4f4f286bdc4d01245bb0a9f029384862f3d69e7cd8fe8155f963c",
+        "bytes": 2484454,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 485,
+      "stage": 10,
+      "word": "suffer",
+      "pronunciation": "/ˈsəfər/",
+      "image": {
+        "path": "485.png",
+        "sha256": "c53721b5a7c2335990822aebfbcc76691fc88cb6f7e04d579c41cbca1844971f",
+        "bytes": 2122497,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 486,
+      "stage": 10,
+      "word": "publish",
+      "pronunciation": "/ˈpəblɪʃ/",
+      "image": {
+        "path": "486.png",
+        "sha256": "0b53c545b20344cc45fbdb901ee3324a7d6cd53816406c6ed2e15df6369e2fc5",
+        "bytes": 1807927,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 487,
+      "stage": 10,
+      "word": "industry",
+      "pronunciation": "/ˈɪndəstri/",
+      "image": {
+        "path": "487.png",
+        "sha256": "6d2237fc940dc65b11a0cd956f96a9694474f5dd96b3ea9ba6e54f571c62efad",
+        "bytes": 2455917,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 488,
+      "stage": 10,
+      "word": "economy",
+      "pronunciation": "/ɪˈkɑnəmi/",
+      "image": {
+        "path": "488.png",
+        "sha256": "7a1c6ea83ba27b063b96cc257342bc371234b58651a66593aed8ab4314d765c0",
+        "bytes": 2311061,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 489,
+      "stage": 10,
+      "word": "policy",
+      "pronunciation": "/ˈpɑləsi/",
+      "image": {
+        "path": "489.png",
+        "sha256": "782fd5b6e9a9a783333a4386cf253fcbac401b3305b6b4a1b4e0d075e9e69c07",
+        "bytes": 2006952,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 490,
+      "stage": 10,
+      "word": "trade",
+      "pronunciation": "/treɪd/",
+      "image": {
+        "path": "490.png",
+        "sha256": "a0c026a9dc72d6aa074db6712ec81c81f00a5f3a61da3129bce50af1f4edfdcd",
+        "bytes": 2403927,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 491,
+      "stage": 10,
+      "word": "cell",
+      "pronunciation": "/sɛl/",
+      "image": {
+        "path": "491.png",
+        "sha256": "314ba8e188e8d68e120deb0941452758bdc21fdd0b7c9ce75c359dd8c2fd497d",
+        "bytes": 2026641,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 492,
+      "stage": 10,
+      "word": "impact",
+      "pronunciation": "/ˈɪmpækt/",
+      "image": {
+        "path": "492.png",
+        "sha256": "b0b9c65322008f47a4c6a1d490ec02bf8e78bdcc18519481de97703b87b913bf",
+        "bytes": 2349603,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 493,
+      "stage": 10,
+      "word": "resource",
+      "pronunciation": "/ˈrisɔrs/",
+      "image": {
+        "path": "493.png",
+        "sha256": "fdeed2631928568f5d8e687aa311baa5ab78e34813224ea788f88552bd2f892c",
+        "bytes": 1707547,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 494,
+      "stage": 10,
+      "word": "access",
+      "pronunciation": "/ˈækˌsɛs/",
+      "image": {
+        "path": "494.png",
+        "sha256": "10d2c3abe744c92015eb8c793bf2a08ad3f823d366eb11d8fa61b7b49eeb2a94",
+        "bytes": 1908386,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 495,
+      "stage": 10,
+      "word": "attitude",
+      "pronunciation": "/ˈætəˌtud/",
+      "image": {
+        "path": "495.png",
+        "sha256": "b275b0ac5c9b292012a698114a7782d625f6ab4824f6e8eae396e6307b764213",
+        "bytes": 1913687,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 496,
+      "stage": 10,
+      "word": "structure",
+      "pronunciation": "/ˈstrəkʧər/",
+      "image": {
+        "path": "496.png",
+        "sha256": "5d8d45ea89894fa33a9b5f168771747587769b17fdf46c823240ec0e909d2271",
+        "bytes": 2381736,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 497,
+      "stage": 10,
+      "word": "complex",
+      "pronunciation": "/ˈkɑmplɛks/",
+      "image": {
+        "path": "497.png",
+        "sha256": "ccb4f0c898e323c81f2cb30b33d310725a499e6d09074826158a31f786fb4ee1",
+        "bytes": 1948930,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 498,
+      "stage": 10,
+      "word": "mental",
+      "pronunciation": "/ˈmɛntəl/",
+      "image": {
+        "path": "498.png",
+        "sha256": "5de5b980306af496d3197a5ed824de29c788af8957ed4c66b233d213ac772eb7",
+        "bytes": 1670656,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 499,
+      "stage": 10,
+      "word": "essential",
+      "pronunciation": "/ɛˈsɛnʃəl/",
+      "image": {
+        "path": "499.png",
+        "sha256": "dfc5a415ea9e09cb8b78d31ad446ea632f2ae7ea0cff581216cdcd41153f9b3f",
+        "bytes": 2349002,
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "ordinal": 500,
+      "stage": 10,
+      "word": "financial",
+      "pronunciation": "/ˌfaɪˈnænʃəl/",
+      "image": {
+        "path": "500.png",
+        "sha256": "73177768465eb3a8ffec9915ca3cf59274edd5531e3f0a8edfb46077bf29828a",
+        "bytes": 2039076,
         "width": 941,
         "height": 1672
       }
