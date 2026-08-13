@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "revision": 2,
+  "key": "illustration_id",
+  "item_count": 2000,
+  "updated_at": "2026-08-13T08:13:22.010656Z",
+  "locales": {
+    "es": {
+      "relative_path": "illustrations/translations/es.csv",
+      "item_count": 2000,
+      "sha256": "787fdf71b5d91d0cdd2c7422e6c9bf03008f6c8d045cdbdd38a8d663bcc0f439"
+    },
+    "pt-BR": {
+      "relative_path": "illustrations/translations/pt-BR.csv",
+      "item_count": 2000,
+      "sha256": "2a02891087aff16b8c0f92c68acf5ccf1ead3254cdfa5d492fc463c6ba06a4ef"
+    },
+    "id": {
+      "relative_path": "illustrations/translations/id.csv",
+      "item_count": 2000,
+      "sha256": "6096f9a397a2465ee6ae815e068c58bb686c4e6aac86964dfd9a9019b5004650"
+    },
+    "ko": {
+      "relative_path": "illustrations/translations/ko.csv",
+      "item_count": 2000,
+      "sha256": "95e72aa8553f64d8b8115d4cc18798c481e7a96c816ee110b2a71a4dd2d34b42"
+    },
+    "tr": {
+      "relative_path": "illustrations/translations/tr.csv",
+      "item_count": 2000,
+      "sha256": "a784495c562e8f3404642b32e46d663d5bf8995eaeac1a34f7eabbea5a5840e4"
+    },
+    "my": {
+      "relative_path": "illustrations/translations/my.csv",
+      "item_count": 2000,
+      "sha256": "782e16296cbe5752ac6ad8634097694d643a441df3a3459e89b5037943017d6d"
+    },
+    "zh-Hans": {
+      "relative_path": "illustrations/translations/zh-Hans.csv",
+      "item_count": 2000,
+      "sha256": "0289aa9ad27279067bdbe147e4527289f6c2373b58e1e1dcb44c31427dfe74b4"
+    }
+  }
+}
