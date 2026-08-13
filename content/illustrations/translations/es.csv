@@ -1,0 +1,2001 @@
+illustration_id,translation
+i-0001,diferencia
+i-0002,crear
+i-0003,aumentar
+i-0004,mejorar
+i-0005,"significar, representar"
+i-0006,poseer
+i-0007,incluir
+i-0008,decidir
+i-0009,compartir
+i-0010,idea
+i-0011,empresa
+i-0012,"razón, fundamento"
+i-0013,repetir
+i-0014,odiar
+i-0015,aunque
+i-0016,normal
+i-0017,"cantidad, importe"
+i-0018,costo
+i-0019,error
+i-0020,objetivo
+i-0021,"período, época"
+i-0022,"estado, condición"
+i-0023,desarrollar
+i-0024,descubrir
+i-0025,"presentar, introducir"
+i-0026,"proporcionar, suministrar"
+i-0027,apoyar
+i-0028,considerar
+i-0029,permitir
+i-0030,producir
+i-0031,ofrecer
+i-0032,almacenar
+i-0033,describir
+i-0034,reducir
+i-0035,evitar
+i-0036,"darse cuenta, hacer realidad"
+i-0037,comparar
+i-0038,existir
+i-0039,"marcar, indicar"
+i-0040,completar
+i-0041,interés
+i-0042,investigación
+i-0043,causa
+i-0044,efecto
+i-0045,situación
+i-0046,entorno
+i-0047,habilidad
+i-0048,"asunto, importar"
+i-0049,"punto de vista, opinión"
+i-0050,"valor, utilidad"
+i-0051,pensamiento
+i-0052,conocimiento
+i-0053,"memoria, recuerdo"
+i-0054,artículo
+i-0055,"tema, asignatura"
+i-0056,proyecto
+i-0057,papel
+i-0058,comunidad
+i-0059,cultura
+i-0060,posible
+i-0061,común
+i-0062,similar
+i-0063,diversos
+i-0064,en blanco
+i-0065,"correcto, corregir"
+i-0066,"notar, aviso"
+i-0067,"acercarse, enfoque"
+i-0068,"preguntarse, sentir curiosidad"
+i-0069,imaginar
+i-0070,"reconocer, distinguir"
+i-0071,"dibujar, extraer"
+i-0072,"extender, propagarse"
+i-0073,preparar
+i-0074,"obtener, aumentar"
+i-0075,preferir
+i-0076,mencionar
+i-0077,contener
+i-0078,"contactar, entrar en contacto"
+i-0079,respetar
+i-0080,buscar
+i-0081,"conectar, relacionar"
+i-0082,modelo
+i-0083,"imagen, impresión"
+i-0084,"carácter, personaje"
+i-0085,"expresión, frase"
+i-0086,región
+i-0087,detalle
+i-0088,"elemento, artículo"
+i-0089,positivo
+i-0090,negativo
+i-0091,actual
+i-0092,activo
+i-0093,"necesario, indispensable"
+i-0094,"asistir, participar"
+i-0095,"ganar, obtener"
+i-0096,alimentar
+i-0097,"coincidir, encajar"
+i-0098,"ocultar, esconderse"
+i-0099,quitar
+i-0100,relajarse
+i-0101,"moda, tendencia"
+i-0102,"dolor, sufrimiento"
+i-0103,"factura, proyecto de ley"
+i-0104,"contenido, satisfecho"
+i-0105,"audiencia, público"
+i-0106,"superficie, superficie del agua"
+i-0107,"tema, asunto"
+i-0108,"opción, libertad de elección"
+i-0109,"entero, completo"
+i-0110,"obvio, evidente"
+i-0111,"común, corriente"
+i-0112,"anterior, previo"
+i-0113,"confiar, confianza"
+i-0114,dividir
+i-0115,"negarse, rechazar"
+i-0116,"fluir, flujo"
+i-0117,"web, telaraña"
+i-0118,"exacto, preciso"
+i-0119,"conveniente, práctico"
+i-0120,morder
+i-0121,"deletrear, hechizo"
+i-0122,respirar
+i-0123,"consejo, truco"
+i-0124,"cosas, llenar"
+i-0125,"estrecho, limitado"
+i-0126,"congelarse, congelar"
+i-0127,"golpear, vencer"
+i-0128,"apresurarse, precipitarse"
+i-0129,"colgar, colgarse"
+i-0130,"celebrar, conmemorar"
+i-0131,"tarifa, comisión"
+i-0132,"estado de ánimo, ambiente"
+i-0133,"dejar, marcharse"
+i-0134,"broma, truco"
+i-0135,"derretirse, derretir"
+i-0136,prestar
+i-0137,"asustar, atemorizar"
+i-0138,"fila, discusión"
+i-0139,"saludar, recibir"
+i-0140,centro comercial
+i-0141,"receta, fórmula"
+i-0142,"verter, caer"
+i-0143,"agarrar, arrebatar"
+i-0144,"doblar, pliegue"
+i-0145,"terrible, horrible"
+i-0146,"asentir, inclinar la cabeza"
+i-0147,limpiar
+i-0148,"hacer clic, clic"
+i-0149,"por lo tanto, por consiguiente"
+i-0150,"así, por lo tanto"
+i-0151,"formal, oficial"
+i-0152,profesional
+i-0153,realista
+i-0154,rápido
+i-0155,"único, singular"
+i-0156,"eficaz, efectivo"
+i-0157,"factor, elemento"
+i-0158,"patrón, dibujo"
+i-0159,"proceso, procedimiento"
+i-0160,"riesgo, peligro"
+i-0161,"horario, calendario"
+i-0162,"estándar, criterio"
+i-0163,"adición, suma"
+i-0164,clima
+i-0165,consumidor
+i-0166,"discusión, conversación"
+i-0167,proteger
+i-0168,"sugerir, proponer"
+i-0169,"requerir, exigir"
+i-0170,"preocupación, interés"
+i-0171,"implicar, involucrar"
+i-0172,diseñar
+i-0173,"obligar, fuerza"
+i-0174,"limitar, límite"
+i-0175,afectar
+i-0176,"ocuparse de, trato"
+i-0177,"relacionarse, vincularse"
+i-0178,"animar, fomentar"
+i-0179,"medir, medida"
+i-0180,depender
+i-0181,"exigir, demanda"
+i-0182,influencia
+i-0183,práctica
+i-0184,"beneficio, ventaja"
+i-0185,"problema, cuestión"
+i-0186,experimento
+i-0187,"enfoque, concentrarse"
+i-0188,calidad
+i-0189,"término, período"
+i-0190,"material, materia prima"
+i-0191,"fuente, origen"
+i-0192,tecnología
+i-0193,público
+i-0194,"cierto, determinado"
+i-0195,reciente
+i-0196,"principal, especialidad"
+i-0197,paciente
+i-0198,"específico, especial"
+i-0199,disponible
+i-0200,"nativo, autóctono"
+i-0201,antiguo
+i-0202,"hacer referencia a, consultar"
+i-0203,resolver
+i-0204,"ocurrir, surgir"
+i-0205,"expresar, manifestar"
+i-0206,"desperdiciar, malgastar"
+i-0207,"lograr, alcanzar"
+i-0208,"suministrar, proporcionar"
+i-0209,"suponer, pensar"
+i-0210,tratar
+i-0211,"aplicar, solicitar"
+i-0212,"prevenir, impedir"
+i-0213,sobrevivir
+i-0214,oportunidad
+i-0215,tarea
+i-0216,"cuenta, explicación"
+i-0217,"cifra, figura"
+i-0218,emoción
+i-0219,"estrés, enfatizar"
+i-0220,década
+i-0221,"rango, amplitud"
+i-0222,"ventaja, fortaleza"
+i-0223,daño
+i-0224,método
+i-0225,"medicamento, medicina"
+i-0226,"característica, destacar"
+i-0227,función
+i-0228,"ingresos, renta"
+i-0229,"sitio, lugar"
+i-0230,hábito
+i-0231,"vínculo, relación"
+i-0232,"específico, concreto"
+i-0233,"oficial, funcionario"
+i-0234,"consciente, al tanto"
+i-0235,digital
+i-0236,móvil
+i-0237,"finalmente, con el tiempo"
+i-0238,"identificar, confirmar"
+i-0239,representar
+i-0240,"indicar, señalar"
+i-0241,"gestionar, lograr"
+i-0242,"reemplazar, sustituir"
+i-0243,"clasificar, tipo"
+i-0244,"intentar, intento"
+i-0245,"unir, unificar"
+i-0246,"atraer, fascinar"
+i-0247,disminuir
+i-0248,"ignorar, pasar por alto"
+i-0249,"intercambiar, cambiar divisas"
+i-0250,"mostrar, exhibir"
+i-0251,"responder, reaccionar"
+i-0252,tener éxito
+i-0253,"dispositivo, aparato"
+i-0254,"tarifa, cobrar"
+i-0255,colega
+i-0256,"sección, departamento"
+i-0257,cultivo
+i-0258,"recompensa, recompensar"
+i-0259,delito
+i-0260,combustible
+i-0261,equilibrio
+i-0262,"tráfico, tránsito"
+i-0263,"objetivo, propósito"
+i-0264,"rastro, rastrear"
+i-0265,"progreso, avance"
+i-0266,ideal
+i-0267,"adicional, extra"
+i-0268,"familiar, conocido"
+i-0269,"igual, equivalente"
+i-0270,"falso, incorrecto"
+i-0271,"raro, poco común"
+i-0272,real
+i-0273,"examinar, inspeccionar"
+i-0274,"juzgar, juez"
+i-0275,"confiar en, depender de"
+i-0276,"expandir, ampliar"
+i-0277,"confundir, desconcertar"
+i-0278,"seleccionar, elegir"
+i-0279,"recordar, retirar"
+i-0280,destruir
+i-0281,organizar
+i-0282,"advertir, avisar"
+i-0283,rodear
+i-0284,quejarse
+i-0285,combinar
+i-0286,"prolongar, extender"
+i-0287,"objetivo, blanco"
+i-0288,"beneficio, obtener beneficios"
+i-0289,"modales, manera"
+i-0290,"votar, voto"
+i-0291,"vista, visión"
+i-0292,"versión, modelo"
+i-0293,"desastre, catástrofe"
+i-0294,"clase, conferencia"
+i-0295,"tribunal, juzgado"
+i-0296,desierto
+i-0297,"suelo, tierra"
+i-0298,documento
+i-0299,vocabulario
+i-0300,inteligente
+i-0301,"capaz, competente"
+i-0302,"típico, habitual"
+i-0303,"del extranjero, en el extranjero"
+i-0304,"comportarse, portarse bien"
+i-0305,recomendar
+i-0306,"asombrar, maravillar"
+i-0307,"rasgar, lágrima"
+i-0308,"recordar, advertir"
+i-0309,"entregar, repartir"
+i-0310,"manejar, ocuparse de"
+i-0311,"elogiar, alabar"
+i-0312,"reparar, restaurar"
+i-0313,"comentario, comentar"
+i-0314,religión
+i-0315,"vecindario, barrio"
+i-0316,"confianza, certeza"
+i-0317,"daño, dañar"
+i-0318,víctima
+i-0319,"conferencia, congreso"
+i-0320,abogado
+i-0321,"comodidad, consuelo"
+i-0322,"múltiple, diverso"
+i-0323,anual
+i-0324,"extraño, impar"
+i-0325,desconocido
+i-0326,traducir
+i-0327,"concentrarse, concentrar"
+i-0328,"solicitar, solicitud"
+i-0329,"informar, comunicar"
+i-0330,anunciar
+i-0331,"diferir, ser diferente"
+i-0332,"arrepentirse, lamentar"
+i-0333,decepcionar
+i-0334,"culpar, reprochar"
+i-0335,"recuperarse, recuperar"
+i-0336,"organizar, disponer"
+i-0337,confirmar
+i-0338,"presupuesto, presupuestar"
+i-0339,"préstamo, crédito"
+i-0340,"deber, obligación"
+i-0341,emergencia
+i-0342,"compañero, colega"
+i-0343,"ruta, recorrido"
+i-0344,rutina
+i-0345,"grano, cereal"
+i-0346,tesoro
+i-0347,curioso
+i-0348,"ansioso, preocupado"
+i-0349,"estable, tranquilo"
+i-0350,"breve, conciso"
+i-0351,visible
+i-0352,"inesperado, imprevisto"
+i-0353,inicial
+i-0354,"exacto, preciso"
+i-0355,reaccionar
+i-0356,"estar en desacuerdo, discrepar"
+i-0357,mirar fijamente
+i-0358,"molestar, incomodar"
+i-0359,"estirar, extenderse"
+i-0360,"alterar, enfadar"
+i-0361,asustar
+i-0362,"suma, cantidad"
+i-0363,tono
+i-0364,"premio, premiar"
+i-0365,pista
+i-0366,marco
+i-0367,"refugio, refugiar"
+i-0368,"trampa, atrapar"
+i-0369,"descuento, descontar"
+i-0370,"sólido, firme"
+i-0371,"grosero, descortés"
+i-0372,"avergonzar, incomodar"
+i-0373,"irritar, molestar"
+i-0374,admirar
+i-0375,fingir
+i-0376,"enterrar, sepultar"
+i-0377,"ayudar, asistir"
+i-0378,"jubilarse, retirarse"
+i-0379,deber
+i-0380,"licencia, permiso"
+i-0381,capa
+i-0382,"globo terráqueo, mundo"
+i-0383,liga
+i-0384,"concurso, impugnar"
+i-0385,"guardia, proteger"
+i-0386,"oponente, adversario"
+i-0387,"vistazo, echar un vistazo"
+i-0388,líquido
+i-0389,"claro, sencillo"
+i-0390,puro
+i-0391,"deseoso, entusiasta"
+i-0392,disculparse
+i-0393,rescatar
+i-0394,malinterpretar
+i-0395,tienda de comestibles
+i-0396,"humor, estado de ánimo"
+i-0397,"valor, coraje"
+i-0398,"tallo, tronco"
+i-0399,"vergüenza, lástima"
+i-0400,"sabor, carácter"
+i-0401,"parte, porción"
+i-0402,"fragmento, chip"
+i-0403,"precioso, valioso"
+i-0404,"informal, despreocupado"
+i-0405,"áspero, brusco"
+i-0406,perseguir
+i-0407,"resbalar, cometer un error por descuido"
+i-0408,"flotar, ir a la deriva"
+i-0409,pausar
+i-0410,"inclinarse, apoyarse"
+i-0411,"chocar, bulto"
+i-0412,"herida, herir"
+i-0413,"falso, de imitación"
+i-0414,"grieta, agrietarse"
+i-0415,"dar un golpecito, grifo"
+i-0416,"dividir, partirse"
+i-0417,"curar, sanar"
+i-0418,"engañar, hacer trampa"
+i-0419,"doblar, agacharse"
+i-0420,"inclinarse, arco"
+i-0421,sombra
+i-0422,"archivo, documento"
+i-0423,agradecido
+i-0424,valiente
+i-0425,masticar
+i-0426,"tragar, reprimir"
+i-0427,pulir
+i-0428,"barrer, eliminar"
+i-0429,"desorden, confusión"
+i-0430,paisaje
+i-0431,bostezar
+i-0432,parpadear
+i-0433,"derramar, revelar"
+i-0434,perdonar
+i-0435,"alfiler, sujetar con un alfiler"
+i-0436,"suave, leve"
+i-0437,gritar
+i-0438,"frotar, aplicar frotando"
+i-0439,"arañar, rasguño"
+i-0440,"suplicar, rogar"
+i-0441,estornudar
+i-0442,"chupar, succionar"
+i-0443,"sed, anhelo"
+i-0444,"tonto, mudo"
+i-0445,además
+i-0446,además
+i-0447,"de lo contrario, por lo demás"
+i-0448,"alternativo, alternativa"
+i-0449,"definido, seguro"
+i-0450,"principal, primario"
+i-0451,"comentarios, reacción"
+i-0452,"base, fundamento"
+i-0453,tendencia
+i-0454,"visión, perspectiva"
+i-0455,"exactitud, precisión"
+i-0456,"solicitud, aplicación"
+i-0457,"argumento, discusión"
+i-0458,igualdad
+i-0459,analizar
+i-0460,resumir
+i-0461,cooperar
+i-0462,tender a
+i-0463,"desafío, cuestionar"
+i-0464,fundar
+i-0465,especie
+i-0466,teoría
+i-0467,"declaración, afirmación"
+i-0468,"evidencia, prueba"
+i-0469,"apropiado, adecuado"
+i-0470,probable
+i-0471,"individual, individuo"
+i-0472,"físico, material"
+i-0473,"con vencimiento, previsto"
+i-0474,a pesar de
+i-0475,"argumentar, sostener"
+i-0476,"afirmar, reclamar"
+i-0477,"hacer avanzar, avanzar"
+i-0478,"establecer, fundar"
+i-0479,"realizar, actuar"
+i-0480,"determinar, establecer"
+i-0481,"demostrar, probar"
+i-0482,"comunicar, comunicarse"
+i-0483,considerar
+i-0484,"disminuir, rechazar"
+i-0485,"sufrir, padecer"
+i-0486,"publicar, hacer público"
+i-0487,industria
+i-0488,economía
+i-0489,"política, directriz"
+i-0490,"comercio, transacción"
+i-0491,"célula, celda"
+i-0492,"impacto, influencia"
+i-0493,"recurso, medio"
+i-0494,"acceso, acceder"
+i-0495,"actitud, postura"
+i-0496,"estructura, sistema"
+i-0497,complejo
+i-0498,mental
+i-0499,"esencial, indispensable"
+i-0500,"financiero, monetario"
+i-0501,"académico, universitario"
+i-0502,"valer, merecer"
+i-0503,potencial
+i-0504,"mantener, sostener"
+i-0505,"examinar, observar"
+i-0506,"realizar, llevar a cabo"
+i-0507,"asociar, relacionar"
+i-0508,"promover, ascender"
+i-0509,"buscar, perseguir"
+i-0510,"observar, respetar"
+i-0511,revelar
+i-0512,"estimar, calcular"
+i-0513,reflejar
+i-0514,"definir, precisar"
+i-0515,"adaptarse, adaptar"
+i-0516,"dudar, duda"
+i-0517,"suponer, dar por sentado"
+i-0518,"satisfacer, cumplir"
+i-0519,"contraste, contrastar"
+i-0520,técnica
+i-0521,"estatus, estado"
+i-0522,"raza, competencia"
+i-0523,"conflicto, enfrentamiento"
+i-0524,"lucha, esfuerzo"
+i-0525,"debate, controversia"
+i-0526,contaminación
+i-0527,"tendencia, moda"
+i-0528,"base, fundamento"
+i-0529,antepasado
+i-0530,eficiente
+i-0531,legal
+i-0532,"independiente, no relacionado"
+i-0533,"extremo, radical"
+i-0534,dispuesto
+i-0535,urbano
+i-0536,"predecir, pronosticar"
+i-0537,"surgir, hacerse evidente"
+i-0538,"variar, ser diverso"
+i-0539,"liberar, emitir"
+i-0540,"permitir, hacer posible"
+i-0541,"trasladar, cambiar"
+i-0542,adoptar
+i-0543,adquirir
+i-0544,"consumir, comer"
+i-0545,convencer
+i-0546,operar
+i-0547,participar
+i-0548,"organizar, anfitrión"
+i-0549,"agradecer, valorar"
+i-0550,elemento
+i-0551,"atmósfera, ambiente"
+i-0552,origen
+i-0553,personalidad
+i-0554,amenaza
+i-0555,residente
+i-0556,"riqueza, patrimonio"
+i-0557,campaña
+i-0558,"fondos, fondo"
+i-0559,"símbolo, signo"
+i-0560,análisis
+i-0561,crisis
+i-0562,género
+i-0563,"costumbre, aduana"
+i-0564,fósil
+i-0565,"firme, empresa"
+i-0566,"general, global"
+i-0567,rural
+i-0568,"constante, continuo"
+i-0569,"severo, grave"
+i-0570,enorme
+i-0571,"nacional, doméstico"
+i-0572,"masivo, masas"
+i-0573,educar
+i-0574,"comprar, compra"
+i-0575,"admitir, aceptar"
+i-0576,"generar, producir"
+i-0577,"explorar, investigar"
+i-0578,"resolver, establecerse"
+i-0579,"poder permitirse, brindar"
+i-0580,"concluir, terminar"
+i-0581,"anunciar, publicitar"
+i-0582,encontrarse con
+i-0583,"localizar, estar situado"
+i-0584,"ayuda, ayudar"
+i-0585,competir
+i-0586,negar
+i-0587,rechazar
+i-0588,"tener la intención de, proponerse"
+i-0589,"proponer, pedir matrimonio"
+i-0590,"instrucción, instrucciones"
+i-0591,laboratorio
+i-0592,instrumento
+i-0593,"categoría, división"
+i-0594,capital
+i-0595,resultado
+i-0596,"repaso, evaluación"
+i-0597,"ocasión, caso"
+i-0598,"instalación, equipamiento"
+i-0599,"existencias, acciones"
+i-0600,humanidad
+i-0601,mamífero
+i-0602,cantidad
+i-0603,paisaje
+i-0604,órgano
+i-0605,"intento, juicio"
+i-0606,"regla, código"
+i-0607,numerosos
+i-0608,suficiente
+i-0609,"apropiado, correcto"
+i-0610,"estricto, severo"
+i-0611,"violento, intenso"
+i-0612,"inmediato, directo"
+i-0613,"algo, un tanto"
+i-0614,"interpretar, comprender"
+i-0615,"criticar, censurar"
+i-0616,"superar, vencer"
+i-0617,"obtener, conseguir"
+i-0618,"asegurar, garantizar"
+i-0619,"oponerse, enfrentarse"
+i-0620,enfatizar
+i-0621,"emplear, utilizar"
+i-0622,"surgir, ocurrir"
+i-0623,"alterar, cambiar"
+i-0624,"absorber, incorporar"
+i-0625,"curar, cura"
+i-0626,transportar
+i-0627,"prohibir, prohibición"
+i-0628,"ajustar, adaptarse"
+i-0629,gasto
+i-0630,deuda
+i-0631,"alarma, inquietud"
+i-0632,"ministro, pastor"
+i-0633,candidato
+i-0634,arma
+i-0635,"barrera, obstáculo"
+i-0636,"desventaja, inconveniente"
+i-0637,movimiento
+i-0638,"mito, historia inventada"
+i-0639,cliente
+i-0640,"ingrediente, componente"
+i-0641,"contrato, contraerse"
+i-0642,"dramático, exagerado"
+i-0643,"menor, insignificante"
+i-0644,"flexible, adaptable"
+i-0645,"abandonar, renunciar"
+i-0646,"capturar, captar"
+i-0647,"transferir, trasladar"
+i-0648,"persuadir, convencer"
+i-0649,"alquilar, alquiler"
+i-0650,"reservar, guardar"
+i-0651,aconsejar
+i-0652,"fijar, adjuntar"
+i-0653,"molestar, perturbar"
+i-0654,"chocar, estrellarse"
+i-0655,"permitir, permiso"
+i-0656,impresionar
+i-0657,"sospechar, sospechoso"
+i-0658,"importar, importación"
+i-0659,"exportar, exportación"
+i-0660,calcular
+i-0661,"aliviar, facilitar"
+i-0662,"lanzar, iniciar"
+i-0663,"testigo, presenciar"
+i-0664,honor
+i-0665,prioridad
+i-0666,mínimo
+i-0667,"vínculo, bono"
+i-0668,virus
+i-0669,seguro
+i-0670,"distrito, zona"
+i-0671,"cosecha, cosechar"
+i-0672,"culpa, defecto"
+i-0673,"diálogo, conversación"
+i-0674,frecuente
+i-0675,"aleatorio, al azar"
+i-0676,"crudo, sin procesar"
+i-0677,"poseer, tener"
+i-0678,"garantizar, garantía"
+i-0679,"desanimar, disuadir"
+i-0680,"agotar, escape"
+i-0681,declarar
+i-0682,"asegurar, proteger"
+i-0683,"resistir, soportar"
+i-0684,imitar
+i-0685,parecerse
+i-0686,"derrumbarse, colapsar"
+i-0687,"protestar, protesta"
+i-0688,"misión, tarea"
+i-0689,"motor, fuerza motriz"
+i-0690,profesión
+i-0691,editor
+i-0692,"agente, intermediario"
+i-0693,medio
+i-0694,"sesión, clase"
+i-0695,"divorcio, divorciarse"
+i-0696,"directriz, criterio"
+i-0697,"base, plataforma"
+i-0698,"canal, vía"
+i-0699,"fortuna, suerte"
+i-0700,artístico
+i-0701,clásico
+i-0702,concreto
+i-0703,"leve, ligero"
+i-0704,temporal
+i-0705,"culpable, con sentimiento de culpa"
+i-0706,"increíble, extraordinario"
+i-0707,"adecuado, suficiente"
+i-0708,"aprobar, estar de acuerdo"
+i-0709,"apilar, montón"
+i-0710,merecer
+i-0711,"derrotar, derrota"
+i-0712,"soportar, aguantar"
+i-0713,"resolver, decidirse"
+i-0714,"registrar, inscribir"
+i-0715,"interrumpir, molestar"
+i-0716,castigar
+i-0717,"arruinar, ruina"
+i-0718,"defender, proteger"
+i-0719,"pasión, entusiasmo"
+i-0720,"fase, etapa"
+i-0721,"núcleo, centro"
+i-0722,"fe, confianza"
+i-0723,"lujo, artículo de lujo"
+i-0724,consejo
+i-0725,generoso
+i-0726,optimista
+i-0727,desagradable
+i-0728,sordo
+i-0729,"auténtico, sincero"
+i-0730,"instantáneo, inmediato"
+i-0731,"de repuesto, extra"
+i-0732,"duro, severo"
+i-0733,"constante, estable"
+i-0734,"cargar, carga"
+i-0735,"vagar, deambular"
+i-0736,"pronunciar, dictaminar"
+i-0737,"encogerse, reducirse"
+i-0738,"restaurar, recuperar"
+i-0739,"entretener, atender"
+i-0740,"escanear, examinar rápidamente"
+i-0741,"presentar, someterse"
+i-0742,"dudar, vacilar"
+i-0743,"bombear, bomba"
+i-0744,consultar
+i-0745,"gráfico, diagrama"
+i-0746,geografía
+i-0747,semestre
+i-0748,destino
+i-0749,máximo
+i-0750,"sendero, rastro"
+i-0751,mezcla
+i-0752,"encanto, magia"
+i-0753,informal
+i-0754,"alerta, alarma"
+i-0755,cruel
+i-0756,"modesto, humilde"
+i-0757,"entusiasta, agudo"
+i-0758,"comprender, agarrar firmemente"
+i-0759,donar
+i-0760,"arrestar, arresto"
+i-0761,"estallar, irrumpir"
+i-0762,prohibir
+i-0763,instalar
+i-0764,"citar, cita"
+i-0765,obedecer
+i-0766,"acosar, abusón"
+i-0767,"saltar, salto"
+i-0768,"lanzar, tono"
+i-0769,"entrada, aportación"
+i-0770,"mérito, ventaja"
+i-0771,"compasión, simpatía"
+i-0772,"cumplido, elogio"
+i-0773,"rayo, luz"
+i-0774,"articulación, conjunto"
+i-0775,"curva, curvarse"
+i-0776,fantasía
+i-0777,"brillante, magnífico"
+i-0778,inocente
+i-0779,"poco profundo, superficial"
+i-0780,"incómodo, torpe"
+i-0781,"proceder, avanzar"
+i-0782,"navegar por internet, hacer surf"
+i-0783,"agarrar, agarre"
+i-0784,"desvanecerse, desteñirse"
+i-0785,"arruinar, consentir"
+i-0786,"explotar, dispararse"
+i-0787,decorar
+i-0788,"precaución, cautela"
+i-0789,aroma
+i-0790,bebida
+i-0791,galería
+i-0792,fama
+i-0793,fecha límite
+i-0794,"tumba, grave"
+i-0795,"columna, sección"
+i-0796,"pastilla, tableta"
+i-0797,"amargo, doloroso"
+i-0798,"tenso, tiempo verbal"
+i-0799,hada
+i-0800,abordar
+i-0801,divertir
+i-0802,"girar, hilar"
+i-0803,"arrastrar, retrasar"
+i-0804,"teñir, tinte"
+i-0805,"robar, atracar"
+i-0806,"torcer, retorcer"
+i-0807,"aplastar, destrozar"
+i-0808,perfil
+i-0809,"apetito, deseo"
+i-0810,"guion, escritura"
+i-0811,aniversario
+i-0812,ganado
+i-0813,"cárcel, centro de detención"
+i-0814,formato
+i-0815,"decente, aceptable"
+i-0816,avergonzado
+i-0817,inalámbrico
+i-0818,susurrar
+i-0819,"balancearse, hacer oscilar"
+i-0820,"atreverse, desafiar"
+i-0821,"dar la vuelta, dar un golpecito"
+i-0822,pesadilla
+i-0823,rumor
+i-0824,"equipo, engranaje"
+i-0825,"actualizar, actualización"
+i-0826,"rociar, pulverización"
+i-0827,suspirar
+i-0828,"titular, noticia principal"
+i-0829,"ordenado, agradable"
+i-0830,"ordenado, ordenar"
+i-0831,"gatear, avanzar lentamente"
+i-0832,eliminar
+i-0833,rezar
+i-0834,"maquillaje, carácter"
+i-0835,"lavado, ropa para lavar"
+i-0836,"extraño, raro"
+i-0837,"dolorido, inflamado"
+i-0838,"llama, arder"
+i-0839,"enchufar, enchufe"
+i-0840,"burlarse de, molestar"
+i-0841,"eclipse solar, eclipse lunar"
+i-0842,recado
+i-0843,"atuendo, equipo"
+i-0844,huérfano
+i-0845,heno
+i-0846,"furioso, violento"
+i-0847,"mareado, con vértigo"
+i-0848,"por consiguiente, por lo tanto"
+i-0849,"coherente, congruente"
+i-0850,"diverso, variado"
+i-0851,beneficioso
+i-0852,"considerable, notable"
+i-0853,énfasis
+i-0854,objetivo
+i-0855,"procedimiento, trámite"
+i-0856,"suposición, supuesto"
+i-0857,"capacidad, rendimiento"
+i-0858,colaboración
+i-0859,concentración
+i-0860,crítica
+i-0861,eficiencia
+i-0862,"facilitar, promover"
+i-0863,"soportar, dar a luz"
+i-0864,político
+i-0865,"aspecto, punto de vista"
+i-0866,"significativo, importante"
+i-0867,"de plástico, flexible"
+i-0868,químico
+i-0869,"contribuir, ser un factor"
+i-0870,"enrollar, serpentear"
+i-0871,"deseo, desear"
+i-0872,concepto
+i-0873,"contexto, trasfondo"
+i-0874,estrategia
+i-0875,"consecuencia, gravedad"
+i-0876,gen
+i-0877,revolución
+i-0878,"vasto, enorme"
+i-0879,"moral, ético"
+i-0880,"pegarse, clavar"
+i-0881,"dedicarse a, involucrar"
+i-0882,"abordar, dirigirse a"
+i-0883,"aburrir, perforar"
+i-0884,"capacidad, aforo"
+i-0885,"autoridad, autoridades"
+i-0886,psicología
+i-0887,agricultura
+i-0888,consciente
+i-0889,"fundamental, básico"
+i-0890,"artificial, poco natural"
+i-0891,"militar, fuerzas armadas"
+i-0892,nuclear
+i-0893,"visual, visible"
+i-0894,"demostrar, mostrar"
+i-0895,"apelar, atractivo"
+i-0896,insistir
+i-0897,"estar a favor, favor"
+i-0898,inspirar
+i-0899,"consistir, incluir"
+i-0900,"presencia, asistencia"
+i-0901,"rasgo, característica"
+i-0902,diversidad
+i-0903,dialecto
+i-0904,"proporción, relación"
+i-0905,tribu
+i-0906,"generalizado, extendido"
+i-0907,civil
+i-0908,"sensible, delicado"
+i-0909,"crucial, fundamental"
+i-0910,"conceder, otorgar"
+i-0911,"mérito, crédito"
+i-0912,transformar
+i-0913,"construir, componer"
+i-0914,"fascinar, cautivar"
+i-0915,"interactuar, relacionarse"
+i-0916,democracia
+i-0917,"corporación, empresa"
+i-0918,"depresión, recesión"
+i-0919,inmigración
+i-0920,disciplina
+i-0921,estadística
+i-0922,"bienestar, asistencia social"
+i-0923,"principal, primordial"
+i-0924,"distinto, claro"
+i-0925,"vital, esencial"
+i-0926,"extraordinario, excepcional"
+i-0927,"agresivo, enérgico"
+i-0928,"preciso, exacto"
+i-0929,el último de los dos
+i-0930,"comprometerse, cometer"
+i-0931,"estimular, activar"
+i-0932,"mejorar, potenciar"
+i-0933,"perseguir, buscar"
+i-0934,invertir
+i-0935,"rastro, rastrear"
+i-0936,"ilustrar, ejemplificar"
+i-0937,"transmitir, transportar"
+i-0938,"desconcertar, enigma"
+i-0939,"afrontar, hacer frente"
+i-0940,investigar
+i-0941,síntoma
+i-0942,"incidente, suceso"
+i-0943,carga
+i-0944,lógica
+i-0945,excepción
+i-0946,cirugía
+i-0947,"territorio, zona"
+i-0948,"límite, frontera"
+i-0949,hábitat
+i-0950,"cooperación, colaboración"
+i-0951,reputación
+i-0952,"interno, interior"
+i-0953,"remoto, lejano"
+i-0954,"relevante, pertinente"
+i-0955,permanente
+i-0956,intenso
+i-0957,"significativo, con sentido"
+i-0958,"malvado, mal"
+i-0959,extinto
+i-0960,tropical
+i-0961,"detectar, descubrir"
+i-0962,"dedicar, dedicarse"
+i-0963,"instar, insistir"
+i-0964,"restringir, limitar"
+i-0965,acompañar
+i-0966,poner en peligro
+i-0967,"reconocer, agradecer"
+i-0968,"evaluar, valorar"
+i-0969,"invertir, revertir"
+i-0970,"asignar, imponer"
+i-0971,"lograr, completar"
+i-0972,sabiduría
+i-0973,"patrimonio, herencia"
+i-0974,élite
+i-0975,proteína
+i-0976,"sacrificio, sacrificar"
+i-0977,"tejido, pañuelo de papel"
+i-0978,prejuicio
+i-0979,"justicia, equidad"
+i-0980,"sector, ámbito"
+i-0981,glaciar
+i-0982,"uso, empleo"
+i-0983,"literario, escrito"
+i-0984,"desconocido, poco familiar"
+i-0985,"marino, naval"
+i-0986,"evidente, aparente"
+i-0987,"real, de la realeza"
+i-0988,"por, vía"
+i-0989,"evaluar, valorar"
+i-0990,"comentario, comentar"
+i-0991,"distribuir, repartir"
+i-0992,"ordenar, mando"
+i-0993,"ocupar, residir"
+i-0994,"irritar, frustrar"
+i-0995,"aliviar, tranquilizar"
+i-0996,"mirar fijamente, colega"
+i-0997,"deleitar, alegría"
+i-0998,"impulsar, aumentar"
+i-0999,componer
+i-1000,"aceptar, abrazar"
+i-1001,"entusiasmo, fervor"
+i-1002,"modo, modalidad"
+i-1003,"período, extensión"
+i-1004,"gravedad, seriedad"
+i-1005,"alma, espíritu"
+i-1006,"nervio, valor"
+i-1007,infección
+i-1008,instinto
+i-1009,"obstáculo, impedimento"
+i-1010,"arquitectura, estructura"
+i-1011,sequía
+i-1012,"por, por el bien de"
+i-1013,"manual, manual de instrucciones"
+i-1014,mecánico
+i-1015,"maduro, adulto"
+i-1016,del mismo modo
+i-1017,demandar
+i-1018,"mirar fijamente, mirada"
+i-1019,"abrumar, aplastar"
+i-1020,"sustituir, sustituto"
+i-1021,"desencadenar, gatillo"
+i-1022,"interferir, obstaculizar"
+i-1023,"anticipar, prever"
+i-1024,clasificar
+i-1025,"montar, subir"
+i-1026,"exceder, superar"
+i-1027,"afrontar, enfrentarse a"
+i-1028,"cumplir, satisfacer"
+i-1029,"fábrica, molino"
+i-1030,tragedia
+i-1031,alergia
+i-1032,"gente, folclórico"
+i-1033,tarifa
+i-1034,"esqueleto, armazón"
+i-1035,peatón
+i-1036,"proporción, relación"
+i-1037,ambición
+i-1038,"inmediato, incitar"
+i-1039,mutuo
+i-1040,neutral
+i-1041,fluido
+i-1042,"externo, exterior"
+i-1043,no relacionado
+i-1044,urgente
+i-1045,negociar
+i-1046,"pronosticar, pronóstico"
+i-1047,excluir
+i-1048,pasar por alto
+i-1049,"destacar, resaltar"
+i-1050,distraer
+i-1051,"registrar, iniciar sesión"
+i-1052,asombrar
+i-1053,"mezclar, mezclarse"
+i-1054,"dedicar, dedicarse"
+i-1055,equipar
+i-1056,"sanción, multa"
+i-1057,nutrición
+i-1058,nacionalidad
+i-1059,clínica
+i-1060,huella dactilar
+i-1061,pánico
+i-1062,"tela, tejido"
+i-1063,válido
+i-1064,moderado
+i-1065,"enorme, tremendo"
+i-1066,embarazada
+i-1067,"filtrar, eliminar"
+i-1068,"apostar, afirmar"
+i-1069,acusar
+i-1070,desaparecer
+i-1071,desplazarse al trabajo o a estudiar
+i-1072,posponer
+i-1073,heredar
+i-1074,señal
+i-1075,humanidad
+i-1076,"fibra, fibra alimentaria"
+i-1077,"sensato, prudente"
+i-1078,"vago, impreciso"
+i-1079,estacional
+i-1080,"ridículo, absurdo"
+i-1081,"recortar, clip"
+i-1082,"esparcir, dispersarse"
+i-1083,"irritar, estimular"
+i-1084,"insultar, insulto"
+i-1085,"drenar, desagüe"
+i-1086,"ir a la deriva, dejarse llevar"
+i-1087,"revisar, modificar"
+i-1088,"cámara, sala"
+i-1089,manada
+i-1090,"lástima, compasión"
+i-1091,"ejercicio, taladro"
+i-1092,monumento
+i-1093,"directo, claro"
+i-1094,"transparente, evidente"
+i-1095,"empinado, pronunciado"
+i-1096,"en curso, continuo"
+i-1097,"florecer, floración"
+i-1098,aterrorizar
+i-1099,engañar
+i-1100,"morir de hambre, hacer pasar hambre"
+i-1101,sobresaltar
+i-1102,empeorar
+i-1103,"caos, confusión"
+i-1104,"horror, aversión"
+i-1105,firma
+i-1106,pasillo
+i-1107,destino
+i-1108,"sobresaliente, destacado"
+i-1109,"que vale la pena, gratificante"
+i-1110,probable
+i-1111,"gradual, progresivo"
+i-1112,"vívido, intenso"
+i-1113,"florecer, floración"
+i-1114,"partir, marcharse"
+i-1115,"atiborrar, estudiar intensivamente"
+i-1116,"brillar, acalorarse"
+i-1117,"arrojar, desechar"
+i-1118,pastilla
+i-1119,"recepción, respuesta"
+i-1120,"productos lácteos, sección de lácteos"
+i-1121,postura
+i-1122,funeral
+i-1123,cereal
+i-1124,"parche, zona"
+i-1125,"basura, tontería"
+i-1126,laberinto
+i-1127,aliado
+i-1128,"hoja, cuchilla"
+i-1129,"ganga, oferta"
+i-1130,desnudo
+i-1131,"sincero, de corazón"
+i-1132,"tenue, borroso"
+i-1133,recuperar
+i-1134,"apretar, exprimir"
+i-1135,"ahogarse, ahogar"
+i-1136,"sumergir, bajar ligeramente"
+i-1137,"empapar, remojar"
+i-1138,"remover, suscitar"
+i-1139,"envidiar, envidia"
+i-1140,"ámbito, campo"
+i-1141,"escudo, proteger"
+i-1142,"carne, piel"
+i-1143,"extremidad, rama"
+i-1144,venganza
+i-1145,"celoso, vigilante"
+i-1146,"partir de golpe, chasquear"
+i-1147,borrar
+i-1148,"rebotar, rebote"
+i-1149,"barril, cañón"
+i-1150,"hilo, línea"
+i-1151,"puesto, perder velocidad"
+i-1152,guerrero
+i-1153,"apilar, pila"
+i-1154,tuitear
+i-1155,"burlarse de, ridiculizar"
+i-1156,"manchar, mancha"
+i-1157,"rugir, bramar"
+i-1158,"traer, ir a buscar"
+i-1159,hígado
+i-1160,"maldecir, jurar"
+i-1161,"misericordia, compasión"
+i-1162,"mayor parte, volumen"
+i-1163,reencuentro
+i-1164,"codicia, avaricia"
+i-1165,textura
+i-1166,"serio, ferviente"
+i-1167,húmedo
+i-1168,"a la inversa, por el contrario"
+i-1169,"aplicable, pertinente"
+i-1170,"integral, completo"
+i-1171,ético
+i-1172,"creíble, convincente"
+i-1173,"restricción, limitación"
+i-1174,"marco, estructura"
+i-1175,"mecanismo, funcionamiento"
+i-1176,"certeza, seguridad"
+i-1177,claridad
+i-1178,"composición, componentes"
+i-1179,credibilidad
+i-1180,"participación, implicación"
+i-1181,"especificar, indicar claramente"
+i-1182,"instruir, enseñar"
+i-1183,"objetar, objeto"
+i-1184,"medio, recurso"
+i-1185,"ejemplo, caso"
+i-1186,"novedoso, novela"
+i-1187,"universal, versátil"
+i-1188,mientras que
+i-1189,"impresionar, golpear"
+i-1190,"evolucionar, desarrollarse"
+i-1191,"preservar, proteger"
+i-1192,principio
+i-1193,"circunstancia, situación"
+i-1194,"institución, sistema"
+i-1195,"perspectiva, punto de vista"
+i-1196,biológico
+i-1197,"sin embargo, no obstante"
+i-1198,"percibir, darse cuenta"
+i-1199,"distinguir, diferenciar"
+i-1200,"implicar, insinuar"
+i-1201,"clasificar, rango"
+i-1202,"exponer, revelar"
+i-1203,"noción, idea"
+i-1204,filosofía
+i-1205,"sustancia, esencia"
+i-1206,"contemporáneo, actual"
+i-1207,"contrario, opuesto"
+i-1208,"superior, jefe"
+i-1209,"virtual, prácticamente"
+i-1210,"fabricar, fabricación"
+i-1211,"perspicacia, comprensión"
+i-1212,innovación
+i-1213,estereotipo
+i-1214,"trastorno, desorden"
+i-1215,médico
+i-1216,"colonia, asentamiento"
+i-1217,"convencional, tradicional"
+i-1218,"abstracto, resumen"
+i-1219,"étnico, racial"
+i-1220,"ajeno, extranjero"
+i-1221,"criar, raza"
+i-1222,"supervisar, monitor"
+i-1223,eliminar
+i-1224,"secuencia, orden"
+i-1225,"terapia, tratamiento"
+i-1226,"conservación, protección"
+i-1227,"depredador, explotador"
+i-1228,"sesgo, prejuicio"
+i-1229,"patente, patentar"
+i-1230,"componente, pieza"
+i-1231,"verbal, oral"
+i-1232,"principal, director"
+i-1233,equivalente
+i-1234,"racional, razonable"
+i-1235,"absoluto, completo"
+i-1236,mero
+i-1237,"dominar, abrumar"
+i-1238,aislar
+i-1239,especializarse
+i-1240,"atribuir, atributo"
+i-1241,"descuidar, desatender"
+i-1242,"reformar, reforma"
+i-1243,"mantener, sostener"
+i-1244,"alfabetización, capacidad de leer y escribir"
+i-1245,"refugio, lugar seguro"
+i-1246,"desigualdad, brecha"
+i-1247,"liberal, tolerante"
+i-1248,federal
+i-1249,primitivo
+i-1250,"reacio, reticente"
+i-1251,"plantear, presentar"
+i-1252,"producir, ceder"
+i-1253,"mostrar, exhibir"
+i-1254,"aparecer de repente, estallar"
+i-1255,"derivarse, obtener"
+i-1256,"convertir, convertir de religión"
+i-1257,"corresponder, cartearse"
+i-1258,imponer
+i-1259,prohibir
+i-1260,modificar
+i-1261,"calificar, cumplir los requisitos"
+i-1262,"órbita, orbitar"
+i-1263,"incentivo, motivación"
+i-1264,"perspectiva, posibilidad"
+i-1265,ilusión
+i-1266,"discriminación, distinción"
+i-1267,"ritual, práctica habitual"
+i-1268,prefectura
+i-1269,"administración, gestión"
+i-1270,"currículo, plan de estudios"
+i-1271,ártico
+i-1272,"definitivo, último"
+i-1273,inmune
+i-1274,"colectivo, conjunto"
+i-1275,inevitable
+i-1276,"conservar, recordar"
+i-1277,"reproducir, reproducirse"
+i-1278,"cultivar, fomentar"
+i-1279,"justificar, demostrar que es correcto"
+i-1280,"regular, ajustar"
+i-1281,"someterse a, experimentar"
+i-1282,privilegio
+i-1283,"formación, organización"
+i-1284,"sensación, sensación de éxito"
+i-1285,"panel, comité"
+i-1286,"fuerza laboral, población activa"
+i-1287,"abuso, maltrato"
+i-1288,"vicio, vice-"
+i-1289,"escenario, guion"
+i-1290,vacuna
+i-1291,metáfora
+i-1292,"transición, cambio"
+i-1293,galaxia
+i-1294,mineral
+i-1295,hermano o hermana
+i-1296,"destacado, prominente"
+i-1297,"magnético, atractivo"
+i-1298,"polar, opuesto"
+i-1299,pasivo
+i-1300,"vulnerable, débil"
+i-1301,espiritual
+i-1302,"disminuir, reducir"
+i-1303,"citar, mencionar"
+i-1304,"disputar, disputa"
+i-1305,"criar, fomentar"
+i-1306,privar
+i-1307,"gobernar, regir"
+i-1308,"transmitir, enviar"
+i-1309,"emocionar, estremecer"
+i-1310,complicar
+i-1311,"persistir, continuar"
+i-1312,premisa
+i-1313,"angustia, sufrimiento"
+i-1314,expedición
+i-1315,adolescente
+i-1316,"ética, moral"
+i-1317,"facultad, capacidad"
+i-1318,"plan, estrategia"
+i-1319,"partícula, pequeña cantidad"
+i-1320,"encuesta, votación"
+i-1321,"fatiga, cansancio"
+i-1322,dilema
+i-1323,"cola, fila"
+i-1324,"narrativa, relato"
+i-1325,"naturaleza salvaje, territorio salvaje"
+i-1326,"virtud, cualidad"
+i-1327,"dinámico, enérgico"
+i-1328,"oral, bucal"
+i-1329,"posterior, subsiguiente"
+i-1330,indiferente
+i-1331,inferior
+i-1332,obeso
+i-1333,sagrado
+i-1334,contra
+i-1335,"atar, unir"
+i-1336,reforzar
+i-1337,acumular
+i-1338,"despedir, rechazar"
+i-1339,"ocultar, encubrir"
+i-1340,"sellar, cerrar herméticamente"
+i-1341,"migrar, trasladarse"
+i-1342,exagerar
+i-1343,"engañar, inducir a error"
+i-1344,"repugnar, repugnancia"
+i-1345,"cesar, detener"
+i-1346,"ceder, compromiso"
+i-1347,elegir
+i-1348,extraer
+i-1349,empatía
+i-1350,"empresa, negocio"
+i-1351,"producción, salida"
+i-1352,congreso
+i-1353,musulmán
+i-1354,"patrimonio, bienes inmuebles"
+i-1355,"venta al por menor, minorista"
+i-1356,provincia
+i-1357,arrecife de coral
+i-1358,exceso
+i-1359,presa
+i-1360,recesión
+i-1361,"retirada, retroceso"
+i-1362,"trama, conspiración"
+i-1363,escultura
+i-1364,"denso, compacto"
+i-1365,"exótico, foráneo"
+i-1366,ácido
+i-1367,"noble, aristócrata"
+i-1368,"paralelo, similar"
+i-1369,vertical
+i-1370,abundante
+i-1371,híbrido
+i-1372,irrelevante
+i-1373,"inferir, deducir"
+i-1374,"aventurarse, empresa"
+i-1375,"acelerar, impulsar"
+i-1376,"prosperar, desarrollarse bien"
+i-1377,"criar, fomentar"
+i-1378,"lanzar, reparto"
+i-1379,tentar
+i-1380,"retirar, retirarse"
+i-1381,"reclutar, contratar"
+i-1382,"descubrir, revelar"
+i-1383,"implementar, ejecutar"
+i-1384,impulso
+i-1385,pensión
+i-1386,"temperamento, carácter"
+i-1387,"sacerdote, clérigo"
+i-1388,"conocido, conocimiento"
+i-1389,"descendencia, hijo"
+i-1390,hambruna
+i-1391,"destinatario, receptor"
+i-1392,"combate, combatir"
+i-1393,"fracción, pequeña parte"
+i-1394,índice
+i-1395,intuición
+i-1396,motivo
+i-1397,consentimiento
+i-1398,"activo, patrimonio"
+i-1399,"competente, capacitado"
+i-1400,"delicado, frágil"
+i-1401,"interior, interno"
+i-1402,"humilde, modesto"
+i-1403,"magnífico, espléndido"
+i-1404,"asegurar, afirmar"
+i-1405,"revivir, recuperarse"
+i-1406,"huir, escapar"
+i-1407,"depositar, depósito"
+i-1408,"representar, describir"
+i-1409,"resumir, esquema"
+i-1410,"renovar, reanudar"
+i-1411,"afirmar, sostener"
+i-1412,"sobrecargar, tensión"
+i-1413,esforzarse
+i-1414,"presumir, jactarse"
+i-1415,"ofender, molestar"
+i-1416,"reunir, montar"
+i-1417,"descender, bajar"
+i-1418,"búsqueda, viaje de búsqueda"
+i-1419,corriente principal
+i-1420,"tropa, unidad militar"
+i-1421,"brote, estallido"
+i-1422,"grupo, conglomerado"
+i-1423,polen
+i-1424,colmena
+i-1425,dosis
+i-1426,suicidio
+i-1427,"banquete, festín"
+i-1428,"cocina, gastronomía"
+i-1429,proverbio
+i-1430,"fórmula, método"
+i-1431,"matrícula, colegiatura"
+i-1432,riñón
+i-1433,"dolor, pesar"
+i-1434,cráneo
+i-1435,tumba
+i-1436,monje
+i-1437,"adoración, culto"
+i-1438,"frágil, quebradizo"
+i-1439,"vocal, de la voz"
+i-1440,"escaso, raro"
+i-1441,"notable, destacado"
+i-1442,"refrescar, revitalizar"
+i-1443,comprender
+i-1444,"agolparse, bandada"
+i-1445,aclarar
+i-1446,"provocar, chispa"
+i-1447,"agarrar, apoderarse de"
+i-1448,"elevarse, dispararse"
+i-1449,"disfrazar, disfraz"
+i-1450,"quitar, despojar"
+i-1451,tejer
+i-1452,"prácticas profesionales, pasantía"
+i-1453,"tienda de venta directa, vía de escape"
+i-1454,"remedio, solución"
+i-1455,"compasión, empatía"
+i-1456,"maldición, improperio"
+i-1457,enciclopedia
+i-1458,fragmento
+i-1459,"perspectiva, opinión"
+i-1460,"triunfo, éxito"
+i-1461,espectador
+i-1462,"en nombre de, por el bien de"
+i-1463,intervalo
+i-1464,robo
+i-1465,colisión
+i-1466,"punto de referencia, acontecimiento histórico"
+i-1467,"exhaustivo, minucioso"
+i-1468,"domesticar, dócil"
+i-1469,con discapacidad
+i-1470,"alternativo, alterno"
+i-1471,"parcial, sesgado"
+i-1472,"feroz, intenso"
+i-1473,"único, planta del pie"
+i-1474,"leal, fiel"
+i-1475,"inscribirse, matricularse"
+i-1476,"detenerse, detener"
+i-1477,"invadir, entrar por la fuerza"
+i-1478,"dirigir, guiar"
+i-1479,"reanudar, currículum"
+i-1480,"nombrar, designar"
+i-1481,hincharse
+i-1482,"confesar, admitir"
+i-1483,"dimitir, resignarse"
+i-1484,"desplegarse, revelarse"
+i-1485,"inflación, aumento de precios"
+i-1486,"choque, conflicto"
+i-1487,"margen, diferencia"
+i-1488,bala
+i-1489,"desesperación, desesperarse"
+i-1490,"guardería, vivero"
+i-1491,cónyuge
+i-1492,"momia, mamá"
+i-1493,olor
+i-1494,"marea, corriente"
+i-1495,"tonterías, absurdo"
+i-1496,"accidental, involuntario"
+i-1497,"inquieto, intranquilo"
+i-1498,"rápido, veloz"
+i-1499,"colaborar, trabajar conjuntamente"
+i-1500,"insertar, introducir"
+i-1501,"adelantar, alcanzar"
+i-1502,"tallar, cortar"
+i-1503,"perderse, extraviarse"
+i-1504,"retrasarse, retraso"
+i-1505,"aferrarse, adherirse"
+i-1506,"triturar, moler"
+i-1507,"tejer, unir"
+i-1508,"filtrarse, filtrar"
+i-1509,"destrozar, hacer añicos"
+i-1510,"fruncir el ceño, ceño fruncido"
+i-1511,"borrador, bosquejo"
+i-1512,"gabinete, armario"
+i-1513,"aritmética, cálculo"
+i-1514,"legado, tradición"
+i-1515,"furia, ira"
+i-1516,"tristeza, pesar"
+i-1517,humedad
+i-1518,altitud
+i-1519,"alcance, margen"
+i-1520,"intermedio, de nivel intermedio"
+i-1521,"sombrío, oscuro"
+i-1522,"débil, desmayarse"
+i-1523,"verificar, comprobar"
+i-1524,"girar, rotar"
+i-1525,"difuminar, volverse borroso"
+i-1526,"superponerse, coincidir"
+i-1527,"rendirse, entregar"
+i-1528,"tropezar, tambalearse"
+i-1529,esperar
+i-1530,"inspeccionar, revisar"
+i-1531,"peligro, factor de riesgo"
+i-1532,"rebelde, rebelarse"
+i-1533,"mercancía, productos"
+i-1534,"supervisor, tutor"
+i-1535,"personal, empleados"
+i-1536,duración
+i-1537,certificado
+i-1538,biografía
+i-1539,"avería, colapso"
+i-1540,"elegible, apto"
+i-1541,"diligente, trabajador"
+i-1542,"terco, obstinado"
+i-1543,maduro
+i-1544,"rígido, tieso"
+i-1545,"vacante, desocupado"
+i-1546,puntual
+i-1547,"fusionar, integrar"
+i-1548,sangrar
+i-1549,"hojear, curiosear"
+i-1550,"aletear, golpetear"
+i-1551,cuenca
+i-1552,erosión
+i-1553,congestión
+i-1554,complemento
+i-1555,"molde, moho"
+i-1556,"soborno, sobornar"
+i-1557,acoso
+i-1558,tímido
+i-1559,contagioso
+i-1560,"agotado, harto"
+i-1561,"entumecido, insensible"
+i-1562,"con ello, de ese modo"
+i-1563,"análogo, similar"
+i-1564,"viable, factible"
+i-1565,"entidad, existencia"
+i-1566,"integridad, honestidad"
+i-1567,"estimación, cálculo"
+i-1568,"diferenciar, distinguir"
+i-1569,"formular, elaborar"
+i-1570,"enmendar, modificar"
+i-1571,omitir
+i-1572,maximizar
+i-1573,minimizar
+i-1574,fluctuar
+i-1575,"idear, concebir"
+i-1576,"acuerdo, armonía"
+i-1577,cognitivo
+i-1578,fenómeno
+i-1579,"norma, estándar"
+i-1580,lingüístico
+i-1581,"independientemente, sin importar"
+i-1582,hipótesis
+i-1583,"sofisticado, avanzado"
+i-1584,"adelante, hacia adelante"
+i-1585,primate
+i-1586,correlación
+i-1587,"sutil, leve"
+i-1588,eliminar
+i-1589,asteroide
+i-1590,"profundo, trascendental"
+i-1591,subir y bajar
+i-1592,subyacer
+i-1593,"dimensión, aspecto"
+i-1594,"contraparte, equivalente"
+i-1595,"accidente cerebrovascular, golpe"
+i-1596,ecología
+i-1597,"radical, fundamental"
+i-1598,"sin embargo, aun así"
+i-1599,infraestructura
+i-1600,jurado
+i-1601,molécula
+i-1602,"insecticida, pesticida"
+i-1603,"gusto, ocurrencia"
+i-1604,"elaborado, minucioso"
+i-1605,"íntimo, personal"
+i-1606,medieval
+i-1607,simultáneamente
+i-1608,"orientar, familiarizar"
+i-1609,"recurrir, recurso"
+i-1610,"defender, promover"
+i-1611,"constituir, componer"
+i-1612,"asumir, emprender"
+i-1613,"agravar, compuesto"
+i-1614,"criar, trasero"
+i-1615,milenio
+i-1616,mina terrestre
+i-1617,controversia
+i-1618,"consenso, acuerdo"
+i-1619,"complementar, suplemento"
+i-1620,microbio
+i-1621,estudiante universitario
+i-1622,esclavitud
+i-1623,sensorial
+i-1624,crónico
+i-1625,"voluntario, opcional"
+i-1626,"inclinado, dispuesto"
+i-1627,"respetar, estima"
+i-1628,acostumbrar
+i-1629,"prosperar, florecer"
+i-1630,"hacer cumplir, aplicar"
+i-1631,suspender
+i-1632,"aprovechar, explotar"
+i-1633,integrar
+i-1634,incorporar
+i-1635,"utilidad, servicio público"
+i-1636,fluido
+i-1637,mercancía
+i-1638,incapacidad
+i-1639,república
+i-1640,"escombros, restos"
+i-1641,"germen, insecto"
+i-1642,jerarquía
+i-1643,"cosmético, de belleza"
+i-1644,"meditado, intencionado"
+i-1645,"tóxico, dañino"
+i-1646,"peculiar, extraño"
+i-1647,"trivial, insignificante"
+i-1648,preceder
+i-1649,"obligar, forzar"
+i-1650,"violar, infringir"
+i-1651,"limitar, confinar"
+i-1652,prolongar
+i-1653,"quitarse, derramar"
+i-1654,"emitir, expulsar"
+i-1655,"utilizar, aprovechar"
+i-1656,calcular
+i-1657,compensar
+i-1658,"prevalecer, difundirse"
+i-1659,dignidad
+i-1660,parlamento
+i-1661,"agenda, orden del día"
+i-1662,epidemia
+i-1663,"ingesta, entrada"
+i-1664,"espectro, rango"
+i-1665,infinito
+i-1666,obligatorio
+i-1667,ambiguo
+i-1668,"desconocido, poco claro"
+i-1669,escéptico
+i-1670,"estático, inmóvil"
+i-1671,hostil
+i-1672,"total, terrible"
+i-1673,"conquistar, superar"
+i-1674,"provocar, inducir"
+i-1675,"alcanzar, lograr"
+i-1676,"recuperar, buscar"
+i-1677,"representar, interpretar"
+i-1678,"designar, nombrar"
+i-1679,"contradecir, refutar"
+i-1680,"alterar, interrumpir"
+i-1681,"navegar, guiar"
+i-1682,habitar
+i-1683,diagnosticar
+i-1684,"obligar, ayudar"
+i-1685,subestimar
+i-1686,"distorsionar, deformar"
+i-1687,abolir
+i-1688,"desechar, disponer"
+i-1689,"refinar, purificar"
+i-1690,enriquecer
+i-1691,coordinar
+i-1692,transacción
+i-1693,censo
+i-1694,"gran descubrimiento, gran avance"
+i-1695,"ámbito, esfera"
+i-1696,"circulación, distribución"
+i-1697,"vacío, aspiradora"
+i-1698,"ingresos, recaudación"
+i-1699,tratado
+i-1700,supremo
+i-1701,insuficiente
+i-1702,"agudo, grave"
+i-1703,"monetario, financiero"
+i-1704,"drástico, radical"
+i-1705,bendecir
+i-1706,"ajustarse, adaptarse"
+i-1707,"provocar, incitar"
+i-1708,"digerir, asimilar"
+i-1709,"pronunciar, emitir"
+i-1710,"alojar, adaptarse"
+i-1711,"tranquilizar, volver a asegurar"
+i-1712,"superar, sobrepasar"
+i-1713,"pudrirse, deteriorarse"
+i-1714,"soportar, tolerar"
+i-1715,"disolver, disolverse"
+i-1716,"despertar, suscitar"
+i-1717,"interés, apuesta"
+i-1718,"excedente, superávit"
+i-1719,sociología
+i-1720,"vanguardia, frontera"
+i-1721,"radiación, radiactividad"
+i-1722,"cuestionario, encuesta"
+i-1723,"intelecto, capacidad intelectual"
+i-1724,"hospitalidad, acogida"
+i-1725,bibliotecario
+i-1726,higiene
+i-1727,"auténtico, genuino"
+i-1728,"inmenso, enorme"
+i-1729,"absurdo, ridículo"
+i-1730,femenino
+i-1731,"hueco, vacío"
+i-1732,"aproximado, tosco"
+i-1733,pesimista
+i-1734,"inútil, vanidoso"
+i-1735,comestible
+i-1736,"sobresalir, destacar"
+i-1737,"prosperar, tener éxito"
+i-1738,"agolparse, aumentar bruscamente"
+i-1739,"intervenir, mediar"
+i-1740,"adicto, volver adicto"
+i-1741,condenar
+i-1742,"dictar, ordenar"
+i-1743,"vagar, deambular"
+i-1744,"adjuntar, rodear"
+i-1745,ejecutar
+i-1746,coincidir
+i-1747,"preguntar, consultar"
+i-1748,"traicionar, revelar"
+i-1749,"conversar, inverso"
+i-1750,recitar
+i-1751,"prometer, jurar"
+i-1752,"aspirar, anhelar"
+i-1753,comercio
+i-1754,madera
+i-1755,"prenda, ropa"
+i-1756,"oficina, organismo"
+i-1757,"daño, tarifa"
+i-1758,superstición
+i-1759,"vistazo, vislumbrar"
+i-1760,"archivo, documentos oficiales"
+i-1761,"distrito, sala hospitalaria"
+i-1762,ironía
+i-1763,astronomía
+i-1764,tumor
+i-1765,defecto
+i-1766,"sentimiento, emoción"
+i-1767,masculino
+i-1768,"rígido, estricto"
+i-1769,"literal, palabra por palabra"
+i-1770,anónimo
+i-1771,"antiguo, anticuado"
+i-1772,eterno
+i-1773,térmico
+i-1774,"ingenuo, crédulo"
+i-1775,"arrogante, altanero"
+i-1776,"iluminar, aclarar"
+i-1777,"consolar, consola"
+i-1778,"obstaculizar, impedir"
+i-1779,"entrar en erupción, estallar"
+i-1780,"precipitarse, desplomarse"
+i-1781,"calmar, aliviar"
+i-1782,"sonrojarse, descargar"
+i-1783,"perseguir, aparecer"
+i-1784,desviar
+i-1785,"unificar, integrar"
+i-1786,"tácticas, estrategia"
+i-1787,"analogía, semejanza"
+i-1788,conciencia
+i-1789,"tejido, fibra textil"
+i-1790,"peste, atormentar"
+i-1791,"red, cuadrícula"
+i-1792,"carruaje, vagón"
+i-1793,"fricción, discordia"
+i-1794,"monopolio, derecho exclusivo"
+i-1795,predecesor
+i-1796,"barco, vaso sanguíneo"
+i-1797,geometría
+i-1798,"simetría bilateral, simetría"
+i-1799,obra maestra
+i-1800,"rima, poema rimado"
+i-1801,"cortesía, educación"
+i-1802,en bancarrota
+i-1803,"severo, adusto"
+i-1804,fértil
+i-1805,"aproximado, aproximadamente"
+i-1806,compatible
+i-1807,"amplio, abundante"
+i-1808,"deducir, inferir"
+i-1809,"agredir, agresión"
+i-1810,"torturar, tortura"
+i-1811,"apreciar, atesorar"
+i-1812,"provocar, despertar"
+i-1813,"temer profundamente, temor"
+i-1814,"nutrir, fomentar"
+i-1815,inyectar
+i-1816,"caducar, fallecer"
+i-1817,embajada
+i-1818,"refugio, protección"
+i-1819,"latitud, libertad"
+i-1820,"retórica, elocuencia"
+i-1821,"aguas residuales, alcantarillado"
+i-1822,subsidio
+i-1823,"hipoteca, préstamo hipotecario"
+i-1824,abogado
+i-1825,desprecio
+i-1826,"propenso, responsable"
+i-1827,"brusco, repentino"
+i-1828,"imprudente, temerario"
+i-1829,"notorio, de mala fama"
+i-1830,"mortal, letal"
+i-1831,"correlacionarse, estar relacionado"
+i-1832,"innovar, renovar"
+i-1833,"desplegar, distribuir"
+i-1834,"empoderar, facultar"
+i-1835,casarse
+i-1836,"neurona, célula nerviosa"
+i-1837,antibiótico
+i-1838,demencia
+i-1839,diabetes
+i-1840,"indígena, autóctono"
+i-1841,"aborigen, indígena"
+i-1842,"corteza, corteza cerebral"
+i-1843,síndrome
+i-1844,deforestación
+i-1845,estético
+i-1846,demográfico
+i-1847,prehistórico
+i-1848,"innato, congénito"
+i-1849,"suprimir, reprimir"
+i-1850,"manipular, alterar"
+i-1851,"comprender, estar compuesto por"
+i-1852,criterio
+i-1853,"paradoja, contradicción"
+i-1854,"legislación, ley"
+i-1855,"riego, irrigación"
+i-1856,sin precedentes
+i-1857,indispensable
+i-1858,"imperial, del emperador"
+i-1859,superficial
+i-1860,"inherente, innato"
+i-1861,"socavar, debilitar"
+i-1862,mutación
+i-1863,condado
+i-1864,metropolitano
+i-1865,"divino, sagrado"
+i-1866,"espontáneo, voluntario"
+i-1867,espacial
+i-1868,"dar derecho, titular"
+i-1869,"abstenerse, contenerse"
+i-1870,"poblar, estar habitado"
+i-1871,"trasplantar, trasplante"
+i-1872,"especular, conjeturar"
+i-1873,"intrigar, intriga"
+i-1874,contaminar
+i-1875,"concebir, imaginar"
+i-1876,"emprendedor, empresario"
+i-1877,ideología
+i-1878,"ámbito, campo"
+i-1879,algoritmo
+i-1880,pradera
+i-1881,placebo
+i-1882,"manuscrito, original"
+i-1883,obsesión
+i-1884,"legítimo, válido"
+i-1885,"puro, absoluto"
+i-1886,"explícito, directo"
+i-1887,propenso
+i-1888,"adinerado, acomodado"
+i-1889,"ejercer, ejercer influencia"
+i-1890,"condenar, convicto"
+i-1891,"recetar, prescribir"
+i-1892,"inhibir, impedir"
+i-1893,"extenderse desordenadamente, tumbarse"
+i-1894,"ignorar, menospreciar"
+i-1895,"evocar, suscitar"
+i-1896,"gracia, favor"
+i-1897,autonomía
+i-1898,"discurso, conversación"
+i-1899,glosario
+i-1900,antropología
+i-1901,psiquiatra
+i-1902,sonda
+i-1903,"saneamiento, instalaciones sanitarias"
+i-1904,"longevidad, duración de la vida"
+i-1905,"plausible, probable"
+i-1906,"vigoroso, enérgico"
+i-1907,"adverso, desfavorable"
+i-1908,"coherente, consistente"
+i-1909,"subordinado, subalterno"
+i-1910,"propenso, adecuado"
+i-1911,extrovertido
+i-1912,"conspicuo, destacado"
+i-1913,"intacto, ileso"
+i-1914,"encarnar, personificar"
+i-1915,"revelar, divulgar"
+i-1916,"obligar, limitar"
+i-1917,"resistir, soportar"
+i-1918,"incrustar, integrar"
+i-1919,"sustituir, desplazar"
+i-1920,"evitar, rehuir"
+i-1921,"perjudicar, deteriorar"
+i-1922,"suponer, presumir"
+i-1923,"sostener, disputar"
+i-1924,"hazaña, logro"
+i-1925,"prestigio, renombre"
+i-1926,"déficit, escasez"
+i-1927,metabolismo
+i-1928,parálisis
+i-1929,"régimen, sistema"
+i-1930,"alimento básico, artículo de primera necesidad"
+i-1931,"vendedor, proveedor"
+i-1932,"prima, recargo"
+i-1933,"protocolo, procedimiento"
+i-1934,"espécimen, ejemplo"
+i-1935,"tesis, proposición"
+i-1936,"profesional, de formación profesional"
+i-1937,"materno, maternal"
+i-1938,"obsoleto, anticuado"
+i-1939,"acústico, auditivo"
+i-1940,"preliminar, preparatorio"
+i-1941,"implícito, tácito"
+i-1942,"generalizado, extendido"
+i-1943,"simular, imitar"
+i-1944,"penetrar, atravesar"
+i-1945,"atender, satisfacer"
+i-1946,"erigir, levantar"
+i-1947,"condenar, perdición"
+i-1948,"lamentar, estar de luto"
+i-1949,"ofertar, pujar"
+i-1950,"corromper, sobornar"
+i-1951,"compilar, recopilar"
+i-1952,"asignar, distribuir"
+i-1953,compensar
+i-1954,"contener, refrenar"
+i-1955,"cumplir, obedecer"
+i-1956,"embarcar, emprender"
+i-1957,"amueblar, proporcionar"
+i-1958,"falsificar, forjar"
+i-1959,"empujar, clavar"
+i-1960,"despachar, enviar"
+i-1961,"sentir resentimiento, indignarse"
+i-1962,"alegar, afirmar"
+i-1963,"oprimir, perseguir"
+i-1964,expulsar
+i-1965,"ascender, subir"
+i-1966,"comenzar, iniciar"
+i-1967,"reinado, gobierno"
+i-1968,diplomacia
+i-1969,"exilio, desterrar"
+i-1970,soledad
+i-1971,arqueología
+i-1972,"síntesis, integración"
+i-1973,"doctrina, ideología"
+i-1974,"holístico, integral"
+i-1975,"elocuente, expresivo"
+i-1976,"juvenil, inmaduro"
+i-1977,"cínico, sarcástico"
+i-1978,monótono
+i-1979,"perpetuo, incesante"
+i-1980,a pesar de
+i-1981,"promulgar, poner en vigor"
+i-1982,taller de explotación laboral
+i-1983,"paradigma, modelo"
+i-1984,empírico
+i-1985,"susceptible, propenso a infectarse"
+i-1986,"reflexionar, considerar"
+i-1987,"ilustración, esclarecimiento"
+i-1988,"arbitrario, caprichoso"
+i-1989,"convertir en, proporcionar"
+i-1990,"implicar, ocasionar"
+i-1991,"intrínseco, inherente"
+i-1992,"absorber, preocupar"
+i-1993,"reconciliar, conciliar"
+i-1994,"advenimiento, llegada"
+i-1995,"situación difícil, apuro"
+i-1996,"falacia, idea errónea"
+i-1997,"inteligible, claro"
+i-1998,"fervoroso, entusiasta"
+i-1999,"omnipresente, universal"
+i-2000,"verso, poesía"
