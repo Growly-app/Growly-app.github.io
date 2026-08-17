@@ -8,6 +8,8 @@
     "poster": "materials/core2000/poster.png",
     "icon": "materials/core2000/icon.png",
     "banner": "materials/core2000/banner.png",
-    "swipe_manifest": "images/swipe/core2000/manifest.json"
+    "swipe_manifest": "images/swipe/core2000/manifest.json",
+    "illustration_master": "illustrations/illustration_master.csv",
+    "illustration_manifest": "illustrations/manifest.json"
   }
 }
